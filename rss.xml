@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 14 Dec 2020 13:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Dec 2020 13:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[巴西IBOVESPA指数收复2020年以来的跌幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-14/detail-iiznezxs6910673.d.html</link>
+            <guid>1930326</guid>
+            <pubDate>Mon, 14 Dec 2020 13:11:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【中来股份：转换效率达到24.5%的产品在该测试批次中占比较低 短期内将不会对公司形成业绩贡献】中来股份公告，公司控股子公司泰州中来本次生产TOPCon电池（实现转换效率最高达24.5%）的产线系公司在现有的一条TOPCon电池产线上使用新型POPAID技术创新工艺升级而成，该条产线目前产能仅100MW左右，约占公司电池总产能2.1GW的4.76%，测试结果显示，转换效率达到24.5%的产品在该测试批次中占比较低，本次技术进展对公司未来的利润影响有限，短期内将不会对公司形成业绩贡献。]]></title>
             <link>https://finance.sina.cn/7x24/2020-12-14/detail-iiznctke6493316.d.html</link>
@@ -602,11 +608,6 @@
             <link>https://finance.sina.cn/7x24/2020-12-14/detail-iiznezxs6888370.d.html</link>
             <guid>1930043</guid>
             <pubDate>Mon, 14 Dec 2020 10:29:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深交所：退市整理期从30个交易日缩减至15个交易日，取消交易类退市情形的退市整理期】深交所拟规定：取消暂停上市和恢复上市，退市流程大幅缩短。重大违法强制退市连续停牌时点从“知悉行政处罚事先告知书或人民法院作出司法裁判”后移至“收到行政处罚决定书或人民法院司法裁判生效”，同时简化上市委审议程序。退市整理期从30个交易日缩减至15个交易日，取消交易类退市情形的退市整理期，同时放开首日涨跌幅限制，压缩投机炒作空间。]]></title>
-            <guid>1930042</guid>
-            <pubDate>Mon, 14 Dec 2020 10:29:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
