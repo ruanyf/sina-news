@@ -4,13 +4,222 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 15 Dec 2020 01:01:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2020 01:52:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[央行今日进100亿元逆回购操作，另有600亿元逆回购到期。]]></title>
+            <title><![CDATA[白酒板块回调，青青稞酒跌6%，泸州老窖、金徽酒、迎驾贡酒、今世缘等集体下挫。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6560034.d.html</link>
+            <guid>1930828</guid>
+            <pubDate>Tue, 15 Dec 2020 01:52:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【生态环境部部长黄润秋：已启动“十四五”生态环保规划研究编制工作 】昨日，生态环境部部长黄润秋在北京视频会见联合国环境规划署执行主任英格·安德森。双方就共同关心的生态环境保护议题进行了深入交流。黄润秋表示，生态环境部已经启动“十四五”生态环保规划研究编制工作。未来五年，我们将深入打好污染防治攻坚战，稳步提升空气质量，持续改善水生态环境和海洋生态环境，降低碳排放，积极推进生产生活方式绿色低碳转型。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6976078.d.html</link>
+            <guid>1930827</guid>
+            <pubDate>Tue, 15 Dec 2020 01:48:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[银行板块走低，厦门银行跌4%，平安银行、西安银行、兴业银行、杭州银行等下挫。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6558171.d.html</link>
+            <guid>1930824</guid>
+            <pubDate>Tue, 15 Dec 2020 01:45:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亿利达在互动平台表示，公司控股子公司三进科技为蔚来汽车间接提供部分零部件，但所涉规模较小。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6558095.d.html</link>
+            <guid>1930823</guid>
+            <pubDate>Tue, 15 Dec 2020 01:45:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时中国A50期指跌幅达1％。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6974751.d.html</link>
+            <guid>1930821</guid>
+            <pubDate>Tue, 15 Dec 2020 01:43:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ST板块开盘活跃，ST乐凯涨超6%，ST海马、ST岩石、ST电能等多只个股封板。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6974325.d.html</link>
+            <guid>1930820</guid>
+            <pubDate>Tue, 15 Dec 2020 01:41:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[农业股走弱，香梨股份开盘走弱触及跌停，神农科技、农发种业、荃银高科等个股跌逾3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6557312.d.html</link>
+            <guid>1930819</guid>
+            <pubDate>Tue, 15 Dec 2020 01:41:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[仁东控股上演“地天板”，振幅达20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6556022.d.html</link>
+            <guid>1930817</guid>
+            <pubDate>Tue, 15 Dec 2020 01:36:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新能源汽车板块开盘拉升，东风汽车拉升涨停，小康股份涨逾6%，曙光股份、江铃汽车、长城汽车等个股纷纷跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6555913.d.html</link>
+            <guid>1930816</guid>
+            <pubDate>Tue, 15 Dec 2020 01:36:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[仁东控股撬开跌停板，成交额超过20亿元，该股此前连续14跌停。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6555637.d.html</link>
+            <guid>1930815</guid>
+            <pubDate>Tue, 15 Dec 2020 01:34:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[光伏、风电概念开盘继续活跃，豫能控股拉升涨停，金晶科技涨超7%，新天绿能、嘉寓股份、新强联等个股纷纷走高。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6555526.d.html</link>
+            <guid>1930813</guid>
+            <pubDate>Tue, 15 Dec 2020 01:34:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中证转债指数低开0.03%。汉得转债涨8%，胜达转债涨超4%；鸿达转债跌近8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6554866.d.html</link>
+            <guid>1930811</guid>
+            <pubDate>Tue, 15 Dec 2020 01:31:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国债期货开盘，10年期国债期货主力合约涨0.19%，5年期增长0.17%。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6971295.d.html</link>
+            <guid>1930809</guid>
+            <pubDate>Tue, 15 Dec 2020 01:29:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[四川新增1例本地病例，为12月12日郫都区无症状感染者转确诊。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6554158.d.html</link>
+            <guid>1930808</guid>
+            <pubDate>Tue, 15 Dec 2020 01:29:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科创50指数开盘报1373.96点，跌0.08%。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6970604.d.html</link>
+            <guid>1930807</guid>
+            <pubDate>Tue, 15 Dec 2020 01:26:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[仁东控股继续一字跌停，此前已连续14日跌停。公司被要求说明崇左中烁买卖公司股票的具体情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6970542.d.html</link>
+            <guid>1930806</guid>
+            <pubDate>Tue, 15 Dec 2020 01:26:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【工信部刘烈宏：已有1700万用户携号转网，一小时携转成功率超99%】15日上午，在2021中国信通院ICT+深度观察报告会上，工信部副部长刘烈宏在视频致辞中透露，截至目前，我国“携号转网”服务已经累计有1700万用户完成携转，一小时携转成功率超过99%。（贝壳财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6970489.d.html</link>
+            <guid>1930805</guid>
+            <pubDate>Tue, 15 Dec 2020 01:26:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[三大股指开盘涨跌不一，沪指跌0.08％，深成指跌0.07％，创业板涨0.05％。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6970321.d.html</link>
+            <guid>1930804</guid>
+            <pubDate>Tue, 15 Dec 2020 01:25:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[银行间现券收益率快速下行，10年期国开活跃券200215收益率下行1.75bp报3.68%。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6553112.d.html</link>
+            <guid>1930803</guid>
+            <pubDate>Tue, 15 Dec 2020 01:24:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[央行公开市场7天期逆回购操作中标利率为2.2%，与此前持平。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6553066.d.html</link>
+            <guid>1930802</guid>
+            <pubDate>Tue, 15 Dec 2020 01:24:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国央行开展9500亿元1年期MLF操作】MLF利率维持在2.95%不变。12月7日和16日分别有3000亿MLF到期，共6000亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6552425.d.html</link>
+            <guid>1930801</guid>
+            <pubDate>Tue, 15 Dec 2020 01:21:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股科技股走高，中芯国际、舜宇光学科技涨超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6552362.d.html</link>
+            <guid>1930800</guid>
+            <pubDate>Tue, 15 Dec 2020 01:21:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股恒指高开涨0.11％，国企指数跌0.11％。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6969303.d.html</link>
+            <guid>1930799</guid>
+            <pubDate>Tue, 15 Dec 2020 01:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【羊肉价格连涨八周 同比上涨3.6%】据农业农村部对全国500个集贸市场监测，2020年12月第二周，全国羊肉价格为每公斤82.66元，连续八周上涨，同比上涨3.6%。在北京一家大型生鲜超市的羊肉销售柜台，销售人员表示，羊腿肉价格是60元一斤，羊肉片55元一斤。羊肉价格自10月下旬就开始陆续走高，并且居高不下，一方面由于冬季烧烤、火锅等羊肉消费需求增加，另一方面，也和供应端趋紧有很大关系。]]></title>
+            <guid>1930798</guid>
+            <pubDate>Tue, 15 Dec 2020 01:20:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【长三角公共资源交易联盟成立】联盟由安徽省宣城市、芜湖市，江苏省苏州市、南通市，浙江省湖州市、嘉兴市等6个城市共同发起，共有长三角区域17家地市级交易中心加入。据介绍，联盟成立后，将坚持创新引领，围绕长三角区域产业转型升级，制定长三角公共资源交易领域创新助推计划，以创新驱动力推动新旧动能转换和高质量发展。（安徽日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6968771.d.html</link>
+            <guid>1930797</guid>
+            <pubDate>Tue, 15 Dec 2020 01:19:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广东：到2035年关键核心技术实现重大突破】据深圳发布，中国共产党广东省第十二届委员会第十二次全体会议12月13日至14日在广州召开。全会提出广东省到二○三五年的远景目标：基本实现社会主义现代化，经济实力、科技实力、综合竞争力大幅跃升，经济总量和城乡居民人均收入迈上新的大台阶，人均地区生产总值达到更高水平，关键核心技术实现重大突破，携手港澳建成具有全球影响力的国际科技创新中心，在全面建设社会主义现代化国家新征程中走在全国前列、创造新的辉煌。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6968053.d.html</link>
+            <guid>1930796</guid>
+            <pubDate>Tue, 15 Dec 2020 01:15:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[人民币中间价报6.5434，下调73点，上一交易日中间价报6.5361，在岸人民币上一交易日收报6.5367。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6550930.d.html</link>
+            <guid>1930795</guid>
+            <pubDate>Tue, 15 Dec 2020 01:15:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【动力源：公司的高可靠性液冷技术的充电桩系统成功运用在南方电网“海南搏鳌智能电网光储充一体化示范项目”】动力源在互动平台表示，公司的高可靠性液冷技术的充电桩系统，在技术上属行业领先，并成功运用在南方电网“海南搏鳌智能电网光储充一体化示范项目”，随着市场推广的不断深入，该产品得到越来越多的客户认可。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6967579.d.html</link>
+            <guid>1930794</guid>
+            <pubDate>Tue, 15 Dec 2020 01:13:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国发现首只野生动物感染新冠病毒 系野生水貂】美国农业部当地时间14日表示，他们确认了美国首例感染新冠病毒的野生动物，即一只野生水貂。 综合路透社及《国会山报》报道， 美国农业部发出的一份通知指出，一只“自由放养的野生水貂”的新冠病毒检测结果呈阳性，它在犹他州的一个水貂养殖场附近被捕获，当地居民中报告了新冠肺炎病例。据悉，美国农业部的官员一直在有确诊病例的养殖场附近进行检测，以确定病毒是否会扩散到附近的野生动物。（海外网）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6549927.d.html</link>
+            <guid>1930792</guid>
+            <pubDate>Tue, 15 Dec 2020 01:10:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥卫生部：墨西哥新增5930例新冠肺炎确诊病例，累计确诊1255974例；新增345例死亡病例，累计死亡114298例。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6549524.d.html</link>
+            <guid>1930791</guid>
+            <pubDate>Tue, 15 Dec 2020 01:09:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【MSCI将格力电器从标准指数中剔除 此前深港通因外资达限而暂停接买盘】MSCI 公告称，将格力电器从MSCI标准指数和大型股系列剔除，12月17日起生效。MSCI公告未提供剔除原因。深圳证券交易所数据显示，截至12月11日，QFII、RQFII和深股通投资者持有格力电器A股占总股本的比例升至28.07%，此前一天为27.84%。香港交易所公告称，因格力电器总境外持股比例超过28%，12月14日起，深港通暂停接受该股的买盘，卖盘仍会被接受。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6549416.d.html</link>
+            <guid>1930790</guid>
+            <pubDate>Tue, 15 Dec 2020 01:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【羊肉价格连涨八周 同比上涨3.6%】据农业农村部对全国500个集贸市场监测，2020年12月第二周，全国羊肉价格为每公斤82.66元，连续八周上涨，同比上涨3.6%。在北京一家大型生鲜超市的羊肉销售柜台，销售人员表示，羊腿肉价格是60元一斤，羊肉片55元一斤。羊肉价格自10月下旬就开始陆续走高，并且居高不下，一方面由于冬季烧烤、火锅等羊肉消费需求增加，另一方面，也和供应端趋紧有很大关系。（央视网）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6548930.d.html</link>
+            <guid>1930789</guid>
+            <pubDate>Tue, 15 Dec 2020 01:06:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【赛特新材：公司VIP可应用于超低温冰箱】《科创板日报》15日讯，赛特新材在互动平台表示，公司VIP可应用于超低温冰箱。 公司销售VIP给如美国赛默飞世尔科技公司(Thermo Fisher Scientific)、青岛海尔生物医疗股份有限公司等客户，客户再将其应用到超低温冰箱、医用保温箱等产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6965579.d.html</link>
+            <guid>1930788</guid>
+            <pubDate>Tue, 15 Dec 2020 01:04:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海电气参与打造内蒙氢能源新生态】据上海电气官微消息，12月14日，内蒙古鄂尔多斯鄂托克前旗源网荷储氢一体化暨氢燃料电池重卡示范项目合作协议在沪签订。根据协议，上海电气、京能集团等四家企业将共同参与这一综合能源及绿色化工、绿色交通协同发展的新生态建设，以丰富能源产业应用场景。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6965489.d.html</link>
+            <guid>1930787</guid>
+            <pubDate>Tue, 15 Dec 2020 01:04:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【湖北省打造能源装备六大产业链，力争在智能电网等5个领域关键性突破】 近日，湖北省发改委、省能源局发布《关于进一步加快能源科技装备产业发展的通知》，实施“龙头+产业链+集群”发展战略，将重点打造六大产业链条，即发电装备产业链条、智能电网及输配电装备产业链条、新能源装备产业链条、油气钻采与加工装备产业链条、能源节能环保装备产业链条以及储能产业链条。同时将瞄准发电设备、智能电网和输变电、油气钻采、新能源、储能装备等5个重点领域，通过差异化政策支持，力争率先取得关键性突破。（湖北日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6548374.d.html</link>
+            <guid>1930786</guid>
+            <pubDate>Tue, 15 Dec 2020 01:03:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  央行今日开展100亿元逆回购操作，因今日有600亿元逆回购到期，当日实现净回笼500亿元。]]></title>
             <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6964810.d.html</link>
             <guid>1930784</guid>
             <pubDate>Tue, 15 Dec 2020 01:01:11 GMT</pubDate>
@@ -58,13 +267,13 @@
             <pubDate>Tue, 15 Dec 2020 00:50:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  深交所发布对TCL科技集团股份有限公司股东、董事李东生的监管函：9月1日，公司披露的《关于公司大股东误操作交易公司股票的公告》显示，你于当日卖出并买入公司股票500万股，成交金额分别为3,590.98万元和3,576.47万元。你在前述承诺不减持公司股份的期间内发生了减持公司股份的行为。]]></title>
+            <title><![CDATA[【TCL科技股东李东生收监管函：因违规减持股份】深交所发布对TCL科技集团股份有限公司股东、董事李东生的监管函：9月1日，公司披露的《关于公司大股东误操作交易公司股票的公告》显示，你于当日卖出并买入公司股票500万股，成交金额分别为3,590.98万元和3,576.47万元。你在前述承诺不减持公司股份的期间内发生了减持公司股份的行为。]]></title>
             <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6545407.d.html</link>
             <guid>1930776</guid>
             <pubDate>Tue, 15 Dec 2020 00:49:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  国家卫健委：昨日新增确诊病例17例，其中境外输入病例14例（四川5例，内蒙古4例，上海3例，北京1例，广东1例），本土病例3例（黑龙江2例，四川1例）；无新增死亡病例；无新增疑似病例。]]></title>
+            <title><![CDATA[国家卫健委：昨日新增确诊病例17例，其中境外输入病例14例（四川5例，内蒙古4例，上海3例，北京1例，广东1例），本土病例3例（黑龙江2例，四川1例）；无新增死亡病例；无新增疑似病例。]]></title>
             <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6961868.d.html</link>
             <guid>1930774</guid>
             <pubDate>Tue, 15 Dec 2020 00:45:53 GMT</pubDate>
@@ -397,215 +606,6 @@
             <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6533225.d.html</link>
             <guid>1930713</guid>
             <pubDate>Mon, 14 Dec 2020 23:15:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【持续提升长期股权投资规模 前10月险资股票投资收益率8.74%】今年以来，保险资金权益类投资在规模稳定增长的同时，也斩获了不错的收益。数据显示，截至今年10月末，保险资金股票投资余额1.75万亿元，占保险资金运用余额的8.41%。今年前10个月，保险资金股票投资收益1468.40亿元，股票投资收益率达8.74%。（上海证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6533179.d.html</link>
-            <guid>1930712</guid>
-            <pubDate>Mon, 14 Dec 2020 23:14:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新西兰联储：将在2024年对货币政策委员会的职权范围进行审查以吸取教训，包括应对疫情的工具的有效性。经济前景仍高度不确定，健康和经济风险偏向下行。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6533083.d.html</link>
-            <guid>1930711</guid>
-            <pubDate>Mon, 14 Dec 2020 23:13:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国会参议院共和党成员Graham：我已经与拜登对话，我们之间的交流非常愉悦。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6949951.d.html</link>
-            <guid>1930710</guid>
-            <pubDate>Mon, 14 Dec 2020 23:12:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚ASX200指数开盘下跌20.90点，跌幅0.31%，报6660.20点。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6949726.d.html</link>
-            <guid>1930709</guid>
-            <pubDate>Mon, 14 Dec 2020 23:10:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国共和党参议院Blunt：将承认拜登为美国总统并与其共事。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6532106.d.html</link>
-            <guid>1930708</guid>
-            <pubDate>Mon, 14 Dec 2020 23:02:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国司法部长威廉·巴尔14日向总统特朗普递交辞呈。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6948998.d.html</link>
-            <guid>1930707</guid>
-            <pubDate>Mon, 14 Dec 2020 23:02:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【第四批药品国家集采拉开序幕 部分公司火速公告提示降价风险】近日，山西省药械集中竞价采购网和四川药械采购监管网发布了关于报送第四批国家组织药品集中采购品种范围相关通知。这意味着国家第四批药品集中采购工作拉开帷幕。有的公司因竞品纳入集采，火速公告预警，提示产品降价风险。一位药企负责人对中国证券报记者表示，比较关注高端仿制药的降价幅度，这对公司未来的产品布局至关重要。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6948722.d.html</link>
-            <guid>1930706</guid>
-            <pubDate>Mon, 14 Dec 2020 22:59:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普宣布司法部长巴尔离职】法新社刚刚消息称，特朗普在推特上宣布司法部长巴尔离职，接替者为杰夫•罗森。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6948556.d.html</link>
-            <guid>1930705</guid>
-            <pubDate>Mon, 14 Dec 2020 22:58:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[推特禁止为特朗普点赞，后称“并非故意为之”并撤销这一限制。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6948276.d.html</link>
-            <guid>1930704</guid>
-            <pubDate>Mon, 14 Dec 2020 22:53:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据Business Insider：SpaceX正在寻求新一轮融资，并希望将其估值翻一番，达到920亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6531249.d.html</link>
-            <guid>1930703</guid>
-            <pubDate>Mon, 14 Dec 2020 22:51:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美选举人团确认拜登获胜 拜登正式赢得美大选】美国东部时间12月14日下午，加利福尼亚州选举人团确认民主党总统候选人拜登胜选，至此，拜登已取得胜选所需的270张选举人票。按照程序，1月3日新一届国会宣誓就职，1月6日国会将举办联席会议正式清点选举人票，当拜登拿到270票的多数优势后，副总统兼参议院议长彭斯就会宣布结果。 (人民日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6531126.d.html</link>
-            <guid>1930702</guid>
-            <pubDate>Mon, 14 Dec 2020 22:49:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今日在售高收益银行理财产品一览】今日业绩比较基准在5%以上的银行人民币理财产品共5款。理财非存款、产品有风险、投资须谨慎！]]></title>
-            <guid>1930701</guid>
-            <pubDate>Mon, 14 Dec 2020 22:45:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【经济日报评论：小宗农产品调控不宜直接干预价格】近期，葱姜蒜价格上涨引发社会关注。小宗农产品的单户家庭消费量低，对其他农产品的价格传导弱，其价格波动主要源于种植面积、异常天气等因素造成的供应量波动，部分源于投机炒作。有必要从稳定生产能力、促进均衡上市入手，建立健全小宗农产品市场运行调控制度。小宗农产品涨跌本属正常，政府调控要“有所为有所不为”，尽量不直接干预价格，更多为农产品均衡上市创造条件。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6530951.d.html</link>
-            <guid>1930700</guid>
-            <pubDate>Mon, 14 Dec 2020 22:44:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特朗普表示，杰夫·罗森将成为代理司法部长。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6947798.d.html</link>
-            <guid>1930699</guid>
-            <pubDate>Mon, 14 Dec 2020 22:42:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美选举人团确认拜登获胜，拜登正式赢得美国大选。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6530845.d.html</link>
-            <guid>1930698</guid>
-            <pubDate>Mon, 14 Dec 2020 22:41:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：司法部长Barr到圣诞节（12月25日）就会离开司法部。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6947746.d.html</link>
-            <guid>1930697</guid>
-            <pubDate>Mon, 14 Dec 2020 22:41:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【业内人士：债市仍将维持震荡格局，高等级信用债迎来建仓时机】博道盛利6个月持有期混合拟任基金经理高凯表示，“预计近期债市仍以震荡为主，当前安全边际增大，存在阶段性边际做多的机会。同时，由债基赎回抛压导致的收益率上行也给高等级优质信用债带来较好建仓时机。”（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6530685.d.html</link>
-            <guid>1930696</guid>
-            <pubDate>Mon, 14 Dec 2020 22:38:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  全球最大黄金ETF--SPDR Gold Trust持仓较上日减少4.67吨或0.4%，当前持仓量为1171.32吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6947526.d.html</link>
-            <guid>1930695</guid>
-            <pubDate>Mon, 14 Dec 2020 22:37:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蓝月亮：将香港IPO股票发行价定在每股13.16港元，将通过IPO净筹资95.8亿港元，面向散户部分获得301倍超额认购，预计将于12月16日开始交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6947175.d.html</link>
-            <guid>1930694</guid>
-            <pubDate>Mon, 14 Dec 2020 22:31:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚至12月13日当周ANZ消费者信心指数公布111.2，前值109.3。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6530313.d.html</link>
-            <guid>1930693</guid>
-            <pubDate>Mon, 14 Dec 2020 22:30:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【私募明年布局思路曝光：看多也做多】华润信托阳光私募股票多头指数（CREFI指数）月报显示，11月末，该指数成分基金的平均股票仓位为78.52%，较10月末上升1.44个百分点，已连续两个月提升。多位业内人士表示，短期部分标的存在估值回归的风险，但消费、科技与医药为中长期看好的三大黄金赛道，随着优质标的估值回归合理区间，明年投资机会值得关注。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6947023.d.html</link>
-            <guid>1930692</guid>
-            <pubDate>Mon, 14 Dec 2020 22:27:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周一（12月14日）纽约尾盘，CME比特币期货BTC主力合约报19260美元，较上周五涨6.88%，盘中交投于19080-19430美元区间，上周累跌逾5.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6946833.d.html</link>
-            <guid>1930691</guid>
-            <pubDate>Mon, 14 Dec 2020 22:21:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[离岸人民币（CNH）兑美元北京时间05:59报6.5290元，较上周五纽约尾盘涨107点，盘中整体交投于6.5400-6.5168元区间。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6529988.d.html</link>
-            <guid>1930690</guid>
-            <pubDate>Mon, 14 Dec 2020 22:21:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【前10月险资股票投资收益率8.74%】数据显示，截至今年10月末，保险资金股票投资余额1.75万亿元，占保险资金运用余额的8.41%。今年前10个月，保险资金股票投资收益1468.40亿元，股票投资收益率达8.74%。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6529958.d.html</link>
-            <guid>1930689</guid>
-            <pubDate>Mon, 14 Dec 2020 22:20:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国选举人团投票，六大争议州均支持拜登当选】据媒体报道，周一举行的美国选举人团投票，包括宾夕法尼亚、佐治亚、密歇根、威斯康星、内华达和亚利桑那六个争议最大的州均投票支持拜登当选下一任美国总统。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6946670.d.html</link>
-            <guid>1930688</guid>
-            <pubDate>Mon, 14 Dec 2020 22:17:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据证券日报： 从今年5月份至11月份，LPR1年期及5年期品种均分别维持在3.85%、4.65%水平，连续7个月“原地踏步”。苏宁金融研究院宏观经济研究中心副主任陶金表示，年内LPR调降空间已经很小，预计12月份LPR大概率仍将保持不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6529731.d.html</link>
-            <guid>1930687</guid>
-            <pubDate>Mon, 14 Dec 2020 22:15:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泡泡玛特：悉数行使2035.72万股超额配售股份，本公司将按每股38.50港元发行及配发超额配售股份。超额配售股份将用于向GWF Holding Limited归还用于补足国际发售中超额分配股份的2035.72万股股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6946516.d.html</link>
-            <guid>1930686</guid>
-            <pubDate>Mon, 14 Dec 2020 22:14:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富士电机株式会社到2023财年将在电动汽车芯片领域投资1200亿日元。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6529692.d.html</link>
-            <guid>1930685</guid>
-            <pubDate>Mon, 14 Dec 2020 22:13:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【寻求突破：美两党议员将9080亿美元救助一分为二】一个提案规模7480亿美元，含资助小企业3000亿美元；每周300美元失业救济补助，以及疫苗分发资金。另一提案包含企业免责保护以及援助州和地方政府1600亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6946229.d.html</link>
-            <guid>1930684</guid>
-            <pubDate>Mon, 14 Dec 2020 22:07:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据日本放送协会NHK调查：日本内阁支持率下降14个百分点至42％。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6529275.d.html</link>
-            <guid>1930683</guid>
-            <pubDate>Mon, 14 Dec 2020 22:07:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据CME“美联储观察”：美联储12月维持利率在0%-0.25%区间的概率为100%，加息25个基点至0.25%-0.50%区间的概率为0%；明年1月维持利率在0%-0.25%区间的概率为100%，加息25个基点的概率为0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6946145.d.html</link>
-            <guid>1930682</guid>
-            <pubDate>Mon, 14 Dec 2020 22:06:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据媒体报道：日本央行考虑将公司债购买计划延长6个月时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6945899.d.html</link>
-            <guid>1930681</guid>
-            <pubDate>Mon, 14 Dec 2020 22:01:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  澳大利亚审慎监管局：压力测试表明，澳大利亚的银行体系能够承受非常严重的经济衰退，并继续提供信贷。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6945819.d.html</link>
-            <guid>1930680</guid>
-            <pubDate>Mon, 14 Dec 2020 21:59:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[公募基金人士普遍表示，当前经济景气度向上的趋势延续，A股岁末年初行情可期，春季行情有望持续到明年3月中旬，消费、科技、周期等板块或轮动演绎。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznezxs6945656.d.html</link>
-            <guid>1930679</guid>
-            <pubDate>Mon, 14 Dec 2020 21:56:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国参议员Angus King：并未在对各州援助以及责任条款问题上达成共识。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-15/detail-iiznctke6528488.d.html</link>
-            <guid>1930678</guid>
-            <pubDate>Mon, 14 Dec 2020 21:50:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
