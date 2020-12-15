@@ -40,7 +40,7 @@ async function main() {
     });
     console.log(`successfully generating new feed.`);
 
-    await fs.rmdir('./dist', { recursive: true});
+    await fs.rmdir('./dist', { recursive: true });
     console.log(`successfully deleted ./dist`);
 
     await fs.mkdir('./dist');
