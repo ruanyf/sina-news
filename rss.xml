@@ -4,11 +4,71 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 18 Dec 2020 18:31:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2020 19:26:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  据意大利安莎通讯社：意大利方面实施针对假期的疫情限制措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznezxs7701657.d.html</link>
+            <guid>1935724</guid>
+            <pubDate>Fri, 18 Dec 2020 19:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据德国《法兰克福汇报》：特斯拉的德国工厂审批决定预计将于2021年初做出。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznctke7285940.d.html</link>
+            <guid>1935723</guid>
+            <pubDate>Fri, 18 Dec 2020 19:15:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国众议院多数党（民主党）领袖霍耶：今天可能就纾困协议或短期的临时政策进行投票。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznezxs7701238.d.html</link>
+            <guid>1935722</guid>
+            <pubDate>Fri, 18 Dec 2020 19:15:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMEX 2月黄金期货收跌0.1%，报1888.90美元/盎司，本周累计上涨大约2.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznezxs7700662.d.html</link>
+            <guid>1935721</guid>
+            <pubDate>Fri, 18 Dec 2020 19:05:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据英国《太阳报》：爱尔兰总理称在脱欧谈判中存在“严重”障碍。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznctke7285333.d.html</link>
+            <guid>1935720</guid>
+            <pubDate>Fri, 18 Dec 2020 19:04:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据媒体报道：英国脱欧磋商将在12月19日继续进行。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznctke7284731.d.html</link>
+            <guid>1935719</guid>
+            <pubDate>Fri, 18 Dec 2020 18:52:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国参议院多数党（共和党）领袖麦康奈尔：刚刚接种了安全和有效的新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznctke7284623.d.html</link>
+            <guid>1935718</guid>
+            <pubDate>Fri, 18 Dec 2020 18:49:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  摩根士丹利将百度目标价从150美元上调至190美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznezxs7699745.d.html</link>
+            <guid>1935717</guid>
+            <pubDate>Fri, 18 Dec 2020 18:45:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  比利时首相：将在明年夏季之后进行新冠疫苗接种。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznctke7284302.d.html</link>
+            <guid>1935716</guid>
+            <pubDate>Fri, 18 Dec 2020 18:42:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  洲际交易所（ICE）：截至12月15日当周，投机者所持布伦特原油净多头头寸增加7779手至282335手。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznezxs7699547.d.html</link>
+            <guid>1935715</guid>
+            <pubDate>Fri, 18 Dec 2020 18:40:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【法国新冠肺炎死亡病例超过6万】法国最近24小时新增15674例新冠肺炎病例，新增610例死亡病例、累计死亡60229例。]]></title>
             <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznctke7283777.d.html</link>
@@ -545,66 +605,6 @@
             <link>https://finance.sina.cn/7x24/2020-12-18/detail-iiznctke7269464.d.html</link>
             <guid>1935625</guid>
             <pubDate>Fri, 18 Dec 2020 14:52:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY短线走高10点，现报90.07。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-18/detail-iiznezxs7684475.d.html</link>
-            <guid>1935624</guid>
-            <pubDate>Fri, 18 Dec 2020 14:51:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股三大指数悉数转跌，道指目前跌60点，标普500指数跌0.27%。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-18/detail-iiznctke7269404.d.html</link>
-            <guid>1935623</guid>
-            <pubDate>Fri, 18 Dec 2020 14:51:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中芯国际ADR跌4.72%，美商务部宣布将中芯国际列入“实体清单”。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-18/detail-iiznctke7269245.d.html</link>
-            <guid>1935622</guid>
-            <pubDate>Fri, 18 Dec 2020 14:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股抗疫概念股普跌，诺瓦瓦克斯医药跌超4%，美国药企Moderna跌超3%，辉瑞跌0.5%，强生跌0.74%。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-18/detail-iiznctke7269088.d.html</link>
-            <guid>1935621</guid>
-            <pubDate>Fri, 18 Dec 2020 14:47:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：英国首相约翰逊和欧盟委员会主席冯德莱恩将在未来48小时内发表讲话。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-18/detail-iiznctke7269084.d.html</link>
-            <guid>1935620</guid>
-            <pubDate>Fri, 18 Dec 2020 14:47:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉将成为市值加权的标普500指数的重量级个股，其目前市值约为6220亿美元，使其跻身标普500指数前10名公司之列。特斯拉市值将排名第6，紧随Facebook。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-18/detail-iiznctke7269023.d.html</link>
-            <guid>1935619</guid>
-            <pubDate>Fri, 18 Dec 2020 14:47:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国内夜盘期货焦煤、焦炭均涨超4％、动力煤涨超2％，纷纷创盘中历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-18/detail-iiznctke7268970.d.html</link>
-            <guid>1935618</guid>
-            <pubDate>Fri, 18 Dec 2020 14:46:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯莫斯科市长：自21日起约一百万人可以接种新冠疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-18/detail-iiznezxs7683863.d.html</link>
-            <guid>1935617</guid>
-            <pubDate>Fri, 18 Dec 2020 14:45:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股各行业ETF中，网络股指数ETF领涨，涨0.24%，其次是日常消费品ETF，涨0.14%；全球航空业ETF领跌，跌0.68%，其次是能源业ETF，跌0.47%。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-18/detail-iiznctke7268535.d.html</link>
-            <guid>1935616</guid>
-            <pubDate>Fri, 18 Dec 2020 14:41:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VIX波动率日内涨幅达3.5%，报22.7。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-18/detail-iiznctke7268357.d.html</link>
-            <guid>1935615</guid>
-            <pubDate>Fri, 18 Dec 2020 14:40:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
