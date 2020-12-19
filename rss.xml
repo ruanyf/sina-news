@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 19 Dec 2020 16:42:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2020 17:40:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【伊拉克新增1307例新冠肺炎确诊病例 累计确诊病例583118例】当地时间12月19日，伊拉克卫生部发布声明称，当天境内共进行新冠肺炎检测31510次，发现1307例新增确诊病例，并新增10例死亡病例。目前，伊拉克共进行新冠肺炎检测4112751次，累计确诊病例583118例，其中12680例死亡，519005例痊愈。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznezxs7845438.d.html</link>
+            <guid>1936626</guid>
+            <pubDate>Sat, 19 Dec 2020 17:26:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【伦敦宣布紧急封锁 英国加强防控措施应对新毒株】英国首相约翰逊在与最高级官员进行紧急讨论后，宣布对伦敦和英格兰东南大部分地区实施全面封锁，并取消节假日放松防疫限制五天的计划。自12月20日起，英国伦敦将实施第四级防控措施，其中包括：除非因为工作、教育和医疗卫生原因，否则人们必须待在家里；建议人们不要进入第四级防控区域；第四级区域的居民不能在外过夜。防控规则将适用两个星期，政府将于12月30日进行重新评估。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznezxs7844741.d.html</link>
+            <guid>1936613</guid>
+            <pubDate>Sat, 19 Dec 2020 17:12:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：部分英国保守党成员要求就封锁措施问题召开议会会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznezxs7843895.d.html</link>
+            <guid>1936602</guid>
+            <pubDate>Sat, 19 Dec 2020 16:57:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Coingecko行情显示，比特币总市值已突破4400亿美元，约为4445.12亿美元，创历史新高。当前全球加密货币总市值已突破6700亿美元，约为6753.96亿美元，比特币市值占比约为65.81%。]]></title>
             <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznctke7426921.d.html</link>
@@ -589,24 +607,6 @@
             <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznezxs7791089.d.html</link>
             <guid>1936392</guid>
             <pubDate>Sat, 19 Dec 2020 07:56:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【王毅：在新发展格局下 中国的市场潜力将会被充分激发】国务委员兼外长王毅18日以视频方式出席“一带一路”国际合作高峰论坛咨询委员会2020年度会议。王毅表示，打造“合作之路”，需要坚持开放合作、互利共赢；打造“健康之路”，需要持续推进抗疫国际合作；打造“复苏之路”，需要统筹疫情防控和经济社会发展；打造“增长之路”，需要挖掘世界经济新动能。中国积极构建的新发展格局，是相互开放、相互促进的国内国际双循环。在新发展格局下，中国的市场潜力将会被充分激发，对外开放的大门将进一步敞开。中国经济的高质量发展，必将为高质量共建“一带一路”提供更强劲动力和更广阔空间。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznezxs7791009.d.html</link>
-            <guid>1936391</guid>
-            <pubDate>Sat, 19 Dec 2020 07:55:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯报告新增585例新冠肺炎死亡病例，累计达50347例。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznezxs7790379.d.html</link>
-            <guid>1936390</guid>
-            <pubDate>Sat, 19 Dec 2020 07:50:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯报告新增28209例新冠肺炎确诊病例，累计达282万例。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznezxs7790338.d.html</link>
-            <guid>1936389</guid>
-            <pubDate>Sat, 19 Dec 2020 07:50:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
