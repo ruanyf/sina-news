@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 19 Dec 2020 18:27:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2020 19:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  市场消息：以色列总理内塔尼亚胡据悉已经接种了新冠肺炎疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznezxs7849691.d.html</link>
+            <guid>1936749</guid>
+            <pubDate>Sat, 19 Dec 2020 19:05:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国在过去24小时内新增17565例新冠肺炎，此前为新增15674例；新增189例死亡病例，累计死亡60418例。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznezxs7848366.d.html</link>
+            <guid>1936711</guid>
+            <pubDate>Sat, 19 Dec 2020 18:32:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  机构测算：全球新冠肺炎累计确诊病例超过7500万例。]]></title>
             <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznctke7432152.d.html</link>
@@ -595,18 +607,6 @@
             <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznctke7378516.d.html</link>
             <guid>1936399</guid>
             <pubDate>Sat, 19 Dec 2020 08:15:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  发改委：外国投资者通过证券交易所或者国务院批准的其他证券交易场所购买境内企业股票，影响或者可能影响国家安全的，其适用本办法的具体办法由国务院证券监督管理机构会同工作机制办公室制定。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznezxs7793520.d.html</link>
-            <guid>1936398</guid>
-            <pubDate>Sat, 19 Dec 2020 08:12:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  发改委：《外商投资安全审查办法》已经2020年11月27日国家发展和改革委员会第13次委务会议审议通过，并经国务院批准，现予公布，自2021年1月18日起施行。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznezxs7792955.d.html</link>
-            <guid>1936397</guid>
-            <pubDate>Sat, 19 Dec 2020 08:09:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
