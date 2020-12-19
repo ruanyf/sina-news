@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 19 Dec 2020 17:40:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2020 18:27:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  机构测算：全球新冠肺炎累计确诊病例超过7500万例。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznctke7432152.d.html</link>
+            <guid>1936696</guid>
+            <pubDate>Sat, 19 Dec 2020 18:25:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据伊朗石油部官方网站Shana：伊朗油长赞加内将在当地时间周一与俄罗斯副总理诺瓦克会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznctke7431813.d.html</link>
+            <guid>1936673</guid>
+            <pubDate>Sat, 19 Dec 2020 18:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据伊朗石油部官方网站Shana：伊朗油长赞加内将在当地时间周日前往俄罗斯莫斯科进行访问。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznctke7431474.d.html</link>
+            <guid>1936662</guid>
+            <pubDate>Sat, 19 Dec 2020 18:10:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据塔斯社：俄罗斯将对出口废钢征收5%的关税，税额至少为45欧元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznezxs7846694.d.html</link>
+            <guid>1936649</guid>
+            <pubDate>Sat, 19 Dec 2020 17:53:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【伊拉克新增1307例新冠肺炎确诊病例 累计确诊病例583118例】当地时间12月19日，伊拉克卫生部发布声明称，当天境内共进行新冠肺炎检测31510次，发现1307例新增确诊病例，并新增10例死亡病例。目前，伊拉克共进行新冠肺炎检测4112751次，累计确诊病例583118例，其中12680例死亡，519005例痊愈。]]></title>
             <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznezxs7845438.d.html</link>
@@ -583,30 +607,6 @@
             <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznezxs7792955.d.html</link>
             <guid>1936397</guid>
             <pubDate>Sat, 19 Dec 2020 08:09:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【白鹤滩水电站泄洪洞主体工程完工】据中国三峡集团白鹤滩工程建设部消息，白鹤滩水电站泄洪洞工程19日顺利完工。这是白鹤滩水电站首个完工的主体工程，为2021年7月首批机组投产发电和工程整体安全度汛奠定了坚实基础。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznctke7377257.d.html</link>
-            <guid>1936396</guid>
-            <pubDate>Sat, 19 Dec 2020 08:07:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[百度和中国工业互联网研究院于日前签署战略合作协议，双方将强强联合，共同构建工业互联网生态圈。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznezxs7792359.d.html</link>
-            <guid>1936395</guid>
-            <pubDate>Sat, 19 Dec 2020 08:04:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【科技部副部长李萌：强化国家战略科技力量 研究制定科技强国行动纲要】科技部副部长李萌表示，将按照“四个面向”的战略方向，凝练科技创新的攻关任务，研究制定科技强国行动纲要，全面塑造发展新优势。支持有条件的地方建设国际和区域科技创新中心，特别是支持北京上海粤港澳大湾区形成国际科技创新中心，布局建设综合性国家科学中心和区域创新高地。（新华财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznezxs7792143.d.html</link>
-            <guid>1936394</guid>
-            <pubDate>Sat, 19 Dec 2020 08:03:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【尤权受中共中央委托向党外人士通报中央经济工作会议精神】中共中央书记处书记、中央统战部部长尤权：充分发挥党外知识分子、新的社会阶层人士的专业优势，团结聚合各方面科技人才，围绕打造自主自强科技和产业体系，聚焦“卡脖子”的关键技术，瞄准科技领域最前沿，加大科研攻关力度，为增强产业链供应链自主可控能力、打造发展新优势贡献智慧和力量。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznezxs7791089.d.html</link>
-            <guid>1936392</guid>
-            <pubDate>Sat, 19 Dec 2020 07:56:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
