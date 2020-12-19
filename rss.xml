@@ -4,11 +4,71 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 19 Dec 2020 10:29:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2020 11:26:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  马来西亚新增1153例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznctke7400337.d.html</link>
+            <guid>1936446</guid>
+            <pubDate>Sat, 19 Dec 2020 11:25:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【腾讯云副总裁王慧星：持续加大基础设施投入规模和自研创新力度】腾讯云副总裁王慧星表示，数字化技术正在给各行各业带来巨大的变革，但同时也给作为支撑的云计算基础设施提出更高的需求。腾讯云将围绕成本、安全、创新、工具，以及智能等维度，持续加大基础设施投入规模和自研技术创新力度，通过构建云、边、端一体化产品和服务体系，为千百万开发者一站式提供设计、开发、测试、运维完整产品矩阵，助力开发者提升效率，快速上云。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznezxs7815990.d.html</link>
+            <guid>1936445</guid>
+            <pubDate>Sat, 19 Dec 2020 11:24:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  国家电网：国网湖南电力全面进入“战时状态”，确保电网平稳运行。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznctke7399526.d.html</link>
+            <guid>1936444</guid>
+            <pubDate>Sat, 19 Dec 2020 11:18:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【德国新增新冠肺炎确诊病例31300例 累计确诊超147万例】据德国联邦疾控机构罗伯特·科赫研究所公布的数据，截至当地时间12月19日0时，德国累计确诊新冠肺炎病例1471238例，单日新增确诊病例31300例，新增死亡702例，累计死亡25640例。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznctke7398287.d.html</link>
+            <guid>1936442</guid>
+            <pubDate>Sat, 19 Dec 2020 11:07:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【全球首艘10万吨级智慧渔业大型养殖工船在青岛开建】全球首艘10万吨级智慧渔业大型养殖工船“国信1号”19日在青岛西海岸新区开工建造，其将于2022年3月正式交付运营。据了解，青岛国信集团将联合合作方将养殖工船规模逐步扩大至50艘，形成总吨位突破500万吨、年产名贵海水鱼类20余万吨、年产值突破110亿元的深远海养殖产业链条。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznezxs7813419.d.html</link>
+            <guid>1936441</guid>
+            <pubDate>Sat, 19 Dec 2020 11:01:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【大商所总经理席志勇：将践行“1233N”战略服务实体经济和国家战略】大商所总经理席志勇表示，2020年，大商所围绕助力抗疫复产和脱贫攻坚开展了一系列工作，未来将践行“1233N”战略服务实体经济和国家战略。“1”是围绕建设国际一流衍生品交易所的目标，“2”是着力发挥好价格发现、套期保值两大功能，“3”是围绕产品开发、技术驱动、生态圈建设三大主线，另一个“3”是走期货现货结合、场内场外协同、境内境外连通的路子，这完全契合了新发展格局的内涵要求。“N”是根据国家的战略，证监会的部署，交易所自身发展的追求，准备在产品创新、技术引领、风险防控、生态圈建设对外开放和服务市场上走好，为服务实体经济、服务国家战略做出期货行业应有的贡献。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznctke7397511.d.html</link>
+            <guid>1936439</guid>
+            <pubDate>Sat, 19 Dec 2020 10:59:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【南方电网回应部分省份电力吃紧：落实电力电量平衡措施】近期湖南、江西电力供应偏紧，浙江也出现限制用电情况。19日，南方电网回应称，密切跟踪经济形势、用电市场和来水、电煤、天然气等一次能源供应情况，准确把握电力供需形势，落实电力电量平衡措施，优化资源配置，保障各省区电力有序供应。将完善客户服务应急预案。根据供电保障及服务工作要求，完善应急预案，做好应急发电车等应急物资储备，提前做好突发停电事件应对工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznezxs7812646.d.html</link>
+            <guid>1936438</guid>
+            <pubDate>Sat, 19 Dec 2020 10:52:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲地中海地震中心：智利阿塔卡玛发生5.1级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznctke7396628.d.html</link>
+            <guid>1936437</guid>
+            <pubDate>Sat, 19 Dec 2020 10:48:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【上交所：形成从入口端到上市端至常态化退市端的系统性机制建设】上海证券交易所召开第五届理事会第三次会议、第三届监事会第三次会议。与会代表建议，在深化改革方面，以落实全面注册制改革为引领，形成从入口端到上市端至常态化退市端的系统性机制建设，全面提升上市公司质量；在提升直接融资比重方面，应坚持稳中求进发展基调，畅通股债基衍多元化融资渠道，做大增量与盘活存量并重，尤其是加快构建支持科技创新的体制机制。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznctke7395683.d.html</link>
+            <guid>1936436</guid>
+            <pubDate>Sat, 19 Dec 2020 10:38:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【商务部回应美商务部将59家中国实体列入出口管制“实体清单”：再次敦促美方停止单边主义、霸凌主义的做法】有记者问：美商务部12月18日宣布将59家中国实体列入出口管制“实体清单”。请问商务部有何回应？商务部表示，美国再次动用国家力量打压中国企业，中方对此坚决反对，将采取必要措施，坚决维护中国企业合法权益。美方泛化国家安全，不断滥用出口管制等措施对他国企业、机构和个人持续进行打压，对国际经贸秩序和自由贸易规则造成严重破坏，对全球产业链供应链安全造成严重威胁。这不利于中国，不利于美国，也不利于整个世界。我们再次敦促美方停止单边主义、霸凌主义的做法，给予包括中国企业在内的各国企业公平待遇，多做有利于中美两国经贸合作、促进全球经济恢复发展的事。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznctke7394819.d.html</link>
+            <guid>1936434</guid>
+            <pubDate>Sat, 19 Dec 2020 10:30:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【深交所李鸣钟：发展直接融资是资本市场重要使命】深交所副总经理李鸣钟表示，发展直接融资一直是资本市场的重要使命，注册制改革是提高直接融资 比重的核心举措，健全退市制度，推动提高上市公司质量，形成体现高质量发展要求的上市公司群体，是提升资本市场直接融资质效的重要一环，有利于夯实直接融资发展基石。当然，提高直接融资比重是一项系统工程，是一个渐进的过程，深交所将久久为功，扎实推进注册制改革、退市制度改革、提高上市公司质量等各项改革任务，持续巩固改革成效，不断提升市场功能。（中证网）]]></title>
             <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznezxs7810044.d.html</link>
@@ -547,66 +607,6 @@
             <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznezxs7763592.d.html</link>
             <guid>1936331</guid>
             <pubDate>Sat, 19 Dec 2020 04:58:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据路透统计：美国报告新增逾26万例新冠肺炎确诊病例，为连续第二天创单日纪录新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznezxs7763307.d.html</link>
-            <guid>1936330</guid>
-            <pubDate>Sat, 19 Dec 2020 04:55:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【银保监会肖远企：对打着养老噱头、不具备养老功能的金融产品要进行彻底纠正】银保监会首席风险官兼新闻发言人肖远企19日在“中国社会科学院社会保障论坛暨《中国养老金发展报告2020》发布式”上表示，个人养老金融既要按市场化、商业化原则运作，但又是一项准公共产品。对那些打着养老噱头，不具备养老功能的金融产品要进行彻底纠正，防止劣币驱逐良币的现象。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznctke7347545.d.html</link>
-            <guid>1936329</guid>
-            <pubDate>Sat, 19 Dec 2020 04:52:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【社科院：推动平台经济公平竞争应为《反垄断法》应有之义】“当前，平台经济发展的特性也已为我国反垄断执法机构所注意。”中国社科院国际法研究所国际经济法研究室副主任黄晋表示，不可否认，注意力和流量给平台带来的发展优势是能够转化为平台的合同优势或者市场优势的。而且，平台在一定情况下是有可能、有动力利用这种转化后的合同优势或者市场优势实施垄断行为。为此，为预防和制止平台经济领域的垄断行为，推动平台经济领域的公平竞争应当为《反垄断法》的应有之义。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznctke7346881.d.html</link>
-            <guid>1936328</guid>
-            <pubDate>Sat, 19 Dec 2020 04:47:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[浙江湖州在一农副产品交易中心日常监测中，发现一份阿根廷进口冷冻牛颈骨标本新冠病毒核酸检测呈阳性。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznctke7345936.d.html</link>
-            <guid>1936327</guid>
-            <pubDate>Sat, 19 Dec 2020 04:40:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中央经济工作会议提“种业翻身仗” 中央财经委员会韩文秀：种子是农业的“芯片”】中央财经委员会办公室副主任韩文秀表示，种子是农业的“芯片”，我国种业有了很大的进步，但与国际先进水平还有很大的差距。中央经济工作会议提出，要加强种质资源保护和利用，加强种子库建设。要尊重科学、严格监管，有序推进生物育种产业化应用。要开展种源“卡脖子”技术攻关，立志打一场种业翻身仗。要牢牢守住18亿亩耕地红线，坚决遏制耕地“非农化”、防止“非粮化”，规范耕地占补平衡。要建设国家粮食安全产业带，加强高标准农田建设，加强农田水利建设，实施国家黑土地保护工程。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznctke7345600.d.html</link>
-            <guid>1936326</guid>
-            <pubDate>Sat, 19 Dec 2020 04:39:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息，受新冠病毒影响，华盛顿特区的紧急状态将延长至明年3月31日。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznctke7344455.d.html</link>
-            <guid>1936325</guid>
-            <pubDate>Sat, 19 Dec 2020 04:31:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩文秀：明年宏观政策要保持连续性、稳定性、可持续性】 中央财经委员会办公室副主任韩文秀表示，当前我国疫情防控进入常态化，经济运行趋向常态。明年宏观政策要保持连续性、稳定性、可持续性。在经济恢复常态化运行的情况下，使宏观政策逐步回归常态。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznctke7343578.d.html</link>
-            <guid>1936324</guid>
-            <pubDate>Sat, 19 Dec 2020 04:26:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩文秀：明年经济增速在数据上看可能会比较高】 中央财经委员会办公室副主任韩文秀表示，由于今年基数陡然降低，明年经济增速在数据上看可能会比较高。今明两年平均下来看，经济增速也就在5%左右。但是数字好看，日子未必好过，同时民间经济发展页也面连较多内部和外部的不确定性。而且上述预测并不是板上钉钉。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznezxs7758302.d.html</link>
-            <guid>1936323</guid>
-            <pubDate>Sat, 19 Dec 2020 04:22:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩文秀：继续实施积极的财政政策和稳健的货币政策】 中央财经委员会办公室副主任韩文秀在中国经济年会上表示，要保持政策的连续性和稳定性，继续实施积极的财政政策和稳健的货币政策，保持对经济恢复的必要的政策支持力度，不急转弯，防止出现政策悬崖，积极的财政政策要提质增效，更可持续，保持适度支出强度，增强国家重大战略任务财力保障，在促进科技创新、加快经济结构调整、调节收入分配上主动作为。稳健的货币政策要灵活精准、合理适度，保持货币供应量和社会融资规模增速同名义经济增速基本匹配，保持宏观杠杆率基本稳定，处理好恢复经济和防范风险关系，多渠道补充银行资本金，完善债券市场法制，加大对科技创新、小微企业、绿色发展的金融支持。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznezxs7758253.d.html</link>
-            <guid>1936322</guid>
-            <pubDate>Sat, 19 Dec 2020 04:22:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上交所阙波：科创板企业突破200家 助力闵行科创企业上市】上海证券交易所副总经理阙波表示，截至2020年12月15日，科创板已上市公司达到203家，总市值规模约3.2万亿元，其中4家公司市值超过1000亿元。科创板上市行业聚集效应明显，带动相关产业链的不断完善。科创板已上市企业主要集中于新一代信息技术、生物医药、高端装备、新材料、新能源、节能环保等六大行业。其中，新一代信息技术（含集成电路）占比35.5%，生物医药行业占比22.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-19/detail-iiznctke7342132.d.html</link>
-            <guid>1936321</guid>
-            <pubDate>Sat, 19 Dec 2020 04:19:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
