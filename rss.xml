@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 20 Dec 2020 16:41:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2020 17:39:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  据媒体报道：保加利亚将禁止与英国通航，直至2021年1月31日。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7571651.d.html</link>
+            <guid>1937797</guid>
+            <pubDate>Sun, 20 Dec 2020 17:31:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网自动测定：12月21日01时23分在日本本州东岸近海附近发生6.4级左右地震，最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7571647.d.html</link>
+            <guid>1937796</guid>
+            <pubDate>Sun, 20 Dec 2020 17:31:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德国卫生部长施潘：将暂停德国与英国之间的航班。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs7987216.d.html</link>
+            <guid>1937794</guid>
+            <pubDate>Sun, 20 Dec 2020 17:10:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德国卫生部长施潘：德国境内尚未发现新冠肺炎新变种。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs7987192.d.html</link>
+            <guid>1937793</guid>
+            <pubDate>Sun, 20 Dec 2020 17:10:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据媒体报道：爱尔兰政府对英国实施48小时的旅行禁令。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs7986300.d.html</link>
+            <guid>1937792</guid>
+            <pubDate>Sun, 20 Dec 2020 16:57:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【西班牙政府请求欧盟采取共同举措，阻止来自英国的航班入境】当地时间12月20日，西班牙首相府发布声明，称西班牙政府已经请求欧盟委会主席冯德莱恩和欧洲理事会主席米歇尔在欧盟层面采取共同举措，以阻止来自英国的航班入境欧盟。西班牙政府表示，该声明是在得知比利时、意大利和荷兰等一系列欧盟成员国做出暂时禁止来自英国的航班入境之后发布的，并预计若欧盟未及时回应，西班牙政府将做出行动以保障公民的安全。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs7985939.d.html</link>
+            <guid>1937791</guid>
+            <pubDate>Sun, 20 Dec 2020 16:50:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美联储戴利：美联储拥有强力的工具，将会使用工具以支持经济。]]></title>
             <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7567304.d.html</link>
@@ -570,42 +606,6 @@
             <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznezxs7938758.d.html</link>
             <guid>1937585</guid>
             <pubDate>Sun, 20 Dec 2020 09:02:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中芯国际发布关于纳入实体清单的说明公告】中芯国际公告：经公司初步评估，该事项对公司短期内运营及财务状况无重大不利影响，对10nm及以下先进工艺的研发及产能建设有重大不利影响，公司将持续与美国政府相关部门进行沟通，并视情况采取一切可行措施，积极寻求解决方案，力争将不利影响降到最低。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznezxs7938723.d.html</link>
-            <guid>1937584</guid>
-            <pubDate>Sun, 20 Dec 2020 09:02:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国卫生大臣汉考克：我很确定可以达成协议，但这需要欧盟方面采取行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznezxs7938389.d.html</link>
-            <guid>1937583</guid>
-            <pubDate>Sun, 20 Dec 2020 09:00:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【朗新科技：拟5000万元-1亿元回购公司股份】朗新科技公告，拟不低于5000万元不超过1亿元回购公司股份，回购价格不超过23.61元/股（含）。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznctke7522156.d.html</link>
-            <guid>1937582</guid>
-            <pubDate>Sun, 20 Dec 2020 09:00:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北京：冬春季传染病高发季 严格落实防疫措施】北京市疾病预防控制中心副主任刘晓峰在20日举行的北京市新冠肺炎疫情防控工作新闻发布会上表示，北京市正值冬春季传染病高发季，商超、餐饮单位、宾馆饭店、农贸市场、机场、火车站、长途客运站和影剧院等重点场所，要严格落实戴口罩、测温验码、通风消毒、保持社交距离等措施，从事冷链、快递外卖、出租车（网约车）、公共交通、医疗卫生等重点行业从业人员必须佩戴口罩。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznezxs7938312.d.html</link>
-            <guid>1937581</guid>
-            <pubDate>Sun, 20 Dec 2020 08:59:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【沈阳：对存储进口冷链食品实行专库专区管理】据沈阳市人民政府网站，为贯彻落实国务院有关开展进口冷链食品预防性全面消毒的要求，有效防范新冠肺炎疫情通过进口冷链食品输入风险，保障公众健康安全和食品产业链供应链稳定，沈阳市决定从2020年12月21日起，对全市存储进口冷链食品实行专库专区管理。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznezxs7938095.d.html</link>
-            <guid>1937580</guid>
-            <pubDate>Sun, 20 Dec 2020 08:57:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  印尼报告新增6982例新冠肺炎确诊病例，累计达664930例；新增221例死亡病例，创单日新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznezxs7938079.d.html</link>
-            <guid>1937578</guid>
-            <pubDate>Sun, 20 Dec 2020 08:57:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
