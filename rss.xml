@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 20 Dec 2020 17:39:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2020 18:28:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  法国总理办公室：政府将禁止来自英国的人员及货物入境，禁令将持续48小时。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7574172.d.html</link>
+            <guid>1937832</guid>
+            <pubDate>Sun, 20 Dec 2020 18:14:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  以色列总理办公室：受新冠肺炎病毒新变种影响，政府将禁止来自英国、南非及丹麦的人员入境。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7574066.d.html</link>
+            <guid>1937829</guid>
+            <pubDate>Sun, 20 Dec 2020 18:11:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  伊拉克安全人员：火箭弹的攻击目标是位于绿色区域中的美国大使馆。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7574064.d.html</link>
+            <guid>1937828</guid>
+            <pubDate>Sun, 20 Dec 2020 18:11:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：当地安全人员报告称，数枚火箭弹坠落在伊拉克首都巴格达的绿色管制区内。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7573540.d.html</link>
+            <guid>1937819</guid>
+            <pubDate>Sun, 20 Dec 2020 18:03:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  据媒体报道：保加利亚将禁止与英国通航，直至2021年1月31日。]]></title>
             <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7571651.d.html</link>
@@ -582,30 +606,6 @@
             <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznezxs7940391.d.html</link>
             <guid>1937589</guid>
             <pubDate>Sun, 20 Dec 2020 09:15:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【岭南股份：拟1.07亿元转让子公司部分股权 预计产生5000万元投资收益】岭南股份(002717)12月20日晚公告，公司拟向四川银创产融资本转让子公司本农科技51%的股权，交易价格1.07亿元，部分股权转让完成后预计对公司产生5000万元左右的投资收益。交易完成后，公司持有本农科技19%的股权。受让方四川银创产融资本控股股东四川省旅游投资集团有限责任公司，实际控制人系四川省政府国有资产监督管理委员会。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznctke7523821.d.html</link>
-            <guid>1937588</guid>
-            <pubDate>Sun, 20 Dec 2020 09:13:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【天华超净：电池级氢氧化锂项目二期开工建设】天华超净公告，12月19日，子公司天宜锂业一期项目正式竣工，将形成年产2万吨电池级氢氧化锂的生产能力。为进一步扩大氢氧化锂产能，满足市场日益增长的氢氧化锂产品需求，天宜锂业在一期项目竣工的同时，启动二期项目的开工建设。二期项目主要新建一条年产2.5万吨的电池级氢氧化锂生产线，拟建厂房及相关配套设施面积约3.5万平米，项目计划于2021年年底建成。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznctke7523238.d.html</link>
-            <guid>1937587</guid>
-            <pubDate>Sun, 20 Dec 2020 09:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国卫生大臣汉考克：无协议脱欧不是我希望达成的结果，但已经为无协议做好准备。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznezxs7938968.d.html</link>
-            <guid>1937586</guid>
-            <pubDate>Sun, 20 Dec 2020 09:04:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中芯国际公告：中芯国际将根据后续事件的发展情况，严格遵守相关规则，及时履行信息披露义务，敬请广大投资者及时关注公司公告，注意投资风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznezxs7938758.d.html</link>
-            <guid>1937585</guid>
-            <pubDate>Sun, 20 Dec 2020 09:02:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
