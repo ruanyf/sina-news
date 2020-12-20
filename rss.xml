@@ -4,11 +4,59 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 20 Dec 2020 20:26:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2020 21:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  英国首相府发言人：首相约翰逊将在会议上讨论保持货物持续进出口的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7581545.d.html</link>
+            <guid>1937926</guid>
+            <pubDate>Sun, 20 Dec 2020 21:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  比特币短线急挫约400美元，跌破23900美元，完全回吐此前涨幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7581252.d.html</link>
+            <guid>1937925</guid>
+            <pubDate>Sun, 20 Dec 2020 21:13:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英法海底隧道：英法边境从今夜23:00关闭，自英国始发的最后一趟穿梭火车于21:34离站。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs7997890.d.html</link>
+            <guid>1937924</guid>
+            <pubDate>Sun, 20 Dec 2020 21:05:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据沙特国家通讯社：沙特暂停所有国际旅行航班入境，并禁止陆路与海港入境，禁令有效期限为一周。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs7997475.d.html</link>
+            <guid>1937923</guid>
+            <pubDate>Sun, 20 Dec 2020 20:54:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国疾控中心：美国境内已经接种了556208剂新冠肺炎疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs7997301.d.html</link>
+            <guid>1937922</guid>
+            <pubDate>Sun, 20 Dec 2020 20:50:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Bitstamp行情显示，比特币继续上行，逼近24300美元，再度刷新历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7580273.d.html</link>
+            <guid>1937921</guid>
+            <pubDate>Sun, 20 Dec 2020 20:46:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  土耳其卫生部长：土耳其政府暂停往返英国、丹麦、荷兰与南非的航班。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs7996914.d.html</link>
+            <guid>1937920</guid>
+            <pubDate>Sun, 20 Dec 2020 20:38:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲多国暂停人员从英国入境，以期策应不列颠出现的新冠肺炎病毒突变】爱尔兰确认，自当地时间深夜开始，禁止所有从英国离港的航班入境，为期48小时。随后，法国政府宣布，暂停“任何人员从英国前往法国，为期48小时”，并强调“以任何交通方式入境法国”，以因应不列颠出现的新冠肺炎病毒变种。有媒体援引德国政府消息人士报道称，德国也于深夜暂停由英国前往德国的航班。最新官方数据显示，英国新增35928例新冠肺炎病例，新增326例与新冠肺炎相关的死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7579583.d.html</link>
+            <guid>1937919</guid>
+            <pubDate>Sun, 20 Dec 2020 20:29:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  Bitstamp行情显示，比特币再度突破24000美元，涨幅0.52%]]></title>
             <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7578961.d.html</link>
@@ -558,54 +606,6 @@
             <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznctke7532080.d.html</link>
             <guid>1937610</guid>
             <pubDate>Sun, 20 Dec 2020 10:14:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：以色列总理内塔尼亚胡正考虑采取措施，以防止变异的新冠病毒传播到以色列。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznezxs7948403.d.html</link>
-            <guid>1937609</guid>
-            <pubDate>Sun, 20 Dec 2020 10:11:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【海辰药业：“注射用盐酸兰地洛尔”获药品注册证书】海辰药业公告，公司于近日收到国家药品监督管理局核准签发的化学药品"注射用盐酸兰地洛尔"《药品注册证书》。肾上腺素β受体阻滞药是一类作用广泛、重要的心血管治疗药物。兰地洛尔是新型的超短效肾上腺素β受体阻滞药。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznctke7530613.d.html</link>
-            <guid>1937608</guid>
-            <pubDate>Sun, 20 Dec 2020 10:04:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国交通大臣夏普斯：（被问及英国是否将实施全国性封锁）这没必要。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznctke7529903.d.html</link>
-            <guid>1937606</guid>
-            <pubDate>Sun, 20 Dec 2020 09:59:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国交通大臣夏普斯：英国将在火车站部署警察以防止人们出行。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznezxs7946493.d.html</link>
-            <guid>1937605</guid>
-            <pubDate>Sun, 20 Dec 2020 09:58:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  海尔智家：公司以协议安排方式私有化海尔电器事宜获得了百慕大最高法院批准，根据目前预期的时间表安排，海尔电器股票预计于12月23日上午9:00时起于香港联交所退市，公司H股股票预计于12月23日上午9:00时起于香港联交所上市交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznctke7529548.d.html</link>
-            <guid>1937604</guid>
-            <pubDate>Sun, 20 Dec 2020 09:56:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【伦敦民众封城前疯狂购物 数小时或花掉12亿英镑】当地时间19日，英媒发现，英国新疫情措施生效前数小时，伦敦民众开始了一系列的疯狂购物，根据估算，可能将花掉高达12亿英镑。综合英国《每日星报》《太阳报》消息，伦敦“封城”前仅数小时，各大商业街挤满人群。民众上街购买圣诞礼物，部分地区的人们甚至在雨中排起长队。从外媒报道的画面来看，伦敦市中心知名购物区域摄政街挤满了人群，且民众明显没有保持社交距离。（每经）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznezxs7945497.d.html</link>
-            <guid>1937603</guid>
-            <pubDate>Sun, 20 Dec 2020 09:51:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  亚玛顿：孙公司宁波弘信及其四家全资子公司拟分别与中核山东能源有限公司签订《股权转让协议书》，出售太阳能光伏电站资产，上述转让交易的总价为1.61亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznezxs7944987.d.html</link>
-            <guid>1937602</guid>
-            <pubDate>Sun, 20 Dec 2020 09:47:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  沙特阿拉伯货币局（SAMA）：决定将每周的票据发行规模从30亿里亚尔提高至100亿里亚尔，以提高银行业在管理流动性方面的效率。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-20/detail-iiznctke7527001.d.html</link>
-            <guid>1937600</guid>
-            <pubDate>Sun, 20 Dec 2020 09:37:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
