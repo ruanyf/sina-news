@@ -4,11 +4,209 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 21 Dec 2020 04:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2020 05:28:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[香港将从周二开始禁止来自英国的航班入境。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8076184.d.html</link>
+            <guid>1938278</guid>
+            <pubDate>Mon, 21 Dec 2020 05:25:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚证券投资委员会ASIC、澳洲储备银行通知澳洲证券交易所，预计将于2021年上半年进行审查。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8075825.d.html</link>
+            <guid>1938277</guid>
+            <pubDate>Mon, 21 Dec 2020 05:23:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚证券投资委员会ASIC：正在调查澳洲证券交易所是否能够运营其市场。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8075636.d.html</link>
+            <guid>1938276</guid>
+            <pubDate>Mon, 21 Dec 2020 05:22:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚ASX200指数12月21日（周一）收盘下跌5.60点，跌幅0.08%，报6669.90点。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7658468.d.html</link>
+            <guid>1938275</guid>
+            <pubDate>Mon, 21 Dec 2020 05:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北向资金净流入达60亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7658126.d.html</link>
+            <guid>1938274</guid>
+            <pubDate>Mon, 21 Dec 2020 05:17:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比亚迪AH股齐走高，A股涨5.4%，报185.4元；H股涨5.6%，报195.3港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7658046.d.html</link>
+            <guid>1938273</guid>
+            <pubDate>Mon, 21 Dec 2020 05:16:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚证券投资委员会ASIC：担心一些参与者没有连续性计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8074840.d.html</link>
+            <guid>1938272</guid>
+            <pubDate>Mon, 21 Dec 2020 05:16:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚证券投资委员会ASIC：将审查市场参与者，以应对中断。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7657992.d.html</link>
+            <guid>1938271</guid>
+            <pubDate>Mon, 21 Dec 2020 05:16:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚证券投资委员会ASIC：澳洲证券交易所的中断带来的直接影响是流动性恶化。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8074738.d.html</link>
+            <guid>1938270</guid>
+            <pubDate>Mon, 21 Dec 2020 05:15:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄新社：哈萨克斯坦开始生产俄罗斯的“卫星-V”新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7657885.d.html</link>
+            <guid>1938269</guid>
+            <pubDate>Mon, 21 Dec 2020 05:15:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沃森生物午后大涨5%，消息面上，中国首个mRNA新冠疫苗生产车间奠基，一期可年产1.2亿剂。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8074066.d.html</link>
+            <guid>1938268</guid>
+            <pubDate>Mon, 21 Dec 2020 05:11:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货白银站上27美元/盎司，为9月18日以来首次，日内涨超4.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7657187.d.html</link>
+            <guid>1938267</guid>
+            <pubDate>Mon, 21 Dec 2020 05:11:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[黄金T+D日内走高5.03元，现报395.55元/克，日内涨幅1.29%。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7657064.d.html</link>
+            <guid>1938266</guid>
+            <pubDate>Mon, 21 Dec 2020 05:10:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛：对在岸人民币兑美元在未来12个月预期从6.30上调至6.20。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8073783.d.html</link>
+            <guid>1938265</guid>
+            <pubDate>Mon, 21 Dec 2020 05:10:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【广州南沙59243人完成核酸检测 结果均为阴性】据广州市南沙区新闻中心微信公众号消息，12月20日，广州市、南沙区密切联动，已对东涌居委等重点区域人群进行全员新冠肺炎核酸检测。截止12月21日上午11：00时，实际完成采样59243人，检测结果均为阴性，暂未发现社区传播。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7656789.d.html</link>
+            <guid>1938264</guid>
+            <pubDate>Mon, 21 Dec 2020 05:08:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货白银日内涨幅扩大至4%，报26.8美元/盎司。COMEX期银日内涨幅扩大至4.01%，现报27美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8073442.d.html</link>
+            <guid>1938263</guid>
+            <pubDate>Mon, 21 Dec 2020 05:07:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛：对欧元兑美元EUR/USD在未来12个月预期从1.25上调至1.28；对澳元兑美元AUD/USD在未来12个月预期从1.25下调至1.20。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7656460.d.html</link>
+            <guid>1938262</guid>
+            <pubDate>Mon, 21 Dec 2020 05:06:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  现货黄金收复1900美元关口，为11月9日以来首次。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7656367.d.html</link>
+            <guid>1938261</guid>
+            <pubDate>Mon, 21 Dec 2020 05:06:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【茅台高卫东：推进稳市稳价，杜绝惜售捂售、转移销售、高价销售】12月21日，于茅台镇召开的贵州茅台酒2020年度全国经销商联谊会上，茅台集团党委书记、董事长、茅台酒股份公司董事长高卫东就当前消费者普遍关注的茅台酒炒作、黄牛等问题表明态度。高卫东表示，茅台酒在2020年通过加大自营力度、增设自营网点、优化客户购酒方式、把控产品流向等举措来挤压“黄牛”生存空间，严防市场炒作、倒卖。但管理的水平还有待提升，“高价销售”“囤货捂售”“黄牛倒卖”情况屡禁不止，消费者的消费体验依然不够畅通。（新京报）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8073128.d.html</link>
+            <guid>1938260</guid>
+            <pubDate>Mon, 21 Dec 2020 05:05:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美多州报告接种新冠疫苗后不良反应 FDA展开调查】据新西兰中文先驱网报道，当地时间19日，美国食品与药物监督管理局（FDA）正在对接种辉瑞新冠疫苗后，有接种者出现过敏反应的情况展开调查。目前并不确定是什么原因引起不良反应，但他指出，辉瑞以及莫德纳公司生产的新冠疫苗中存在一种叫聚乙二醇的化学物，可能是罪魁祸首。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7655939.d.html</link>
+            <guid>1938258</guid>
+            <pubDate>Mon, 21 Dec 2020 05:03:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中信建投：中资银行一季度净利润料负增长】中信建投银行业分析师杨荣等报告指出，最乐观估计下，银行业延迟还本付息的政策到期后可能导致行业不良率提升8-10bp，不良贷款新增额在1500亿元-3000亿元；并预计明年一季度净利润大概率负增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7655726.d.html</link>
+            <guid>1938257</guid>
+            <pubDate>Mon, 21 Dec 2020 05:01:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小米股价在对未来销售的乐观氛围下升至纪录高点】小米高管对该公司智能手机业务表示乐观后，小米股价在香港跃升至纪录高点。截至午盘，小米集团上涨4.51%，报30.10港元；盘中一度上涨5.21%至纪录高点。据小米高级副总裁刘德的微信，小米的高端智能手机收到了用户的良好反馈，并看好该公司的未来表现。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8072311.d.html</link>
+            <guid>1938256</guid>
+            <pubDate>Mon, 21 Dec 2020 05:00:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【世卫组织：除英国外至少3国发现变异病毒相关确诊病例】据世界卫生组织欧洲区域办事处20日证实，英国以外已有至少三个国家发现变异新冠病毒相关确诊病例。世卫组织呼吁欧洲地区国家收紧防疫措施，呼吁全球各国加紧对新冠病毒的筛查排序，并及时通报相关信息。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8071816.d.html</link>
+            <guid>1938255</guid>
+            <pubDate>Mon, 21 Dec 2020 04:57:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国第二种获批新冠疫苗开始向全美发货】日本放送协会（NHK）12月21日消息，美国第二种新冠病毒疫苗获批紧急使用，生产疫苗的制药公司Moderna开始向美国各地发货。这种疫苗的保管温度为零下20度，高于此前获批的辉瑞等研发的疫苗高，后者保管温度为零下70度左右。鉴于Moderna疫苗可以在普通冷冻库保存，美国政府相关负责人认为，这种疫苗方便配送到小规模医疗机构和僻远地区。（界面）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8071679.d.html</link>
+            <guid>1938254</guid>
+            <pubDate>Mon, 21 Dec 2020 04:56:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深圳一特斯拉失控连撞两车 特斯拉回应】特斯拉客户支持回应称，关于近日大家关注的这起深圳事故，我们在第一时间联系到了车主，在确认车主安全后，迅速对发生事故时的车辆状态进行调查。经过对车辆数据的读取和分析，车辆的加速及先后二次碰撞发生过程中，驾驶员持续深度地踩下了加速踏板，期间并未踩下刹车踏板。当前我们正在协助车主进行保险理赔和车辆的维修事宜。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8071404.d.html</link>
+            <guid>1938253</guid>
+            <pubDate>Mon, 21 Dec 2020 04:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【分析：亚洲CDS走高 因市场变得谨慎】由于新冠疫情恶化打击了风险偏好，市场呈避险走势，亚洲投资级债券的违约保险费用周一走高。一些交易员表示，Markit iTraxx亚洲（除日本外）投资级指数走升大约0.5个基点。一些交易员称，日本的一个类似CDS指数上涨了约0.75个基点至51.75，澳大利亚指数上涨0.5个基点。上周日本CDS下跌了2.9个基点，亚洲除日本外CDS下降了1.9个基点。交易员们还表示，亚洲美元债券的利差基本持平。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7654039.d.html</link>
+            <guid>1938252</guid>
+            <pubDate>Mon, 21 Dec 2020 04:50:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：卡塔尔批准辉瑞-BioNTech新冠疫苗的使用。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8070435.d.html</link>
+            <guid>1938251</guid>
+            <pubDate>Mon, 21 Dec 2020 04:46:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  现货黄金涨幅扩大至1%，逼近1900美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7653423.d.html</link>
+            <guid>1938250</guid>
+            <pubDate>Mon, 21 Dec 2020 04:46:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【白宫发言人：特朗普已经签署了为期一天的临时拨款法案】美国白宫发言人表示，特朗普已经签署了为期一天的拨款法案，以防止政府短暂停摆。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8069277.d.html</link>
+            <guid>1938249</guid>
+            <pubDate>Mon, 21 Dec 2020 04:39:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  泰国卫生部：382例新增病例中有360例是与海鲜市场中心疫情有关的外来务工人员。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7652333.d.html</link>
+            <guid>1938248</guid>
+            <pubDate>Mon, 21 Dec 2020 04:39:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  泰国卫生部：泰国日新增382例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8068707.d.html</link>
+            <guid>1938247</guid>
+            <pubDate>Mon, 21 Dec 2020 04:36:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：由于英国疫情恶化，香港特区政府方面或将考虑暂停来自英国的飞机入境。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7651751.d.html</link>
+            <guid>1938246</guid>
+            <pubDate>Mon, 21 Dec 2020 04:35:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国疾控机构罗伯特·科赫研究所：德国新增新冠肺炎确诊病例16643例，累计确诊151万例。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7651444.d.html</link>
+            <guid>1938245</guid>
+            <pubDate>Mon, 21 Dec 2020 04:34:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【突发公共卫生事件应对法等重要法律明年将制定】据全国人大常委会法工委发言人、立法规划室主任岳仲明21日介绍，2021年度立法工作计划已经全国人大常委会委员长会议原则通过，对明年立法工作作出预安排。明年将制定期货法、印花税法、家庭教育法、文化产业促进法、突发公共卫生事件应对法、湿地保护法、法律援助法、社会救助法、粮食安全保障法等。  （新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7650709.d.html</link>
@@ -405,203 +603,6 @@
             <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8044620.d.html</link>
             <guid>1938173</guid>
             <pubDate>Mon, 21 Dec 2020 02:49:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  北向资金净流入达40亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7627638.d.html</link>
-            <guid>1938172</guid>
-            <pubDate>Mon, 21 Dec 2020 02:48:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【长电科技：间接持有中芯长电8.6%的股份 其被列入实体清单对公司影响很小】长电科技在互动平台表示，中芯长电半导体有限公司为公司参股公司，公司间接持有其8.6%的股份，其被列入实体清单对公司影响很小。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8044441.d.html</link>
-            <guid>1938171</guid>
-            <pubDate>Mon, 21 Dec 2020 02:48:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南自由贸易港法草案将提请全国人大常委会审议】法工委发言人岳仲明表示，十三届全国人大常委会第七十八次委员长会议决定，十三届全国人大常委会第二十四次会议于12月22日至26日在北京举行。提请本次常委会会议初次审议的法律案有8件，包括关于海南自由贸易港法草案。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7627537.d.html</link>
-            <guid>1938170</guid>
-            <pubDate>Mon, 21 Dec 2020 02:48:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【延迟退休对年轻人就业影响有限】近期公布的《中共中央关于制定国民经济和社会发展第十四个五年规划和二〇三五年远景目标的建议》提出，实施渐进式延迟法定退休年龄。专家称，从就业结构来看，将来延迟退休会有一部分岗位影响到年轻人就业，但这种影响有限。（经济日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7627433.d.html</link>
-            <guid>1938169</guid>
-            <pubDate>Mon, 21 Dec 2020 02:47:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【全国首个“高原”氢燃料电池公交项目签订】近期，东方电气 (成都)氢燃料电池科技有限公司、成都客车与西昌月城公交成功签订西昌市首批10台氢燃料公交车合同，标志着东方电气为四川省西昌市量身定制的全国首例“高原”氢燃料电池公交项目取得重大突破，为共同助力西昌市打造西部氢能旅游高地，创建凉山州生态旅游“氢州”的愿景踏出坚实的一步。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7627283.d.html</link>
-            <guid>1938168</guid>
-            <pubDate>Mon, 21 Dec 2020 02:46:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  消息人士及文件显示，印度计划从2021-22年开始为国有企业制定更严格的年度目标，要求国企提升市值、提高派息和增加非核心资产出售。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7627234.d.html</link>
-            <guid>1938167</guid>
-            <pubDate>Mon, 21 Dec 2020 02:46:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本内阁批准下财年创纪录1万亿美元预算案】日本内阁周一批准了下财年创纪录规模的预算案，此前不到一周刚批准了本财年第三份补充预算，以支撑经济，并分配资金以遏制新冠疫情。日本财务省周一证实，明年4月开始的2021财年总支出将增加约3.8%， 至106.6万亿日元（约合1万亿美元）。除了偿债和向地方政府转移外，社会保障支出将占到总支出的54%左右。在收入方面，日本政府下财年计划发行价值236万亿日元的债券，创下自全球金融危机以来最高水平。债务收入占总收入的比例将从2020财年的31.7%升至40.9%。]]></title>
-            <guid>1938166</guid>
-            <pubDate>Mon, 21 Dec 2020 02:45:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议院通过了为期一天的支出法案，将送交特朗普签署。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7626583.d.html</link>
-            <guid>1938165</guid>
-            <pubDate>Mon, 21 Dec 2020 02:42:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY短线上扬10余点，现报90.5。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8043408.d.html</link>
-            <guid>1938164</guid>
-            <pubDate>Mon, 21 Dec 2020 02:42:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[隆基股份封住涨停，股价再创新高，成交金额超65亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7626403.d.html</link>
-            <guid>1938163</guid>
-            <pubDate>Mon, 21 Dec 2020 02:41:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【B站被约谈10余次】据“扫黄打非”公众号公布， 2020年以来，全国“扫黄打非”办公室举报中心共接到群众反映B站问题的线索逾五百条。按照转办线索，上海市相关部门对B站行政立案处罚6次，约谈10余次。近期，针对B站平台存在的某些内容涉色情低俗等较突出问题，全国“扫黄打非”办公室再次部署上海市“扫黄打非”办组织查处。12月3日，上海市“扫黄打非”办联合市委网信办、市文旅局对B站进行约谈，责令其限期整改2周，全面排查违法违规和不良信息，加强视频、直播内容、漫画、图文及相关弹幕和跟评的审核；同时明确要求，在验收网站整改工作合格前，暂停具有舆论属性或社会动员能力的新业务新功能的内测或上线。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8042854.d.html</link>
-            <guid>1938162</guid>
-            <pubDate>Mon, 21 Dec 2020 02:40:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[螺纹主力合约触及涨停，报4460元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7625682.d.html</link>
-            <guid>1938161</guid>
-            <pubDate>Mon, 21 Dec 2020 02:39:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富时中国A50指数期货涨超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8042053.d.html</link>
-            <guid>1938159</guid>
-            <pubDate>Mon, 21 Dec 2020 02:37:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【反食品浪费法草案将提请全国人大常委会审议】今天上午，全国人大常委会法工委发言人岳仲明在例行记者会上介绍，十三届全国人大常委会第二十四次会议，将审议全国人大常委会委员长会议关于提请审议反食品浪费法草案的议案。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7624536.d.html</link>
-            <guid>1938158</guid>
-            <pubDate>Mon, 21 Dec 2020 02:34:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[券商股走强 ，哈投股份拉升封板，中银证券、国海证券、国盛金控、中泰证券等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8041308.d.html</link>
-            <guid>1938157</guid>
-            <pubDate>Mon, 21 Dec 2020 02:34:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[汽车板块走高，东风汽车再度封板，江铃汽车、长城汽车、金龙汽车等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8041011.d.html</link>
-            <guid>1938156</guid>
-            <pubDate>Mon, 21 Dec 2020 02:32:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北向资金净流入达30亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8040735.d.html</link>
-            <guid>1938155</guid>
-            <pubDate>Mon, 21 Dec 2020 02:31:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国国债收益率在2021年将难以回到疫情前的水平】在新冠疫情造成经济灾难之后，美国国债收益率看起来势将进一步反弹，但华尔街策略师们对于2021年重回疫情前的水平持怀疑态度。根据已公布的八份详细的年度展望，最大的一些一级交易商（承销财政部招标债券的银行）的预测人员，现在认为到2021年底10年期国债收益率将在0.9%-1.5%之间。这高于4月份以来的波动区间0.5%-1%，而且目前的市场水平约为0.95%，但仍远低于今年年初时的1.94%。2年期收益率到2021结束时料在0.2%-0.4%左右；目前在接近0.12%的水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8040704.d.html</link>
-            <guid>1938154</guid>
-            <pubDate>Mon, 21 Dec 2020 02:31:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[12月21日早盘，北向资金呈净流入，截至发稿实际净买入超20亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8040274.d.html</link>
-            <guid>1938153</guid>
-            <pubDate>Mon, 21 Dec 2020 02:29:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国企业对特定电连接器与壳及其组件和下游产品提起337调查申请】据中国贸易救济信息网，2020年12月18日，美国AmphenolCorp.安费诺集团根据《美国1930年关税法》第337节规定向美国际贸易委员会提出申请，主张对美出口、在美进口及销售的特定电连接器与壳及其组件和下游产品侵犯了其专利权。中国广东立讯精密工业股份有限公司等为列名被告。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8040191.d.html</link>
-            <guid>1938152</guid>
-            <pubDate>Mon, 21 Dec 2020 02:29:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外国企业对UMTS和LTE蜂窝通信模块及其产品提起337调查申请】据中国商务部网站，2020年12月17日，荷兰皇家飞利浦有限公司和飞利浦北美公司依据《美国1930年关税法》第337节规定，向美国际贸易委员会提出申请，指控对美出口、在美进口或在美销售的UMTS和LTE蜂窝通信模块及其产品侵犯其专利权，请求发起337调查，并发布普遍排除令、有限排除令和禁止令。中国上海移远通信技术股份有限公司为列明被申请人。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7623207.d.html</link>
-            <guid>1938151</guid>
-            <pubDate>Mon, 21 Dec 2020 02:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国企业对特定集成电路及其下游产品提起337调查申请】近日，美国TelaInnovations,Inc.根据《美国1930年关税法》第337节规定向美国际贸易委员会提出申请，主张对美出口、在美进口及销售的特定集成电路及其下游产品侵犯了其专利权。中国宏碁集团、中国华硕电脑股份有限公司、中国北京联想集团、中国微星科技股份有限公司等为列名被告。（中国贸易救济信息网）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7622353.d.html</link>
-            <guid>1938150</guid>
-            <pubDate>Mon, 21 Dec 2020 02:25:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国出现变异新冠病毒，香港专家：港府正考虑是否延长英国抵港人士隔离期至三周】英国出现变异新冠病毒，香港“橙新闻”12月21日报道称，特区政府专家顾问、中大呼吸系统科讲座教授许树昌表示，特区政府正考虑是否要求自英国抵港人士，完成14天酒店检疫后，需要再强制家居检疫一星期。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8038868.d.html</link>
-            <guid>1938149</guid>
-            <pubDate>Mon, 21 Dec 2020 02:23:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【105股预计全年净利润增幅翻倍】 统计显示，截至12月21日，已经有598家上市公司公布了2020年度业绩预告。业绩预告类型显示，预增公司168家、预盈75家；业绩预降、预亏公司分别有117家、100家。业绩预喜公司中，以预计净利润增幅中值统计，共有105家公司净利润增幅超100%；净利润增幅在50%~100%之间的有40家。分行业看，业绩增幅预计翻倍股主要集中在化工、医药生物、电子等行业。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8038659.d.html</link>
-            <guid>1938148</guid>
-            <pubDate>Mon, 21 Dec 2020 02:22:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[医美概念走强，朗姿股份拉升涨停，奥园美谷、悦心健康、澳洋健康等个股纷纷走高。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8038432.d.html</link>
-            <guid>1938147</guid>
-            <pubDate>Mon, 21 Dec 2020 02:21:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[军工股拉升，北摩高科拉升涨停，中简科技、中航重机、中航光电等个股跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8037871.d.html</link>
-            <guid>1938146</guid>
-            <pubDate>Mon, 21 Dec 2020 02:20:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据中国研究机构估计，中国2020年铁矿石需求增长9.2%至13.97亿吨，2021年将减少1.2%至13.8亿吨。2021年中国炼焦煤需求下降1.9%，至10.2亿吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7620940.d.html</link>
-            <guid>1938145</guid>
-            <pubDate>Mon, 21 Dec 2020 02:19:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[香港交易所股价一度站上400港元，创历史新高，现涨约1.27%。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8037079.d.html</link>
-            <guid>1938144</guid>
-            <pubDate>Mon, 21 Dec 2020 02:15:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【19股融资余额增幅超10% 益丰药房增幅最大】据wind统计显示，12月18日共有787只个股融资余额出现增长。其中，19股融资余额增幅超过10%。融资余额增幅最大的是益丰药房，较上一交易日增加71.35%。融资余额增幅较多的还有长城汽车、豫能控股、宁波海运、中炬高新、新宝股份、杭可科技、盛新锂能、中光学、爱康科技等股。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7620082.d.html</link>
-            <guid>1938143</guid>
-            <pubDate>Mon, 21 Dec 2020 02:15:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美团关联公司申请“美团校园无人配送”商标】近日，美团关联公司北京三快科技有限公司新增多条商标信息，其中包括“美团校园无人配送”相关商标，申请日期在2020年12月，国际分类为运输工具、广告销售。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8036876.d.html</link>
-            <guid>1938142</guid>
-            <pubDate>Mon, 21 Dec 2020 02:14:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COMEX期铜跌破3.6美元/磅，日内跌0.81%。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7619622.d.html</link>
-            <guid>1938141</guid>
-            <pubDate>Mon, 21 Dec 2020 02:13:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Omdia：2020年LCD TDDI出货量预计将达8.73亿颗】Omdia预计2020年LCD触控和显示集成驱动芯片（TDDI）的出货量将达到8.73亿颗。其中，用于智能手机显示屏的TDDI出货量将达到7.81亿颗。用于平板电脑显示屏的TDDI出货量2020年预计将达到8400万颗。车载显示器的TDDI预计今年的出货量将达到500万颗。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznctke7619512.d.html</link>
-            <guid>1938140</guid>
-            <pubDate>Mon, 21 Dec 2020 02:13:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[证券板块持续拉升，哈投股份涨近6%，中银证券、国海证券、湘财股份、申万宏源等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-21/detail-iiznezxs8036363.d.html</link>
-            <guid>1938139</guid>
-            <pubDate>Mon, 21 Dec 2020 02:12:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
