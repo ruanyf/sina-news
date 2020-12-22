@@ -4,11 +4,395 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 22 Dec 2020 09:32:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Dec 2020 10:33:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：欧洲理事会主席米歇尔新冠检测呈阴性，将结束自我隔离。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8332269.d.html</link>
+            <guid>1940470</guid>
+            <pubDate>Tue, 22 Dec 2020 10:30:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【五连板ST舍得：不存在应披露而未披露的重大信息】五连板ST舍得(600702)12月22日晚披露股价异动公告，不存在影响公司股票交易异常波动的其他重大事项；不存在应披露而未披露的重大信息。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8331858.d.html</link>
+            <guid>1940469</guid>
+            <pubDate>Tue, 22 Dec 2020 10:28:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中油工程：全资子公司与中国石油等共同增资昆仑数智】中油工程(600339)12月22日晚公告，公司全资子公司中油工程有限，与中国石油集团、中国石油(601857)和中油资本有限共同向中国石油集团东方地球物理勘探有限责任公司全资子公司昆仑数智科技有限责任公司（简称昆仑数智）进行增资。增资完成后，中油工程有限将持有昆仑数智10%的股权。投资昆仑数智有利于公司借助平台资源，加快推进油气工程建设主营业务数字化、智能化转型发展，提高市场核心竞争力。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8331733.d.html</link>
+            <guid>1940468</guid>
+            <pubDate>Tue, 22 Dec 2020 10:28:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[康菲石油(COP.N)宣布在挪威海发现新油田，储量预计为7500万-2亿桶可采油当量。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8331680.d.html</link>
+            <guid>1940467</guid>
+            <pubDate>Tue, 22 Dec 2020 10:27:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南钢股份：将持有的宿迁南钢金鑫轧钢有限公司93.3%股权转让给南京钢铁集团有限公司，股权转让的交易价格为3.33亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7915037.d.html</link>
+            <guid>1940466</guid>
+            <pubDate>Tue, 22 Dec 2020 10:25:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英国首相约翰逊周一已和欧盟委员会主席冯德莱恩就渔业进行谈话。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8331331.d.html</link>
+            <guid>1940465</guid>
+            <pubDate>Tue, 22 Dec 2020 10:25:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯副总理诺瓦克：在世界气候议程的发展中，俄罗斯需要让能源出口多样化。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8330948.d.html</link>
+            <guid>1940463</guid>
+            <pubDate>Tue, 22 Dec 2020 10:23:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BioNTech SE(BNTX.O) CEO：计划到2020年底为欧盟提供1250万剂疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7914430.d.html</link>
+            <guid>1940462</guid>
+            <pubDate>Tue, 22 Dec 2020 10:22:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[广东广州南沙综合行政执法局表示，已成立专案组调查辛有志推销糖水燕窝的涉事公司，案由涉及“涉嫌违法、涉嫌不正当竞争”等。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7914211.d.html</link>
+            <guid>1940461</guid>
+            <pubDate>Tue, 22 Dec 2020 10:21:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苹果：在纬创完成纠正措施之前将处于试用期 不会给予新业务】纬创此前拖欠班加罗尔附近纳拉萨普拉工厂工人的工资，这家工厂有1.2万名员工。苹果公司表示，纬创未能实施适当的工时管理流程，违反了供应商行为准则。在完成纠正措施之前，纬创将处于试用期，苹果公司不会给予新业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8330460.d.html</link>
+            <guid>1940460</guid>
+            <pubDate>Tue, 22 Dec 2020 10:20:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯副总理诺瓦克：俄罗斯2020年石油产量下降约8.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7914030.d.html</link>
+            <guid>1940459</guid>
+            <pubDate>Tue, 22 Dec 2020 10:20:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京市首家汽车金融公司交管服务站正式投入运营】12月22日，北京市首家汽车金融公司交管服务站――梅赛德斯-奔驰汽车金融有限公司交管服务站正式投入运营。交管服务站经北京市公安局交管局授权运营，可协助客户“一站式”办理机动车抵押和解除抵押登记业务。下一步，北京市公安局交管局和北京银保监局将陆续推动在京其他汽车金融公司交管服务站陆续投入运营。（中证网）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7913935.d.html</link>
+            <guid>1940458</guid>
+            <pubDate>Tue, 22 Dec 2020 10:20:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今年新疆霍尔果斯口岸进出境中欧班列突破4500列】12月21日下午从新疆霍尔果斯铁路口岸缓缓驶离出境，标志着今年以来经霍尔果斯铁路口岸进出境的中欧班列突破4500列，再创年开行数量历史新高。截至当日晚，共计进出境4507列，相较于去年全年开行总量增长32.4%。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7913869.d.html</link>
+            <guid>1940457</guid>
+            <pubDate>Tue, 22 Dec 2020 10:20:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【鼎汉技术：控股股东筹划公司控制权变更，股票停牌】鼎汉技术公告，公司收到公司控股股东、实际控制人顾庆伟先生的通知，顾庆伟先生及其一致行动人新余鼎汉电气科技有限公司正在筹划以协议转让方式向广州工控资本管理有限公司转让新余鼎汉所持公司股权事宜，该事项可能导致公司控制权发生变更。公司股票自2020年12月22日（星期二）上午开市起停牌，停牌时间不超过5个交易日。待有关事项确定后，公司将及时发布公告，同时申请股票复牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7913755.d.html</link>
+            <guid>1940456</guid>
+            <pubDate>Tue, 22 Dec 2020 10:19:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【人民银行邢毓静：助力民营企业用好用足各项金融政策和产品】中国人民银行深圳市中心支行党委书记、行长邢毓静今日作《精准滴灌缓解民营企业融资难融资贵》专题讲座时表示，将与深圳市工商业联合会（总商会）携手，助力民营企业用好、用足各项金融政策和产品，充分发挥核心竞争优势，实现高质量发展。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7913669.d.html</link>
+            <guid>1940455</guid>
+            <pubDate>Tue, 22 Dec 2020 10:19:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京地铁列车将用上5G技术，最小间隔将缩短10%】未来，北京将依托地铁11号线西段（冬奥支线），打造北京首条智慧地铁示范线，并将研究基于5G技术的车车通信列控系统，提高列车运行效率、提升系统可靠性，高峰期最小行车间隔可提升10% 以上。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7913639.d.html</link>
+            <guid>1940454</guid>
+            <pubDate>Tue, 22 Dec 2020 10:18:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯副总理诺瓦克：俄罗斯2020年天然气产量约为7000亿立方米。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8329180.d.html</link>
+            <guid>1940453</guid>
+            <pubDate>Tue, 22 Dec 2020 10:13:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯副总理诺瓦克：俄罗斯2020年将生产约5.14亿吨原油。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7912566.d.html</link>
+            <guid>1940452</guid>
+            <pubDate>Tue, 22 Dec 2020 10:12:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【三连板古越龙山：存在市盈率较高的风险】三连板古越龙山公告，当日公司股票换手率为12.84%，存在换手率较高的风险，公司股票静态市盈率为65.14倍，存在市盈率较高的风险。敬请广大投资者注意投资风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8328720.d.html</link>
+            <guid>1940451</guid>
+            <pubDate>Tue, 22 Dec 2020 10:11:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南非将支付1900万美元用于加入新冠肺炎疫苗实施计划（COVAX）。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8328513.d.html</link>
+            <guid>1940450</guid>
+            <pubDate>Tue, 22 Dec 2020 10:10:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗新增6208例新冠肺炎确诊病例，新增187例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8327958.d.html</link>
+            <guid>1940449</guid>
+            <pubDate>Tue, 22 Dec 2020 10:07:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[盛路通信风险提示：12月22日，“盛路转债”收盘价为331.045元，当日涨幅为43%，转股溢价率达到239.51%，纯债溢价率达到229.86%。近期，“盛路转债”价格较高，主要系公司可转债流通量较小，受市场资金影响所致，敬请广大投资者注意投资风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8327894.d.html</link>
+            <guid>1940448</guid>
+            <pubDate>Tue, 22 Dec 2020 10:07:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟拒绝英国脱欧提议后，富时250指数涨幅收窄至涨0.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7911428.d.html</link>
+            <guid>1940447</guid>
+            <pubDate>Tue, 22 Dec 2020 10:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【两连板金枫酒业：静态市盈率明显高于黄酒行业平均水平】金枫酒业(600616)连续两日涨停，公司12月22日晚公告，公司不存在应披露而未披露的重大信息。近期公司股价波动较大，股票换手率较高，截至2020年12月22日公司静态市盈率为271.36倍，明显高于黄酒行业平均水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8327449.d.html</link>
+            <guid>1940446</guid>
+            <pubDate>Tue, 22 Dec 2020 10:05:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[斯托克欧洲600指数涨幅收窄至0.7%，此前欧盟拒绝英国提议。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7911009.d.html</link>
+            <guid>1940445</guid>
+            <pubDate>Tue, 22 Dec 2020 10:04:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[大同煤业：证券简称12月25日起变更为晋控煤业。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7910967.d.html</link>
+            <guid>1940444</guid>
+            <pubDate>Tue, 22 Dec 2020 10:04:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英镑/美元下跌0.8%至日内低点1.3362，受英国脱欧担忧影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7910911.d.html</link>
+            <guid>1940443</guid>
+            <pubDate>Tue, 22 Dec 2020 10:04:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[官员：英国在脱欧渔业问题上的最新提议被欧盟拒绝。英镑兑美元GBP/USD短线下挫60点，现报1.3373。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8326950.d.html</link>
+            <guid>1940442</guid>
+            <pubDate>Tue, 22 Dec 2020 10:03:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英镑兑美元GBP/USD短线下挫60点，现报1.3373。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7910625.d.html</link>
+            <guid>1940441</guid>
+            <pubDate>Tue, 22 Dec 2020 10:02:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫：俄罗斯总统普京和俄罗斯副总理诺瓦克将于周二讨论能源行业和欧佩克+的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8326818.d.html</link>
+            <guid>1940440</guid>
+            <pubDate>Tue, 22 Dec 2020 10:02:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[知情人士透露，融创中国于11月中旬敲定一笔7500万美元364天期贷款，该笔贷款为银行特设贷款结构，主要由花旗银行主导安排。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7910461.d.html</link>
+            <guid>1940439</guid>
+            <pubDate>Tue, 22 Dec 2020 10:01:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫：美国新的制裁是现任美国政府另一个敌对行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7910397.d.html</link>
+            <guid>1940438</guid>
+            <pubDate>Tue, 22 Dec 2020 10:01:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2020年12月22日下午，中国人民银行行长易纲会见了香港金管局与香港银行公会代表团，双方就粤港澳大湾区绿色金融发展、人民币国际化等议题交换了意见。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7910382.d.html</link>
+            <guid>1940437</guid>
+            <pubDate>Tue, 22 Dec 2020 10:01:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫：俄罗斯总统普京将在周二和俄罗斯副总理诺瓦克会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8326558.d.html</link>
+            <guid>1940436</guid>
+            <pubDate>Tue, 22 Dec 2020 10:00:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟官员：英国最新的脱欧提议是不可接受的。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7910234.d.html</link>
+            <guid>1940435</guid>
+            <pubDate>Tue, 22 Dec 2020 10:00:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国拟设立海南自由贸易港知识产权法院】2日提请十三届全国人大常委会第二十四次会议审议的一份决定草案显示，我国拟设立海南自由贸易港知识产权法院，保障中国特色自由贸易港建设，完善知识产权法院布局，加大知识产权司法保护力度。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7910095.d.html</link>
+            <guid>1940434</guid>
+            <pubDate>Tue, 22 Dec 2020 10:00:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【青海政企签署协议打造高能密度锂电材料智能制造基地】12月22日，青海省工信厅、西宁市政府、西宁经济技术开发区、青海泰丰先行锂能科技有限公司共同签署《年产16万吨高能密度锂电材料智能制造基地项目》投资合作协议，共同打造高能密度锂电材料智能制造基地。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7909803.d.html</link>
+            <guid>1940432</guid>
+            <pubDate>Tue, 22 Dec 2020 09:58:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际乒联官宣：2020年团体世乒赛取消】12月22日，国际乒联官方宣布，由于近几天在韩国出现的新冠病毒确诊病例增多，国际乒联执委会与各洲际协会代表一同决定，取消2020年国际乒联世界乒乓球团体锦标赛。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7909751.d.html</link>
+            <guid>1940431</guid>
+            <pubDate>Tue, 22 Dec 2020 09:58:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【社区团购九不得新规出台】市场监管总局联合商务部22日召开规范社区团购秩序行政指导会，阿里、腾讯、京东、美团、拼多多、滴滴6家互联网平台企业参加。为严格规范社区团购经营行为，会议要求互联网平台企业严格遵守“九不得”：一是不得通过低价倾销、价格串通、哄抬价格、价格欺诈等方式滥用自主定价权。二是不得违法达成、实施固定价格、限制商品生产或销售数量、分割市场等任何形式的垄断协议。三是不得实施没有正当理由的掠夺性定价、拒绝交易、搭售等滥用市场支配地位行为。四是不得违法实施经营者集中，排除、限制竞争。五是不得实施商业混淆、虚假宣传、商业诋毁等不正当竞争行为，危害公平竞争市场环境。六是不得利用数据优势“杀熟”，损害消费者合法权益。七是不得利用技术手段损害竞争秩序，妨碍其他市场主体正常经营。八是不得非法收集、使用消费者个人信息，给消费者带来安全隐患。九是不得销售假冒伪劣商品，危害安全放心的消费环境。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8325896.d.html</link>
+            <guid>1940430</guid>
+            <pubDate>Tue, 22 Dec 2020 09:57:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【创业板上市委：英诺激光等3公司首发12月29日上会】创业板上市委公告，英诺激光科技股份有限公司、江苏晶雪节能科技股份有限公司、青岛海泰科模塑科技股份有限公司首发12月29日上会。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8325680.d.html</link>
+            <guid>1940429</guid>
+            <pubDate>Tue, 22 Dec 2020 09:55:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场监管总局联合商务部22日召开规范社区团购秩序行政指导会，阿里、腾讯、京东、美团、拼多多、滴滴6家互联网平台企业参加。为严格规范社区团购经营行为，会议要求互联网平台企业严格遵守“九不得”。（新华视点）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7909282.d.html</link>
+            <guid>1940428</guid>
+            <pubDate>Tue, 22 Dec 2020 09:54:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【成都两中风险区降为低风险区】12月22日，成都郫都区新冠肺炎疫情防控指挥部和成华区新冠肺炎疫情防控指挥部通报，成都两个中风险地区下调风险等级，包括成都郫都区唐昌镇永安村8组和成华区崔家店华都云景台小区。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7908854.d.html</link>
+            <guid>1940427</guid>
+            <pubDate>Tue, 22 Dec 2020 09:52:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【贵州百灵：芍苓片获得药物临床试验批准通知书】贵州百灵公告，公司于近日收到国家药品监督管理局(“国家药监局”)核准签发的《药物临床试验批准通知书》。经审查，芍苓片符合药品注册的有关要求，同意进行临床试验。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8325116.d.html</link>
+            <guid>1940426</guid>
+            <pubDate>Tue, 22 Dec 2020 09:51:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[匈牙利总理办公室部长GULYAS：疫情限制措施至少持续到明年1月11日。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8324530.d.html</link>
+            <guid>1940425</guid>
+            <pubDate>Tue, 22 Dec 2020 09:49:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[匈牙利总理办公室部长GULYAS：新冠疫苗接种将于12月27日开始。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7908151.d.html</link>
+            <guid>1940424</guid>
+            <pubDate>Tue, 22 Dec 2020 09:48:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊利股份：收购中地乳业案通过市场监管总局的反垄断审查】伊利股份公告，公司于2020年12月21日收到国家市场监督管理总局出具的《经营者集中反垄断审查不予禁止决定书》（反垄断审查决定〔2020〕504号）。具体内容如下：“根据《中华人民共和国反垄断法》第二十六条规定，经审查，现决定，对内蒙古伊利实业集团股份有限公司收购中国中地乳业控股有限公司股权案不予禁止，你公司从即日起可以实施集中。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8324352.d.html</link>
+            <guid>1940423</guid>
+            <pubDate>Tue, 22 Dec 2020 09:48:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽元兑美元NZD/USD日内跌0.7%，现报0.7047。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8324304.d.html</link>
+            <guid>1940422</guid>
+            <pubDate>Tue, 22 Dec 2020 09:47:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【胡振江率工作组赴上海开展调研】12月17日至18日，民航局副局长胡振江率工作组赴上海开展调研工作。在沪期间，胡振江与上海市副市长吴清进行了工作会谈，就疫情防控和其他工作进行商谈，实地调研了中国航发商用航空发动机公司和上海金山无人驾驶航空试验区，并与相关单位进行座谈和交流。（中国民航网）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7907656.d.html</link>
+            <guid>1940420</guid>
+            <pubDate>Tue, 22 Dec 2020 09:45:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【合肥四维图新与合工大汽车工程技术研究院达成合作】12月22日，合肥四维图新科技有限公司与合肥工业大学汽车工程技术研究院，签署产学研合作协议，“智能网联电动汽车技术创新联合实验室”同期揭牌投入运营。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8323788.d.html</link>
+            <guid>1940419</guid>
+            <pubDate>Tue, 22 Dec 2020 09:44:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【云南旅游：拟2.6亿元转让世博园艺100%股权】云南旅游公告，为了聚焦旅游主营业务，强化核心业务，有效减少上市公司的关联交易，进一步增强上市公司独立性，提升上市公司盈利能力，加速推进上市公司实现全域旅游综合服务商的战略目标，公司拟将持有的云南世博园艺有限公司100%股权作价人民币26,458.31万元转让给云南世博旅游控股集团有限公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7907448.d.html</link>
+            <guid>1940418</guid>
+            <pubDate>Tue, 22 Dec 2020 09:44:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泛海控股：成立持股平台并受让公司持有的民生证券部分股权】泛海控股(000046)12月22日晚间公告，公司拟向天津同享咨询服务合伙企业、天津同成咨询服务合伙企业，转让公司控股子公司民生证券部分股份，转让金额合计不超过3亿元，对应不超过1.961亿股股份（约占民生证券目前总股本的1.71%）。本次成立持股平台并受让公司持有的民生证券部分股权，旨在激发董事、监事、高级管理人员及骨干员工的干事创业热情。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7907401.d.html</link>
+            <guid>1940417</guid>
+            <pubDate>Tue, 22 Dec 2020 09:44:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国电影：收到政府补助】中国电影(600977)12月22日晚公告，2020年1月1日至公告日，公司及子公司累计收到与收益相关的政府补助合计1.24亿元，与资产相关的政府补助合计229万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7907337.d.html</link>
+            <guid>1940416</guid>
+            <pubDate>Tue, 22 Dec 2020 09:43:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[奥佳华：拟分拆所属子公司厦门呼博仕环境工程产业股份有限公司至深圳证券交易所创业板上市。完成后公司股权结构不会发生重大变化，且仍将维持对呼博仕的控股权。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8323496.d.html</link>
+            <guid>1940415</guid>
+            <pubDate>Tue, 22 Dec 2020 09:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国民航业率先在全球触底反弹 各项指标恢复程度全球第一】中国民用航空局副局长董志毅表示，到年底民航局等部门给航空公司预计减免各项费用100多亿元，出台了货运物流绿色通道，简化了货运航线航班审批，让中国国际货运能力显著提升，也有力提升了国际供应链保运报供能力。综合施策，中国航空业发展稳住了基本盘。二季度以来，中国民航业稳健回升，11月份民航国内的总运输、总周转量、旅客运输量、货物运输量均恢复到去年同期的90%以上。各项指标恢复程度全球第一。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8323169.d.html</link>
+            <guid>1940414</guid>
+            <pubDate>Tue, 22 Dec 2020 09:41:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[移远通信：美国国际贸易委员会对公司开展337调查，本次涉诉主要是部分4G模组产品，2018年、2019年及2020年1-9月相关产品在美国的销售额占公司总销售额的比重分别为3.40%、2.00%、1.93%；所占比重较小。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8322841.d.html</link>
+            <guid>1940412</guid>
+            <pubDate>Tue, 22 Dec 2020 09:40:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[首家银行系公募工银瑞信“换帅”：原工银金融租赁党委书记、总裁赵桂才成新掌门。（贝壳财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8322261.d.html</link>
+            <guid>1940411</guid>
+            <pubDate>Tue, 22 Dec 2020 09:38:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[截至2020年11月底，我国境内共有基金管理公司132家，其中，中外合资公司44家，内资公司88家；取得公募基金管理资格的证券公司或证券公司资产管理子公司共12家、保险资产管理公司2家。以上机构管理的公募基金资产净值合计18.75万亿元。（中国基金业协会）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7906111.d.html</link>
+            <guid>1940410</guid>
+            <pubDate>Tue, 22 Dec 2020 09:37:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[首家银行系公募工银瑞信“换帅”，赵桂才成新掌门。消息人士称，原工银金融租赁党委书记、总裁赵桂才已正式任命为工银瑞信基金党委书记并主持工作。（贝壳财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8322214.d.html</link>
+            <guid>1940409</guid>
+            <pubDate>Tue, 22 Dec 2020 09:37:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时罗素从1月7日起将中芯国际和海康威视从富时中国A50指数和富时中国50指数中剔除。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7905652.d.html</link>
+            <guid>1940408</guid>
+            <pubDate>Tue, 22 Dec 2020 09:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国区块链专利全球居首，正牵头制定国际标准】12月22日，中国信通院联合中国通信标准化协会等在京举行了2020可信区块链峰会。会上披露我国不仅已发布了33项区块链团体标准，由我国牵头制定的首个金融区块链国际标准也已在国际电信联盟成功立项。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8321773.d.html</link>
+            <guid>1940407</guid>
+            <pubDate>Tue, 22 Dec 2020 09:35:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中汽协：12月上中旬乘用车产量同比下降2.5%】中汽协根据行业内11家重点企业上报的数据统计显示，2020年12月上中旬，11家重点企业汽车产量完成154.2万辆，同比下降3%。其中：乘用车产量完成131.7万辆，同比下降2.5%，商用车产量完成了22.5万辆，同比下降5.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8321589.d.html</link>
+            <guid>1940406</guid>
+            <pubDate>Tue, 22 Dec 2020 09:34:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海、南通、常州合作探索长三角养老服务一体化新路径】上海市长宁区日前分别与江苏省南通市、常州市签署《长三角区域养老一体化服务协作备忘录》，加强三地养老资源共享和项目共建。在签约《长三角区域养老一体化服务协作备忘录》的基础上，上海长宁将与结对地区持续推进区域养老服务政策通关，使养老设施、从业人员资格认定、老年人照护需求评估标准等进一步互通互认，并积极引入结对城市的养老产业资源，加速城市间生产要素流通、养老产业联动，为老年人提供异地养老、旅居养老等特色服务。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8321565.d.html</link>
+            <guid>1940405</guid>
+            <pubDate>Tue, 22 Dec 2020 09:34:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马来西亚将采购两款中国新冠疫苗 谈判接近完成】马来西亚媒体22日消息称，该国总理穆希丁表示，将从中国的科兴生物、康希诺生物以及俄罗斯加马列亚研究所购入新冠疫苗，“谈判已经进入最后阶段”。穆希丁指出，与这三家疫苗供应方的协议中也包括知识分享，有助于马来西亚的科技发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7905238.d.html</link>
+            <guid>1940404</guid>
+            <pubDate>Tue, 22 Dec 2020 09:33:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【T3出行发布4833战略：发力三大业务板块 2021年日均订单目标300万】12月22日下午，T3出行今日举行战略发布会，正式发布2021年战略目标——4833战略，即网约车业务落地全国48城，加速和落地“网约车业务+巡网一体出租车+自动驾驶生态运营联盟”3大战略板块，并在2021年年底实现全业务线日均300万订单目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8321268.d.html</link>
+            <guid>1940403</guid>
+            <pubDate>Tue, 22 Dec 2020 09:32:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【古越龙山三连板 一机构累计卖出7845.25万元】古越龙山连续3天涨停，龙虎榜数据显示，12月21日至22日，一机构累计卖出7845.25万元，国泰君安上海江苏路证券营业部累计买入3877.01万元并卖出4779.12万元。]]></title>
             <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7904907.d.html</link>
@@ -223,389 +607,6 @@
             <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7900681.d.html</link>
             <guid>1940367</guid>
             <pubDate>Tue, 22 Dec 2020 09:10:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国拟设立海南自贸港知产法院】关于海南自由贸易港知识产权法院的案件管辖，《关于设立海南自由贸易港知识产权法院的决定（草案）》的说明中提出，海南自贸港知产法院拟专门管辖海南省内应由中级法院管辖的知识产权民事、行政、刑事案件，实行知识产权审判“三合一”。（最高人民法院）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7900489.d.html</link>
-            <guid>1940366</guid>
-            <pubDate>Tue, 22 Dec 2020 09:09:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[极光(JG.O)盘前暴涨逾30%，此前表示与全球领先新能源车制造商达成合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7900443.d.html</link>
-            <guid>1940365</guid>
-            <pubDate>Tue, 22 Dec 2020 09:09:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【应急管理部：加强对关停煤矿、技改煤矿和非煤矿山的监管，坚决遏制重特大事故发生】应急管理部官网消息，应急管理部党委书记黄明表示，要突出抓好矿山安全这个重中之重，加强重点地区督导检查，对高风险煤矿精准制定“一矿一策”方案，落实冲击地压、瓦斯、水害等重大灾害防范整治措施，加强对关停煤矿、技改煤矿和非煤矿山的监管，坚持先立后破，防止机构改革过程中监管监察工作脱节，强化责任落实，坚决遏制重特大事故发生。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8316475.d.html</link>
-            <guid>1940364</guid>
-            <pubDate>Tue, 22 Dec 2020 09:08:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国疾控机构罗伯特·科赫研究所所长：我们还不能对英国变异的新冠病毒进行判断。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7900254.d.html</link>
-            <guid>1940362</guid>
-            <pubDate>Tue, 22 Dec 2020 09:08:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500指数期货收复跌幅，目前接近持平。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7900111.d.html</link>
-            <guid>1940361</guid>
-            <pubDate>Tue, 22 Dec 2020 09:07:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄新社：俄罗斯将扩大对欧盟官员的入境禁令名单。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7899960.d.html</link>
-            <guid>1940360</guid>
-            <pubDate>Tue, 22 Dec 2020 09:06:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国生物技术公司BioNTech：美国到2020年底将获得2000万剂疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8316005.d.html</link>
-            <guid>1940359</guid>
-            <pubDate>Tue, 22 Dec 2020 09:06:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[华贸物流：下属大连分公司与两家境外公司签署了长期包机合同，标的金额1.99亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8315960.d.html</link>
-            <guid>1940358</guid>
-            <pubDate>Tue, 22 Dec 2020 09:05:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伦敦金属交易所（LME）铅注销仓单增加20%，为去年10月以来最大涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7899738.d.html</link>
-            <guid>1940357</guid>
-            <pubDate>Tue, 22 Dec 2020 09:05:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国疾控机构罗伯特·科赫研究所所长：敦促人们在圣诞节期间尽量少聚集，不要外出旅行。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7899525.d.html</link>
-            <guid>1940356</guid>
-            <pubDate>Tue, 22 Dec 2020 09:04:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[回天新材：子公司上海回天年产1.87万吨光伏有机硅胶项目已完成设备安装及调试投产工作，设备状态稳定，成品检测核心指标符合产品标准要求并实现全面量产，本投资项目顺利建成投产。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8315605.d.html</link>
-            <guid>1940355</guid>
-            <pubDate>Tue, 22 Dec 2020 09:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[激光雷达公司Velodyne Lidar(VLDR.O)盘前涨超8%，此前有知情人士称，苹果公司正在与汽车激光雷达传感器制造商接洽，并在未来的汽车当中配备多个激光雷达传感器。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7899422.d.html</link>
-            <guid>1940354</guid>
-            <pubDate>Tue, 22 Dec 2020 09:03:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[两连板东方材料：拟变更的新实控人没有在未来12个月内改变公司主营业务的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8315439.d.html</link>
-            <guid>1940353</guid>
-            <pubDate>Tue, 22 Dec 2020 09:03:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【神火股份今日跌停 两机构合计卖出3528万元】神火股份今日跌停，盘后龙虎榜数据显示，深股通买入6854万并卖出5617万；两机构席位合计卖出3528万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8315360.d.html</link>
-            <guid>1940352</guid>
-            <pubDate>Tue, 22 Dec 2020 09:02:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伦敦金属交易所(LME)：LME铜库存减少3375吨，铝库存减少6625吨，锌库存减少1450吨，镍库存减少102吨，锡库存减少85吨，铅库存持平。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8315260.d.html</link>
-            <guid>1940351</guid>
-            <pubDate>Tue, 22 Dec 2020 09:02:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国生物技术公司BioNTech：新冠病毒将在未来十年一直存在。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7899124.d.html</link>
-            <guid>1940350</guid>
-            <pubDate>Tue, 22 Dec 2020 09:02:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果盘前涨超2%，此前有消息人士表示苹果计划最早在2024年实现电动汽车生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8315090.d.html</link>
-            <guid>1940349</guid>
-            <pubDate>Tue, 22 Dec 2020 09:01:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国生物技术公司BioNTech：有信心提出更宽松的存储条件，稳定性，但正在等待数据和计划在1月底的更新。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7898904.d.html</link>
-            <guid>1940348</guid>
-            <pubDate>Tue, 22 Dec 2020 09:01:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[未名医药：营新科技年产28000吨原甲酸酯系列产品项目顺利投产。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8314392.d.html</link>
-            <guid>1940347</guid>
-            <pubDate>Tue, 22 Dec 2020 08:58:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[银保监会信托部主任赖秀福表示，目前融资类信托业务逐步规范，影子银行风险得到进一步控制。下一步将制定出台信托公司资金信托业务和资本管理制度，修订信托公司监管评级制度，优化信托公司分类监管体系，提高监管工作质效。（金融时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8314232.d.html</link>
-            <guid>1940346</guid>
-            <pubDate>Tue, 22 Dec 2020 08:57:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[华储网发布2020年12月24日中央储备冻猪肉投放竞价交易有关事项的通知，将竞价交易3万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8314192.d.html</link>
-            <guid>1940345</guid>
-            <pubDate>Tue, 22 Dec 2020 08:56:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世界卫生组织欧洲区域主任：世界卫生组织将召开组织成员会议，讨论如何应对新的新冠病毒变异问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8313867.d.html</link>
-            <guid>1940343</guid>
-            <pubDate>Tue, 22 Dec 2020 08:55:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京写字楼空置率创近10年新高 明年可能更严峻】全球房地产服务上市公司高力国际22日发布的数据称，受疫情影响，今年，北京写字楼空置率继续走高至19.4%，创近10年新高。空置率上升的同时，写字楼租金明显下调。今年北京写字楼整体租金为每月每平方米351元，同比下降8.4%，降幅也创近十年新记录。预计明年将有接近160万平方米的新项目集中入市（2019年超过90万平方米），让2021年成为北京甲级写字楼市场上极具考验性的一年。（国是直通车）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7897779.d.html</link>
-            <guid>1940342</guid>
-            <pubDate>Tue, 22 Dec 2020 08:54:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[赣能股份：主营业务仍为火力发电，光伏对公司营业收入和利润影响较小。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7897603.d.html</link>
-            <guid>1940341</guid>
-            <pubDate>Tue, 22 Dec 2020 08:53:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国生物技术公司BioNTech：计划到2020年底为欧盟提供1250万剂疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8313456.d.html</link>
-            <guid>1940340</guid>
-            <pubDate>Tue, 22 Dec 2020 08:53:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国生物技术公司BioNTech：正在与日本当局讨论日本的研究和全球的数据，目前无法给出时间表，但预计日本（对疫苗）的审批程序将非常迅速。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8313437.d.html</link>
-            <guid>1940339</guid>
-            <pubDate>Tue, 22 Dec 2020 08:53:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国宝武发布工业互联网平台】12月22日，在以“智领航，创未来”为主题的中国宝武/宝信软件工业互联网平台发布会上，由宝信软件自主研发的中国宝武工业互联网平台xIn3Plat重磅发布。该平台以新基建为驱动、以平台化为要求、以生态化为目标，建设集中、共享、赋能的新型基础设施，打造钢铁数字生态操作系统，成为驱动中国宝武数智化转型的平台基础，将进一步发挥行业溢出效应，在3-5年内成为中国知名的工业互联网行业示范平台。（中证网）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8313370.d.html</link>
-            <guid>1940338</guid>
-            <pubDate>Tue, 22 Dec 2020 08:52:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“20永煤SCP006”持有人会议审议通过展期方案，同意发行人先行兑付50%本金及全额利息，剩余本金展期270天。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7897299.d.html</link>
-            <guid>1940337</guid>
-            <pubDate>Tue, 22 Dec 2020 08:52:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【超2800万标箱 宁波舟山港年集装箱吞吐量创新高】截至12月21日凌晨，宁波舟山港今年的集装箱吞吐量突破2800万标箱，创历史新高。宁波舟山港集装箱运输生产稳步提升，吞吐量已经连续三年跻身全球港口前三甲。目前，全球仅有三个港口年集装箱吞吐量超2800万标准箱，分别是上海港、新加坡港、宁波舟山港。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8313192.d.html</link>
-            <guid>1940336</guid>
-            <pubDate>Tue, 22 Dec 2020 08:51:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度SENSEX指数和印度NIFTY指数涨幅均扩大至1％。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7896740.d.html</link>
-            <guid>1940335</guid>
-            <pubDate>Tue, 22 Dec 2020 08:49:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国生物技术公司BioNTech：没有预测英国脱欧带来的航运问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8312680.d.html</link>
-            <guid>1940334</guid>
-            <pubDate>Tue, 22 Dec 2020 08:49:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大商所：免收2021年1月1日至2021年12月31日期间标准仓单作为保证金的手续费；免收2021年4月1日至2021年12月31日期间全部期货品种的交割手续费。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7896552.d.html</link>
-            <guid>1940333</guid>
-            <pubDate>Tue, 22 Dec 2020 08:48:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国生物技术公司BioNTech：正在制定“尽可能多地”扩大新冠疫苗生产的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8312433.d.html</link>
-            <guid>1940332</guid>
-            <pubDate>Tue, 22 Dec 2020 08:47:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【网易入股游戏开发商“犬酱组”，凯撒文化为股东之一】 据报道，上海隆匠网络科技有限公司发生工商变更，新增投资人为网易（杭州）网络有限公司。与此同时，该公司注册资本由原来的约1176.5万人民币新增至约1470.6万人民币，增幅为25%。深圳凯撒文化创业投资企业（有限合伙）也同为上海隆匠网络的股东，持股比例为12%。股权结构显示，该合伙企业背后为上市公司凯撒文化。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8312375.d.html</link>
-            <guid>1940330</guid>
-            <pubDate>Tue, 22 Dec 2020 08:47:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【圣诞节假期沪深港通交易安排出炉】北向沪股通和深股通将于12月24日（星期四）至12月25日（星期五）暂停交易；南向港股通将于12月25日（星期五）暂停交易。12月28日（星期一），沪深港通将如常开通。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7896260.d.html</link>
-            <guid>1940329</guid>
-            <pubDate>Tue, 22 Dec 2020 08:46:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据新华社：十三届全国人大常委会第二十四次会议在京举行，会议听取了周光权作的关于刑法修正案（十一）草案审议结果的报告。草案三审稿进一步完善低龄未成年人犯罪规定，完善刑法有关侵犯商标、著作权、商业秘密等犯罪规定，加强知识产权保护，完善冒名顶替犯罪规定，加大惩治污染环境犯罪等。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7896132.d.html</link>
-            <guid>1940328</guid>
-            <pubDate>Tue, 22 Dec 2020 08:46:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国生物技术公司BioNTech：预计将在明年1月底或2月底获得疫苗是否能预防无症状新冠感染的数据。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8312052.d.html</link>
-            <guid>1940327</guid>
-            <pubDate>Tue, 22 Dec 2020 08:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据新华社：十三届全国人大常委会第二十四次会议在京举行，为保障中国特色自由贸易港建设，完善知识产权法院布局，最高人民法院提出了关于提请审议关于设立海南自由贸易港知识产权法院的决定草案的议案。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8311948.d.html</link>
-            <guid>1940326</guid>
-            <pubDate>Tue, 22 Dec 2020 08:45:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据英国金融时报：欧盟首席脱欧谈判官巴尼耶将于当地时间下午16:00点（北京时间23:00）向欧盟各国特使就英国脱欧谈判进行简报。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7895825.d.html</link>
-            <guid>1940325</guid>
-            <pubDate>Tue, 22 Dec 2020 08:44:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[银轮股份：向浙江银轮新能源热管理系统有限公司增资。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8311741.d.html</link>
-            <guid>1940324</guid>
-            <pubDate>Tue, 22 Dec 2020 08:44:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[卧龙电驱：将为德国纬湃科技提供新能源汽车电机，销售预估金额21亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7895491.d.html</link>
-            <guid>1940323</guid>
-            <pubDate>Tue, 22 Dec 2020 08:43:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒生指数有限公司提议将恒生指数成份股数量增加至65-80支。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8311462.d.html</link>
-            <guid>1940322</guid>
-            <pubDate>Tue, 22 Dec 2020 08:43:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国电南自：全资子公司南京国电南自新能源工程技术有限公司吸收合并南京国电南自城乡电网自动化工程有限公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7895286.d.html</link>
-            <guid>1940321</guid>
-            <pubDate>Tue, 22 Dec 2020 08:42:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国生物技术公司BioNTech：能够在6周内提供一种新的疫苗来模拟显著的病毒突变，但也必须解决监管机构将如何看待这种新疫苗的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7895173.d.html</link>
-            <guid>1940318</guid>
-            <pubDate>Tue, 22 Dec 2020 08:41:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【*ST金钰：股票停牌，存在被终止上市的风险】*ST金钰公告，公司A股股票已连续20个交易日（2020年11月25日-12月22日）收盘价格均低于股票面值（即1元），根据《上海证券交易所股票上市规则》的有关规定，公司股票自2020年12月23日（周三）开市起停牌，上海证券交易所在公司股票停牌起始日后的15个交易日内，作出是否终止公司股票上市的决定。公司股票可能将被终止上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8311074.d.html</link>
-            <guid>1940317</guid>
-            <pubDate>Tue, 22 Dec 2020 08:41:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国生物技术公司BioNTech：虽然科学的疫苗可以对付新的变种，但需要两周的时间来获得数据。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8310790.d.html</link>
-            <guid>1940316</guid>
-            <pubDate>Tue, 22 Dec 2020 08:40:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[模塑科技：拟向全资孙公司墨西哥名华追加投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8310670.d.html</link>
-            <guid>1940315</guid>
-            <pubDate>Tue, 22 Dec 2020 08:40:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国一汽：2021年一汽奔腾将推6款新车】记者从中国一汽获悉，12月19日，以“聚势共赢 创变新奔腾”为主题的2021年一汽奔腾经销商大会在长春召开。奔腾公司副总经理金叙龙分享了奔腾“十四五”产品规划。未来奔腾在产品策略和产品功能方面，将打造5悦IP，愉悦客户用车体验；4大核心技术支持全新奔腾产品重点发力。2021年，奔腾将推出6款新车，其中包括3款全新车型、3款在售车型升级。产品体系将会为市场终端做好、做足技术服务与支撑。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7894601.d.html</link>
-            <guid>1940314</guid>
-            <pubDate>Tue, 22 Dec 2020 08:39:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国生物技术公司BioNTech：英国的变异新冠病毒毒株有9个变种，目前仍未知疫苗是否能针对新变种毒株提供保护。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7894520.d.html</link>
-            <guid>1940313</guid>
-            <pubDate>Tue, 22 Dec 2020 08:39:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【百度关联公司申请区块链相关专利 可用于云计算和云服务】据报道，近日，百度关联公司百度在线网络技术（北京）有限公司新增多条专利信息，其中包括“区块链数据的监管方法、装置、电子设备和存储介质”，申请日期在2020年11月，公布日在2020年12月。专利摘要显示，本申请涉及区块链技术领域，可用于云计算和云服务。具体实现方案为：为至少一个受监管区块链生成巡查指令；向所述受监管区块链中的监管网关发送所述巡查指令，用于指示所述受监管区块链基于所述巡查指令，更新所述受监管区块链中的事务黑名单。本申请能够提高区块链数据的监管效率。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7894410.d.html</link>
-            <guid>1940312</guid>
-            <pubDate>Tue, 22 Dec 2020 08:38:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国卫生部长VERAN：重申到目前为止没有证据表明新的变异病毒毒株在法国传播，但有可能已在法国存在。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7894219.d.html</link>
-            <guid>1940311</guid>
-            <pubDate>Tue, 22 Dec 2020 08:37:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港新增63例确诊，其中本地53例包括13例源头不明】12月22日，据香港电台网站、无线新闻、《香港商报》等港媒报道，截至当日零时，香港新增63例新冠肺炎确诊病例，其中本地占53例，包括13例源头不明。（界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8309973.d.html</link>
-            <guid>1940310</guid>
-            <pubDate>Tue, 22 Dec 2020 08:36:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【午后流动性维持宽松，银行间隔夜回购跌破1% 】央行今日公开市场净投放规模扩大至1200亿元，银行间隔夜质押式回购利率跌至1%下方，7天期品种亦降，跨年的14天品种则继续迈向逾一个月高位。截止北京时间16:30，1天期回购利率下跌约46个基点，报0.9716%；7天期回购利率下跌约5个基点，报1.8860%。彭博援引交易员称，午后流动性维持宽松，短期资金拆借容易，跨年资金仍然要看质押券资质。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7893662.d.html</link>
-            <guid>1940309</guid>
-            <pubDate>Tue, 22 Dec 2020 08:35:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日本经济再生大臣西村康稔：疫情委员会将考虑修订特殊措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7893532.d.html</link>
-            <guid>1940308</guid>
-            <pubDate>Tue, 22 Dec 2020 08:34:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧股反弹，德国DAX指数涨超1.1%，法国CAC40指数涨超1%，欧洲斯托克50指数涨超1.2%，西班牙IBEX35指数涨超1.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8308983.d.html</link>
-            <guid>1940307</guid>
-            <pubDate>Tue, 22 Dec 2020 08:32:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  在岸人民币兑美元12月22日16:30收盘报6.5480，较上一交易日上涨14点。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8308933.d.html</link>
-            <guid>1940306</guid>
-            <pubDate>Tue, 22 Dec 2020 08:31:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【九三粮油史永革：中国大豆压榨产业发展仍面临多重挑战】九三粮油工业集团有限公司总经理史永革表示，当前阶段，复杂的国内外形势下，中国大豆压榨企业面临多重挑战，从整体来看，外部环境恶化，体现在贸易、投资和各个领域，对国内产业链供应方面都带来了一些影响，同时国内需求下行压力也持续加大，转方式、调结构还在阵痛期，尤其受疫情影响，实体经济困难加剧，工业生产增速放缓，经济形势更加严峻，国内压榨行业也将面临着更多不确定性的挑战。]]></title>
-            <guid>1940304</guid>
-            <pubDate>Tue, 22 Dec 2020 08:30:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日本经济再生大臣西村康稔：必须减少新冠病毒的感染，否则对经济的负面影响将持续。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8308468.d.html</link>
-            <guid>1940303</guid>
-            <pubDate>Tue, 22 Dec 2020 08:30:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  法国卫生部长VERAN：法国医疗监管机构应该在12月26日前批准新冠疫苗的使用。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8308240.d.html</link>
-            <guid>1940302</guid>
-            <pubDate>Tue, 22 Dec 2020 08:29:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中汽协：前11月长安、奇瑞和吉利出口量同比呈较快增长】据中国汽车工业协会根据企业上报的整车出口数据显示，2020年1-11月，汽车出口量排名前十位的企业依次是：上汽、奇瑞、长安、长城、吉利、东风、北汽、大庆沃尔沃、江淮和重汽。与上年同期相比，长安、奇瑞和吉利出口量呈较快增长，上汽和长城增速略低，大庆沃尔沃略有下降，其他四家企业降幅依然明显。1-11月，上述十家企业共出口76.4万辆，占汽车出口总量的89.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7892206.d.html</link>
-            <guid>1940301</guid>
-            <pubDate>Tue, 22 Dec 2020 08:29:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日本经济再生大臣西村康稔：消费的复苏趋势仍在继续。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8308004.d.html</link>
-            <guid>1940300</guid>
-            <pubDate>Tue, 22 Dec 2020 08:28:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[天汽模：德国子公司TQM-EU申请破产。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8307886.d.html</link>
-            <guid>1940299</guid>
-            <pubDate>Tue, 22 Dec 2020 08:27:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家能源集团于雄安成立新公司 注册资本为10亿人民币】据报道，12月21日，国家能源集团雄安能源有限公司成立，注册资本10亿人民币，法定代表人为张书军，经营范围包含科普宣传服务；科普橱窗展览服务；风力发电技术服务；新兴能源技术研发；电力行业高效节能技术研发等，该公司由国家能源投资集团有限责任公司全资持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznctke7891787.d.html</link>
-            <guid>1940298</guid>
-            <pubDate>Tue, 22 Dec 2020 08:27:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新加坡从23日晚起收紧对英国的边境管制：禁止14天内访英外国旅客入境。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-22/detail-iiznezxs8307295.d.html</link>
-            <guid>1940297</guid>
-            <pubDate>Tue, 22 Dec 2020 08:24:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
