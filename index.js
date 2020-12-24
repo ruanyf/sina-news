@@ -21,6 +21,11 @@ async function main() {
     const response = await fetch(url, {
       headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10130'}
     });
+
+    if (response.status < 200 || response.status >= 300) {
+      throw new Error('connect error');
+    }
+
     const json = await response.json();
     console.log(`successfully fetch the feed.`);
 
