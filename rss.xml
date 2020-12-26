@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 26 Dec 2020 17:51:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Dec 2020 18:37:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  法国报告过去24小时新增3093例新冠肺炎确诊病例，新增146例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-27/detail-iiznctke8702770.d.html</link>
+            <guid>1945723</guid>
+            <pubDate>Sat, 26 Dec 2020 18:35:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国纽约州州长科莫：纽约州新增10806例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-27/detail-iiznezxs9120147.d.html</link>
+            <guid>1945722</guid>
+            <pubDate>Sat, 26 Dec 2020 18:21:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据俄罗斯卫星网：美国田纳西州州长要求特朗普在纳什维尔发生大规模爆炸后宣布进入紧急状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-27/detail-iiznctke8701897.d.html</link>
+            <guid>1945721</guid>
+            <pubDate>Sat, 26 Dec 2020 18:17:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据俄罗斯卫星网：阿富汗副总统安全小组副组长在喀布尔汽车炸弹爆炸中丧生。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-27/detail-iiznezxs9118959.d.html</link>
+            <guid>1945720</guid>
+            <pubDate>Sat, 26 Dec 2020 18:03:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：在美国证交会对区块链公司Ripple提起诉讼之后，加密货币做市商B2C2停止了与美国对手方的XRP交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-27/detail-iiznctke8700644.d.html</link>
+            <guid>1945719</guid>
+            <pubDate>Sat, 26 Dec 2020 17:54:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  市场消息：美国当选总统拜登警告称，如果特朗普不签署新冠病毒纾困法案，将产生“毁灭性后果”。]]></title>
             <link>https://finance.sina.cn/7x24/2020-12-27/detail-iiznezxs9117044.d.html</link>
@@ -578,36 +608,6 @@
             <link>https://finance.sina.cn/7x24/2020-12-26/detail-iiznezxs9046837.d.html</link>
             <guid>1945610</guid>
             <pubDate>Sat, 26 Dec 2020 06:49:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[辽宁沈阳确诊病例患者就读学校于12月23日停课封闭管控，涉及学校的相关人员核酸检测767人份均为阴性。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-26/detail-iiznezxs9046762.d.html</link>
-            <guid>1945609</guid>
-            <pubDate>Sat, 26 Dec 2020 06:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳重开私募注册登记，或将择优试点】从相关人士处获悉，目前深圳已重新开放证券类私募基金注册登记，12月开始已能够成立新的证券类私募基金。需要注意的是，这一次证券类私募基金注册登记的放开或将不是大水漫灌，而是择优试点，有两类私募最受欢迎。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-26/detail-iiznezxs9045539.d.html</link>
-            <guid>1945607</guid>
-            <pubDate>Sat, 26 Dec 2020 06:40:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国股转公司董事长谢庚：设立新的市场服务中小企业，是必然也是必需的选择】全国股转公司董事长谢庚谈新三板发展：中小企业金融服务可谓世界性难题。随着我国经济发展、增长方式转变，设立新的市场服务中小企业，是必然也是必需的选择。从资本市场提供服务和防范风险的角度来说，需要设立一个新的市场进行风险的分层管理，形成更加契合中小企业特点的制度性安排。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-26/detail-iiznctke8626488.d.html</link>
-            <guid>1945606</guid>
-            <pubDate>Sat, 26 Dec 2020 06:30:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深交所：加大对资本市场深化改革重要课题的攻坚克难】深交所消息，2020年是《证券市场导报》创刊30周年。深交所将通过《证券市场导报》集中优势研究力量，加大对资本市场深化改革重要课题的攻坚克难，以专业、扎实、严谨的研究成果，推动资本市场改革措施渐次落地，支持资本市场枢纽功能发挥，服务“双区”大局，加快建设“优质创新资本中心和世界一流交易所”。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-26/detail-iiznezxs9043906.d.html</link>
-            <guid>1945605</guid>
-            <pubDate>Sat, 26 Dec 2020 06:27:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【当前加密货币总市值约为6625.91亿美元】数据显示，当前全球加密货币总市值约为6625.91亿美元。加密货币市场中占比排名第一的是比特币，市值约合4587亿美元，当前市值占比为69.22%；以太坊排名第二，市值约合714亿美元，当前市值占比为10.77%；泰达币排名第三，市值约合194亿美元，当前市值占比为2.92%。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-26/detail-iiznctke8624265.d.html</link>
-            <guid>1945603</guid>
-            <pubDate>Sat, 26 Dec 2020 06:12:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
