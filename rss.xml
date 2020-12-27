@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 27 Dec 2020 20:27:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Dec 2020 21:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  比特币回落至26400美元下方，现报26336美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-28/detail-iiznezxs9283007.d.html</link>
+            <guid>1946635</guid>
+            <pubDate>Sun, 27 Dec 2020 20:47:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国疾控中心：美国累计新冠肺炎确诊病例增至18909910例，累计死亡病例增至330901例。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-28/detail-iiznctke8865352.d.html</link>
+            <guid>1946634</guid>
+            <pubDate>Sun, 27 Dec 2020 20:47:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【美国前食品药监局局长：变种新冠病毒可能已经扩散到美国】当地时间12月27日，美国食品药品监督管理局前局长斯科特·戈特利布表示，变种的新冠病毒“很可能已经扩散到美国，到目前为止可能已经有相当的数量了。”戈特利布表示，美国需要一种更好的方法来对变种的毒株进行基因测序和追踪。戈特利布称，“在美国，我们没有对足够样本进行测序，而且许多测序工作都是在私人实验室完成的，并不会汇总到公共数据库中。这需要解决。在英国，他们正在对所有样品中的约10％进行测序。在这里，我们只测序了百分之一。”（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2020-12-28/detail-iiznezxs9282139.d.html</link>
@@ -594,18 +606,6 @@
             <link>https://finance.sina.cn/7x24/2020-12-27/detail-iiznezxs9223753.d.html</link>
             <guid>1946517</guid>
             <pubDate>Sun, 27 Dec 2020 08:55:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京市文旅局：“两节”期间将严控进出京旅游】北京：“两节”期间，本市倡导各地旅行社及在线旅游企业不组织旅游团队进京。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-27/detail-iiznctke8806055.d.html</link>
-            <guid>1946516</guid>
-            <pubDate>Sun, 27 Dec 2020 08:54:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北京要求元旦春节不办庙会等节日文化活动】北京市文化和旅游局一级巡视员周卫民表示，“两节”期间，原则上不举办各类庙会、大型群众文化活动、大型演出、游园会、联欢会等节日文化活动，确须举办的应在慎重评估基础上从严审批，落实“谁主办，谁负责”要求。此外，要制定完善宗教场所“两节”应急防控预案，采取实名预约、总量控制、入场检查、分时限流等措施，严控觐香、祈福等活动规模，严防人员拥挤，确保场所安全平稳有序运行。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-27/detail-iiznezxs9223094.d.html</link>
-            <guid>1946515</guid>
-            <pubDate>Sun, 27 Dec 2020 08:51:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
