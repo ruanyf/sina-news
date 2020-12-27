@@ -4,13 +4,32 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 27 Dec 2020 17:52:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Dec 2020 18:39:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[  【经参头版：稳定宏观杠杆率应抑制居民债务过快攀升】中央经济工作会议提出“保持宏观杠杆率基本稳定”的政策目标。“保持宏观杠杆率基本稳定”是下一阶段“处理好恢复经济和防范风险关系”的内在要求。总体而言，下一阶段要加大对居民债务问题的重视，有效抑制近年来居民债务过快增长态势。一是加快构建房地产长效机制，稳定房价预期，遏制居民住房贷款过快增长。二是有效控制居民消费信贷增长。三是完善社会保障体系并着力改善收入分配结构，提高中低收入群体收入水平，尽量降低居民因养老与医疗等支出而导致的债务被动增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-28/detail-iiznezxs9277743.d.html</link>
+            <guid>1946623</guid>
+            <pubDate>Sun, 27 Dec 2020 18:37:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  以色列新增3182例新冠肺炎确诊病例，累计确诊突破40万例。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-28/detail-iiznctke8859763.d.html</link>
+            <guid>1946622</guid>
+            <pubDate>Sun, 27 Dec 2020 18:26:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【北上资金连续8周净流入】上周市场分歧尽显，多空博弈进入白热化阶段，三大指数报收阳线。北上资金累计净流入A股86.14亿，已连续第8周净流入，其中沪股通累计净流入48.44亿，深股通累计净流入37.4亿。数据显示，上周北上资金持股数量环比增加行业13个。电气设备、电子、有色金属等行业北上资金持股数量增幅靠前。其中电气设备行业北上资金持股数量环比增加最为显著，北上资金上周末持有该行业30.87亿股，环比增加4.7%。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-28/detail-iiznctke8859699.d.html</link>
+            <guid>1946621</guid>
+            <pubDate>Sun, 27 Dec 2020 18:24:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[  南非卫生部：南非累计新冠肺炎确诊病例在周日超过100万例。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-28/detail-iiznezxs9275673.d.html</link>
             <guid>1946620</guid>
             <pubDate>Sun, 27 Dec 2020 17:52:17 GMT</pubDate>
         </item>
@@ -587,24 +606,6 @@
             <link>https://finance.sina.cn/7x24/2020-12-27/detail-iiznctke8802896.d.html</link>
             <guid>1946505</guid>
             <pubDate>Sun, 27 Dec 2020 08:33:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  格力电器公告，董事会同意聘任邓晓博为公司副总裁、董事会秘书，聘任舒立志为公司副总裁。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-27/detail-iiznctke8802838.d.html</link>
-            <guid>1946504</guid>
-            <pubDate>Sun, 27 Dec 2020 08:32:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京：近14天到访涉及病例轨迹地点要及时报告】北京：近14天到访涉及病例轨迹相关地点要及时向社区报告，做好自我健康监测，主动前往辖区组织的核酸检测地点接受检测。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-27/detail-iiznezxs9220201.d.html</link>
-            <guid>1946503</guid>
-            <pubDate>Sun, 27 Dec 2020 08:31:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京顺义区南法信镇西杜兰村、高丽营镇张喜庄村调整为中风险地区】 12月27日，北京疫情防控发布会上通报，顺义区南法信镇西杜兰村、高丽营镇张喜庄村调整为中风险地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-27/detail-iiznezxs9219436.d.html</link>
-            <guid>1946501</guid>
-            <pubDate>Sun, 27 Dec 2020 08:25:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
