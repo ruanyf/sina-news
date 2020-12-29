@@ -4,11 +4,209 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 29 Dec 2020 15:30:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Dec 2020 16:51:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  埃克森美孚报告在德克萨斯州博蒙特炼油厂出现火警。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznezxs9659100.d.html</link>
+            <guid>1950646</guid>
+            <pubDate>Tue, 29 Dec 2020 16:44:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧股收盘涨跌不一，德国DAX30指数跌0.15%，英国富时100指数上涨1.52%，法国CAC40指数涨0.42%，欧洲斯托克50指数涨0.15%。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznctke9240411.d.html</link>
+            <guid>1950645</guid>
+            <pubDate>Tue, 29 Dec 2020 16:43:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据FactSet，亚马逊的广告驱动业务增长快于其零售、云计算和Prime订阅业务，预计该业务2020年营收价格达到210亿美元，同比增长47%。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznctke9240235.d.html</link>
+            <guid>1950644</guid>
+            <pubDate>Tue, 29 Dec 2020 16:41:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国新增414例新冠肺炎死亡病例，昨日死亡病例357例。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznezxs9658854.d.html</link>
+            <guid>1950643</guid>
+            <pubDate>Tue, 29 Dec 2020 16:40:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国新增53135例新冠肺炎确诊病例，昨日新增41385例。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznezxs9658850.d.html</link>
+            <guid>1950642</guid>
+            <pubDate>Tue, 29 Dec 2020 16:40:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  智利确诊首例新冠变异毒株患者。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznctke9240058.d.html</link>
+            <guid>1950641</guid>
+            <pubDate>Tue, 29 Dec 2020 16:38:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  现货白银短线抬升0.15美元，现报26.36美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznezxs9658343.d.html</link>
+            <guid>1950640</guid>
+            <pubDate>Tue, 29 Dec 2020 16:32:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  现货黄金较日低反弹超15美元，现报1886.14美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznezxs9658299.d.html</link>
+            <guid>1950639</guid>
+            <pubDate>Tue, 29 Dec 2020 16:32:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲STOXX 600指数初步收涨0.82%，报401.86点。德国DAX 30指数初步收跌0.16%，报13768.83点。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznezxs9658198.d.html</link>
+            <guid>1950638</guid>
+            <pubDate>Tue, 29 Dec 2020 16:30:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧盟成员国正式批准脱欧后的英国脱欧贸易协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznctke9239402.d.html</link>
+            <guid>1950637</guid>
+            <pubDate>Tue, 29 Dec 2020 16:28:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国众议院议长佩洛西：新冠疫情响应小组将继续在民主党议员Clyburn的领导下开展工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznctke9239202.d.html</link>
+            <guid>1950636</guid>
+            <pubDate>Tue, 29 Dec 2020 16:24:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【缩水70%，中信建投定增落地，中金、华泰、东海3家券商参与】历经23个月，中信建投证券终于在A/H股溢价高企的争议声中完成了38亿元再融资，较原定130亿的预期规模大幅缩水，降幅达70%。值得一提的是，中金公司、华泰证券、东海证券等3家券商参与了中信建投证券本轮定增，且有2名散户大手笔斥资亿元参与申购，但也有大股东在今年四季度减持了中信建投证券股票随后再参与定增。此外，中信证券在此次定增中持股比例被动减少，由5.01%降至4.94%。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznctke9238712.d.html</link>
+            <guid>1950635</guid>
+            <pubDate>Tue, 29 Dec 2020 16:19:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国三大股指悉数转跌，此前道指一度涨超170点。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznctke9238684.d.html</link>
+            <guid>1950634</guid>
+            <pubDate>Tue, 29 Dec 2020 16:18:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【英国伦敦方舱医院随时准备再度启用】当地时间29日，英国广播公司报道，英格兰医疗服务当局表示，尽管已拆除了部分设备，伦敦方舱医院仍处于随时待命再度启用的状态。据了解，位于伦敦会展中心的方舱医院此前已拆除了包括部分病床和呼吸机在内的一些设施。但英格兰医疗服务当局称，如果需要，方舱医院将可随时用于支援首都伦敦地区的医院。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznctke9237940.d.html</link>
+            <guid>1950633</guid>
+            <pubDate>Tue, 29 Dec 2020 16:09:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利新增11212例新冠肺炎病例（上日增加8585例），新增659例死亡病例（上日增加445例）。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznezxs9656487.d.html</link>
+            <guid>1950632</guid>
+            <pubDate>Tue, 29 Dec 2020 16:08:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储延长主体街贷款计划以获得更充足的时间来处理直至12月14日的贷款申请。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznezxs9656188.d.html</link>
+            <guid>1950631</guid>
+            <pubDate>Tue, 29 Dec 2020 16:05:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧盟各成员国政府已批准英国脱欧贸易协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznezxs9656123.d.html</link>
+            <guid>1950630</guid>
+            <pubDate>Tue, 29 Dec 2020 16:04:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：就未付账单达成协议后，伊朗将恢复向伊拉克输送天然气。伊拉克内阁批准续签2021年向埃及通用石油公司供应1200万桶巴士拉轻质原油的合同。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznezxs9656018.d.html</link>
+            <guid>1950629</guid>
+            <pubDate>Tue, 29 Dec 2020 16:03:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国当选副总统哈里斯接种了首针新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznctke9237175.d.html</link>
+            <guid>1950628</guid>
+            <pubDate>Tue, 29 Dec 2020 16:01:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美联储将主体街贷款计划的终止日期延长至1月8日。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznctke9237164.d.html</link>
+            <guid>1950627</guid>
+            <pubDate>Tue, 29 Dec 2020 16:01:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧元兑美元EUR/USD短线下挫15点，现报1.2243。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznctke9236992.d.html</link>
+            <guid>1950626</guid>
+            <pubDate>Tue, 29 Dec 2020 16:00:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧盟成员国首脑将于30日在布鲁塞尔签署英欧贸易协议，随后协议将被送到伦敦由英国首相鲍里斯·约翰逊签字。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9655372.d.html</link>
+            <guid>1950625</guid>
+            <pubDate>Tue, 29 Dec 2020 15:54:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Astoria Portfolio Advisors的创始人兼首席投资官John Davi：投资者应增加对金属矿业、清洁能源及中国股票的投资，以便在2021年实现回报最大化。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznctke9236527.d.html</link>
+            <guid>1950624</guid>
+            <pubDate>Tue, 29 Dec 2020 15:51:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  波音现涨超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9655025.d.html</link>
+            <guid>1950623</guid>
+            <pubDate>Tue, 29 Dec 2020 15:48:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：波音737 MAX飞机商业航班在近2年后重返美国天空。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznctke9236367.d.html</link>
+            <guid>1950622</guid>
+            <pubDate>Tue, 29 Dec 2020 15:48:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股各行业ETF中，医疗业ETF领涨，涨0.68%，其次是全球科技股指数ETF，涨0.29%；银行业ETF领跌，跌超1%，生物科技指数ETF跌0.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9654919.d.html</link>
+            <guid>1950621</guid>
+            <pubDate>Tue, 29 Dec 2020 15:46:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美债实际收益率下滑 或利好股市和大宗商品】美国10年期国债实际收益率在9月初以来的最低水平附近徘徊，可能会重新跌至纪录低点，而这可能利好股市和大宗商品。实际收益率（名义国债收益率和通胀率之差）的变动，意味着虽然美债收益率由于经济下滑而处在纪录低点附近，但通胀预期却在走高。当通胀率高于名义收益率时，国债等无风险资产的回报相对于高风险投资回报会更低。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznctke9236226.d.html</link>
+            <guid>1950620</guid>
+            <pubDate>Tue, 29 Dec 2020 15:45:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美媒：“噩梦般”的1月即将到来】当地时间12月28日，《洛杉矶时报》报道称，美国疫情没有任何缓和的迹象，年末假期旅行和社交聚会加剧了新冠病毒的进一步传播。美国有线电视新闻网（CNN）28日称，12月是美国疫情暴发以来“最致命”的月份。过去26天里，有超过6.3万名美国人死于新冠肺炎，而11月的死亡人数为36964人。华盛顿大学健康指标与评估研究所预测，未来两个月，美国可能还有19.3万人死于新冠肺炎。贝勒医学院传染病学专家彼得·霍特兹说：“这些预测简直就是噩梦。”（央视）(]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9654545.d.html</link>
+            <guid>1950619</guid>
+            <pubDate>Tue, 29 Dec 2020 15:40:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国共和党参议员柏杜：支持2000美元个人支票的提案。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznctke9235792.d.html</link>
+            <guid>1950618</guid>
+            <pubDate>Tue, 29 Dec 2020 15:39:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在岸人民币兑美元（CNY）北京时间23:30收报6.5300元，较周一夜盘收盘涨83点。成交量388.23亿美元，较周一减少68.64亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznctke9235661.d.html</link>
+            <guid>1950617</guid>
+            <pubDate>Tue, 29 Dec 2020 15:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国航空今将复飞波音737 MAX，总裁将乘坐首趟航班】据《华尔街日报》报道，当地时间周二，美国航空公司将复飞波音737 MAX客运航班。美国航空公司说，这趟航班预计将几乎客满，航空公司总裁罗伯特·伊索姆（Robert Isom）也在乘客之列。（界面）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznctke9235649.d.html</link>
+            <guid>1950616</guid>
+            <pubDate>Tue, 29 Dec 2020 15:36:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  越南和英国将签署自贸协定，12月31日起生效。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9654158.d.html</link>
+            <guid>1950615</guid>
+            <pubDate>Tue, 29 Dec 2020 15:35:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BTIG首席股票和衍生品策略师Julian Emanuel：美股市场参与程度与2000年相当甚至更高，这将市场估值推升到了与2000年相当的泡沫水平。可能发生的最糟糕的事是回调10％至15％，最有可能引发回调的催化剂或与新冠疫苗及其分发有关。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9653958.d.html</link>
+            <guid>1950614</guid>
+            <pubDate>Tue, 29 Dec 2020 15:32:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【商务部发布内贸流通“十三五”成绩单】商务部29日发布的内贸流通“十三五”成绩单显示，五年来，我国内贸流通实现快速发展，在引导生产、扩大消费、繁荣市场、保障民生、增加就业等方面发挥了重要作用。数据显示，2016年至2019年，我国最终消费支出对国内生产总值增长的贡献率保持在55%以上，消费连续6年成为经济增长的第一引擎。2019年，流通主要行业缴纳税收2.5万亿元，占全国税收近六分之一。（新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9653854.d.html</link>
@@ -407,203 +605,6 @@
             <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9645525.d.html</link>
             <guid>1950512</guid>
             <pubDate>Tue, 29 Dec 2020 14:01:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国10月S&P/CS20座大城市房价指数同比 7.95%，预期 6.95%，前值 6.57%。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9645431.d.html</link>
-            <guid>1950510</guid>
-            <pubDate>Tue, 29 Dec 2020 14:00:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[*ST京城：公司拟以发行股份及支付现金的方式购买北洋天青80%股权，交易作价2.46亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznctke9226410.d.html</link>
-            <guid>1950499</guid>
-            <pubDate>Tue, 29 Dec 2020 13:57:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国资委加快处置“僵尸企业” 3年间约700户企业实现市场出清】中国国务院国资委副主任翁杰明29日表示，近年来，国资委加快处置“僵尸企业”，取得阶段性成效，近700户企业实现市场出清，累计分流安置富余人员超过80万人。下一步国资委将督促中央企业巩固“处僵治困”工作成效，防止“脱困”之后再“返贫”，建立健全亏损源头治理的长效机制，堵塞经营管理漏洞，推动中央企业实现高质量发展。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9645033.d.html</link>
-            <guid>1950495</guid>
-            <pubDate>Tue, 29 Dec 2020 13:56:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中持股份：拟引入战投长江环保集团 控制权将变更】中持股份12月29日晚公告，拟通过非公开发行股票引入长江环保集团作为战投，发行价格9.14元/股，拟募资不超4.81亿元用于补充流动资金。此外，公司控股股东中持环保、实控人许国栋拟分别向长江环保集团转让986.73万股和25万股公司股份。此次非公开发行完成且存量股份过户完成后，长江环保集团持股比例24.61%，成为公司第一大股东，公司将无控股股东和实控人。公司股票12月30日复牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9644980.d.html</link>
-            <guid>1950491</guid>
-            <pubDate>Tue, 29 Dec 2020 13:55:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[金春股份：拟购买太空智造3000万股股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznctke9226004.d.html</link>
-            <guid>1950481</guid>
-            <pubDate>Tue, 29 Dec 2020 13:53:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【内蒙古银行和鄂尔多斯银行共获85亿元专项债资金支持】中国债券信息网披露的文件显示，内蒙古自治区2020年支持中小银行专项债券共85亿元分两期发行：一期发行规模为55亿元，用于补充内蒙古银行资本金；二期发行规模30亿元，用于补充鄂尔多斯银行资本金。]]></title>
-            <guid>1950476</guid>
-            <pubDate>Tue, 29 Dec 2020 13:52:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【内蒙古银行和鄂尔多斯银行共获85亿元专项债资金支持】12月29日，中国债券信息网披露的文件显示，内蒙古自治区2020年支持中小银行专项债券共85亿元分两期发行：一期发行规模为55亿元，用于补充内蒙古银行资本金；二期发行规模30亿元，用于补充鄂尔多斯银行资本金。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznctke9225702.d.html</link>
-            <guid>1950465</guid>
-            <pubDate>Tue, 29 Dec 2020 13:50:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【李强龚正与外企高管座谈：投资上海依然是最优选择】以“深耕共赢四十载 扩大开放再出发”为主题的上海市外商投资企业座谈会今天下午（12月29日）举行。上海市委书记李强在会上指出，外资企业是上海改革开放取得辉煌成就的参与者、推动者、见证者，投资中国、投资上海依然是最优选择。我们要深入贯彻落实习近平总书记考察上海和在浦东开发开放30周年庆祝大会上重要讲话精神，坚定不移推动全方位对外开放，以更大力度强化全面赋能、精准服务、法治保障，支持外资企业在上海这片热土实现更大更好发展。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9644206.d.html</link>
-            <guid>1950457</guid>
-            <pubDate>Tue, 29 Dec 2020 13:49:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【报告：明年中国房价同比涨5%，长三角涨幅靠前】贝壳研究院12月29日发布的《数字化居住：2021年新居住展望》报告预计，2021年中国楼市总体平稳，新房和二手房价格同比涨幅收窄至5%左右，同时区域市场表现继续分化，长三角房价涨幅靠前。报告预计，明年土地市场成交量下降，价格涨幅料收窄至10%左右。新房市场和二手房市场总体成交体量与今年相当，价格上涨幅度从7%收窄到5%左右。（中新社）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9643719.d.html</link>
-            <guid>1950438</guid>
-            <pubDate>Tue, 29 Dec 2020 13:44:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉中国高管：国产化率目标已基本达成，未来降价空间不大。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznctke9225033.d.html</link>
-            <guid>1950436</guid>
-            <pubDate>Tue, 29 Dec 2020 13:44:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  焦煤主力合约日内大跌4.07%，现报1628.0元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznctke9224704.d.html</link>
-            <guid>1950424</guid>
-            <pubDate>Tue, 29 Dec 2020 13:41:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  智利国家铜业委员会(Cochilco)：智利铜产量将在2028年前达到峰值753万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9642382.d.html</link>
-            <guid>1950400</guid>
-            <pubDate>Tue, 29 Dec 2020 13:35:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中广核技：获批挂牌成立国家原子能机构核技术研发中心】中广核技(000881)12月29日晚间公告，公司29日接到实控人中国广核集团有限公司通知，国家原子能机构已出具批复，原则同意中广核技挂牌成立“国家原子能机构核技术（电子束技术环境应用）研发中心”。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznctke9223734.d.html</link>
-            <guid>1950398</guid>
-            <pubDate>Tue, 29 Dec 2020 13:35:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  铁矿主力合约日内大跌5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9642190.d.html</link>
-            <guid>1950394</guid>
-            <pubDate>Tue, 29 Dec 2020 13:34:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【李东生两日共增持TCL电子260万股 涉资约1443.48万港元】港交所最新资料显示，12月23-24日，TCL电子(01070.HK)董事会主席兼执行董事李东生分别增持公司200万股及60万股，每股平均作价分别为5.5889港元及5.4283港元，总金额约1443.48万港元。12月21日曾传出公司正在接受美国相关部门审查的报道，不过公司于22日作出澄清并公告李东生拟于近日增持不超过500万股公司股份。受此刺激，公司股价从12月23日起计已反弹约7.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznctke9223585.d.html</link>
-            <guid>1950391</guid>
-            <pubDate>Tue, 29 Dec 2020 13:34:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纽约联储在28天定期回购操作中没有收到竞标。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznctke9223394.d.html</link>
-            <guid>1950376</guid>
-            <pubDate>Tue, 29 Dec 2020 13:32:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股新能源汽车盘前继续上扬，康迪车业涨超14%，小牛电动涨超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9641831.d.html</link>
-            <guid>1950374</guid>
-            <pubDate>Tue, 29 Dec 2020 13:31:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【王毅同意大利外长迪马约举行视频会晤】王毅说，今年中欧关系取得重要新进展，双方决定建立绿色、数字两个高层对话机制，打造数字和绿色伙伴关系。中欧在应对全球性挑战上拥有广泛共同利益。中方愿同欧方深化多边主义共识，加强团结合作，推动国际关系民主化。希望并相信意方会为推动中欧关系健康发展发挥建设性作用，作出更大的贡献。（外交部）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznctke9222977.d.html</link>
-            <guid>1950367</guid>
-            <pubDate>Tue, 29 Dec 2020 13:30:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东软集团：全球首家5G BOX产品获工信部认证】12月29日从东软集团获悉，由东软集团为长城汽车提供的5G BOX产品日前获得工信部颁发的《无线电发射设备型号核准证》，这是全球首家也是唯一一家搭载5G技术并达到量产销售状态的智能通讯产品。（中证网）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznctke9222551.d.html</link>
-            <guid>1950352</guid>
-            <pubDate>Tue, 29 Dec 2020 13:25:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国社会物流总额年均增长率超6.5%】在12月29日举行的第四次全国物流行业先进集体、劳动模范和先进工作者表彰大会上，中国物流与采购联合会会长何黎明表示，近5年来，我国社会物流总额年均增长率超6.5%，物流业总收入超10万亿元。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9640549.d.html</link>
-            <guid>1950333</guid>
-            <pubDate>Tue, 29 Dec 2020 13:21:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  瑞士新增新冠肺炎病例4197例，新增死亡病例131例。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznctke9222063.d.html</link>
-            <guid>1950330</guid>
-            <pubDate>Tue, 29 Dec 2020 13:21:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  爱尔兰卫生部长：变种新冠病毒有可能改变一切。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9640273.d.html</link>
-            <guid>1950325</guid>
-            <pubDate>Tue, 29 Dec 2020 13:20:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  火星人：火星人厨具股票将于2020年12月31日在深圳证券交易所创业板上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9640095.d.html</link>
-            <guid>1950316</guid>
-            <pubDate>Tue, 29 Dec 2020 13:18:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  天康生物：拟定增募资不超过21亿元，用于甘肃天康农牧科技有限公司42万头仔猪繁育及20万头生猪育肥建设项目、天康生物股份有限公司30万头仔猪繁育及20万头生猪育肥基地建设项目、甘肃天康农牧科技有限公司30万头仔猪繁育及20万头生猪育肥建设项目和补充流动资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9640082.d.html</link>
-            <guid>1950313</guid>
-            <pubDate>Tue, 29 Dec 2020 13:18:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  浙江交科公告，中标天峨至北海公路（天峨经凤山至巴马段）融资+工程总承包第NO4标段项目，中标价33.89亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznctke9221565.d.html</link>
-            <guid>1950309</guid>
-            <pubDate>Tue, 29 Dec 2020 13:17:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【龙蟠科技：建投嘉驰拟减持公司不超2%股份】龙蟠科技(603906)12月29日晚间公告，公司持股5.23%的股东建投嘉驰（上海）投资有限公司（简称“建投嘉驰”），拟通过集中竞价方式减持不超过688.74万股，即不超过公司总股本的2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9639840.d.html</link>
-            <guid>1950304</guid>
-            <pubDate>Tue, 29 Dec 2020 13:16:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西IBOVESPA指数上涨，创历史盘中新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9639671.d.html</link>
-            <guid>1950299</guid>
-            <pubDate>Tue, 29 Dec 2020 13:15:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  宁德时代：拟投资建设江苏时代动力及储能锂电池研发与生产项目、宁德市福鼎市投资建设锂离子电池福鼎生产基地以及扩建动力电池宜宾制造基地项目，总投资390亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznctke9221126.d.html</link>
-            <guid>1950292</guid>
-            <pubDate>Tue, 29 Dec 2020 13:14:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华铁股份：预计全年净利润同比增长38.77%- 55.29%】华铁股份公告，预计全年净利润为4.2亿-4.7亿元，同比增长38.77%- 55.29%。公司于2019年12月并入山东嘉泰交通设备有限公司，2020年公司合并山东嘉泰交通设备有限公司全年业绩；公司2020年地铁轨道维保业务收入增长，新增铣磨机整机业务收入；此外，公司2020年维保配件销售及服务业务增长；公司控股子公司华铁西屋法维莱（青岛）交通设备有限公司2020年度业绩实现扭亏为盈，以上因素使公司业绩增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznctke9220912.d.html</link>
-            <guid>1950282</guid>
-            <pubDate>Tue, 29 Dec 2020 13:13:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  瑞士卫生部官员：在瑞士和列支敦士登有5例记录在案的英国变种新冠病毒病例，2例南非变种新冠病毒病例，预计将发现更多病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9639339.d.html</link>
-            <guid>1950279</guid>
-            <pubDate>Tue, 29 Dec 2020 13:12:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  铁矿主力合约跌超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9639300.d.html</link>
-            <guid>1950276</guid>
-            <pubDate>Tue, 29 Dec 2020 13:12:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京东成立京喜事业群：主攻下沉市场】京东集团成立面向下沉市场的京喜事业群，并任命郑宏彦为京喜事业群负责人，向京东集团CEO刘强东汇报。据悉，京喜事业群主要包含京喜通事业部、京喜事业部、京喜拼拼、惊喜快递等业务部门，将围绕京东集团的供应链、物流和技术等核心能力，服务下沉市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9639114.d.html</link>
-            <guid>1950272</guid>
-            <pubDate>Tue, 29 Dec 2020 13:11:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【数知科技：公司股票可能被实施其他风险警示】数知科技公告，控股股东及实际控制人通过保理款、业务款等方式非经营性占用公司资金，截至2020年11月30日，共占用上市公司及其子公司自有资金发生额67,446万元，期末余额56,967万元。如果公司控股股东及实际控制人在2021年1月25日前未解决其非经营性占用公司资金问题，公司股票将被深圳证券交易所实施其他风险警示。截至2020年12月22日，控股股东及实际控制人已还款人民币8,400万元现金至上市公司，后续还款陆续进行中。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9638840.d.html</link>
-            <guid>1950268</guid>
-            <pubDate>Tue, 29 Dec 2020 13:09:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
