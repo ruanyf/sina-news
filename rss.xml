@@ -4,11 +4,59 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 29 Dec 2020 19:41:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Dec 2020 20:31:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【今年近20万户基金持有人年内回报率超120%】今年以来截至12月27日，已有近20万户基金持有人因“踩中”排名前十的主动权益基金，获得了超过120%的年内回报率，年内回报率超100%的基金更是多达50只。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznctke9247681.d.html</link>
+            <guid>1950813</guid>
+            <pubDate>Tue, 29 Dec 2020 20:31:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国疾控中心：美国新冠肺炎累计死亡病例达334029例，累计确诊19232843例。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznezxs9666344.d.html</link>
+            <guid>1950812</guid>
+            <pubDate>Tue, 29 Dec 2020 20:30:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国参议院将休会至周三下午15:00（北京时间周四凌晨04:00）。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznezxs9666265.d.html</link>
+            <guid>1950811</guid>
+            <pubDate>Tue, 29 Dec 2020 20:25:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【津巴布韦制造业2020年前11个月已增26%，料创最近20年来最佳年度表现】据津巴布韦《先驱报》29日报道，津巴布韦储备银行行长曼古迪亚近日表示，截至2020年11月，津全国制造业创纪录的增长了26%。这是自本世纪之初实施土地改革和遭遇西方制裁以来，津巴布韦经济20多年来实现的最大单一增长年份。在经历了多年的外商撤资和一系列不利因素（包括设备陈旧、政策变动、电力和公用事业成本变高以及原材料短缺)带来的挑战之后，制造业突出困境，全行业的全面反弹预计将放缓国内经济受新冠疫情的冲击，使总体经济萎缩预期由之前预计的4.1%负增长，上升至2%至3.5%负增长。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznezxs9666083.d.html</link>
+            <guid>1950809</guid>
+            <pubDate>Tue, 29 Dec 2020 20:17:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【西班牙一名护士接种新冠疫苗一天后病毒检测呈阳性】据当地媒体报道，西班牙加泰罗尼亚大区卫生部门当地时间12月29日通报称，该大区莱里达省养老院的一名护士新冠病毒检测结果呈阳性。这名护士12月27日在养老院内接种了新冠疫苗，约24小时后接受病毒核酸检测。当地卫生部门表示，整个疫苗接种过程严格遵守了各项安全和防护措施，目前正对4名工作人员和66名老人进行预防性隔离，其中61人已接种疫苗，31日将对所有人员再次进行病毒检测筛查。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznctke9247322.d.html</link>
+            <guid>1950808</guid>
+            <pubDate>Tue, 29 Dec 2020 20:11:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【财经网站Fxstreet分析师Haresh Menghani：黄金小幅上涨但缺乏后续动力】尽管缺乏强劲的后续买盘，金价在欧洲市场早盘略微抬高。在昨日触及1900美元高位后，金价开始下滑，但在周二重新获得正面牵引力，并受到了美国刺激措施取得进展的支撑。此前周一美国众议院投票支持每人发放支票的金额从600美元提升至2000美元。另一方面，这一消息拖累了主导金价的美元。从目前全球股市普遍看涨的情绪可以明显看出，投资者对风险较高资产的兴趣有所增加。风险流动削弱了对传统避险资产的需求，并抑制了金价的进一步上涨，至少目前如此。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznctke9246835.d.html</link>
+            <guid>1950807</guid>
+            <pubDate>Tue, 29 Dec 2020 19:55:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苹果败诉：在版权官司中输给“虚拟iPhone”生产商】苹果公司辩称，美国佛罗里达州Corellium LLC在未经许可的情况下复制了（苹果的）操作系统、图形用户界面、以及iPhone设备的其他（应用）内容，并指控Corellium借着帮助发现iPhone操作系统漏洞（bug）的由头进行活动，但随后在公开市场将相关信息出售给出价最高的人。西棕榈滩地区法官Rodney Smith周二（12月29日）判定，Corellium的行为属于版权法的例外，因为该公司为（苹果公司的）iOS创造了一个新的虚拟平台，并新增了iOS设备所不具备的功能。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznezxs9665422.d.html</link>
+            <guid>1950806</guid>
+            <pubDate>Tue, 29 Dec 2020 19:53:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  沙特内阁审查了沙特-俄罗斯政府委员会的会议结果，强调了石油生产国之间合作协议的承诺，支持欧佩克+声明以维护世界石油市场稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznezxs9665265.d.html</link>
+            <guid>1950800</guid>
+            <pubDate>Tue, 29 Dec 2020 19:45:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国共和党参议员英赫弗：可能会投票反对2000美元支票发放。]]></title>
             <link>https://finance.sina.cn/7x24/2020-12-30/detail-iiznezxs9664869.d.html</link>
@@ -559,54 +607,6 @@
             <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznctke9234543.d.html</link>
             <guid>1950608</guid>
             <pubDate>Tue, 29 Dec 2020 15:20:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股几乎回吐全部涨幅，中概逆市上涨，拼多多涨超10%】标普转跌，纳指跌近0.6%。中概互联网指数ETF涨超2%。电商股中，拼多多涨超8%，阿里巴巴涨5%，京东涨近3%。其他中概股中，陆金所、老虎证券涨超4%，小鹏汽车、理想汽车涨超3%，虎牙、微博、哔哩哔哩、百度涨超1%。与此同时，区块链概念股第九城市跌超15%，嘉楠耘智跌7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9652972.d.html</link>
-            <guid>1950607</guid>
-            <pubDate>Tue, 29 Dec 2020 15:18:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  拼多多涨幅扩大至10%，此前南航正式在拼多多上线机票官方直销业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9652936.d.html</link>
-            <guid>1950606</guid>
-            <pubDate>Tue, 29 Dec 2020 15:18:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  标普500指数转跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9652730.d.html</link>
-            <guid>1950605</guid>
-            <pubDate>Tue, 29 Dec 2020 15:15:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美元指数DXY短线走高15点，现报90.05。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznctke9234145.d.html</link>
-            <guid>1950604</guid>
-            <pubDate>Tue, 29 Dec 2020 15:15:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英镑兑美元GBP/USD短线走低逾20点，现报1.3486；欧元兑美元EUR/USD短线走低逾20点，现报1.2246。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznctke9234140.d.html</link>
-            <guid>1950603</guid>
-            <pubDate>Tue, 29 Dec 2020 15:15:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金刷新日低至1871.77美元/盎司，日内整体转跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9652618.d.html</link>
-            <guid>1950602</guid>
-            <pubDate>Tue, 29 Dec 2020 15:13:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货白银跌超1%，现报25.95美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9652608.d.html</link>
-            <guid>1950601</guid>
-            <pubDate>Tue, 29 Dec 2020 15:13:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧盟委员会主席冯德莱恩：现在将有3亿剂辉瑞-BioNTech新冠疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-29/detail-iiznezxs9652439.d.html</link>
-            <guid>1950600</guid>
-            <pubDate>Tue, 29 Dec 2020 15:11:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
