@@ -2,6 +2,7 @@ const fetch = require('node-fetch');
 const { url } = require('./sina.js');
 const Feed = require('feed').Feed;
 const fs = require('fs/promises');
+const process = require('process');
 
 const feed = new Feed({
   title: '新浪新闻',
@@ -23,7 +24,7 @@ async function main() {
     });
 
     if (response.status < 200 || response.status >= 300) {
-      throw new Error('connect error');
+      process.exit(1);
     }
 
     const json = await response.json();
