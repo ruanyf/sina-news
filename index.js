@@ -18,13 +18,13 @@ const feed = new Feed({
 
 
 async function main() {
-  try {
+
     const response = await fetch(url, {
       headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10130'}
     });
 
     if (response.status < 200 || response.status >= 300) {
-      process.exit(1);
+      throw new Error('wrong status code');
     }
 
     const json = await response.json();
@@ -62,9 +62,9 @@ async function main() {
     await fs.copyFile('./template/page.js', `./dist/page.js`);
     console.log(`successfully copy asset files`);
 
-  } catch (err) {
-    throw err;
-  }
 }
 
-main();
+main().catch(err => {
+  console.log(err);
+  process.exit(1);
+});
