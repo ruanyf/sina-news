@@ -4,11 +4,95 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 31 Dec 2020 18:49:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2020 19:40:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WTI 2月原油期货收涨0.25%，报48.52美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0023410.d.html</link>
+            <guid>1953248</guid>
+            <pubDate>Thu, 31 Dec 2020 19:34:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币再度站上29000美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0023339.d.html</link>
+            <guid>1953247</guid>
+            <pubDate>Thu, 31 Dec 2020 19:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  基金分析公司理柏（Lipper）：截至12月30日当周，美国贷款基金流入5900万美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznctke9604244.d.html</link>
+            <guid>1953246</guid>
+            <pubDate>Thu, 31 Dec 2020 19:30:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  南非新增436例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznctke9604195.d.html</link>
+            <guid>1953245</guid>
+            <pubDate>Thu, 31 Dec 2020 19:28:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【均价1.2万：广州首次推出销售1366套共有产权住房】广州市将推出销售有史以来1366套共有产权住房，该住房位于黄埔区，销售均价为12000元/平方米，其中政府和个人占有产权比例分别为55%和45%。符合申购条件的申购人可在1月11日至2月10日期间进行网上办理申请。本次按房源数量的2.5倍左右确定参加资格审核的数量为3400户，广州市住房保障办公室将在市住房城乡建设局网站上公告申购人名单、摇珠顺序号以及参加资格审核的申购人名单。申购量不超过3400户的，全部申购人参加资格审核。若申购量超过3400户的，则通过广州市住房保障办公室将在公证机构的监督下，摇珠随机确定全体申购人的顺序号、申报优先配售的申购人在先，申报普通配售的申购人在后，前3400户为参加资格审核的申购人，进行摇珠确定参加资格审核名单。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0023207.d.html</link>
+            <guid>1953244</guid>
+            <pubDate>Thu, 31 Dec 2020 19:26:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据英国金融时报：辉瑞称疫苗的安全性和有效性未根据不同的剂量计划进行评估。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0023094.d.html</link>
+            <guid>1953243</guid>
+            <pubDate>Thu, 31 Dec 2020 19:22:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据俄罗斯卫星网：法国卫生机构称，法国报告首例与南非相关的变异新冠病毒感染病例，患者居住在瑞士边境附近。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0023073.d.html</link>
+            <guid>1953242</guid>
+            <pubDate>Thu, 31 Dec 2020 19:22:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据英国金融时报：辉瑞质疑英国延长新冠疫苗接种间隔的举措。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0022934.d.html</link>
+            <guid>1953241</guid>
+            <pubDate>Thu, 31 Dec 2020 19:18:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国总统马克龙：英国是我们的“盟友”和“朋友”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznctke9603634.d.html</link>
+            <guid>1953240</guid>
+            <pubDate>Thu, 31 Dec 2020 19:09:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[天然气期货日内涨超4%，现报2.5290美元/百万英热。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0022636.d.html</link>
+            <guid>1953239</guid>
+            <pubDate>Thu, 31 Dec 2020 19:08:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMEX 2月黄金期货收涨不足0.1%，报1895.10美元/盎司，本周累涨约0.7%，12月份涨6.5%，2020年全年累涨将近25%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznctke9603403.d.html</link>
+            <guid>1953238</guid>
+            <pubDate>Thu, 31 Dec 2020 19:04:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美指重新站上90关口，刷新日高，日内涨0.44%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0022453.d.html</link>
+            <guid>1953237</guid>
+            <pubDate>Thu, 31 Dec 2020 19:04:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【南方水泥360万吨水泥粉磨项目顺利投产】位于浙江省嘉兴市的海盐秦山南方水泥二期工程水泥磨2020年12月31日顺利投料成功运行。海盐秦山南方海河联运项目总占地面积298亩，总投资20多亿元，项目分二期建设。项目二期建设年产360万吨水泥粉磨站，配套建设两个500吨级内河散装水泥发运系统。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznctke9603080.d.html</link>
+            <guid>1953236</guid>
+            <pubDate>Thu, 31 Dec 2020 18:57:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【计划接种2000万实际280万！美国新冠疫苗分配慢原因何在？】美国佛罗里达州政府近日表示，截至目前，该州只接种了不到四分之一的新冠疫苗，很多老年人为接种疫苗熬夜在室外等待。据悉，美国多地区均出现疫苗分配慢，不及时等问题，使美国新冠疫苗分配计划进程远远落后于原定计划。联邦官员说他们并不太了解延误的原因。但是美国各州的卫生官员和医院认为以下两点为疫苗分配慢的主要原因。一是美国地方卫生官员和医院处理疫苗分发最后阶段的许多复杂的细节（如日程安排和人员配备）能力有限。二是美国人对疫苗的犹豫不决也减慢了疫苗分配速度。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0021857.d.html</link>
+            <guid>1953235</guid>
+            <pubDate>Thu, 31 Dec 2020 18:53:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  据俄罗斯卫星网：辉瑞向哥伦比亚当局申请授权使用新冠疫苗。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0021162.d.html</link>
@@ -522,90 +606,6 @@
             <link>https://finance.sina.cn/7x24/2020-12-31/detail-iiznctke9587900.d.html</link>
             <guid>1953144</guid>
             <pubDate>Thu, 31 Dec 2020 14:36:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上交所：导致公司在2020年及以后年度中的任意连续年度财务指标实际已触及新《上市规则》规定的重大违法强制退市情形的，本所对其股票实施重大违法强制退市。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-31/detail-iiznezxt0006795.d.html</link>
-            <guid>1953143</guid>
-            <pubDate>Thu, 31 Dec 2020 14:35:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哔哩哔哩盘中跌近5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-31/detail-iiznctke9587789.d.html</link>
-            <guid>1953142</guid>
-            <pubDate>Thu, 31 Dec 2020 14:34:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽约市长白思豪表示，希望在1月份为100万居民接种新冠疫苗，联邦政府和制药商需加快疫苗的生产和分发。数据显示，该市目前仅接受了390425剂疫苗注射。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-31/detail-iiznezxt0006731.d.html</link>
-            <guid>1953141</guid>
-            <pubDate>Thu, 31 Dec 2020 14:34:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[深交所：主动终止上市公司申请其股票重新上市的，本所将在受理公司股票重新上市申请后的三十个交易日内，作出是否同意其股票重新上市申请的决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-31/detail-iiznctke9587715.d.html</link>
-            <guid>1953140</guid>
-            <pubDate>Thu, 31 Dec 2020 14:33:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[深交所：新规施行后收到行政处罚事先告知书且可能触及重大违法强制退市情形的公司，依据行政处罚决定书认定的事实，公司2015年度至2020年度内的任意连续会计年度财务指标实际已触及《重大违法强制退市办法》规定的重大违法强制退市情形的，本所对其股票实施重大违法强制退市。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-31/detail-iiznezxt0006671.d.html</link>
-            <guid>1953139</guid>
-            <pubDate>Thu, 31 Dec 2020 14:33:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[光伏企业Enphase Energy涨3.9%，蒂芙尼微涨，今早标普宣布Enphase Energy将替代蒂芙尼加入标普500指数。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-31/detail-iiznezxt0006611.d.html</link>
-            <guid>1953138</guid>
-            <pubDate>Thu, 31 Dec 2020 14:32:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上交所发布《上海证券交易所股票上市规则（2020年12月修订）》和《上海证券交易所科创板股票上市规则（2020年12月修订）》的通知。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-31/detail-iiznezxt0006602.d.html</link>
-            <guid>1953137</guid>
-            <pubDate>Thu, 31 Dec 2020 14:32:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【道指开盘涨0.03%，标普500跌0.04%，纳指涨0.06%】区块链板块走高，嘉楠科技涨20.8%，亿邦国际涨21.5%。fuboTV跌7.7%，对冲基金公司Kerrisdale Capital看空fuboTV。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-31/detail-iiznctke9587473.d.html</link>
-            <guid>1953136</guid>
-            <pubDate>Thu, 31 Dec 2020 14:30:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[深交所关于发布《深圳证券交易所股票上市规则（2020年修订）》的通知。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-31/detail-iiznezxt0006317.d.html</link>
-            <guid>1953135</guid>
-            <pubDate>Thu, 31 Dec 2020 14:29:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[葡萄牙新增7627例新冠肺炎确诊病例，累计达413678例。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-31/detail-iiznezxt0005835.d.html</link>
-            <guid>1953133</guid>
-            <pubDate>Thu, 31 Dec 2020 14:24:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国外交大臣拉布：（谈及有关直布罗陀的协议）边界保持流动性显然符合双方人民的最佳利益。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-31/detail-iiznezxt0005750.d.html</link>
-            <guid>1953132</guid>
-            <pubDate>Thu, 31 Dec 2020 14:23:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国外交大臣拉布：（谈及有关直布罗陀的协议）我们将继续坚定支持直布罗陀及其主权。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-31/detail-iiznezxt0005686.d.html</link>
-            <guid>1953131</guid>
-            <pubDate>Thu, 31 Dec 2020 14:22:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲“火车头”德国“停滞不前”：在硬封锁后，德国设法压平疫情曲线，但距离政府的目标还很遥远。股市方面，德国DAX指数也停留在较高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-31/detail-iiznezxt0005675.d.html</link>
-            <guid>1953130</guid>
-            <pubDate>Thu, 31 Dec 2020 14:22:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国外交大臣拉布：（谈及有关直布罗陀的协议）各方都致力于减轻过渡期结束对直布罗陀的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-31/detail-iiznezxt0005634.d.html</link>
-            <guid>1953129</guid>
-            <pubDate>Thu, 31 Dec 2020 14:22:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
