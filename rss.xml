@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 01 Jan 2021 13:39:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jan 2021 14:32:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据FactSet分析师估计，美国航空公司2020年的净亏损可能超过350亿美元，其中包括西南航空过去40年来的首次年度亏损。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznctke9717894.d.html</link>
+            <guid>1954349</guid>
+            <pubDate>Fri, 01 Jan 2021 14:26:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海现变异病毒感染者，张文宏披露病例详情】复旦大学附属华山医院感染科主任张文宏在社交平台发文称，上海疾控检测到第一株VOC毒株，立即向中国疾控申报，并且在中国疾控的官方杂志China CDC Weekly （中国疾控周报）上向全球发布，“这是一个常规动作，证明对于变异病毒株中国目前具备非常强的监测能力”。这个病例其实没有任何特殊，和任何一个感染了新冠病毒肺炎的其他患者没有区别。这个患者目前已经核酸转阴，离开隔离病房了。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0136956.d.html</link>
+            <guid>1954348</guid>
+            <pubDate>Fri, 01 Jan 2021 14:25:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度民航部长：从1月8日-23日，印度和英国之间的航班将被限制在每周15个班次以内。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0136542.d.html</link>
+            <guid>1954347</guid>
+            <pubDate>Fri, 01 Jan 2021 14:21:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度民航部长：印度和英国之间的航班将从2021年1月8日起恢复。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0136217.d.html</link>
+            <guid>1954346</guid>
+            <pubDate>Fri, 01 Jan 2021 14:17:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：Verizon(VZ.N)和赫斯特电视公司达成协议以避免新年停电。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0135924.d.html</link>
+            <guid>1954345</guid>
+            <pubDate>Fri, 01 Jan 2021 14:14:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[辽宁省沈阳市皇姑区明廉路博客地带小区调整为中风险地区。（新京报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznctke9716078.d.html</link>
+            <guid>1954344</guid>
+            <pubDate>Fri, 01 Jan 2021 14:06:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【财经网站DailyFX前瞻2021年一季度油价】在2020年最后两个月内，油价不断上行，原因是随着全球经济增速预期修复，大宗商品前景改善。辉瑞和Moderna均报告在疫苗研发方面出现可喜发展，为市场提供了乐观的理由，此前新冠疫情严重抑制了人员流动及消费，而全球经济发展路径与原油价格密切相关。值得注意的是，全球多地可能会在冬季假期后采取大范围封锁措施，欧佩克+方面也在考虑提升产量。总的来说，油价趋势性向好，不确定性及下行风险依旧突出。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznctke9714961.d.html</link>
+            <guid>1954343</guid>
+            <pubDate>Fri, 01 Jan 2021 13:54:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  中国有色金属工业协会：预计，2020年我国有色金属产量将首次突破6000万吨，达到6150万吨，同比增长5%左右；规模以上有色金属工业企业实现营业收入5.6万亿元，同比增长2.5%左右；实现利润总额1650亿元，同比增长10%左右。（上海有色金属网）]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznctke9712761.d.html</link>
@@ -565,47 +607,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznctke9660682.d.html</link>
             <guid>1954237</guid>
             <pubDate>Fri, 01 Jan 2021 05:57:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【华为下架腾讯游戏导火索在于分成比例没有谈拢】2019年年中起，腾讯对渠道商提出三七分成比例，业内认为这意在改变旧有的以手机厂商为主的分发流程体系。一位手机厂商内部人士表示，腾讯方面就分成的问题这两年一直在与厂商进行谈判，但目前中国渠道市场较海外更加复杂，不能简单的说成是分成比例问题，也不能照搬海外分成模式。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0077845.d.html</link>
-            <guid>1954236</guid>
-            <pubDate>Fri, 01 Jan 2021 05:41:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【专家预计英国经济将在2021年增长8%，为二战以来最快速的反弹】英国经济与商业研究中心的专家预计，英国经济今年将以二战以来最快的速度增长，从新冠疫情中复苏。这一乐观预测出炉的当天，英国开始与欧盟建立新的贸易关系。专家表示，英国经济将受益于疫苗、脱欧贸易协议和特朗普离任。研究中心副主席Doug McWilliams说，英国人对消费的热情也会有助于经济增长。一旦摆脱疫情封锁，英国人将比许多其他国家人更倾向于大肆挥霍。如果你把钱给德国人或新加坡人，他们会把钱存起来，或考虑一会儿。英国人会把钱花光的。经济复苏将比人们想象的更快、更强劲。谈到英国脱欧，McWilliams说:“很多行业一直坐视不理，不愿投资，但现在我们达成协议了，投资的信心应该回来了。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0077061.d.html</link>
-            <guid>1954235</guid>
-            <pubDate>Fri, 01 Jan 2021 05:35:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国新增227616例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0075558.d.html</link>
-            <guid>1954234</guid>
-            <pubDate>Fri, 01 Jan 2021 05:23:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【因选举问题遭共和党人起诉 彭斯要求联邦法官驳回诉讼请求】据《国会山报》消息，当地时间2020年12月31日，美国副总统彭斯要求一位联邦法官驳回路易·戈默特等共和党人的诉讼请求。报道称，该诉讼旨在扩大彭斯的权力，从而推翻当选总统拜登在大选中获胜这一结果。彭斯似乎并不赞同这些共和党人的想法。“政客”新闻网称，在向地区法官提交的文件中，彭斯表示，这起诉讼不应针对自己。（环球网）]]></title>
-            <guid>1954232</guid>
-            <pubDate>Fri, 01 Jan 2021 05:15:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海发现首例来自英国的变异新冠病毒感染病例】根据中国疾病预防控制中心2020年12月30日发表的研究报告，中国大陆首次报告了最初在英国发现的变异新冠病毒感染病例。该病例是一名23岁的女学生，近期从英国乘飞机返回上海，12月14日检测出新冠病毒呈阳性，当晚被转移到医院隔离。12月24日基因测序结果显示，该病毒株与此前检测到的病毒株不同，经进一步研究证实，断定该患者带有早前在英国发现的变种病毒。（东方网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznctke9653146.d.html</link>
-            <guid>1954231</guid>
-            <pubDate>Fri, 01 Jan 2021 04:56:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳门12月份幸运博彩毛收入78.18亿澳门元，同比下降65.8%，预估下降68.0%。澳门1-12月份幸运博彩毛收入604亿澳门元，同比下降79.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznctke9652706.d.html</link>
-            <guid>1954230</guid>
-            <pubDate>Fri, 01 Jan 2021 04:52:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泰国新增279例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0070796.d.html</link>
-            <guid>1954229</guid>
-            <pubDate>Fri, 01 Jan 2021 04:44:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
