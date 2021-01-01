@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 01 Jan 2021 19:39:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jan 2021 20:30:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  据CNN：美国国家过敏症和传染病研究所所长福奇称，美国不会延长新冠疫苗接种的间隔时间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznctke9733483.d.html</link>
+            <guid>1954397</guid>
+            <pubDate>Fri, 01 Jan 2021 20:20:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据美联社：美国佛罗里达州卫生部官员表示，元旦假期期间将不会报告新冠肺炎病例数量，周六将继续每日报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznctke9733051.d.html</link>
+            <guid>1954396</guid>
+            <pubDate>Fri, 01 Jan 2021 20:05:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【数字PCR法可实现对新冠病毒核酸高精确测量】从中国计量科学研究院获悉，国际计量局近日在其网站上公布了新冠病毒核酸测量国际比对结果。比对结果表明，数字PCR法可在全世界范围内实现对新冠病毒核酸含量的高精确测量。该比对由中国计量院提出和联合主导，世界多个国家计量机构参与，有利于提高世界各国新冠病毒核酸测量结果的一致性和准确性。（光明日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznezxt0151789.d.html</link>
+            <guid>1954395</guid>
+            <pubDate>Fri, 01 Jan 2021 19:47:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【委内瑞拉12月石油出口降至71年以来新低】据外媒报道，由于美国制裁导致委内瑞拉部分石油货物滞留亚洲，且与欧佩克成员国之间的竞争也在升温，委内瑞拉石油出口在12月大幅下降。据航运报告和船舶跟踪数据显示，委内瑞拉原油销量较11月下滑了近一半，至231613万桶/日，这使得出口数据降至约70年以来最低水平。据报道，委内瑞拉12月装载的货物最早可能在1月抵达亚洲，届时欧佩克+将增产石油，并按计划将于1月4日会议上决定是否进一步增产。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznezxt0151385.d.html</link>
@@ -590,24 +608,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0107227.d.html</link>
             <guid>1954287</guid>
             <pubDate>Fri, 01 Jan 2021 09:40:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京城市副中心发布自贸区实施方案】从北京市通州区“两区”建设工作办公室了解到，《中国（北京）自由贸易试验区国际商务服务片区通州组团实施方案》于2020年12月31日发布。方案聚焦运河商务区和张家湾设计小镇两大区域建设发展，重点打造“国际金融港”和“国际设计小镇”品牌。方案提出八大重点方面：建设全球财富管理中心、研究探索绿色发展先进模式、推动金融领域创新实践、建设国际一流设计小镇、推动设计小镇创新实践、打造高端服务业集群、构建创新型综合保障体系、构建京津冀协同示范。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznctke9687058.d.html</link>
-            <guid>1954286</guid>
-            <pubDate>Fri, 01 Jan 2021 09:33:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[黑河：城区内继续实施交通管制，城区内往来车辆无极特殊原因的，一律禁止通行。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0106014.d.html</link>
-            <guid>1954285</guid>
-            <pubDate>Fri, 01 Jan 2021 09:30:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙江三澳核电项目1号机组主体工程开工】2020年12月31日，浙江三澳核电项目1号机组核岛浇筑第一罐混凝土，标志着浙江三澳核电项目1号机组主体工程正式开工。浙江三澳核电项目规划建设6台我国自主三代核电“华龙一号”机组，一次规划，分期实施。据悉，“华龙一号”是由中广核和中核集团联合研发的具有我国自主知识产权的三代核电技术。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0105661.d.html</link>
-            <guid>1954284</guid>
-            <pubDate>Fri, 01 Jan 2021 09:28:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
