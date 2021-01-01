@@ -4,11 +4,65 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 01 Jan 2021 15:30:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jan 2021 16:52:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  市场消息：印度专家小组要求Bharat Biotech提供更多新冠疫苗的数据。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznezxt0145986.d.html</link>
+            <guid>1954373</guid>
+            <pubDate>Fri, 01 Jan 2021 16:40:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯驻国际原子能机构大使：联合国核监督机构通知理事会，伊朗表示打算将铀纯度提高到20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznezxt0145897.d.html</link>
+            <guid>1954372</guid>
+            <pubDate>Fri, 01 Jan 2021 16:39:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  土耳其新增212例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznctke9726659.d.html</link>
+            <guid>1954371</guid>
+            <pubDate>Fri, 01 Jan 2021 16:34:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  葡萄牙卫生部官方数据显示，该国新增新冠肺炎确诊病例6951例，累计病例达到420629例，累计死亡病例6972例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznezxt0144613.d.html</link>
+            <guid>1954370</guid>
+            <pubDate>Fri, 01 Jan 2021 16:19:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据路透：印度药品监管机构批准了阿斯利康-牛津的新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznctke9724597.d.html</link>
+            <guid>1954369</guid>
+            <pubDate>Fri, 01 Jan 2021 16:04:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利新增22211例新冠肺炎确诊病例， 意大利新增462例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznctke9724173.d.html</link>
+            <guid>1954368</guid>
+            <pubDate>Fri, 01 Jan 2021 15:57:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国民主党参议员伯尼·桑德斯：会在今日要求参议院对两个法案进行投票，包括众议院通过了的2000美元个人支票法案和美国参议院多数党（共和党）领袖麦康奈尔的替代性法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznctke9723740.d.html</link>
+            <guid>1954367</guid>
+            <pubDate>Fri, 01 Jan 2021 15:49:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【财经网站DailyFX前瞻2021年一季度欧元】欧洲央行曾明确表示不希望欧元兑美元EUR/USD突破1.20整数关口，这一度被视为底线，现如今欧元兑美元已经显著突破这一水平。由于欧洲央行直接干预汇市的可能性很小，意味着欧元兑美元有望在未来数周内进一步走强，上看1.25水平。诚然，欧洲央行存在进一步放松货币政策的可能以应对疫情对经济的冲击，过去曾经有效地削弱了欧元，而现在这种相关性似乎已经破裂。未来一旦疫情受控，投资者或将考虑配置包括欧元在内的风险性资产，反之，美元避险属性重现。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0142707.d.html</link>
+            <guid>1954366</guid>
+            <pubDate>Fri, 01 Jan 2021 15:45:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据英国金融时报：葡萄牙寻求利用欧盟轮值主席国的身份来推动欧盟的新冠疫苗接种项目。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0142336.d.html</link>
+            <guid>1954365</guid>
+            <pubDate>Fri, 01 Jan 2021 15:40:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[英国新增新冠肺炎病例53285例，新增死亡病例613例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0141713.d.html</link>
@@ -554,59 +608,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0097832.d.html</link>
             <guid>1954262</guid>
             <pubDate>Fri, 01 Jan 2021 08:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本首相发表2021年新年感言，明确今年夏天办奥运】日本首相菅义伟1日发表新年感言，表明了对今年夏天举办东京奥运会和残奥会的决心，他说政府会尽全力控制新冠疫情，继续推进奥运会各项准备。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0097191.d.html</link>
-            <guid>1954261</guid>
-            <pubDate>Fri, 01 Jan 2021 08:21:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  顺义区南彩镇南彩村调整为中风险地区，截至目前北京市共有中风险地区6个。（新京报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznctke9677659.d.html</link>
-            <guid>1954260</guid>
-            <pubDate>Fri, 01 Jan 2021 08:20:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北京疫情发布会：总体可控 但防控形势严峻复杂】北京市政府新闻发言人徐和建表示，当前全球新冠肺炎疫情流行加速，国内本土疫情呈现零星散发和局部聚集性疫情交织叠加态势，首都疫情总体可控，但防控形势严峻复杂。元旦和春节期间境外回国人员增多，境内人员流动性加大，聚集性活动特别是室内活动多，进口冷链食品和货物、物流增大，疫情传播风险始终存在。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0096695.d.html</link>
-            <guid>1954259</guid>
-            <pubDate>Fri, 01 Jan 2021 08:18:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  菲律宾新增1765例新冠肺炎确诊病例，累计达475820例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0095716.d.html</link>
-            <guid>1954258</guid>
-            <pubDate>Fri, 01 Jan 2021 08:09:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中信证券：美股科技股2021年市场上行动能将主要源于业绩改善】中信证券就美股科技股2021年度展望称，展望2021年，我们判断金融条件、宏观政策环境等将保持相对温和，对美股科技板块估值的影响整体偏中性，市场上行动能将主要来源于企业业绩层面改善。受益于经济复苏的硬件、半导体板块以及部分互联网、软件服务板块值得重点关注，但亦需警惕长端利率过快上行的风险。考虑到板块当前相对较高的估值水平以及市场对后续经济复苏预期的充分计入，我们认为类似于今年水涨船高性的板块性机会在2021年料相对匮乏，自下而上精选个股更为适宜。建议重点关注：微软、谷歌、Facebook、Salesforce、Service Now、Arista、台积电、高通、美光、迪士尼等个股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0095028.d.html</link>
-            <guid>1954256</guid>
-            <pubDate>Fri, 01 Jan 2021 08:02:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【福奇：美国疫苗接种进度未达目标，令人失望】据美国有线电视新闻网报道，截至2020年12月31日，美国已接种超过270万剂新冠疫苗，但距离美国政府此前承诺的到2020年12月底，至少有2000万美国人接种新冠疫苗的目标还相差甚远。美国国家过敏症和传染病研究所所长安东尼·福奇12月31日表示，到2020年年底，美国未能达成联邦政府公布的目标，这令人感到失望。福奇表示，他本以为疫苗接种工作能顺利推进，到年底这一目标就能达成。但很显然，这并没有发生。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0092627.d.html</link>
-            <guid>1954254</guid>
-            <pubDate>Fri, 01 Jan 2021 07:39:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【威马汽车：国内首个L4级自动驾驶量产车型即将下线】威马汽车创始人、董事长兼CEO沈晖在其个人微博发文称，2021年最期待的是，威马联手百度共同打造的具备AVP（云端智能无人泊车系统）的新车即将下线，“这将是国内首个搭载Level 4级别自动驾驶功能的量产车型”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0092597.d.html</link>
-            <guid>1954253</guid>
-            <pubDate>Fri, 01 Jan 2021 07:39:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国与埃及签署关于新冠病毒疫苗合作意向书】2020年12月31日，中国与埃及相关部门签署了《中埃关于新冠病毒疫苗合作意向书》。埃及卫生与人口部长哈莱·扎耶德表示，中国疫苗在埃及开展三期临床试验进展顺利，安全性和有效性得到科学认证。埃及愿与中国开展包括疫苗在内的抗疫合作，期待中方继续给予支持。（央视）]]></title>
-            <guid>1954251</guid>
-            <pubDate>Fri, 01 Jan 2021 07:33:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：阿曼以45美元/桶的油价为基准定制2021年预算。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznctke9672202.d.html</link>
-            <guid>1954249</guid>
-            <pubDate>Fri, 01 Jan 2021 07:29:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
