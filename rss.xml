@@ -4,11 +4,59 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 01 Jan 2021 18:46:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jan 2021 19:39:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【委内瑞拉12月石油出口降至71年以来新低】据外媒报道，由于美国制裁导致委内瑞拉部分石油货物滞留亚洲，且与欧佩克成员国之间的竞争也在升温，委内瑞拉石油出口在12月大幅下降。据航运报告和船舶跟踪数据显示，委内瑞拉原油销量较11月下滑了近一半，至231613万桶/日，这使得出口数据降至约70年以来最低水平。据报道，委内瑞拉12月装载的货物最早可能在1月抵达亚洲，届时欧佩克+将增产石油，并按计划将于1月4日会议上决定是否进一步增产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznezxt0151385.d.html</link>
+            <guid>1954394</guid>
+            <pubDate>Fri, 01 Jan 2021 19:32:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国加利福尼亚州单日新增新冠肺炎死亡病例达585例，创日增死亡新高；累计死亡病例达25971例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznctke9731820.d.html</link>
+            <guid>1954393</guid>
+            <pubDate>Fri, 01 Jan 2021 19:18:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  智利新增3588例新冠肺炎确诊病例，累计确诊612564例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznctke9731747.d.html</link>
+            <guid>1954392</guid>
+            <pubDate>Fri, 01 Jan 2021 19:15:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【金融博客零对冲：2021年会成为比特币ETF之年吗？】过去几年，美国证交会（SEC）已经扼杀了任何追踪加密货币价格的ETF的想法，但VanEck正试图在新的一年重振这一想法。根据周三发布的一份文件，VanEck目前正试图推出自己的比特币追踪ETF。投资咨询公司ETF Store的总裁Geraci表示：“美国证交会的所有迹象都表明，比特币ETF仍面临一场艰苦的战斗。VanEck有信心申请比特币ETF，这可能表明美国证交会内部的观点发生了变化。显然，随着事态的发展，一个关键问题是拜登将任命谁担任证交会主席。”Gainesville Coins的金融专家表示：“该ETF可以被视为比特币看涨，因为它确实扩大了比特币投资者的视野范围。”]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznezxt0150730.d.html</link>
+            <guid>1954391</guid>
+            <pubDate>Fri, 01 Jan 2021 19:09:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币短线拉升400美元，现报29156.75美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznezxt0150244.d.html</link>
+            <guid>1954390</guid>
+            <pubDate>Fri, 01 Jan 2021 18:54:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  爱尔兰卫生部：周五新增1754例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznctke9730895.d.html</link>
+            <guid>1954389</guid>
+            <pubDate>Fri, 01 Jan 2021 18:51:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  爱尔兰卫生部：除已正式通报的病例外，未来几天爱尔兰将报告9000多例额外的新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznctke9730849.d.html</link>
+            <guid>1954388</guid>
+            <pubDate>Fri, 01 Jan 2021 18:49:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以太坊跌至720美元/枚下方，日内跌2.34%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznezxt0149978.d.html</link>
+            <guid>1954387</guid>
+            <pubDate>Fri, 01 Jan 2021 18:46:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[比特币再度下破29000美元/枚。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznctke9730688.d.html</link>
@@ -560,54 +608,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0105661.d.html</link>
             <guid>1954284</guid>
             <pubDate>Fri, 01 Jan 2021 09:28:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2020 年全国外卖总体订单量将达到 171.2 亿单 用户规模接近 5 亿人】截至 2020 年年底，全国外卖总体订单量将达到 171.2 亿单，同比增长 7.5%，全国外卖市场交易规模将达到 8352 亿元，同比增长 14.8%。我国外卖产业有望在未来 1-3 年发展成万亿级别规模市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznctke9686340.d.html</link>
-            <guid>1954283</guid>
-            <pubDate>Fri, 01 Jan 2021 09:27:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港新增新冠肺炎确诊病例42例，累计确诊8889例】香港特区政府卫生署卫生防护中心1日公布，截至当日0时，香港新增新冠肺炎确诊病例42例，有36例为本土病例，其中13例病例感染源头不明。香港累计报告新冠肺炎确诊病例8889例。香港卫生署卫生防护中心发布消息，截至1日9时，过去24小时共有99例确诊病例出院。截至目前，共有7912例确诊或疑似病例康复出院；仍有757例确诊病例在医院治疗，其中51例情况危重，40例情况严重，666例情况稳定。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0105523.d.html</link>
-            <guid>1954282</guid>
-            <pubDate>Fri, 01 Jan 2021 09:27:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[埃及石油部：埃及与6家国际和当地公司签署了9项新的海上石油和天然气勘探协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0105249.d.html</link>
-            <guid>1954281</guid>
-            <pubDate>Fri, 01 Jan 2021 09:25:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【霍普金斯大学：全球12月31日新增新冠确诊病例71.62万例 美国新增22.73万例】美国约翰斯·霍普金斯大学疫情统计数据显示，12月31日全天，全球新增新冠肺炎确诊病例71.62万例，其中，美国新增新冠肺炎确诊病例22.73万例。截至目前，全球累计确诊8348万例，累计死亡182万例，累计确诊国家和地区数191个。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0105045.d.html</link>
-            <guid>1954280</guid>
-            <pubDate>Fri, 01 Jan 2021 09:23:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度已有25人感染变异新冠病毒，数百名英国返回旅客失联】当地时间2020年12月31日，印度感染变异新冠病毒的人数已达到25人，不过，多地政府表示，100多名从英国返回的旅客失联，正在努力追踪。据《印度时报》报道，卡纳塔克邦表示，目前有175名旅客失联，其中包括80名非印度籍公民。泰米尔纳德邦则表示，目前约有360名从英国返回的旅客失联，均为印度公民。（海外网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0104226.d.html</link>
-            <guid>1954279</guid>
-            <pubDate>Fri, 01 Jan 2021 09:17:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【急寻密接者！北京确诊病例密接者从呼和浩特东站前往赤峰】2020年12月31日，赤峰市巴林左旗新冠肺炎防控工作指挥部收到协查函，巴林左旗有1人张某为北京市新冠肺炎确诊病例王某某的密切接触者，此人曾于2020年12月30日18时43分从呼和浩特市东站乘坐1818次列车（7号车厢18号中铺），于2020年12月31日约7时30分抵达巴林左旗林东火车站，12月31日8时左右入住盛京宾馆，随即在盛京宾馆内餐厅早餐，约14时20分至15时5分在巴林左旗林东西城街道顺祥蒸饺城午餐，之后乘私家车赴林东镇十三号村同学家。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznctke9684841.d.html</link>
-            <guid>1954278</guid>
-            <pubDate>Fri, 01 Jan 2021 09:15:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[香港特区政府卫生署卫生防护中心1日公布，截至当日0时，香港新增新冠肺炎确诊病例42例，有36例为本土病例，其中13例病例感染源头不明。香港累计报告新冠肺炎确诊病例8889例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznezxt0103760.d.html</link>
-            <guid>1954277</guid>
-            <pubDate>Fri, 01 Jan 2021 09:12:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯新增27039例新冠肺炎确诊病例，新增536例新冠肺炎死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-01/detail-iiznctke9684401.d.html</link>
-            <guid>1954276</guid>
-            <pubDate>Fri, 01 Jan 2021 09:11:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
