@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 02 Jan 2021 14:31:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jan 2021 15:29:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  葡萄牙新增3241例新冠肺炎确诊病例，累计确诊422870例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznezxt0267070.d.html</link>
+            <guid>1955802</guid>
+            <pubDate>Sat, 02 Jan 2021 15:26:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【特斯拉2020年累计交付49.955万辆电动车，略低于50万目标】特斯拉公布2020年第四季度及全年交付和产量数据，其中第四季度的全球汽车销量创下了纪录，但仍略低于全年50万辆的目标。特斯拉今年第四季度的交付量为180570辆，超过了第三季度13.93万辆的历史最高水平，全年交付数量较2019年的36.75万辆增加了36%。该公司一直在增加其大众市场车型的产量，以满足全球对电动汽车日益增长的需求。特斯拉表示，其交付数量应该被视为稍微保守的数字，最终数字的差异可能高达0.5%或更多。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznezxt0266884.d.html</link>
+            <guid>1955800</guid>
+            <pubDate>Sat, 02 Jan 2021 15:22:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  特斯拉：2020年Model 3/Y累计交付442511辆，累计生产454932辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznctke9847606.d.html</link>
+            <guid>1955784</guid>
+            <pubDate>Sat, 02 Jan 2021 15:05:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  特斯拉：2020年Model S/X累计交付57039辆，累计生产54805辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznezxt0265680.d.html</link>
+            <guid>1955776</guid>
+            <pubDate>Sat, 02 Jan 2021 15:00:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【特斯拉四季度交付超18万辆车，2020年交付近50万】特斯拉：2020年第四季度交付18.0570万辆汽车，生产17.9757万辆汽车。2020年全年交付49.9550万辆汽车。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznctke9846748.d.html</link>
+            <guid>1955765</guid>
+            <pubDate>Sat, 02 Jan 2021 14:52:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济改革刺激下南非购房门槛大幅下降，打折促销并提供超低利率】当地时间1月2日，据南非当地媒体报道，经济改革刺激下南非首次购房者的平均年龄大幅下降，从疫情前平均37岁降至34岁。疫情下为刺激经济，南非大幅度调整经济策略。新年伊始，南非总统拉马福萨在新年贺词中宣布南非在进行经济改革，并已取得重要进展。目前南非对购房提供超低利率，同时对新建住房采取打折促销方式。当地房地产业界人士表示，南非目前的政策让非常多首次购房者及二次购房者蜂拥入市，购买住房。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznctke9846695.d.html</link>
+            <guid>1955764</guid>
+            <pubDate>Sat, 02 Jan 2021 14:51:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  特斯拉表示，Model Y已经开始在上海生产，预计将很快交付。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznctke9845319.d.html</link>
+            <guid>1955749</guid>
+            <pubDate>Sat, 02 Jan 2021 14:36:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据“今日俄罗斯”（RT）1月2日报道，当地时间12月31日，一艘从伊拉克港口驶出的油轮船体上被发现一枚水雷。（环球网）]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznctke9844450.d.html</link>
@@ -565,48 +607,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznctke9797300.d.html</link>
             <guid>1955118</guid>
             <pubDate>Sat, 02 Jan 2021 07:04:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【预计元旦发送旅客215万人次 长三角铁路迎2021年首个客流高峰】据“长三角铁路”发布的数据：2021年1月1日，长三角铁路迎来元旦小长假旅客出行高峰，当天预计发送旅客215万人次。为满足旅客出行需求，当天长三角铁路计划加开旅客列车90趟，同时对182趟列车进行重联编组，进一步扩大运能。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznctke9797178.d.html</link>
-            <guid>1955117</guid>
-            <pubDate>Sat, 02 Jan 2021 07:03:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  捷克共和国报告在过去24小时内，新增新冠肺炎病例3441例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznctke9797045.d.html</link>
-            <guid>1955116</guid>
-            <pubDate>Sat, 02 Jan 2021 07:02:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【沈阳9区完成核酸检测2317508人 检测结果均为阴性】截至2021年1月2日10时,市内9区共设置核酸检测采样点位1999个，沈阳市内9区共配备工作人员8582名。沈阳市内9区已完成采样4483111人，完成核酸检测2317508人,检测结果均为阴性。截至1月2日10时，沈阳市共有11个小区升级为中风险地区。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznctke9796873.d.html</link>
-            <guid>1955115</guid>
-            <pubDate>Sat, 02 Jan 2021 07:01:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  印度卫生部长：印度的新冠疫苗将对全国民众免费提供。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznezxt0215354.d.html</link>
-            <guid>1955114</guid>
-            <pubDate>Sat, 02 Jan 2021 06:58:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币持续走高，升破29800美元/枚，续刷新高，总市值突破5500亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznezxt0214486.d.html</link>
-            <guid>1955113</guid>
-            <pubDate>Sat, 02 Jan 2021 06:51:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【山东临沂检测出汽车零部件内包装标本新冠病毒核酸阳性】健康临沂微信公号消息，2021年1月1日凌晨，接上级通知，外地一企业员工被诊断为新冠肺炎确诊病例，其经销的部分汽车零部件内包装标本核酸检测阳性，该宗产品部分流入临沂市。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznctke9795435.d.html</link>
-            <guid>1955112</guid>
-            <pubDate>Sat, 02 Jan 2021 06:50:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【WhatsApp用户在2021年的新年前夜打出了14亿个电话】在Facebook公司的新闻稿中称，它旗下的、全球流行的即时通讯软件WhatsApp的用户在新年前夜进行了超过14亿次的语音和视频通话，创下了一天时间内的通话次数记录。（卫星通讯社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznezxt0214268.d.html</link>
-            <guid>1955111</guid>
-            <pubDate>Sat, 02 Jan 2021 06:50:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
