@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 03 Jan 2021 11:02:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2021 11:33:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【2021元旦档电影票房超12亿 超3000万人次观影】截至1月3日17时29分，2021年元旦档(1月1日-3日)电影票房已超12亿，超3000万人次观影。其中，元旦当日票房超6亿，刷新同档期影史纪录。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznezxt0372413.d.html</link>
+            <guid>1956130</guid>
+            <pubDate>Sun, 03 Jan 2021 11:12:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【增长110%超7.2万架次，020浦东出入境货运航班创新高】2020年浦东机场口岸的出入境货运航班数量定格为72381架次，同比增长110%以上，创下历史新高。其中，2020年5月14日当天，上海机场边检站一天之内验放393架次货运航班，创下了浦东机场口岸单日出入境货运航班最高纪录。（证券时报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznezxt0370764.d.html</link>
@@ -434,30 +440,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznctke9928824.d.html</link>
             <guid>1956023</guid>
             <pubDate>Sun, 03 Jan 2021 07:42:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中信证券：“轮动慢涨期”将在1月份进入下半场 局部投机性抱团将瓦解】中信证券认为，慢涨“三部曲”的第一阶段“轮动慢涨期”将在1月份进入下半场，局部投机性抱团将瓦解，建议紧扣“顺周期”和“五大安全”两条主线，转战高性价比品种。估值与基本面失调的二、三线品种的投机性抱团趋于瓦解，而一线核心资产则仍将继续受益于基金新发和外资流入。海外环境较好，基本面弹性高，流动性预期改善，1月份A股市场仍有上行空间。配置上，建议转战高性价比品种，一方面，“顺周期”主线中景气向上，相对滞涨的品种值得关注，包括有色金属、家居、家电、旅游、酒店等。另一方面，继续围绕科技、国防、粮食、能源、资源这“五大安全”战略，布局长期逻辑清晰、具备长期战略空间的高性价比品种，包括军工、半导体、消费电子、种植链和种子等。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznctke9926811.d.html</link>
-            <guid>1956019</guid>
-            <pubDate>Sun, 03 Jan 2021 07:21:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  新加坡新增35例输入性新冠肺炎确诊病例，无新增本土病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznezxt0344768.d.html</link>
-            <guid>1956018</guid>
-            <pubDate>Sun, 03 Jan 2021 07:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新疆电力进入“亿”千瓦时代 清洁能源占四成】截至1月3日，新疆电力装机容量突破1亿千瓦，达到1.025亿千瓦，其中清洁能源装机占比达到43.4%，成为我国“西电东送”能源战略布局的重要基地之一。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznctke9925180.d.html</link>
-            <guid>1956016</guid>
-            <pubDate>Sun, 03 Jan 2021 07:06:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华中科技大学研制并交付使用首台高精度量子重力仪】华中科技大学引力中心团队3日宣布，团队历经15年潜心研究，在量子重力仪研发方面取得突破，近期成功研制并交付有关行业部门首台高精度绝对重力仪。经过多个点位的双盲测量评估，以及多家单位的专家综合评定，该仪器精度达到微伽水平，受到用户好评，已顺利通过验收。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznezxt0343288.d.html</link>
-            <guid>1956015</guid>
-            <pubDate>Sun, 03 Jan 2021 07:04:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
