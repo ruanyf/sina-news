@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 03 Jan 2021 18:02:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2021 18:45:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国纽约州州长科莫：纽约州报告新增11368例新冠肺炎确诊病例，新增138例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctke9985518.d.html</link>
+            <guid>1957644</guid>
+            <pubDate>Sun, 03 Jan 2021 18:15:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：4名美国共和党参议员加入两党声明，呼吁国会确认11月3日的大选结果。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0403729.d.html</link>
+            <guid>1957642</guid>
+            <pubDate>Sun, 03 Jan 2021 18:14:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  爱尔兰报告新增4962例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctke9985248.d.html</link>
+            <guid>1957632</guid>
+            <pubDate>Sun, 03 Jan 2021 18:10:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  奥地利新增新冠肺炎确诊病例1611例，累计确诊364574例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctke9984542.d.html</link>
@@ -320,24 +338,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznctke9944271.d.html</link>
             <guid>1956095</guid>
             <pubDate>Sun, 03 Jan 2021 09:37:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  深康佳Ａ：参股公司楚天龙公司IPO获证监会审核通过，公司持有楚天龙IPO前总股本的21.95%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznctke9944005.d.html</link>
-            <guid>1956094</guid>
-            <pubDate>Sun, 03 Jan 2021 09:34:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【三晖电气：上海长耘将成公司控股股东 股票明日复牌】三晖电气公告，控股股东及一致人、持股5%以上董监高、以及股东宁波恒晖拟向上海长耘分两次合计转让公司29.99%股份，第一次转让价格为17.18元/股，第二次转让价格不低于第一次；第一次交割完成后，上海长耘将成为公司控股股东；股票明日复牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznezxt0362133.d.html</link>
-            <guid>1956093</guid>
-            <pubDate>Sun, 03 Jan 2021 09:31:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【乔治白：中标1.12亿元茅台集团厂服采购项目】乔治白公告，收到贵州省招标有限公司发给公司的中标通知书，确定本公司为茅台集团厂服采购项目包1的中标人，中标金额1.12亿元，中标金额约占公司2019年度经审计营业收入总额的10.01%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznctke9943702.d.html</link>
-            <guid>1956092</guid>
-            <pubDate>Sun, 03 Jan 2021 09:31:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
