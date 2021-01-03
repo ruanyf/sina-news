@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 03 Jan 2021 18:45:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2021 19:39:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  欧洲地中海地震中心：印尼苏拉威西岛发生5.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0407099.d.html</link>
+            <guid>1957782</guid>
+            <pubDate>Sun, 03 Jan 2021 19:29:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：第13届欧佩克与非欧佩克部长级会议将于维也纳时间明天15点（北京时间22点）举行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0406020.d.html</link>
+            <guid>1957780</guid>
+            <pubDate>Sun, 03 Jan 2021 18:56:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国纽约州州长科莫：纽约州报告新增11368例新冠肺炎确诊病例，新增138例死亡病例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctke9985518.d.html</link>
@@ -320,24 +332,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznezxt0363383.d.html</link>
             <guid>1956098</guid>
             <pubDate>Sun, 03 Jan 2021 09:43:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  煌上煌：拟以1.5亿元-2.5亿元回购股份，回购价格不超过30元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznezxt0363376.d.html</link>
-            <guid>1956097</guid>
-            <pubDate>Sun, 03 Jan 2021 09:43:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【浙江交科：下属公司拟中标12.9亿元改建工程项目】浙江交科公告，下属公司交工国际为G528遂昌新路湾至石练段改建工程第SJSG02标段第一中标候选人，拟中标金额12.9亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznezxt0363031.d.html</link>
-            <guid>1956096</guid>
-            <pubDate>Sun, 03 Jan 2021 09:40:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国首相约翰逊：需要观察第四级防疫措施是否能降低感染率。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznctke9944271.d.html</link>
-            <guid>1956095</guid>
-            <pubDate>Sun, 03 Jan 2021 09:37:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
