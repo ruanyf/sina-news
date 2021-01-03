@@ -17,6 +17,12 @@ const feed = new Feed({
 });
 
 
+const filterArr = [
+  '比特币',
+  '以太坊',
+  '莱特币',
+];
+
 async function main() {
 
     const response = await fetch(url, {
@@ -36,6 +42,12 @@ async function main() {
     console.log(`successfully parse the feed.`);
 
     items.forEach(item => {
+      if (!item.rich_text) return;
+
+      for (let i = 0; i < filterArr.length; i++) {
+        if (item.rich_text.includes(filterArr[i])) return;
+      }
+
       feed.addItem({
         title: item.rich_text,
         id: item.id,
