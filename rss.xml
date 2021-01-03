@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 03 Jan 2021 02:54:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2021 03:40:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：美国新冠肺炎新增267550例，创单日新增纪录。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznezxt0315525.d.html</link>
+            <guid>1955978</guid>
+            <pubDate>Sun, 03 Jan 2021 03:35:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京拟出台公共户落户政策，现开始公开征集意见】为推进户政管理理念和机制创新，积极回应百姓的期待要求，解决暂不具备市内迁移条件的北京市户籍人员落户问题，北京市公安局制定了《关于在户籍派出所设立"公共户"的工作意见(征求意见稿)》，现向社会公开征集意见。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznezxt0314178.d.html</link>
+            <guid>1955977</guid>
+            <pubDate>Sun, 03 Jan 2021 03:26:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【贺铿：特别国债明年应该不会再发 隐性债务应该尽快显性化】原国家统计局副局长贺铿接受访问时表示，“不转急弯”主要是指财政与货币政策不能转急弯，要保持稳健，专项债肯定还要发一些，特别国债明年应该不会再发，隐性债务应该尽快显性化，以便厘清债务人，落实监管责任。明年的财政支出，一是支持农业、农村发展；二是核心科技攻关研究；三是人才培训和基础科学研究；四是老旧城区改造和保障性住房建设；五是适当增加公共消费支出。（一财）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznezxt0312528.d.html</link>
+            <guid>1955976</guid>
+            <pubDate>Sun, 03 Jan 2021 03:16:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国单日新增新冠确诊病例数再创新高】英国政府2日发布的数据显示，英国当天新增新冠确诊病例57725例，再创该国疫情暴发以来单日新增确诊病例数最高纪录；累计确诊病例2599789例。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznezxt0312125.d.html</link>
+            <guid>1955975</guid>
+            <pubDate>Sun, 03 Jan 2021 03:13:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【兴业银行鲁政委：全球将开启绿色化投资潮流，中国经济开启新发展周期】近日，兴业银行首席经济学家鲁政委表示，国家承诺在2030年之前要实现碳达峰，2060年之前要实现碳中和，这意味着需要大量绿色化的投资。事实上不仅是我们国家，全球GDP总量超过60%以上的经济体都已经承诺要在2050年左右实现碳中和，所以这就意味着全球也将开启一轮在绿色化上投资的潮流，所以这意味着我们的经济在2021年，正在开启一个新的发展的周期。（国是直通车）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznctke9892028.d.html</link>
+            <guid>1955968</guid>
+            <pubDate>Sun, 03 Jan 2021 03:02:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美媒：顶级模型预测，美国下月新冠死亡病例将增加15万例】据美国《国会山报》报道，一项顶级模型预测，预计美国将进入新冠疫情最糟糕阶段，下月死亡人数可能将增加15万人。华盛顿大学健康指标与评估研究所预测显示，美国未来一个月死亡人数可能会远远超过去年12月创下的纪录。2020年12月，美国累计新冠死亡病例约77500例。（环球网）]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznezxt0307985.d.html</link>
@@ -578,36 +608,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznctke9844432.d.html</link>
             <guid>1955740</guid>
             <pubDate>Sat, 02 Jan 2021 14:26:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利市场监管机构CONSOB：英国脱欧后，意大利将给予英国金融公司六个月宽限期，在6月30日之前，这些公司可以等待授权以非欧盟公司的身份在意大利开展业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznctke9843783.d.html</link>
-            <guid>1955728</guid>
-            <pubDate>Sat, 02 Jan 2021 14:20:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国多地排查涉疫汽车零部件，三地检出阳性】1月2日，全国多地先后通报涉疫汽车零部件排查检测情况，先后有山东烟台、山东临沂、陕西晋城三地通报检测出相关核酸阳性样本。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznezxt0261091.d.html</link>
-            <guid>1955647</guid>
-            <pubDate>Sat, 02 Jan 2021 14:07:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国全球投资者公司CEO Frank Holmes：2021年不会是另一个市场崩溃的年份。事实上，预计经济将大幅反弹，随后黄金、股票和比特币将反弹。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznctke9842630.d.html</link>
-            <guid>1955631</guid>
-            <pubDate>Sat, 02 Jan 2021 14:06:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  伊拉克新增新冠肺炎确诊840例，累计确诊病例597033例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznezxt0260050.d.html</link>
-            <guid>1955556</guid>
-            <pubDate>Sat, 02 Jan 2021 13:55:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【我国学者成功研制“按需式读取”的可集成固态量子存储器】近期，中国科学技术大学郭光灿院士团队在该领域取得重要进展，团队中的李传锋、周宗权研究组首次研制出“按需式读取”的可集成固态量子存储器。量子存储器是构建大尺度量子网络的核心器件。李传锋、周宗权研究组长期致力于固态量子存储器研究，近年来发展了激光直写技术，在稀土掺杂晶体上制备可集成量子存储器。使用飞秒激光等技术，研究组首次研制出按需式读取的可集成固态量子存储器，存储保真度达到99.3%±0.2%，表明其具有极高的可靠性。该成果对实现大容量量子存储和构建量子网络都有重要意义。 (环球时报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-02/detail-iiznctke9840993.d.html</link>
-            <guid>1955514</guid>
-            <pubDate>Sat, 02 Jan 2021 13:47:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
