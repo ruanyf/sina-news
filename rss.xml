@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 03 Jan 2021 20:30:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2021 21:26:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【佩洛西势将赢得连任众议院议长一职】据Politico，佩洛西势将在当地时间周日当选第117届国会众议院议长，这将是其第四次，也可能是最后一次当选该职位。从某种程度而言，这是迄今对佩洛西最具挑战性的议长竞选，考虑到该党的微弱优势、反叛的民主党人，以及可能因新冠病毒而在最后一刻缺席的议员，她不得不小心翼翼地锁定每一张选票，几乎没有犯错的空间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctke9991744.d.html</link>
+            <guid>1957986</guid>
+            <pubDate>Sun, 03 Jan 2021 21:00:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  财经网站Fxstreet分析师Valeria Bednarik：技术上看跌美元兑日元USD/JPY，在即将展开的交易日中可能延续跌势。102.80是当前的支撑位，跌破该支撑位可能导致出现更大幅度的下滑。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctke9991288.d.html</link>
+            <guid>1957915</guid>
+            <pubDate>Sun, 03 Jan 2021 20:44:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【希腊首次出现6名变异新冠病毒感染者】当地时间1月3日晚，希腊国家电视台消息，有6名抵达希腊的旅客在实验室检测中确诊为变异新冠病毒感染者。该6人陆续乘坐去年12月21日、22日的航班由英国抵达希腊，在机场的新冠肺炎病毒快速检测中结果呈阳性。随后的实验室检测中发现，该6人感染的均为变异新冠病毒。他们年龄均在三十岁以下，且均为无症状感染者。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0408752.d.html</link>
@@ -314,24 +326,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznctke9945552.d.html</link>
             <guid>1956104</guid>
             <pubDate>Sun, 03 Jan 2021 09:49:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  赣能股份：向展宇新能源收购其全资子公司宇浩光伏100%股权，股权交易价格为138.7万元，并承接宇浩光伏子公司源茂新能源所属余干县大溪乡九连岗50MW渔光互补光伏电站项目的投资建设，项目总投资约1.9亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznctke9945537.d.html</link>
-            <guid>1956103</guid>
-            <pubDate>Sun, 03 Jan 2021 09:49:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【摩恩电气：持股2.69%的控股股东一致行动人问泽鑫拟6个月内减持不超过1.91%】摩恩电气公告，持有公司股份1182万股（占公司总股本比例2.69%）的股东问泽鑫计划以集中竞价或大宗交易方式减持本公司股份数量不超过838万股，约占本公司总股本的比例不超过1.91%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznezxt0363714.d.html</link>
-            <guid>1956102</guid>
-            <pubDate>Sun, 03 Jan 2021 09:46:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国首相约翰逊：政府有可能被迫关闭学校。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznezxt0363627.d.html</link>
-            <guid>1956101</guid>
-            <pubDate>Sun, 03 Jan 2021 09:45:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
