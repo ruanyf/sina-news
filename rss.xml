@@ -4,7 +4,7 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 03 Jan 2021 13:38:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2021 14:32:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -410,24 +410,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznctke9936114.d.html</link>
             <guid>1956049</guid>
             <pubDate>Sun, 03 Jan 2021 08:37:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京顺义四地环境样本检测出阳性】北京顺义：累计采样5365个环境样本，四地环境样本检测出阳性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznctke9935548.d.html</link>
-            <guid>1956047</guid>
-            <pubDate>Sun, 03 Jan 2021 08:33:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现代投资：获湖南轨道交通控股集团有限公司举牌，持股达5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznezxt0353895.d.html</link>
-            <guid>1956046</guid>
-            <pubDate>Sun, 03 Jan 2021 08:33:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  北京文化：公司因信披违规，收到证监会调查通知书，公司及相关人员收到北京证监局警示函。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznctke9935377.d.html</link>
-            <guid>1956045</guid>
-            <pubDate>Sun, 03 Jan 2021 08:32:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
