@@ -4,11 +4,304 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 04 Jan 2021 15:30:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jan 2021 16:54:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中概股第九城市涨幅扩大至128%；该公司此前宣布加密数字货币计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0580183.d.html</link>
+            <guid>1959723</guid>
+            <pubDate>Mon, 04 Jan 2021 16:52:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  拼多多盘中跌超5%，此前就知乎官方账号管控不严道歉，劳动保障监察部门介入调查其员工猝死一事。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznctkf0161661.d.html</link>
+            <guid>1959722</guid>
+            <pubDate>Mon, 04 Jan 2021 16:50:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国纽约州州长科莫：纽约州新增11209例新冠肺炎确诊病例，新增170例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0580083.d.html</link>
+            <guid>1959721</guid>
+            <pubDate>Mon, 04 Jan 2021 16:49:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：特斯拉获得在以色列的进口许可证，销售将在几天后开始。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznctkf0161530.d.html</link>
+            <guid>1959720</guid>
+            <pubDate>Mon, 04 Jan 2021 16:48:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【财政部修订商业银行绩效评价办法，突出服务实体经济指标】1月4日从财政部网站获悉，为适应我国金融改革新形势，围绕落实党中央、国务院对金融业要“服务实体经济、防控金融风险、深化金融改革”的总体要求，财政部进一步完善修订《商业银行绩效评价办法》。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0579950.d.html</link>
+            <guid>1959718</guid>
+            <pubDate>Mon, 04 Jan 2021 16:46:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧股收盘多数上涨，德国DAX30指数涨0.09%，英国富时100指数涨1.75%，法国CAC40指数涨0.68%，欧洲斯托克50指数跌跌0.27%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznctkf0161452.d.html</link>
+            <guid>1959717</guid>
+            <pubDate>Mon, 04 Jan 2021 16:45:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利去年12月预算赤字为34亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznctkf0161437.d.html</link>
+            <guid>1959716</guid>
+            <pubDate>Mon, 04 Jan 2021 16:45:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  WTI原油期货短线上扬近0.3美元，报47.72美元/桶，布伦特原油期货短线走高逾0.2美元，报51.15美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0579865.d.html</link>
+            <guid>1959715</guid>
+            <pubDate>Mon, 04 Jan 2021 16:43:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧佩克代表：大多数欧佩克+成员国反对2月增产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0579808.d.html</link>
+            <guid>1959714</guid>
+            <pubDate>Mon, 04 Jan 2021 16:42:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧佩克+消息人士：伊拉克支持延长当前减产规模至2月份。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0579760.d.html</link>
+            <guid>1959713</guid>
+            <pubDate>Mon, 04 Jan 2021 16:41:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国伦敦金属交易所（LME）：在英国脱欧协议达成之后，欧洲的那些会员单位可以接入LME。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0579750.d.html</link>
+            <guid>1959712</guid>
+            <pubDate>Mon, 04 Jan 2021 16:41:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储埃文斯：在通胀达到2%之前，不会加息，预计通胀率将会升至2%以上。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0579737.d.html</link>
+            <guid>1959711</guid>
+            <pubDate>Mon, 04 Jan 2021 16:41:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  部分热门中概股盘中走低，秦淮数据跌16.5%，网易有道跌5.80%，贝壳跌超5%，跟谁学跌4.35%，新氧跌4.23%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznctkf0161074.d.html</link>
+            <guid>1959710</guid>
+            <pubDate>Mon, 04 Jan 2021 16:37:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：在伊拉克北部，一枚炸弹在美国领导的联军车队中爆炸。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznctkf0160953.d.html</link>
+            <guid>1959709</guid>
+            <pubDate>Mon, 04 Jan 2021 16:35:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【过去一周内美国平均每33秒就有人死于新冠】当地时间1月4日，根据约翰·霍普金斯大学的数据分析，在过去一周内（12月28日到1月3日），美国平均每33秒就有1例与新冠肺炎相关的死亡病例。据报道，从12月28日到1月3日共报告有18462例新冠肺炎死亡病例，平均每天超过2600例。12月份则是美国最致命的新冠大流行月份：共有77572例新冠肺炎死亡病例，平均每天超过2500例。相比之下，11月份的死亡病例数为36964例，4月份为60738例，5月份为41703例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0579253.d.html</link>
+            <guid>1959708</guid>
+            <pubDate>Mon, 04 Jan 2021 16:33:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲STOXX 600指数初步收涨0.58%，报401.34点。欧洲STOXX 600指数初步收涨0.58%，报401.34点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0579240.d.html</link>
+            <guid>1959707</guid>
+            <pubDate>Mon, 04 Jan 2021 16:33:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Slack Technologies页面状态显示其所有服务均经历宕机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznctkf0160662.d.html</link>
+            <guid>1959706</guid>
+            <pubDate>Mon, 04 Jan 2021 16:31:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  WTI原油期货短线走高0.2美元，报47.43美元/桶，布伦特原油期货现报50.88美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0579052.d.html</link>
+            <guid>1959704</guid>
+            <pubDate>Mon, 04 Jan 2021 16:30:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  两名欧佩克+消息人士：阿联酋和尼日利亚支持延长当前减产水平至2月份。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznctkf0160571.d.html</link>
+            <guid>1959703</guid>
+            <pubDate>Mon, 04 Jan 2021 16:29:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  土耳其新增13695例新冠肺炎确诊病例，新增197例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0578935.d.html</link>
+            <guid>1959702</guid>
+            <pubDate>Mon, 04 Jan 2021 16:29:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧佩克代表：阿曼支持延长当前的产量水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0578835.d.html</link>
+            <guid>1959701</guid>
+            <pubDate>Mon, 04 Jan 2021 16:27:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  纽约联储购买了88.01亿美元的国库券。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznctkf0160344.d.html</link>
+            <guid>1959700</guid>
+            <pubDate>Mon, 04 Jan 2021 16:26:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧佩克代表：阿尔及利亚石油部长支持沙特阿拉伯延长当前石油产量水平的提议（即2月不增产）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0578755.d.html</link>
+            <guid>1959699</guid>
+            <pubDate>Mon, 04 Jan 2021 16:26:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【ESG投资主题是泡沫吗？】摩根大通认为，根据历史上数次泡沫的表现，ESG（环境、社会和治理）投资主题离泡沫还有很长的路要走。自18世纪以来的5次大规模金融泡沫中，相关资产类别在崩盘前平均上涨了1401%，而欧洲的可再生能源主题在过去四年里只增长了204%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0578302.d.html</link>
+            <guid>1959698</guid>
+            <pubDate>Mon, 04 Jan 2021 16:20:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国新增58784例新冠肺炎确诊病例，新增407例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0577661.d.html</link>
+            <guid>1959696</guid>
+            <pubDate>Mon, 04 Jan 2021 16:13:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  VIX指数期货涨幅扩大至10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0577545.d.html</link>
+            <guid>1959695</guid>
+            <pubDate>Mon, 04 Jan 2021 16:11:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧佩克代表：俄罗斯副总理诺瓦克提议欧佩克+可在2月增产50万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0577535.d.html</link>
+            <guid>1959694</guid>
+            <pubDate>Mon, 04 Jan 2021 16:10:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小心通胀交易的陷阱】复苏预期之下，华尔街早已发出警告，称我们这一代人可能会在2021年经历第一次高通胀。因为通胀预期会上升，从而迫使美联储加快退出或放弃宽松货币政策。当复苏猜想占据上风时，发达国家甚至会因为担心赤字而更早实施财政紧缩。到时市场的驱动力将从流动性转为盈利预期。这也是德银调查的2021年全球市场最大风险中的第五和第六大风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznctkf0159055.d.html</link>
+            <guid>1959693</guid>
+            <pubDate>Mon, 04 Jan 2021 16:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧股涨幅收窄，欧洲斯托克600指数现涨0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznctkf0158830.d.html</link>
+            <guid>1959692</guid>
+            <pubDate>Mon, 04 Jan 2021 16:06:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  现货白银短线下挫近0.2美元，报27.16美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0577160.d.html</link>
+            <guid>1959691</guid>
+            <pubDate>Mon, 04 Jan 2021 16:06:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  道指日内跌超500点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznctkf0158697.d.html</link>
+            <guid>1959690</guid>
+            <pubDate>Mon, 04 Jan 2021 16:05:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股三大指数均跌超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0576798.d.html</link>
+            <guid>1959689</guid>
+            <pubDate>Mon, 04 Jan 2021 16:02:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  货币市场将英国央行的降息预期从9月提前至8月。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznctkf0158321.d.html</link>
+            <guid>1959688</guid>
+            <pubDate>Mon, 04 Jan 2021 16:01:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利报告新增新冠肺炎确诊病例10800例，昨日为新增14245例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0576604.d.html</link>
+            <guid>1959687</guid>
+            <pubDate>Mon, 04 Jan 2021 16:00:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列总理内塔尼亚胡将在48小时内寻求批准，以加强封锁措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0576524.d.html</link>
+            <guid>1959686</guid>
+            <pubDate>Mon, 04 Jan 2021 15:58:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  标普500指数跌1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0157943.d.html</link>
+            <guid>1959685</guid>
+            <pubDate>Mon, 04 Jan 2021 15:53:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  恐慌指数VIX日内大涨12%，现报25.59，创12月22日以来的新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0157856.d.html</link>
+            <guid>1959684</guid>
+            <pubDate>Mon, 04 Jan 2021 15:51:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【估值炫目、IPO潮起 股市泡沫警报拉响】IPO市场如火如荼。自互联网泡沫破灭以来，股票还没有像现在这么昂贵过。纳斯达克100指数在两年内翻了一倍，估值高企--而同时波动率仍然居高不下。股票发行、首次公开募股（IPO）和空白支票公司变得如此受欢迎，以至于在2020年连创新高。根据彭博汇编的数据，美国的公司去年发行了3680亿美元的新股，比之前的高点高出54%。]]></title>
+            <guid>1959681</guid>
+            <pubDate>Mon, 04 Jan 2021 15:46:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美、布两油期货短线回升近0.5美元，现分别报48.15美元/桶、51.57美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0575832.d.html</link>
+            <guid>1959680</guid>
+            <pubDate>Mon, 04 Jan 2021 15:44:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  现货黄金短线走高6美元，现报1939.77美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0157345.d.html</link>
+            <guid>1959679</guid>
+            <pubDate>Mon, 04 Jan 2021 15:41:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股跌幅扩大，道琼斯指数跌超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0157168.d.html</link>
+            <guid>1959678</guid>
+            <pubDate>Mon, 04 Jan 2021 15:39:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  布伦特原油期货现报51.15美元/桶，日内跌超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0157132.d.html</link>
+            <guid>1959677</guid>
+            <pubDate>Mon, 04 Jan 2021 15:38:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油期货短线下挫1美元，日内跌超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0157103.d.html</link>
+            <guid>1959676</guid>
+            <pubDate>Mon, 04 Jan 2021 15:37:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储埃文斯：平均通货膨胀率可能需要数年才能达到2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0575417.d.html</link>
+            <guid>1959675</guid>
+            <pubDate>Mon, 04 Jan 2021 15:36:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储埃文斯：让通胀率保持在2.5%左右对美联储的目标很重要。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0157031.d.html</link>
+            <guid>1959674</guid>
+            <pubDate>Mon, 04 Jan 2021 15:36:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中概股造车新势力涨幅扩大，理想汽车涨超12%，小鹏汽车、蔚来汽车均涨超10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0157025.d.html</link>
+            <guid>1959673</guid>
+            <pubDate>Mon, 04 Jan 2021 15:36:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  安哥拉能源部长：我们落后于欧佩克对2021年的预期，但相信经济将会复苏。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0575397.d.html</link>
+            <guid>1959672</guid>
+            <pubDate>Mon, 04 Jan 2021 15:36:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储埃文斯：美联储的资产购买可能持续一段时间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0156996.d.html</link>
+            <guid>1959671</guid>
+            <pubDate>Mon, 04 Jan 2021 15:35:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国标致集团：菲亚特克莱斯勒与法国标致集团（PSA）将于1月16日完成合并交易，经合并之后的Stellantis普通股将于1月18日在欧洲交易，19日将在美国交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0575269.d.html</link>
+            <guid>1959670</guid>
+            <pubDate>Mon, 04 Jan 2021 15:33:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[摩根士丹利认为，继去年的强劲表现之后，美股在2021年或将开始动荡。策略师指出，标普500和纳指在2020年分别增长16.3％和43.6%之后，投资者乐观水平提高，股票估值过高，这可能使市场容易遭受下行风险。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0574970.d.html</link>
@@ -224,264 +517,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0155052.d.html</link>
             <guid>1959625</guid>
             <pubDate>Mon, 04 Jan 2021 15:02:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道指跌幅扩大至100点，成分股波音和可口可乐至少跌超2.4%，微软和TRV均跌超1.0%，英特尔目前涨超2.6%，WBA、卡特彼勒、沃尔玛、雪佛龙均涨超1.%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0154996.d.html</link>
-            <guid>1959624</guid>
-            <pubDate>Mon, 04 Jan 2021 15:02:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国11月营建支出月率前值 1.30%；预期 0.9%；公布 0.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0573249.d.html</link>
-            <guid>1959622</guid>
-            <pubDate>Mon, 04 Jan 2021 15:00:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音(BA.N)跌约2.5%，此前伯恩斯坦下调其目标价至199美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0154769.d.html</link>
-            <guid>1959621</guid>
-            <pubDate>Mon, 04 Jan 2021 14:59:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗驻国际原子能机构大使在推特上表示，国际原子能机构证实，一个装有137.2公斤，浓度为4.1%的铀的圆筒已被连接到福尔多浓缩设施的供应线上。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0154592.d.html</link>
-            <guid>1959618</guid>
-            <pubDate>Mon, 04 Jan 2021 14:56:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中概视频股集体上涨，哔哩哔哩一度涨超11%，逼近纪录新高。斗鱼涨超3%，爱奇艺、虎牙涨超1%。 区块链股集体上涨，第九城市涨超84%，亿邦国际涨超30%，嘉楠耘智涨超8%。 美股太阳能股集体上涨，太阳能ETF-Guggenheim涨超4%，晶科能源涨超9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0572990.d.html</link>
-            <guid>1959617</guid>
-            <pubDate>Mon, 04 Jan 2021 14:56:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：英国议会因新冠确诊激增被召回，召回时间为本周三。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0154433.d.html</link>
-            <guid>1959615</guid>
-            <pubDate>Mon, 04 Jan 2021 14:54:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：智利将要求所有入境人员进行10天的隔离。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0154070.d.html</link>
-            <guid>1959613</guid>
-            <pubDate>Mon, 04 Jan 2021 14:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股充电桩板块集体走低，Beam Global跌超15%，Switchback Energy、Blink Charging跌超6%，TPG Pace Beneficial Finance Corp.跌近3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0153973.d.html</link>
-            <guid>1959612</guid>
-            <pubDate>Mon, 04 Jan 2021 14:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IHS Markit首席经济学家Chirs Williamson：在美国新冠确诊病例激增和消费者支出受限的情况下，消费品制造商的订单流走弱，而机械和设备制造商订单需求强劲，这可能是商业投资改善的迹象。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0153961.d.html</link>
-            <guid>1959611</guid>
-            <pubDate>Mon, 04 Jan 2021 14:48:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[台积电涨超4%，2020年营收同比增长超30%，创下历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0572334.d.html</link>
-            <guid>1959610</guid>
-            <pubDate>Mon, 04 Jan 2021 14:46:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：欧佩克+会议预计将在北京时间23:00正式开始，在欧佩克+联合部长级监督委员会（JMMC）没有给出建议的情况下，预计部长们可能需要很长时间才能达成共识。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0153789.d.html</link>
-            <guid>1959609</guid>
-            <pubDate>Mon, 04 Jan 2021 14:46:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国12月Markit制造业PMI终值录得57.1，创2014年9月以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0153766.d.html</link>
-            <guid>1959608</guid>
-            <pubDate>Mon, 04 Jan 2021 14:46:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国12月份制造业采购经理指数报57.1，初步数据为56.5。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0153716.d.html</link>
-            <guid>1959607</guid>
-            <pubDate>Mon, 04 Jan 2021 14:45:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线抬升近6美元，现报1942.55美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0572124.d.html</link>
-            <guid>1959606</guid>
-            <pubDate>Mon, 04 Jan 2021 14:44:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉总市值突破7000亿美元关口，现涨逾4.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0153583.d.html</link>
-            <guid>1959605</guid>
-            <pubDate>Mon, 04 Jan 2021 14:43:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[穆迪：随着2021年开始，全球工业行业展望名单将呈现温和正面，但不确定性仍然很高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0153548.d.html</link>
-            <guid>1959604</guid>
-            <pubDate>Mon, 04 Jan 2021 14:43:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蔚来汽车市值突破800亿美元关口，现涨超8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0572047.d.html</link>
-            <guid>1959603</guid>
-            <pubDate>Mon, 04 Jan 2021 14:43:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【生活用纸涨价潮蔓延，中小纸企遭“双面夹击”】近期，生活用纸涨价消息一出，许多消费者担心，终端零售价格也会水涨船高。但记者调查发现，这波涨价潮暂时还未大规模蔓延到终端零售市场。为了令终端市场供需平衡，河北工厂平价纸巾正在赶工直供，开启纸巾“保卫战”。值得注意的是，众多中小造纸企业正面临原材料价格攀升导致的成本上涨与市场竞争压力下谨慎提价的双面夹击。（21世纪经济报道）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0572022.d.html</link>
-            <guid>1959602</guid>
-            <pubDate>Mon, 04 Jan 2021 14:42:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：伊朗外交部称扣押油轮是“技术问题”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0153456.d.html</link>
-            <guid>1959601</guid>
-            <pubDate>Mon, 04 Jan 2021 14:42:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国阿富汗和解问题特别代表哈利勒扎德将前往阿富汗，巴基斯坦，卡塔尔和土库曼斯坦。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0571959.d.html</link>
-            <guid>1959600</guid>
-            <pubDate>Mon, 04 Jan 2021 14:42:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股黄金股走高，金田涨8.5%，AngloGold涨超9%，哈莫尼黄金涨近8%，巴里克黄金涨近5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0153381.d.html</link>
-            <guid>1959599</guid>
-            <pubDate>Mon, 04 Jan 2021 14:41:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国股市今日上涨2.5%，扩大了近期的突破势头，续创历史新高。就全球经济状况而言，韩国仍然是最重要的指标之一。图为韩国KOSPI与标普500期指对比。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0571691.d.html</link>
-            <guid>1959597</guid>
-            <pubDate>Mon, 04 Jan 2021 14:40:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数短线抬升12点，现报89.62。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0153129.d.html</link>
-            <guid>1959596</guid>
-            <pubDate>Mon, 04 Jan 2021 14:39:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股三大股指悉数转跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0571621.d.html</link>
-            <guid>1959595</guid>
-            <pubDate>Mon, 04 Jan 2021 14:39:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑兑美元GBP/USD短线跌超30点，现报1.3607。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0152977.d.html</link>
-            <guid>1959594</guid>
-            <pubDate>Mon, 04 Jan 2021 14:37:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[第九城市触发熔断，现报5.45美元，涨幅53.95%。 因这家总部位于上海的网络游戏开发商与加密货币挖矿投资者签署协议，启动数字货币业务。投资者包括嘉楠耘智前联席董事长孔剑平，嘉楠耘智前董事孙奇峰，以及张丽和李恩光等人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0152878.d.html</link>
-            <guid>1959593</guid>
-            <pubDate>Mon, 04 Jan 2021 14:36:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道指转跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0571127.d.html</link>
-            <guid>1959592</guid>
-            <pubDate>Mon, 04 Jan 2021 14:33:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[拼多多(PDD.O)跌近2%，劳动保障监察部门介入调查其员工猝死一事。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0152616.d.html</link>
-            <guid>1959590</guid>
-            <pubDate>Mon, 04 Jan 2021 14:33:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MSCI新兴市场货币（指数）创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0152601.d.html</link>
-            <guid>1959589</guid>
-            <pubDate>Mon, 04 Jan 2021 14:33:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货铂金日内涨5%，现报1122.15美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0152579.d.html</link>
-            <guid>1959588</guid>
-            <pubDate>Mon, 04 Jan 2021 14:32:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哔哩哔哩(BILI.O)涨超9%，报93.6美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0571049.d.html</link>
-            <guid>1959587</guid>
-            <pubDate>Mon, 04 Jan 2021 14:32:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国电信跌超6%，中国移动跌超4%，中国联通跌约3.5%，此前纽交所发表公告，三大电信运营商股票即将从纽交所退市。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0571024.d.html</link>
-            <guid>1959586</guid>
-            <pubDate>Mon, 04 Jan 2021 14:32:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MSCI新兴市场货币指数攀升至历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0570962.d.html</link>
-            <guid>1959585</guid>
-            <pubDate>Mon, 04 Jan 2021 14:31:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【道指开盘涨0.2%，标普500涨0.3%,纳指涨0.5%】特斯拉涨1.6%，其国产版Model Y大幅降价15万元。其全年汽车交付量接近50万辆，超过市场预期。蔚来涨4.9%，该公司12月汽车交付量连续第9个月翻倍增长；小鹏涨6.0%，该公司12月交付量同比增长326%。理想汽车涨5.2%，其在12月交付了6,126辆汽车，同比增长了530%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0570944.d.html</link>
-            <guid>1959584</guid>
-            <pubDate>Mon, 04 Jan 2021 14:31:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元兑英镑EUR/GBP日内涨1.00%，现报0.9033。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0570776.d.html</link>
-            <guid>1959583</guid>
-            <pubDate>Mon, 04 Jan 2021 14:29:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【秦皇岛：全市所有幼儿园一律1月5日起放假】秦皇岛市教育局发布重要公告，全市所有幼儿园一律2021年1月5日起放假。 未接通知一律不得开学，如发现私自开学，严肃处理。此外，秦皇岛市海港区本学期教学工作提前至1月8日结束。中小学期末测试提前，初中期末测试也进行了相应安排。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0570600.d.html</link>
-            <guid>1959582</guid>
-            <pubDate>Mon, 04 Jan 2021 14:26:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧佩克代表：欧佩克+部长级全体会议即将开始。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0570577.d.html</link>
-            <guid>1959581</guid>
-            <pubDate>Mon, 04 Jan 2021 14:26:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[投行Oppenheimer：如果民主党人赢得佐治亚州参议院选举，美股可能从目前的历史高位回落，下跌10％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0570567.d.html</link>
-            <guid>1959580</guid>
-            <pubDate>Mon, 04 Jan 2021 14:26:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美、布两油短线下挫0.3美元，现分别报48.43美元/桶和51.91美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0570275.d.html</link>
-            <guid>1959578</guid>
-            <pubDate>Mon, 04 Jan 2021 14:22:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧佩克代表：欧佩克+联合部长级监督委员会（JMMC）已经结束，并未给出应遵循何种政策的最终建议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0151690.d.html</link>
-            <guid>1959577</guid>
-            <pubDate>Mon, 04 Jan 2021 14:21:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[菲亚特克莱斯勒股东批准与法国标致集团（PSA）之间的合并事宜，此前，PSA已经批准双方的合并交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0570067.d.html</link>
-            <guid>1959575</guid>
-            <pubDate>Mon, 04 Jan 2021 14:20:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据科威特国家新闻机构：科威特石油部长称，在大布尔甘油田的北部还发现了常规石油。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznctkf0151460.d.html</link>
-            <guid>1959573</guid>
-            <pubDate>Mon, 04 Jan 2021 14:18:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗石油记者Reza Zandi：正式的欧佩克+会议尚未开始，欧佩克+联合部长级监督委员会（JMMC）会议仍在召开。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-04/detail-iiznezxt0569779.d.html</link>
-            <guid>1959571</guid>
-            <pubDate>Mon, 04 Jan 2021 14:17:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
