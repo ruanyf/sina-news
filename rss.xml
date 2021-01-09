@@ -4,11 +4,59 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 09 Jan 2021 18:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2021 19:41:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  南非新冠肺炎确诊病例累计达1214176例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1153971.d.html</link>
+            <guid>1965991</guid>
+            <pubDate>Sat, 09 Jan 2021 19:30:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：01月10日03时10分在甘肃酒泉市阿克塞县发生3.1级地震，震源深度10千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1153592.d.html</link>
+            <guid>1965990</guid>
+            <pubDate>Sat, 09 Jan 2021 19:24:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  丰田公司称，芯片短缺影响得州工厂生产，预计1月份丰田坦途卡车产量下降40%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1571499.d.html</link>
+            <guid>1965989</guid>
+            <pubDate>Sat, 09 Jan 2021 19:14:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士：美国财长努钦可能本周末返回美国，此前原计划在1月15日左右从中东返回。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1571452.d.html</link>
+            <guid>1965988</guid>
+            <pubDate>Sat, 09 Jan 2021 19:13:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国新增20177例新冠肺炎确诊病例，新增171例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1570407.d.html</link>
+            <guid>1965986</guid>
+            <pubDate>Sat, 09 Jan 2021 18:59:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国地质勘探局：斐济列雾卡市以东227公里处发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1150792.d.html</link>
+            <guid>1965985</guid>
+            <pubDate>Sat, 09 Jan 2021 18:46:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德国卫生部长施潘：不寻求竞选总理。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1149202.d.html</link>
+            <guid>1965984</guid>
+            <pubDate>Sat, 09 Jan 2021 18:24:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  卡塔尔航空将恢复飞往沙特的航班。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1148723.d.html</link>
+            <guid>1965983</guid>
+            <pubDate>Sat, 09 Jan 2021 18:18:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  以色列卫生部发布消息称，该国首次发现4例南非变种新冠病毒感染病例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1566544.d.html</link>
@@ -426,42 +474,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1073037.d.html</link>
             <guid>1965767</guid>
             <pubDate>Sat, 09 Jan 2021 08:31:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【4家银行踩中房贷红线，预计波及22家地产上市公司】央行、银保监会2020年末划出两条房地产贷款占比红线，记者研究发现，有4家一线银行房地产贷款占比超越上限，与这些银行合作的主流房地产上市公司有22家，踩线银行未来将收紧房地产贷款，地产公司融资将进一步承压。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1490233.d.html</link>
-            <guid>1965763</guid>
-            <pubDate>Sat, 09 Jan 2021 08:23:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北京城区新增14家店 小米之家一日内扩张千店】记者从小米公司获悉，共计1003家小米之家同时开业，新开门店遍及全国30个省，覆盖270个县市。其中北京城区新开14家店，主要在北京“城八区”的核心商圈落地。天津地区此次共新开9家门店，涵盖了市内的核心人流聚集的mall。“千店同开”——在规模和数量上都开创了新经济品牌在零售行业先例，也标志着小米新零售进入全新的发展阶段。（北京商报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1070941.d.html</link>
-            <guid>1965761</guid>
-            <pubDate>Sat, 09 Jan 2021 08:17:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【鹏辉能源：将积极扩大动力电池产能 在储能方面进行了全方位的布局】鹏辉能源在互动平台表示，今年将积极扩大动力电池产能，以前和小鹏汽车有过合作，目前和比亚迪、特斯拉、蔚来还未有合作。在储能业务方面，已经进行了小型家储、大型储能（发电侧、电网侧、用户侧储能）和通讯基站备电储能等全方位的布局。光伏储能方面，和天合光能的合作公司经营如期开展，首条生产线预计在一季度投入批量生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1070673.d.html</link>
-            <guid>1965760</guid>
-            <pubDate>Sat, 09 Jan 2021 08:15:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【河北检测人群中感染患者数量得到了初步控制】河北省新冠肺炎医疗救治专家组组长阎锡新说，从新型冠状病毒流行病学角度讲，核酸检测仍然是最有效的检测办法，最近几天核酸检测阳性病例数确实有下降趋势。可以推测，人群中感染患者数量得到了初步控制并有下降的趋势。（新华视点）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1487828.d.html</link>
-            <guid>1965759</guid>
-            <pubDate>Sat, 09 Jan 2021 08:08:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯新增23309例新冠肺炎确诊病例，新增470例新冠肺炎死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1486415.d.html</link>
-            <guid>1965758</guid>
-            <pubDate>Sat, 09 Jan 2021 08:00:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  辽宁省卫健委：1月9日0时至12时，辽宁省新增2例境外输入新冠肺炎确诊病例，均属普通型病例，均为营口市报告。新增本土确诊病例治愈出院6例，其中沈阳市报告2例、大连市报告4例；新增本土无症状感染者治愈出院1例，为大连市报告。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1484478.d.html</link>
-            <guid>1965756</guid>
-            <pubDate>Sat, 09 Jan 2021 07:49:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
