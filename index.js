@@ -6,10 +6,10 @@ const fs = require('fs/promises');
 const process = require('process');
 
 const controller = new AbortController();
-// 3000 毫秒后取消请求
+// 30 秒后取消请求
 const timeout = setTimeout(
   () => { controller.abort(); },
-  3000,
+  30000,
 );
 
 const feed = new Feed({
