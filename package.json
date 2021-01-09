@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "abort-controller": "^3.0.0",
     "feed": "^4.2.1",
     "node-fetch": "^2.6.1"
   }

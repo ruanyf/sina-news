@@ -1,8 +1,16 @@
 const fetch = require('node-fetch');
+const AbortController = require('abort-controller');
 const { url } = require('./sina.js');
 const Feed = require('feed').Feed;
 const fs = require('fs/promises');
 const process = require('process');
+
+const controller = new AbortController();
+// 3000 毫秒后取消请求
+const timeout = setTimeout(
+  () => { controller.abort(); },
+  3000,
+);
 
 const feed = new Feed({
   title: '新浪新闻',
@@ -28,7 +36,8 @@ const filterArr = [
 async function main() {
 
     const response = await fetch(url, {
-      headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10130'}
+      headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10130'},
+      signal: controller.signal
     });
 
     if (response.status < 200 || response.status >= 300) {
@@ -78,7 +87,11 @@ async function main() {
 
 }
 
-main().catch(err => {
+main()
+.catch(err => {
   console.log(err);
   process.exit(1);
+})
+.finally(() => {
+  clearTimeout(timeout);
 });
