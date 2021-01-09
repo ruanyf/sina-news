@@ -4,11 +4,46 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 09 Jan 2021 09:43:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2021 10:45:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  马来西亚新增2451例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1513666.d.html</link>
+            <guid>1965799</guid>
+            <pubDate>Sat, 09 Jan 2021 10:41:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印尼一航空公司航班失联 机型为波音737】印尼方面表示，当地时间9日下午2时左右，斯里维加亚航空公司一架航班号为SJ182的客机失联，原因不明。报道提到，这架航班原计划由印尼雅加达飞往坤甸。FLIGHTRADAR24数据显示，失联的斯里维加亚航空公司182航班是波音737客机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1092809.d.html</link>
+            <guid>1965797</guid>
+            <pubDate>Sat, 09 Jan 2021 10:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【拼多多通报一员工于家中自杀离世】1月9日18时，拼多多通报了一例员工今日在长沙家中跳楼自杀的事件。拼多多方面表示，对员工不幸离世表示深切哀悼，同时正等待当地有关部门对事发原因的最终调查结果。在此期间，公司将全力配合谭某林离世的善后工作，同时公司将立即在内网OA系统开通心理及特殊紧急事项咨询通道，安排专人为员工提供咨询服务。（36氪）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1092657.d.html</link>
+            <guid>1965796</guid>
+            <pubDate>Sat, 09 Jan 2021 10:22:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印尼方面表示，斯里维加亚航空公司182航班失联，原因不明。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1091896.d.html</link>
+            <guid>1965795</guid>
+            <pubDate>Sat, 09 Jan 2021 10:17:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  河北三河：严禁通过河道冰面进入京津地区。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1087642.d.html</link>
+            <guid>1965786</guid>
+            <pubDate>Sat, 09 Jan 2021 09:48:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  国家市场监督管理总局局长张工：市场监管部门将围绕中央经济工作会议部署的“强化反垄断和防止资本无序扩张”等重点任务，切实履行好反垄断和反不正当竞争职责。坚持“三个并重”，不断提升监管能力，加快完善竞争治理，努力营造公平竞争的制度环境。]]></title>
+            <guid>1965785</guid>
+            <pubDate>Sat, 09 Jan 2021 09:44:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【国家市场监督管理总局局长张工谈2021年市场热点问题】张工说，“十四五”时期，商事制度改革将从解决市场主体“准入难”进入解决“准营难”的攻关期。推进以“两张清单”“四类方式”为主要内容的商事制度改革，将为市场主体提供更加公正、透明、规范、便捷、可预期的营商环境。（新华网）]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1085645.d.html</link>
@@ -385,12 +420,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1012201.d.html</link>
             <guid>1965653</guid>
             <pubDate>Sat, 09 Jan 2021 03:01:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[山西太原义务教育阶段各年级寒假放假提前到1月19日。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1010147.d.html</link>
-            <guid>1965649</guid>
-            <pubDate>Sat, 09 Jan 2021 02:50:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
