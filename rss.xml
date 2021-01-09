@@ -4,11 +4,52 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 09 Jan 2021 03:03:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2021 03:50:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【小米之家千店同开：刷新行业单日开店新纪录】从小米公司获悉，共计1003家小米之家在今日同时开业，新开门店遍及全国30个省，覆盖270个县市。“千店同开”——在规模和数量上都开创了新经济品牌在零售行业先例，也标志着小米新零售进入全新的发展阶段。]]></title>
+            <guid>1965666</guid>
+            <pubDate>Sat, 09 Jan 2021 03:50:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[河北衡水表示，所有入境来衡人员在入境口岸城市一律进行14天集中隔离，并进行2次核酸检测，均为阴性方可回衡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1018191.d.html</link>
+            <guid>1965662</guid>
+            <pubDate>Sat, 09 Jan 2021 03:28:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普团队推特账号也被禁用】路透社消息称，推特平台刚刚禁用了特朗普竞选团队的推特账号@TeamTrump。 （环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1436549.d.html</link>
+            <guid>1965660</guid>
+            <pubDate>Sat, 09 Jan 2021 03:26:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国家能源局表示，7日全国用电负荷大幅增长超20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1435191.d.html</link>
+            <guid>1965659</guid>
+            <pubDate>Sat, 09 Jan 2021 03:21:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家能源局与湖南省、江西省召开视频会议部署冬季能源保供工作】1月8日、9日，国家能源局分别与湖南省、江西省人民政府召开视频会议，对接冬季能源保供工作。会议分析了湖南省、江西省冬季能源供需形势，研究提出了强化能源供应保障、确保群众温暖过冬的对策措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1434496.d.html</link>
+            <guid>1965658</guid>
+            <pubDate>Sat, 09 Jan 2021 03:19:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[1月9日上午起，石家庄市出租车全部停止运营。（河北日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1431421.d.html</link>
+            <guid>1965655</guid>
+            <pubDate>Sat, 09 Jan 2021 03:03:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【必和必拓将与丰田合作研发电动汽车】必和必拓和丰田共同表示，双方将在必和必拓位于西澳大利亚州的Nickel West镍盐工厂中合作研发一款新的轻型电动车。本次测试车型为丰田越野车LandCruiser 70，该部车型将由柴油机驱动改为通过车载电池供电的全电力驱动。必和必拓澳洲铁矿石资产总裁EdgarBasto表示，这项合作是该公司研究如何减少轻型汽车排放的其中一部分。 (智通财经)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1431356.d.html</link>
+            <guid>1965654</guid>
+            <pubDate>Sat, 09 Jan 2021 03:03:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【河北卫健委：截至8日24时 石家庄、邢台已完成9成以上居民核酸采样】记者从河北省卫健委了解到，截至1月8日24时，石家庄市累计完成核酸采样10251875人份，已完成检测8459146人份；截至1月8日24时，邢台市已累计完成核酸采样6744455人份，已完成检测4596213人份两地核酸采样均已完成总人口的九成以上。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1012201.d.html</link>
@@ -360,60 +401,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1381353.d.html</link>
             <guid>1965553</guid>
             <pubDate>Fri, 08 Jan 2021 21:50:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  巴西卫生部：巴西新增52035例新冠肺炎确诊病例，新增962例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf0961445.d.html</link>
-            <guid>1965550</guid>
-            <pubDate>Fri, 08 Jan 2021 21:39:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国疾控中心：截至昨日，新冠肺炎累计确诊病例增至21539398例，此前为21259997例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf0961423.d.html</link>
-            <guid>1965549</guid>
-            <pubDate>Fri, 08 Jan 2021 21:38:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国疾控中心：截至昨日，新冠肺炎累计死亡病例为364029例，此前为359849例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1380327.d.html</link>
-            <guid>1965548</guid>
-            <pubDate>Fri, 08 Jan 2021 21:38:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  巴西卫生部：巴西新冠肺炎确诊病例累计超800万例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1380153.d.html</link>
-            <guid>1965547</guid>
-            <pubDate>Fri, 08 Jan 2021 21:36:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【梅赛德斯奔驰：2020年中国市场交付量同比增长11.7%】梅赛德斯-奔驰在公布全球及中国市场销量数据，2020年奔驰乘用车全球共交付2164187辆新车，在豪华汽车市场保持领先优势；其中，插电混动车型及纯电车型占乘用车整体销量7.4%，较2019年有较大幅度增长。2020年度中国市场共交付774,382辆新车，同比增长11.7%，成为梅赛德斯-奔驰全球业绩表现的主要驱动力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf0961230.d.html</link>
-            <guid>1965546</guid>
-            <pubDate>Fri, 08 Jan 2021 21:36:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500指数11大板块涨跌各异，7大板块收涨，4大板块收跌；其中，非日常生活消费品板块领涨，其次是房地产板块；材料板块领跌，其次是工业板块。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf0960134.d.html</link>
-            <guid>1965544</guid>
-            <pubDate>Fri, 08 Jan 2021 21:22:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【世卫组织：人体感染新冠病毒后产生的免疫反应会持续六个月甚至更长时间】世卫组织卫生紧急项目技术主管玛丽亚·范·科霍夫表示，近期研究发现，人体感染新冠病毒后会产生强劲的免疫反应，即使是轻症患者也是如此，免疫反应会持续六个月甚至更长时间，这对感染过新冠病毒的人来说是很好的消息。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf0959530.d.html</link>
-            <guid>1965543</guid>
-            <pubDate>Fri, 08 Jan 2021 21:14:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  交易平台Bitstamp发布公告称，已经开始停止瑞波币（XRP）的交易和美国客户在Bitstamp的存款，并将开始取消未开订单。其他国家的客户不受影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf0959193.d.html</link>
-            <guid>1965541</guid>
-            <pubDate>Fri, 08 Jan 2021 21:10:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股各大类资产类ETF中，美国布伦特原油基金领涨，涨2.8%，其次是新兴市场ETF，涨2.6%；黄金ETF领跌，跌3.4%，其次是恐慌指数ETF，跌0.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf0959178.d.html</link>
-            <guid>1965540</guid>
-            <pubDate>Fri, 08 Jan 2021 21:10:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
