@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 09 Jan 2021 19:41:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2021 20:34:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国财长提名人耶伦：需要投资小企业。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1574944.d.html</link>
+            <guid>1966030</guid>
+            <pubDate>Sat, 09 Jan 2021 20:05:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国加州新增695例新冠肺炎死亡病例，创单日死亡新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1155961.d.html</link>
+            <guid>1966015</guid>
+            <pubDate>Sat, 09 Jan 2021 20:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国民主党议员特德：将在周一向众议院提交弹劾特朗普的条款。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1574233.d.html</link>
+            <guid>1966012</guid>
+            <pubDate>Sat, 09 Jan 2021 19:55:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国疾控中心：美国新冠肺炎确诊病例从21539398例升至21853491例，死亡病例从364029例升至367652例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1574085.d.html</link>
+            <guid>1966011</guid>
+            <pubDate>Sat, 09 Jan 2021 19:53:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴基斯坦官员：巴基斯坦国家电网故障，电力供应中断。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1573394.d.html</link>
+            <guid>1965992</guid>
+            <pubDate>Sat, 09 Jan 2021 19:42:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  南非新冠肺炎确诊病例累计达1214176例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1153971.d.html</link>
@@ -450,30 +480,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1495013.d.html</link>
             <guid>1965773</guid>
             <pubDate>Sat, 09 Jan 2021 08:54:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【沈阳市全员核酸检测累积完成采样552014人 检测结果均为阴性】沈阳市相关负责人表示，截至1月9日12时，沈阳市区县市全员核酸检测累积完成采样552014人，累积完成核酸检测29200人，检测结果均为阴性。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1493510.d.html</link>
-            <guid>1965771</guid>
-            <pubDate>Sat, 09 Jan 2021 08:44:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2020年12月挖掘机销量同比增长56.4%】根据中国工程机械工业协会挖掘机械分会行业统计，2020年12月，共计销售各类挖掘机械产品31530台，同比涨幅56.4%。国内市场销量27319台，同比涨幅58.5%。出口销量4211台，同比涨幅44.4%。2020年全年纳入统计的25家主机制造企业，共计销售各类挖掘机械产品327605台，同比涨幅39%。国内市场销量292864台，同比涨幅40.1%。出口销量34741台，同比涨幅30.5%。（中证网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1073992.d.html</link>
-            <guid>1965769</guid>
-            <pubDate>Sat, 09 Jan 2021 08:38:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲地中海地震中心：斐济地区发生5.1级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1491828.d.html</link>
-            <guid>1965768</guid>
-            <pubDate>Sat, 09 Jan 2021 08:34:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  土耳其对欧盟和韩国展开热轧板卷的反倾销调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1073037.d.html</link>
-            <guid>1965767</guid>
-            <pubDate>Sat, 09 Jan 2021 08:31:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
