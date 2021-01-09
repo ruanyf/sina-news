@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 09 Jan 2021 20:34:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2021 21:29:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  据华尔街日报：白宫曾施压让佐治亚州检察官辞职，这是特朗普推翻该州选举结果行动的一部分。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1159926.d.html</link>
+            <guid>1966323</guid>
+            <pubDate>Sat, 09 Jan 2021 21:01:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【金价大幅下跌 分析师：黄金或发生根本性转变】本周黄金在站上1950美元/盎司后转向下行，周五黄金更是重挫逾4%，银价急跌多达近10%，因美国政府权力平稳交接的前景以及美债收益率飙升，重创贵金属市场。安达高级市场分析师称，“对许多投资者来说，黄金正在发生重大的根本性转变，他们开始放弃避险交易。美债市场出现一些强劲的资金流动，这削弱了黄金的部分吸引力。”因民主党政府大规模刺激计划的前景，美债收益率拉升，而非孽息的黄金的机会成本增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1578302.d.html</link>
+            <guid>1966299</guid>
+            <pubDate>Sat, 09 Jan 2021 20:56:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【若制裁不取消伊朗将驱逐国际原子能机构监察员】伊朗议员艾哈迈德·阿米拉巴迪·法拉哈尼表示，“如果到2月21日之前针对伊朗的制裁不取消，特别是金融、银行和石油领域的制裁，我们一定会驱逐国际原子能机构监察员”。他还说， 伊朗根据早前通过的法律，将以这种方式暂停履行有关国际原子能机构进行监察活动的补充协议。（俄罗斯卫星网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1577089.d.html</link>
+            <guid>1966197</guid>
+            <pubDate>Sat, 09 Jan 2021 20:37:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国财长提名人耶伦：需要投资小企业。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1574944.d.html</link>
@@ -468,18 +486,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1498087.d.html</link>
             <guid>1965779</guid>
             <pubDate>Sat, 09 Jan 2021 09:09:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【香港新增新冠肺炎确诊病例59例 累计确诊9205例】香港特区政府卫生署卫生防护中心1月9日下午介绍，截至当日0时，香港新增59例新冠肺炎确诊病例，包括53例本地感染病例、其中20例无感染源头，境外输入性病例6例 。截至目前，香港累计报告新冠肺炎确诊病例9205例。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1076686.d.html</link>
-            <guid>1965774</guid>
-            <pubDate>Sat, 09 Jan 2021 08:55:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据滴滴出行官微：滴滴暂停石家庄运营，重启社区保障车队。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1495013.d.html</link>
-            <guid>1965773</guid>
-            <pubDate>Sat, 09 Jan 2021 08:54:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
