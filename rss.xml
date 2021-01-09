@@ -4,11 +4,52 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 09 Jan 2021 05:46:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2021 06:41:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【前海开源优质企业6个月持有期混合基金成立 首募规模100亿元】前海开源优质企业6个月持有期混合型证券投资基金发布公告称，该基金于1月8日成立，首募规模100亿元。公告显示，前海开源优质企业6个月持有期混合基金的募集期间为1月6日一天，共获得36.53万户有效认购，净认购金额和有效认购份额分别为100亿元和100亿份。据此前公告，截至2021年1月6日，该基金累计有效认购申请金额（不包括募集期利息）已超过募集规模上限100亿元人民币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1051812.d.html</link>
+            <guid>1965708</guid>
+            <pubDate>Sat, 09 Jan 2021 06:33:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据日本共同社：京都、大阪和兵库县知事要求进入紧急状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1051312.d.html</link>
+            <guid>1965707</guid>
+            <pubDate>Sat, 09 Jan 2021 06:31:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【巴基斯坦新增新冠肺炎确诊病例2007例 累计确诊50万例】据巴基斯坦卫生部消息，截至当地时间9日上午，全国新冠肺炎累计确诊病例达499517例。在过去24小时内，全国新增确诊病例2007例，新增死亡病例40例。]]></title>
+            <guid>1965706</guid>
+            <pubDate>Sat, 09 Jan 2021 06:30:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据日本富士新闻网：东京报告新增2268例新冠肺炎确诊病例，129例重症病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1463977.d.html</link>
+            <guid>1965698</guid>
+            <pubDate>Sat, 09 Jan 2021 06:01:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家“团购”冠脉支架在23个省市区落地实施】从国家医疗保障局了解到，截至1月9日，国家组织冠脉支架集中带量采购中选结果在北京、天津等23个省市区正式落地实施，这些地方的患者用上了集采后的冠脉支架。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1044144.d.html</link>
+            <guid>1965691</guid>
+            <pubDate>Sat, 09 Jan 2021 05:55:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【深圳发放2000万元数字人民币红包 已有超1万余家商户试点数字人民币】 据央视，从1月7日起，“福田有礼数字人民币红包”活动的中签者，可在深圳一万多家指定商户进行消费，使用有效期为11天。本轮发放的红包总额2000万，单个金额为200元，领取和使用无需绑定银行卡。目前在深圳已有超过1万余家商户试点数字人民币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1461831.d.html</link>
+            <guid>1965688</guid>
+            <pubDate>Sat, 09 Jan 2021 05:49:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【盛来运：抓紧稳定恢复的窗口期深化改革开放】1月9日，国家统计局副局长盛来运在“2021中国经济趋势年会”上表示，2020年，经济运行逐步恢复，整体好于预期，为今年的经济开局打下了良好的基础。去年12月份的统计数据还没有发布，但部分指标可能高于去年同期是大概率事件。他认为，要抓住经济稳定恢复的窗口期，深化改革开放，进一步夯实稳的基础，拓展进的动力。（中国经济网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1461432.d.html</link>
+            <guid>1965687</guid>
+            <pubDate>Sat, 09 Jan 2021 05:47:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【三代核电站堆芯仪表系统实现国产化】近日，国核自仪联合国内相关制造单位，成功完成“国和一号”示范工程核电站堆芯仪表系统的国产化攻关任务，相关设备均已顺利通过堆上试验和我国核安全设备监管要求的全部鉴定试验，标志着我国具备了该系统的国产化制造供货能力。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1460323.d.html</link>
@@ -348,54 +389,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf0974568.d.html</link>
             <guid>1965581</guid>
             <pubDate>Fri, 08 Jan 2021 23:50:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【推特宣布永久停用美国总统特朗普个人账号】当地时间1月8日晚，美国社交网站推特发布声明，称将永久停用美国总统特朗普的个人账号。声明称，“在经过仔细审核近期特朗普账号的推文及相关问题之后，特别是这些推文在推特上和其他地方如何被解读后，由于担心更多煽动暴力风险，我们已经永久停用了该账号。”  （央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf0971858.d.html</link>
-            <guid>1965579</guid>
-            <pubDate>Fri, 08 Jan 2021 23:26:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[推特股价美股盘后下跌1.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf0971654.d.html</link>
-            <guid>1965578</guid>
-            <pubDate>Fri, 08 Jan 2021 23:25:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国司法部：13人将面临国会大厦抗议冲突引发的联邦指控】美国司法部当地时间1月8日宣布，目前共有13人因6日的国会大厦抗议冲突面临联邦指控。司法部表示，除了已经被指控的人，还有其他的投诉“已经提交“，且”调查正在进行”。“美国司法部负责华盛顿特区的代理检察官迈克尔·舍温（Michael Sherwin）说：“我的办公室与我们的各级执法伙伴一道，一直在迅速开展工作，利用一切资源，以查明、逮捕并开始起诉这些在美国国会大厦犯下肆无忌惮罪行的人。”（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1389795.d.html</link>
-            <guid>1965576</guid>
-            <pubDate>Fri, 08 Jan 2021 23:17:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[87名囚犯新冠病毒检测呈阳性，南非西开普省一监狱已被紧急封锁。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf0970846.d.html</link>
-            <guid>1965575</guid>
-            <pubDate>Fri, 08 Jan 2021 23:17:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拜登回应特朗普不参加就职典礼：他令这个国家尴尬 不来是好事】美国总统特朗普8日表示，他不会出席当选总统拜登的就职典礼。据CNN8日报道，拜登回应表示，特朗普不来是好事。拜登还指责特朗普说：“他使这个国家尴尬，使我们在世界范围内尴尬。他不配担任这个职务。”此外，拜登还表示，副总统彭斯出席他的就职典礼，他感到很高兴。 (环球网)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf0969758.d.html</link>
-            <guid>1965574</guid>
-            <pubDate>Fri, 08 Jan 2021 23:09:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美媒：民主党计划最早于11日提出总统弹劾草案】据美国有线电视新闻网（CNN）援引多位知情人士报道，众议院民主党人计划最早在11日推出弹劾特朗普的草案。众议院可能会在下周初到周中进行投票表决。众议院议长南希·佩洛西尚未对此消息进行证实。一旦宣布，这将是众议院第二次公布弹劾特朗普的草案。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf0969206.d.html</link>
-            <guid>1965573</guid>
-            <pubDate>Fri, 08 Jan 2021 23:04:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国电力企业联合会发布的最新一期中国沿海电煤采购价格指数显示，截至1月7日，5500大卡动力煤价格为695元/吨，较上周上涨43元/吨。最新获得的数据显示，作为我国下水动力煤中转站，本周北方5个港口日均调入175.9万吨，环比上周日均下降10.8万吨。 （上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1387560.d.html</link>
-            <guid>1965572</guid>
-            <pubDate>Fri, 08 Jan 2021 22:58:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[离岸人民币（CNH）兑美元北京时间05:59报6.4649元，较周四纽约尾盘涨65点，盘中整体交投于6.4771-6.4525元区间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1387422.d.html</link>
-            <guid>1965570</guid>
-            <pubDate>Fri, 08 Jan 2021 22:56:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
