@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 09 Jan 2021 21:29:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2021 22:38:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国新冠肺炎超2206万例】美国约翰斯·霍普金斯大学统计数据显示，截至美东时间1月9日16时43分，美国累计新冠肺炎确诊病例已达到22060588例，死亡病例达到371616例。过去24小时内，美国单日新增新冠确诊超26万例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1583398.d.html</link>
+            <guid>1966699</guid>
+            <pubDate>Sat, 09 Jan 2021 22:14:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国新冠肺炎确诊病例累计2767312例】根据法国公共卫生署9日晚发布的数据，截至当天14点，法国新冠肺炎确诊病例24小时新增20177例，累计确诊2767312例。死亡病例累计67599例，新增168例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1580456.d.html</link>
+            <guid>1966439</guid>
+            <pubDate>Sat, 09 Jan 2021 21:30:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  据华尔街日报：白宫曾施压让佐治亚州检察官辞职，这是特朗普推翻该州选举结果行动的一部分。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1159926.d.html</link>
