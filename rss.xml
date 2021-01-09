@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 09 Jan 2021 14:37:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2021 15:31:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【匈牙利新增新冠肺炎确诊病例2716例】1月9日，据匈牙利新冠防控中心数据显示，此前一天，匈牙利新增新冠肺炎确诊病例2716例，累计确诊病例340459例。新增死亡114例，累计死亡10554例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1548975.d.html</link>
+            <guid>1965879</guid>
+            <pubDate>Sat, 09 Jan 2021 14:55:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  印尼方面表示失踪的SJ182客机上没有外国公民。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1125708.d.html</link>
@@ -468,18 +474,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1057486.d.html</link>
             <guid>1965721</guid>
             <pubDate>Sat, 09 Jan 2021 07:04:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【原董事长彭聪被带走？顺利办收深交所关注函】深交所日前向顺利办下发关注函。近期，有媒体报道称，顺利办原董事长彭聪已于2020年12月28日被公安机关带走，并于当日被采取强制措施，彭聪曾由于涉嫌合同诈骗案和挪用公司资金案分别被青海省公安厅和北京市公安局立案侦查。深交所要求公司核实上述报道内容是否属实，如属实，请进一步说明彭聪公安机关采取强制措施的原因及目前案件的进展情况，是否会对公司生产经营造成重大影响，如是，请充分提示相关风险；同时请说明公司是否存在未及时履行信息披露义务的情形。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1475232.d.html</link>
-            <guid>1965714</guid>
-            <pubDate>Sat, 09 Jan 2021 06:58:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网正式测定：01月09日14时44分在新疆克孜勒苏州乌恰县发生3.1级地震，震源深度10千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1474835.d.html</link>
-            <guid>1965713</guid>
-            <pubDate>Sat, 09 Jan 2021 06:55:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
