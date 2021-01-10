@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 10 Jan 2021 20:34:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jan 2021 21:28:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【万亿长期资金“活水”注入 公募基金与外资成主力】2021年，A股市场有望迎来万亿长期资金“活水”。业内人士预计，公募基金将继续成为A股市场的重要资金来源并主导市场风格，而公募与外资也将共同助力强化市场的机构化趋势。中信证券预计，2021年A股净流入资金7000亿元，公募和外资是主要来源。私募和游资跟随市场趋势，预计也将呈现净流入态势。保险权益配置跟随保费稳定增长，预计带来资金净流入2000亿；北上资金仍会增配A股，预计净流入2000亿。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-11/detail-iiznctkf1362623.d.html</link>
+            <guid>1967274</guid>
+            <pubDate>Sun, 10 Jan 2021 20:47:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[南非新冠肺炎确诊病例达1231597例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-11/detail-iiznezxt1780533.d.html</link>
@@ -402,24 +408,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1281073.d.html</link>
             <guid>1966965</guid>
             <pubDate>Sun, 10 Jan 2021 08:56:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港新增新冠肺炎确诊病例31例 累计确诊9236例】香港特区政府卫生署卫生防护中心1月10日下午介绍，截至当日零时，香港新增新冠肺炎确诊病例31例，包括本地感染病例28例、其中9例无感染源头，输入性病例3例，累计确诊病例升至9236例。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1699465.d.html</link>
-            <guid>1966963</guid>
-            <pubDate>Sun, 10 Jan 2021 08:53:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【ST亚星：实控人拟变更为潍坊市国资委】ST亚星公告，亚星集团将其所持公司8.53%股份对应表决权无条件且不可撤销的委托潍坊市城投集团行使；上述协议签订后，将导致潍坊市城投集团在公司拥有表决权的股份总数达总股本21.20%，公司控股股东变更为潍坊市城投集团，实控人变更为潍坊市国资委。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1280269.d.html</link>
-            <guid>1966962</guid>
-            <pubDate>Sun, 10 Jan 2021 08:52:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京：暂停居住于顺义的驾驶员上路运营】北京：暂停居住于顺义的驾驶员（含巡游车、网约车）上路运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1279535.d.html</link>
-            <guid>1966960</guid>
-            <pubDate>Sun, 10 Jan 2021 08:49:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
