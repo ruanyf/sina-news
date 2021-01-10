@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 10 Jan 2021 14:38:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jan 2021 15:32:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  卡塔尔新增193例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1753944.d.html</link>
+            <guid>1967189</guid>
+            <pubDate>Sun, 10 Jan 2021 15:19:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  以色列总理内塔尼亚胡：以色列将是首先摆脱新冠病毒危机的国家。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1753079.d.html</link>
+            <guid>1967179</guid>
+            <pubDate>Sun, 10 Jan 2021 15:10:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国众议院多数党党鞭Clyburn：众议院最快或于周二就弹劾特朗普进行表决。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1748190.d.html</link>
@@ -465,24 +477,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1690346.d.html</link>
             <guid>1966923</guid>
             <pubDate>Sun, 10 Jan 2021 08:04:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中飞股份：公司实际控制人控制的关联企业累计占用上市公司资金为8.31亿元。本次资金占用不存在刻意侵占上市公司利益情况，但违规事实触犯了监管的红线，公司及实际控制人对此表示深深的歉意。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1690309.d.html</link>
-            <guid>1966922</guid>
-            <pubDate>Sun, 10 Jan 2021 08:04:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  横店东磁：预计2020年全年净利润为9.67亿-10.71亿元，同比增长40%-55%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1271334.d.html</link>
-            <guid>1966921</guid>
-            <pubDate>Sun, 10 Jan 2021 08:03:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  晋控电力：公司主营业务仍为火电，近期公司经营情况及内外部经营环境未发生重大变化。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1689889.d.html</link>
-            <guid>1966920</guid>
-            <pubDate>Sun, 10 Jan 2021 08:02:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
