@@ -4,11 +4,59 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 10 Jan 2021 15:32:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jan 2021 17:01:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【促消费政策加力 2021年汽车市场有望正增长】汽车促消费政策持续加力。在近期商务部等12部门联合出台促进汽车消费政策后，天津等地陆续出台了新的促汽车消费措施。中国汽车工业协会预计，2021年中国汽车市场将小幅正增长，汽车销量预计将达到2630万辆，同比增长预计在4%左右；中国新能源汽车销量增速很可能超过30%，达到180万辆。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-11/detail-iiznezxt1763491.d.html</link>
+            <guid>1967248</guid>
+            <pubDate>Sun, 10 Jan 2021 16:52:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  埃及政府：尼罗河大坝谈判未能取得进展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-11/detail-iiznezxt1761650.d.html</link>
+            <guid>1967247</guid>
+            <pubDate>Sun, 10 Jan 2021 16:33:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【2021年减税降费持续推进 更深层红利可期】业内指出，2020年减税降费成效显著，有力服务“六稳”“六保”大局，支撑我国经济率先实现正增长。2021年，我国将持续推进减税降费政策，伴随制度性减税降费政策的持续实施、税收营商环境的进一步优化，叠加累积效应越来越明显，更深层次的减税红利可期。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-11/detail-iiznezxt1760992.d.html</link>
+            <guid>1967246</guid>
+            <pubDate>Sun, 10 Jan 2021 16:27:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【经参：疏堵结合 切实防范房地产金融风险】实体经济内生增长动力不足、投资回报率偏低是大量资金流向房地产的根源，只堵不疏难以解决根本问题，疏堵结合才能切实防范房价泡沫化风险。除了堵住投资和投机性资金流向房地产的去路，还应尽快疏通实体经济所面临的障碍，培育更多发展空间和投资机会：加快促进技术进步，着力培育新的增长点；进一步减税降费；加快发展民营银行等中小金融机构，缓解中小企业融资难融资贵困境；进一步优化营商环境。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-11/detail-iiznezxt1760798.d.html</link>
+            <guid>1967245</guid>
+            <pubDate>Sun, 10 Jan 2021 16:25:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  印尼调查人员：三佛齐（Sriwijaya）航空公司的失事飞机是在撞击水体后解体的，排除了空中解体的可能。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-11/detail-iiznctkf1340803.d.html</link>
+            <guid>1967242</guid>
+            <pubDate>Sun, 10 Jan 2021 16:17:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国新增54940例新冠肺炎确诊病例，新增563例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-11/detail-iiznezxt1758426.d.html</link>
+            <guid>1967241</guid>
+            <pubDate>Sun, 10 Jan 2021 16:05:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  2月份，科威特销往亚洲的原油价格较阿曼迪拜均价升水0.65美元/桶，销往地中海地区的原油贴水1.20美元/桶，销往西北欧的原油贴水2.15美元/桶，销往美国的原油升水0.05美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-11/detail-iiznctkf1339470.d.html</link>
+            <guid>1967240</guid>
+            <pubDate>Sun, 10 Jan 2021 16:05:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利新增18627例新冠肺炎确诊病例，新增361例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1338178.d.html</link>
+            <guid>1967233</guid>
+            <pubDate>Sun, 10 Jan 2021 15:52:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  卡塔尔新增193例新冠肺炎确诊病例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1753944.d.html</link>
@@ -423,60 +471,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1274963.d.html</link>
             <guid>1966935</guid>
             <pubDate>Sun, 10 Jan 2021 08:23:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北京：昨日新增无症状感染者为网约车司机】北京市疾病预防控制中心副主任庞星火介绍，1月9日0时至24时，北京市新增1例本地新冠肺炎确诊病例和1例无症状感染者。其中无症状感染者为网约车司机。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1693786.d.html</link>
-            <guid>1966934</guid>
-            <pubDate>Sun, 10 Jan 2021 08:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[昨日北京新增1例本地确诊和1例无症状者，均来自顺义，系父子关系，儿子为网约车司机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1693582.d.html</link>
-            <guid>1966933</guid>
-            <pubDate>Sun, 10 Jan 2021 08:22:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  北京：对病例活动重点区域严格封闭管理，按处置预案全员检测排查。（北京头条）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1274263.d.html</link>
-            <guid>1966932</guid>
-            <pubDate>Sun, 10 Jan 2021 08:19:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  北京：继续加强对有中高风险地区旅居史人员的排查管控。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1692561.d.html</link>
-            <guid>1966929</guid>
-            <pubDate>Sun, 10 Jan 2021 08:16:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【京东物流紧急将3000顶棉帐篷陆续送抵石家庄】1月10日，首批10辆满载棉帐篷的京东物流车辆，顺利抵达位于石家庄的河北省救灾物资储备中心。这批物资来自国家粮食和物资储备局中央救灾物资天津储备库，共计3000顶棉帐篷。除首批送抵石家庄外，后续第二批、第三批棉帐篷将陆续送抵定州、辛集与邢台等地，用于紧急支援河北当地防疫与安置工作。（河北日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1692453.d.html</link>
-            <guid>1966928</guid>
-            <pubDate>Sun, 10 Jan 2021 08:15:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【津巴布韦将发行大面额“新津元”纸币】津巴布韦《星期日邮报》当地时间10日报道，津巴布韦的中央银行——津巴布韦储备银行即将推出新的大面额的新津巴布韦元纸币，以增加有形货币供应，抑制现金短缺并提高交易便利性。据悉，津有关部门已批准在今年发行流通面额为50津元、100津元和200津元的新纸币。其中，50津元纸币将率先发行。新版纸币的样式正在设计中，待总统姆南加古瓦批准后方可印制。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1273420.d.html</link>
-            <guid>1966927</guid>
-            <pubDate>Sun, 10 Jan 2021 08:14:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【现代汽车修改“合作开发自动驾驶电动汽车”相关声明，除去“苹果公司”的名字】现代汽车在一份声明中称：“苹果与现代汽车确实在谈判，但仍处于初级阶段，尚未作出任何决定。”就是这样一份简短的声明，刺激现代汽车的股价随后一度上涨逾20%。考虑到苹果对未来产品计划一贯高度保密，现代汽车的这一公开声明显然不同寻常。而现代汽车似乎也意识到这一点，对此感到不安。随后，现代汽车又更新了一份声明，除去了“苹果公司”的名字。（36氪）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1691250.d.html</link>
-            <guid>1966925</guid>
-            <pubDate>Sun, 10 Jan 2021 08:09:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳燃气业绩快报：2020年净利13.4亿元 同比增27%】深圳燃气(601139)1月10日晚间披露业绩快报，公司2020年实现营业总收入150.42亿元，同比增长7.25%；净利润13.40亿元，同比增长26.70%。基本每股收益0.47元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1271743.d.html</link>
-            <guid>1966924</guid>
-            <pubDate>Sun, 10 Jan 2021 08:05:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  航新科技公告，控股股东及部分一致行动人正在筹划股权转让事宜，该事项可能导致公司控制权变更；股票停牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1690346.d.html</link>
-            <guid>1966923</guid>
-            <pubDate>Sun, 10 Jan 2021 08:04:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
