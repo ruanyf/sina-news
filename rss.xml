@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 10 Jan 2021 17:01:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jan 2021 18:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  日本国立传染病研究所专家：从巴西飞抵日本的旅客中检测出新的变异新冠病毒。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-11/detail-iiznctkf1350475.d.html</link>
+            <guid>1967257</guid>
+            <pubDate>Sun, 10 Jan 2021 18:01:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  爱尔兰新增6888例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-11/detail-iiznctkf1348711.d.html</link>
+            <guid>1967254</guid>
+            <pubDate>Sun, 10 Jan 2021 17:36:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯发现首例变种新冠病毒感染者。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-11/detail-iiznctkf1346942.d.html</link>
+            <guid>1967251</guid>
+            <pubDate>Sun, 10 Jan 2021 17:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  约旦新增新冠肺炎确诊病例1250例，累计确诊307209例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-11/detail-iiznctkf1346239.d.html</link>
+            <guid>1967249</guid>
+            <pubDate>Sun, 10 Jan 2021 17:09:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【促消费政策加力 2021年汽车市场有望正增长】汽车促消费政策持续加力。在近期商务部等12部门联合出台促进汽车消费政策后，天津等地陆续出台了新的促汽车消费措施。中国汽车工业协会预计，2021年中国汽车市场将小幅正增长，汽车销量预计将达到2630万辆，同比增长预计在4%左右；中国新能源汽车销量增速很可能超过30%，达到180万辆。（经参）]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-11/detail-iiznezxt1763491.d.html</link>
@@ -420,57 +444,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1694941.d.html</link>
             <guid>1966944</guid>
             <pubDate>Sun, 10 Jan 2021 08:29:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  赛意信息：预计2020年全年净利润为1.7亿-1.9亿元，同比增长156.23%-186.38%。公司持续推动业务升级转型，不断优化业务结构，提升产品化能力，同时受益于企业级客户日益饱满的数字化转型及智能制造升级需求，公司主营业务保持良好增长。]]></title>
-            <guid>1966943</guid>
-            <pubDate>Sun, 10 Jan 2021 08:29:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  北京卫健委：新增无症状感染者首次核酸检测为阴性，8日复测为阳性。（央视新闻）]]></title>
-            <guid>1966942</guid>
-            <pubDate>Sun, 10 Jan 2021 08:29:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【坚朗五金：2020年净利预增84%-94%】坚朗五金(002791)1月10日晚间公告，预计2020年实现的净利润为8.1亿元-8.515亿元，同比增长84.38%-93.82%。报告期内，公司整体生产、经营情况良好；公司营业收入同比增长，同时加强成本费用管控，总成本费用进一步摊薄。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1275514.d.html</link>
-            <guid>1966941</guid>
-            <pubDate>Sun, 10 Jan 2021 08:26:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  赛意信息：预计2020年全年净利润为1.7亿-1.9亿元，同比增长156.23%-186.38%。公司持续推动业务升级转型，不断优化业务结构，提升产品化能力，同时受益于企业级客户日益饱满的数字化转型及智能制造升级需求，公司主营业务保持良好增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1275483.d.html</link>
-            <guid>1966940</guid>
-            <pubDate>Sun, 10 Jan 2021 08:26:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  北京顺义昨日新增确诊病例和无症状有161名密接，均已按要求落实管控措施。（北京头条）]]></title>
-            <guid>1966939</guid>
-            <pubDate>Sun, 10 Jan 2021 08:26:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  御家汇：预计2020年全年净利润为1.2亿-1.5亿元，同比增长340.81%–451.01%。公司各项业务发展较快，营业收入规模增长较快，整体毛利率同比上升，盈利能力显著改善。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1275275.d.html</link>
-            <guid>1966938</guid>
-            <pubDate>Sun, 10 Jan 2021 08:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  凯莱英：公司拟以自有或自筹资金20亿元人民币在天津经开区西区投资绿色关键技术开发及产业化项目和合成大分子CDMO项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1693958.d.html</link>
-            <guid>1966937</guid>
-            <pubDate>Sun, 10 Jan 2021 08:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  北京：加强对地铁公交出租车网约车防疫管理，司机动态核酸检测。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1275111.d.html</link>
-            <guid>1966936</guid>
-            <pubDate>Sun, 10 Jan 2021 08:23:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  华测导航：预计2020年全年净利润为2亿-2.15亿元，同比增长44.20-55.01%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1274963.d.html</link>
-            <guid>1966935</guid>
-            <pubDate>Sun, 10 Jan 2021 08:23:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
