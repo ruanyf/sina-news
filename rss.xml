@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 10 Jan 2021 19:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jan 2021 20:34:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[南非新冠肺炎确诊病例达1231597例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-11/detail-iiznezxt1780533.d.html</link>
+            <guid>1967272</guid>
+            <pubDate>Sun, 10 Jan 2021 20:31:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国约翰斯·霍普金斯大学实时统计数据显示，全球累计新冠肺炎确诊病例超9000万例，累计死亡病例达1931382例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-11/detail-iiznezxt1777712.d.html</link>
+            <guid>1967266</guid>
+            <pubDate>Sun, 10 Jan 2021 19:51:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国疾控中心：美国新冠肺炎确诊病例从21853491例升至22102069例，死亡病例从367652例升至371084例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-11/detail-iiznctkf1358102.d.html</link>
@@ -408,36 +420,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1279535.d.html</link>
             <guid>1966960</guid>
             <pubDate>Sun, 10 Jan 2021 08:49:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  印尼国家运输安全主管：已经找到坠毁客机的两个黑匣子。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1698133.d.html</link>
-            <guid>1966959</guid>
-            <pubDate>Sun, 10 Jan 2021 08:47:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京：明起乘客乘坐出租车、网约车要扫健康码】北京：从明天起，乘客乘坐出租车、网约车要使用健康宝扫码登记，乘客不扫码登记的可以拒载。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1278586.d.html</link>
-            <guid>1966958</guid>
-            <pubDate>Sun, 10 Jan 2021 08:44:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【金科股份：2020年公司实现销售金额约2233亿元 同比增长约20%】金科股份公告，2020年公司及所投资的公司实现销售金额约2,233亿元，同比增长约20%，完成年度2,200亿的销售目标；房地产销售面积约2,240万平方米，同比增长约18%。其中，2020年12月，本公司及所投资的公司实现销售金额约279亿元，房地产销售面积约338万平方米。2020年，本公司及所投资的公司实现销售回款约2,011亿元，同比增长约25%，销售回款率为90%。2020年，本公司共新增土地投资148宗，计容建筑面积约2,364万平方米，土地购置合同金额约892亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1697478.d.html</link>
-            <guid>1966956</guid>
-            <pubDate>Sun, 10 Jan 2021 08:44:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南方轴承：预计2020年全年净利润同比增长800%-1037%】南方轴承公告，预计2020年全年净利润为3.8亿-4.8亿元，同比增长800%-1037%。公司积极开拓市场，深入挖掘客户需求，本年度公司对Bosch集团的销售大幅增加；公司皮带轮产品进入主机厂客户，销售大幅增长。公司参股的江苏泛亚微透科技股份有限公司于2020年10月16日在上海证券交易所科创板挂牌上市，公司对所持泛亚微透股权按以公允价值计量且变动计入当期损益，因此使得公司本年度公允价值变动收益和所得税费用相应大幅增加。预计公允价值变动收益对公司2020年度净利润的影响金额为3亿元到4亿元之间，该项属于非经常性损益。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1278110.d.html</link>
-            <guid>1966954</guid>
-            <pubDate>Sun, 10 Jan 2021 08:42:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【益生股份：12月份鸡苗销售收入同比降42%】益生股份(002458)1月10日晚间公告，公司2020年12月鸡苗销售数量3852.20万只，销售收入1.05亿元，同比变动分别为29.22%、-41.89%，环比变动分别为-8.68%、-13.56%。公司表示，2020年12月鸡苗销售价格低于去年同期，公司鸡苗销售收入同比下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1696842.d.html</link>
-            <guid>1966953</guid>
-            <pubDate>Sun, 10 Jan 2021 08:41:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
