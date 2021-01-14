@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 14 Jan 2021 20:45:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2021 21:36:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【美股大盘下跌之际小盘股大涨 罗素2000指数ETF创新高】美股各大类资产类ETF中，美国国债20+年ETF-iShares领跌，跌0.94%，其次是纳指100ETF，跌0.53%；押注小盘股的罗素2000指数ETF领涨，涨2%，创收盘纪录新高；其次是大豆基金，涨1.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftpnnx7311370.d.html</link>
+            <guid>1975036</guid>
+            <pubDate>Thu, 14 Jan 2021 21:30:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  RJO Futures资深商品策略分析师Josh Graves：美国刺激法案“直接将钱放进人们的口袋中”，总的来看，这将使得他们进行更多的旅行并刺激更多的消费，这有助于支撑原油预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftssan6330737.d.html</link>
+            <guid>1975035</guid>
+            <pubDate>Thu, 14 Jan 2021 21:29:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国考虑在（后脱欧时期）工人权益方面放宽对欧盟的规则要求。（英国金融时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftssan6329421.d.html</link>
+            <guid>1975034</guid>
+            <pubDate>Thu, 14 Jan 2021 21:24:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据CNBC：贝索斯旗下的蓝色起源公司最早将在4月开始通过太空旅游火箭搭载第一批乘客。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftssan6323850.d.html</link>
+            <guid>1975033</guid>
+            <pubDate>Thu, 14 Jan 2021 21:01:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【尾盘下跌美股收跌，芯片、海运、3D打印、大麻、人造肉股集体上涨】美股三大指数高开低走，尾盘下挫，三大指数悉数收跌；道指初步收跌68点，标普初步收跌0.38%；标普零售指数ETF-SPDR逆市收涨超3%；航运类股也集体大涨，中环球船务涨超23%。3D打印股集体大涨，3D Systems涨超30%。大麻股集体上涨，Tilray涨超20%。人造肉股Beyond Meat涨超13%。应用材料涨超7%，台积电涨超5%，创收盘纪录新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftssan6323701.d.html</link>
+            <guid>1975032</guid>
+            <pubDate>Thu, 14 Jan 2021 21:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据悉，通用汽车正在制定一项战略，计划生产至少一款受Corvette跑车启发的新型电动汽车。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftpnnx7301694.d.html</link>
+            <guid>1975031</guid>
+            <pubDate>Thu, 14 Jan 2021 20:51:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[欧元期货成交量大增，数据显示，在3分钟时间内交易了超过6600张合约（约合10亿美元），为年初以来同时间段交易量之最。据媒体分析，期货成交量大增或预示未来几个交易日可能会出现方向性押注。]]></title>
             <guid>1975030</guid>
@@ -494,42 +530,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftssan6253238.d.html</link>
             <guid>1974937</guid>
             <pubDate>Thu, 14 Jan 2021 16:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国贸易代表莱特希泽：最好的结果是各国共同寻找解决方案，以解决纠纷。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftssan6253158.d.html</link>
-            <guid>1974936</guid>
-            <pubDate>Thu, 14 Jan 2021 16:21:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国方面称，奥地利、西班牙和英国的数字税具有歧视性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftpnnx7232691.d.html</link>
-            <guid>1974935</guid>
-            <pubDate>Thu, 14 Jan 2021 16:18:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“中国巴菲特”李录出手，43亿元买入邮储银行】外界盛传为巴菲特继承人的传奇投资人李录，最近花了40亿买入国有六大行之一——邮储银行！银行指数新年以来已经连续6连阳。就在近期，根据港交所的披露，股神巴菲特在中国的继承人李录通过他的喜马拉雅基金大约出资43亿港币在港股仓邮储银行10亿股。2020年12月18日，Himalaya Capital Investors, L.P.及Himalaya Capital Management LLC、Li Lu（李录）等相关主体对其进行加仓，变动后持股比例达到5.06%。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftssan6250637.d.html</link>
-            <guid>1974934</guid>
-            <pubDate>Thu, 14 Jan 2021 16:13:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利新增17246例新冠肺炎病例，上日增加15774例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftpnnx7230642.d.html</link>
-            <guid>1974933</guid>
-            <pubDate>Thu, 14 Jan 2021 16:11:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据媒体报道：法国将从当地时间18:00实施全国性宵禁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftpnnx7230599.d.html</link>
-            <guid>1974932</guid>
-            <pubDate>Thu, 14 Jan 2021 16:10:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉将于1月27日（周三）发布四季度财报。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftpnnx7229490.d.html</link>
-            <guid>1974931</guid>
-            <pubDate>Thu, 14 Jan 2021 16:07:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
