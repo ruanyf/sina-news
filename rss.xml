@@ -4,11 +4,217 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 14 Jan 2021 17:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2021 19:04:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国疾控中心：新冠肺炎确诊病例累计达22965957例，前一日为22740142例；死亡病例累计达383351例，前一日为379255例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftpnnx7274922.d.html</link>
+            <guid>1975002</guid>
+            <pubDate>Thu, 14 Jan 2021 19:02:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊（AMZN）维持大约0.6%的跌幅，徘徊于日低3136.76美元附近。美国负责审理Parler所提反垄断案件的法官在推动亚马逊恢复上线Parler网站方面迟疑不决，称现在签发关于临时约束亚马逊行为命令已经为时已晚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftssan6293617.d.html</link>
+            <guid>1975001</guid>
+            <pubDate>Thu, 14 Jan 2021 19:00:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMEX 2月黄金期货收跌0.2%，报1851.40美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftpnnx7273100.d.html</link>
+            <guid>1975000</guid>
+            <pubDate>Thu, 14 Jan 2021 18:56:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[小米集团ADR盘中跌幅扩大至12%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftssan6291540.d.html</link>
+            <guid>1974999</guid>
+            <pubDate>Thu, 14 Jan 2021 18:52:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  墨西哥央行行长：墨西哥货币总量显著增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftpnnx7271646.d.html</link>
+            <guid>1974997</guid>
+            <pubDate>Thu, 14 Jan 2021 18:50:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  纽约联储在隔夜回购操作中没有收到竞标。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftpnnx7271622.d.html</link>
+            <guid>1974996</guid>
+            <pubDate>Thu, 14 Jan 2021 18:50:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网自动测定：01月15日02时28分在印尼苏拉威西岛附近发生6.3级左右地震，最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftpnnx7268997.d.html</link>
+            <guid>1974995</guid>
+            <pubDate>Thu, 14 Jan 2021 18:39:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国财长勒梅尔：新的防疫措施将导致每月40亿欧元的损失。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftssan6287934.d.html</link>
+            <guid>1974994</guid>
+            <pubDate>Thu, 14 Jan 2021 18:37:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国新增新冠肺炎确诊病例21228例，新增死亡病例282例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftpnnx7267662.d.html</link>
+            <guid>1974993</guid>
+            <pubDate>Thu, 14 Jan 2021 18:34:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【纽约市长：纽约将切断与特朗普集团三项商业合作】据《纽约时报》报道，纽约市长白思豪宣布，该市将终止与特朗普集团的三项商业合作。此举或给特朗普集团带来每年1700万美元的损失。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftpnnx7267548.d.html</link>
+            <guid>1974991</guid>
+            <pubDate>Thu, 14 Jan 2021 18:34:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上期所原油期货2102合约夜盘收涨0.24%，报336.70元人民币/桶。沪金夜盘收涨0.41%，沪银收涨1.78%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftssan6286424.d.html</link>
+            <guid>1974990</guid>
+            <pubDate>Thu, 14 Jan 2021 18:31:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【三峡集团将出售5.4亿欧元EDP股份】彭博看到的文件显示，三峡集团正出售1亿股Energias de Portugal股票，已获得足够多的投资者认购；此次减持数量占EDP流通中股份总数的2.5%。需求超过了交易规模，将遵循进一步的价格指引。推介价格为每股5.265欧元，低于周四收盘价5.394欧元；瑞信和法巴银行是联席账簿管理人。彭博数据显示，三峡集团是EDP最大股东，持股21.55%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftpnnx7265006.d.html</link>
+            <guid>1974989</guid>
+            <pubDate>Thu, 14 Jan 2021 18:24:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储主席鲍威尔：现在还不是退出（宽松货币政策）的时候。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftpnnx7264959.d.html</link>
+            <guid>1974988</guid>
+            <pubDate>Thu, 14 Jan 2021 18:24:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[十年期美债收益率升至日高，现报1.111%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftpnnx7264299.d.html</link>
+            <guid>1974987</guid>
+            <pubDate>Thu, 14 Jan 2021 18:21:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哈登换东家，NBA诞生重磅交易】据ESPN13日报道，火箭联合篮网、步行者和骑士完成四方大交易，将当家球星哈登送到篮网，获得步行者的奥拉迪波、骑士的艾克萨姆和篮网的库鲁茨，以及众多首轮选秀权。篮网还获得1个次轮选秀权，步行者得到篮网的勒维尔和1个次轮选秀权，骑士得到篮网的贾莱特·阿伦和托里恩·普林斯。哈登和篮网的杜兰特、欧文就此组建“三巨头”阵容，堪比勒布朗·詹姆斯2010年在热火和韦德、波什联手。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftssan6282873.d.html</link>
+            <guid>1974985</guid>
+            <pubDate>Thu, 14 Jan 2021 18:17:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油期货涨超1%，报53.45美元/桶；布伦特原油期货涨0.45%，报56.30美元/桶。]]></title>
+            <guid>1974984</guid>
+            <pubDate>Thu, 14 Jan 2021 18:12:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据统计，2020年以来，四大一线城市、15个新一线城市中，至少有11城针对户籍政策进行了修改，基本都是放宽落户条件。（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftpnnx7261395.d.html</link>
+            <guid>1974983</guid>
+            <pubDate>Thu, 14 Jan 2021 18:10:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[通用汽车续创盘中纪录新高至51.57美元，日内上涨超5%，为连续第四日上涨。此前Argus将通用汽车评级从持有上调至买入。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftpnnx7260134.d.html</link>
+            <guid>1974982</guid>
+            <pubDate>Thu, 14 Jan 2021 18:06:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：侧重于让美国劳动力市场恢复强劲状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftssan6279336.d.html</link>
+            <guid>1974981</guid>
+            <pubDate>Thu, 14 Jan 2021 18:04:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国财长勒梅尔：预料将需要数周才能就美国-法国贸易争端达成协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftssan6278524.d.html</link>
+            <guid>1974980</guid>
+            <pubDate>Thu, 14 Jan 2021 18:00:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英镑兑美元GBP/USD日内涨0.5%，报1.3710%，创2年以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftssan6278324.d.html</link>
+            <guid>1974979</guid>
+            <pubDate>Thu, 14 Jan 2021 18:00:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  小米集团ADR短线跳水，目前下跌7.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftssan6278094.d.html</link>
+            <guid>1974978</guid>
+            <pubDate>Thu, 14 Jan 2021 17:59:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[十年期美债收益率跌幅扩大至日低，现报1.087%；美联储主席鲍威尔称不会在短时间内加息。]]></title>
+            <guid>1974977</guid>
+            <pubDate>Thu, 14 Jan 2021 17:58:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金短线涨幅扩大至8美元，现报1855.33美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftssan6277634.d.html</link>
+            <guid>1974976</guid>
+            <pubDate>Thu, 14 Jan 2021 17:57:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：并未感觉到金融主导性方面存在任何压力。债务负担并非出于历史性高位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftpnnx7257527.d.html</link>
+            <guid>1974975</guid>
+            <pubDate>Thu, 14 Jan 2021 17:55:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德国累计新冠肺炎确诊病例突破2百万例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftpnnx7257428.d.html</link>
+            <guid>1974974</guid>
+            <pubDate>Thu, 14 Jan 2021 17:54:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货金银短线拉升，现货黄金短线走高约6美元，现报1853.36美元/盎司；现货白银短线拉升约0.15美元，现报25.78美元/盎司。]]></title>
+            <guid>1974973</guid>
+            <pubDate>Thu, 14 Jan 2021 17:54:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中概新能源汽车股集体下跌，小鹏汽车跌超3%，理想汽车、蔚来汽车跌超2%；据21世纪经济报道，有消息称，富士康任命蔚来前执行副总裁郑显聪（Jack Cheng）为电动汽车平台首席执行官，一系列布局背后，难掩富士康进军汽车产业的决心。]]></title>
+            <guid>1974972</guid>
+            <pubDate>Thu, 14 Jan 2021 17:52:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[十年期美债收益率短线小幅下挫，现报1.092%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftpnnx7255897.d.html</link>
+            <guid>1974971</guid>
+            <pubDate>Thu, 14 Jan 2021 17:48:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：如果没有看到令人不安的通胀和失衡，美联储将不会加息。再次强调核心PCE的重要性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftssan6274999.d.html</link>
+            <guid>1974970</guid>
+            <pubDate>Thu, 14 Jan 2021 17:46:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西班牙气象局预计极寒天气将持续至1月20日】根据西班牙国家气象局在当地时间1月14日的最新预报，该国因菲洛梅纳风暴造成的极寒天气将比原先预测的持续更长时间，预计西班牙本次极寒天气将持续至1月20日，共计将持续达到10天的时间，为期10天的极寒天气也将是该国近20年以来持续时间最长的一次寒潮，本次寒潮天气影响到了西班牙大部分地区，且在多个地区创造了有统计以来气温的最低纪录。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftssan6274384.d.html</link>
+            <guid>1974969</guid>
+            <pubDate>Thu, 14 Jan 2021 17:44:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储主席鲍威尔：我们希望通胀预期稳定在2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftpnnx7254374.d.html</link>
+            <guid>1974968</guid>
+            <pubDate>Thu, 14 Jan 2021 17:41:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：美联储肩负充分就业和物价稳定的双重任务。2020年8月份推出的新版政策框架很好地锚定美国通胀预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftpnnx7254141.d.html</link>
+            <guid>1974967</guid>
+            <pubDate>Thu, 14 Jan 2021 17:40:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国：奥地利、西班牙和英国的数字税具有歧视性】美国贸易代表办公室（USTR）发布声明，将奥地利、西班牙和英国加入针对美国科技巨头实施歧视性数字税的国家名单。USTR称，暂时不会采取具体行动，但会继续“评估所有可用的选项”。上周，USTR发布了针对印度、意大利和土耳其的类似调查结果。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftssan6269550.d.html</link>
+            <guid>1974965</guid>
+            <pubDate>Thu, 14 Jan 2021 17:23:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国总理让·卡斯泰：正在提升进入法国的边境管制措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftpnnx7248635.d.html</link>
+            <guid>1974964</guid>
+            <pubDate>Thu, 14 Jan 2021 17:17:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[国际铜夜盘收涨1%，沪铜收涨0.94%，沪铝收涨0.88%，沪锌收跌0.10%，沪铅收涨0.81%，沪镍收涨3.18%，沪锡收涨0.59%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-15/detail-ikftssan6265291.d.html</link>
@@ -286,240 +492,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan6235866.d.html</link>
             <guid>1974903</guid>
             <pubDate>Thu, 14 Jan 2021 15:16:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为69，表明市场处在贪婪状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan6235573.d.html</link>
-            <guid>1974902</guid>
-            <pubDate>Thu, 14 Jan 2021 15:14:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：印度考虑监管社交媒体。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx7215798.d.html</link>
-            <guid>1974901</guid>
-            <pubDate>Thu, 14 Jan 2021 15:13:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当地时间1月14日，波兰国有资产部新闻发言人马内斯证实，波兰副总理兼国有资产部部长雅采克·萨辛确诊感染新冠病毒。马内斯表示，萨辛感觉良好，目前正居家隔离。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan6235047.d.html</link>
-            <guid>1974900</guid>
-            <pubDate>Thu, 14 Jan 2021 15:12:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【内盘期货夜盘黑色系集体上涨】螺纹期货夜盘收涨2.10%，热卷收涨1.90%；铁矿石期货收涨2.12%。 焦炭夜盘收涨3.49%，焦煤收涨2.18%，动力煤收涨2.07%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx7215274.d.html</link>
-            <guid>1974899</guid>
-            <pubDate>Thu, 14 Jan 2021 15:10:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据PitchBook最新《2021年美国风险投资展望》报告，硅谷在美国风险投资中的份额将历史上首次跌破20％。据PitchBook，2020年美国筹集了274亿美元的风投资金。在这些交易中，有22.7％的交易发生在湾区，交易价值的39.4％投资于总部设在湾区的公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan6234563.d.html</link>
-            <guid>1974898</guid>
-            <pubDate>Thu, 14 Jan 2021 15:10:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商务部刚刚发布消息，以涉嫌危害美国国家安全为由，将中海油列入实体清单，将北京天骄列入“军事最终用户”清单。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan6234066.d.html</link>
-            <guid>1974897</guid>
-            <pubDate>Thu, 14 Jan 2021 15:09:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【山西省晋中市榆次区已完成29万余人份核酸检测 结果全部为阴性】据山西省晋中市政府举办的新闻发布会，截至14日21时，榆次区已完成681050人份核酸样本采集，完成296540人份核酸检测，结果全部为阴性。两名无症状感染者所在区域以及周边区域人员核酸检测均为阴性。榆次区计划于15日完成全区全员核酸检测。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan6233713.d.html</link>
-            <guid>1974896</guid>
-            <pubDate>Thu, 14 Jan 2021 15:07:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500能源指数涨1.6%，触及7个月高位。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan6232652.d.html</link>
-            <guid>1974895</guid>
-            <pubDate>Thu, 14 Jan 2021 15:03:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[台积电涨超10%，股价创历史新高，总市值达6800亿美元。今早公布的财报显示，台积电第四季度及2020全年净利润均好于市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx7212873.d.html</link>
-            <guid>1974894</guid>
-            <pubDate>Thu, 14 Jan 2021 15:02:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国海关：韩国12月原油进口量为1130万桶/日，去年同期为1190万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan6232238.d.html</link>
-            <guid>1974893</guid>
-            <pubDate>Thu, 14 Jan 2021 15:02:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美商务部借口“危害美国安全” 将两家中企“拉黑”】美国商务部刚刚发布消息，以涉嫌危害美国国家安全为由，将中海油 (CNOOC)列入实体清单，将北京天骄（Skyrizon）列入“军事最终用户”（MEU）清单。 (环球网)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx7212618.d.html</link>
-            <guid>1974892</guid>
-            <pubDate>Thu, 14 Jan 2021 15:01:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[台积电涨幅扩大至超8%，续创创盘中纪录新高，市值达6675亿美元，今年迄今累涨18%；此前台积电财报显示2020年第四季度营收超预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx7211834.d.html</link>
-            <guid>1974891</guid>
-            <pubDate>Thu, 14 Jan 2021 14:58:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股航空股集体上涨】美股航空股集体上涨，Azul涨超6%，Spirit航空涨超5%，美联航涨超4%，美国航空涨近4%，达美航空涨超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx7211662.d.html</link>
-            <guid>1974890</guid>
-            <pubDate>Thu, 14 Jan 2021 14:58:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股半导体指数创历史新高 费城半导体指数涨超2%】标普500半导体设备指数涨幅扩大至超过1.4%，创最近两个月最大盘中涨幅，刷新盘中历史高位至1904.12点。费城半导体指数涨幅扩大至超过2.2%，也刷新盘中历史高位，并逼近3060点。个股方面，应用材料涨超6.7%，AMKR和Lam研究均涨超5%，安森美涨超3.3%，CyberOptics涨超2.5%，高通、恩智浦、马克西姆至少涨1.0%，英伟达表现相对偏弱，目前跌0.4%，德州仪器也交投于平盘水平下方。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan6230242.d.html</link>
-            <guid>1974889</guid>
-            <pubDate>Thu, 14 Jan 2021 14:54:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富时罗素2000指数触及纪录新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx7210616.d.html</link>
-            <guid>1974888</guid>
-            <pubDate>Thu, 14 Jan 2021 14:54:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利财长Gualtieri：政府危机使复苏计划的工作更加困难。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan6229370.d.html</link>
-            <guid>1974887</guid>
-            <pubDate>Thu, 14 Jan 2021 14:51:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中概股中网载线(CNET.O)涨超30%，该公司被360安全选定为2021年商业广告的主要代理商，公司预计可获得500万美元潜在收入。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx7208930.d.html</link>
-            <guid>1974886</guid>
-            <pubDate>Thu, 14 Jan 2021 14:48:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利财长Gualtieri：造成政府危机的行为是前所未有地不负责任的。不可避免的是，意大利总理孔特必须就政府危机向议会发表讲话。由于政府危机，意大利的借贷成本已经在上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan6228111.d.html</link>
-            <guid>1974884</guid>
-            <pubDate>Thu, 14 Jan 2021 14:47:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1月15日9时起，黑龙江绥化市北林区、经开区出租车全部停运。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan6227508.d.html</link>
-            <guid>1974883</guid>
-            <pubDate>Thu, 14 Jan 2021 14:44:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[诺基亚(NOK.N)涨超6%，此前公司宣布获选为美国5G网络安全计划的技术供应商。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan6226822.d.html</link>
-            <guid>1974882</guid>
-            <pubDate>Thu, 14 Jan 2021 14:42:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利官员：意大利据悉寻求至多300亿欧元的额外赤字。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan6226607.d.html</link>
-            <guid>1974881</guid>
-            <pubDate>Thu, 14 Jan 2021 14:41:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  非洲亚马逊Jumia(JMIA.N)涨超7%，昨日香橼资本将其价格看涨至100美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx7206595.d.html</link>
-            <guid>1974880</guid>
-            <pubDate>Thu, 14 Jan 2021 14:38:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿里巴巴(BABA.N)涨超4%，早前美国宣布将不会禁止投资阿里巴巴等中概股；瑞信看好阿里业绩反弹，维持跑赢大市评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan6225759.d.html</link>
-            <guid>1974879</guid>
-            <pubDate>Thu, 14 Jan 2021 14:38:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[百济神州(BGNE.O)涨6.7%，中国药监局已批准抗PD-1抗体百泽安联合两项化疗方案用于治疗一线晚期鳞状非小细胞肺癌(NSCLC)患者。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx7206064.d.html</link>
-            <guid>1974878</guid>
-            <pubDate>Thu, 14 Jan 2021 14:36:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银涨幅扩大至2%，现报25.61美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan6225408.d.html</link>
-            <guid>1974877</guid>
-            <pubDate>Thu, 14 Jan 2021 14:36:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[达美航空(DAL.N)涨2%，第四季度业绩好于市场预期，日均现金消耗状况不断改善。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx7205957.d.html</link>
-            <guid>1974876</guid>
-            <pubDate>Thu, 14 Jan 2021 14:36:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银站上25.5美元/盎司，涨1.20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx7205752.d.html</link>
-            <guid>1974875</guid>
-            <pubDate>Thu, 14 Jan 2021 14:35:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[游戏驿站(GME.N)涨超20%，股价创52周新高，昨日该股收涨约57%。游戏驿站于1月11日宣布，与风投基金RC Ventures达成一项协议，董事会将加入来自RC Venture的三名成员，以促进公司转型。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx7205435.d.html</link>
-            <guid>1974874</guid>
-            <pubDate>Thu, 14 Jan 2021 14:34:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[96.5万美国人在2021年第一周首次申请失业救济，创8月份以来新高，较此前一周的78.4万大幅增加，且远高于预期的78.9万。1月2日当周续请失业金人数527.1万，为感恩节当周以来的首次增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx7205262.d.html</link>
-            <guid>1974873</guid>
-            <pubDate>Thu, 14 Jan 2021 14:33:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[跟谁学(GSX.N)开盘后短线拉升，现涨超10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan6224552.d.html</link>
-            <guid>1974872</guid>
-            <pubDate>Thu, 14 Jan 2021 14:33:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝莱德(BLK.N)开盘倒跌近4%，第四季度营收和净利润均好于市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx7204851.d.html</link>
-            <guid>1974871</guid>
-            <pubDate>Thu, 14 Jan 2021 14:32:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：欧洲央行关于欧元区银行业整合方式的指引显示，欧洲央行对大规模跨境并购持开放态度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx7204801.d.html</link>
-            <guid>1974870</guid>
-            <pubDate>Thu, 14 Jan 2021 14:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  通讯公司Acacia Communications(ACIA.O)涨超30%，思科将以每股115美元的价格收购Acacia。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan6224236.d.html</link>
-            <guid>1974869</guid>
-            <pubDate>Thu, 14 Jan 2021 14:31:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【酚酞片和酚酞含片停售、停用】国家药监局14日发布关于注销酚酞片和酚酞含片药品注册证书的公告，自即日起停止酚酞片和酚酞含片在我国的生产、销售和使用，并注销药品注册证书（药品批准文号）。酚酞片与酚酞含片，作为2021年最新公布的常用药退市案例，属于存在严重不良反应的品种，经评估后而启动退市。值得注意的是，目前我国获得该药品批准文号的企业约60家。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx7204695.d.html</link>
-            <guid>1974868</guid>
-            <pubDate>Thu, 14 Jan 2021 14:31:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股高开 道指涨近100点】道指涨0.32%，标普500指数涨0.23%，纳指涨0.27%；唯品会跌5.2%，因涉嫌不正当竞争遭市场监管总局立案调查；游戏驿站涨21%，与RC Ventures达成协议以加速公司转型；维珍银河涨13.8%，明星基金ARK Invset计划推出一个太空探索ETF基金。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx7204419.d.html</link>
-            <guid>1974867</guid>
-            <pubDate>Thu, 14 Jan 2021 14:30:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：欧洲央行为欧元区银行业的进一步整合奠定了基础。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx7203889.d.html</link>
-            <guid>1974866</guid>
-            <pubDate>Thu, 14 Jan 2021 14:29:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金重回1850美元/盎司上方。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx7203618.d.html</link>
-            <guid>1974865</guid>
-            <pubDate>Thu, 14 Jan 2021 14:28:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴克莱料苹果股价或跌10%以上，因面临估值和iPhone预期太高的风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan6222760.d.html</link>
-            <guid>1974864</guid>
-            <pubDate>Thu, 14 Jan 2021 14:27:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：唯品会(VIPS.N)据悉已聘请高盛、摩根士丹利和摩根大通筹备香港二次上市事宜。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx7202621.d.html</link>
-            <guid>1974863</guid>
-            <pubDate>Thu, 14 Jan 2021 14:24:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
