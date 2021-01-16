@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 16 Jan 2021 19:01:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2021 19:55:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  据媒体报道，美国国会山警察逮捕一名试图闯入华盛顿封锁区的外州男子，这名男子身上携带有武器。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8191622.d.html</link>
+            <guid>1977095</guid>
+            <pubDate>Sat, 16 Jan 2021 19:42:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[利比亚国家石油公司：为进行连接萨玛油田、达赫拉油田及锡德港的输油管道的维护工作，瓦哈石油公司的原油产量可能下降至多20万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7203954.d.html</link>
+            <guid>1977094</guid>
+            <pubDate>Sat, 16 Jan 2021 19:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国疾控中心：美国新冠肺炎确诊病例从23193703例升至23440774例，死亡病例从387255例升至390938例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8183992.d.html</link>
+            <guid>1977093</guid>
+            <pubDate>Sat, 16 Jan 2021 19:12:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【卫组织：全球新冠肺炎确诊病例超9250万例 死亡病例超200万例】根据世卫组织最新实时统计数据，截至欧洲中部时间1月16日17时52分（北京时间1月17日0时52分），全球累计新冠肺炎确诊病例92506811例，累计死亡病例2001773例。16日全球新冠肺炎确诊病例新增688015例，死亡病例新增14718例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8183300.d.html</link>
+            <guid>1977092</guid>
+            <pubDate>Sat, 16 Jan 2021 19:09:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国新增196例新冠肺炎死亡病例，累计死亡超7万例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8182921.d.html</link>
+            <guid>1977091</guid>
+            <pubDate>Sat, 16 Jan 2021 19:08:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【加拿大新冠肺炎确诊病例累计超过70万例】截止到加拿大东部时间16日12时，加拿大新增新冠肺炎确诊病例5267例，累计确诊达到700974例。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7197176.d.html</link>
@@ -419,29 +449,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftssan7015909.d.html</link>
             <guid>1976798</guid>
             <pubDate>Sat, 16 Jan 2021 08:10:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【安徽联通与合肥格力共同推进5G+工业互联网领域合作】安徽联通与格力电器（合肥）有限公司签约。以5G+工业互联网领域的合作为工作重点，安徽联通将通过建设5GMEC网络，实现高质量视频传输和高精度网络定位，解决目前视频回传卡顿、AI质检精度问题，同时实现生产安全、人员管理以及物料可视化跟踪，全面打造智慧工厂，共同推动数字新基建进程，为安徽经济社会转型升级贡献力量。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftpnnx7995914.d.html</link>
-            <guid>1976797</guid>
-            <pubDate>Sat, 16 Jan 2021 08:06:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  菲律宾新增新冠肺炎确诊病例2058例，累计498691例；新增死亡病例9884例。]]></title>
-            <guid>1976795</guid>
-            <pubDate>Sat, 16 Jan 2021 08:02:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲地中海地震中心：太平洋岛国汤加发生5.2级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftpnnx7993423.d.html</link>
-            <guid>1976793</guid>
-            <pubDate>Sat, 16 Jan 2021 07:59:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一汽奥迪销售公司已注册成立 拟于4月南下杭州】一汽奥迪销售公司日前已于杭州正式成立，首批人员拟于4月南下，整体搬迁工作或在今年年底前完成。数据显示，2020年12月24日，一汽奥迪销售有限责任公司在杭州注册成立，注册资本3亿元人民币，由一汽-大众100%出资。中国一汽董事、总经理、党委副书记邱现东任新公司董事长， 奥迪AG销售董事Hildegard Maria Wortmann任副董事长，一汽-大众奥迪销售事业部总经理Marco Schubert为总经理。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftpnnx7992884.d.html</link>
-            <guid>1976791</guid>
-            <pubDate>Sat, 16 Jan 2021 07:57:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
