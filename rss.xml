@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 16 Jan 2021 21:36:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2021 22:46:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【法国新增新冠肺炎确诊病例21406例 累计确诊达2894347例】法国公共卫生部门1月16日当天公布的数据显示，截至当天下午，法国累计新冠肺炎确诊病例达2894347例，较前一日新增21406例。累计死亡病例达70142例。数据显示，法国当前新冠病毒检测呈阳性的比率为6.49%。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7246187.d.html</link>
+            <guid>1977104</guid>
+            <pubDate>Sat, 16 Jan 2021 22:16:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ 【收购计划失败 加拿大零售巨头Couche-Tard转而与家乐福探讨合作】加拿大零售公司Couche-Tard和欧洲零售商家乐福周六在一份联合声明中表示，在收购谈判失败后，两家公司已决定寻找合作机会。Couche-Tard放弃了以162亿欧元（195.7亿美元）收购家乐福的交易，此前法国政府以食品安全为由反对该交易。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8217637.d.html</link>
@@ -443,12 +449,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftssan7034051.d.html</link>
             <guid>1976814</guid>
             <pubDate>Sat, 16 Jan 2021 09:07:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯新增24092例新冠肺炎确诊病例，累计达3544623例，新增新冠肺炎死亡病例590例，累计死亡65085例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftpnnx7999537.d.html</link>
-            <guid>1976805</guid>
-            <pubDate>Sat, 16 Jan 2021 08:18:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -6,6 +6,13 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 1977104,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7246187.d.html",
+            "title": "【法国新增新冠肺炎确诊病例21406例 累计确诊达2894347例】法国公共卫生部门1月16日当天公布的数据显示，截至当天下午，法国累计新冠肺炎确诊病例达2894347例，较前一日新增21406例。累计死亡病例达70142例。数据显示，法国当前新冠病毒检测呈阳性的比率为6.49%。（央视）",
+            "date_modified": "2021-01-16T22:16:01.000Z"
+        },
+        {
             "id": 1977103,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8217637.d.html",
@@ -512,13 +519,6 @@
             "url": "https://finance.sina.cn/7x24/2021-01-16/detail-ikftssan7034051.d.html",
             "title": "  据英国金融时报：欧盟制定计划，以减少对美元的依赖。",
             "date_modified": "2021-01-16T09:07:43.000Z"
-        },
-        {
-            "id": 1976805,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-01-16/detail-ikftpnnx7999537.d.html",
-            "title": "  俄罗斯新增24092例新冠肺炎确诊病例，累计达3544623例，新增新冠肺炎死亡病例590例，累计死亡65085例。",
-            "date_modified": "2021-01-16T08:18:59.000Z"
         }
     ]
 }
