@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 17 Jan 2021 09:56:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jan 2021 10:59:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【香港新增确诊55例，其中16例本地感染源头不明】香港特区政府卫生署1月17日通报，截至凌晨零时，全港新增55例新冠肺炎确诊病例，其中51例为本地感染。另有逾80人初步检测呈阳性，正等待复检。香港至今累计确诊病例达9557例。今日新增的本地病例中，16人暂时未能找到确切的传播源头。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7482969.d.html</link>
+            <guid>1977714</guid>
+            <pubDate>Sun, 17 Jan 2021 10:29:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【邢台一核酸检测机构瞒报3例阳性 责任人被控制】河北邢台隆尧县委托济南华曦医学检验有限公司进行核酸检测，该机构瞒报3例阳性，责任人被控制。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7482678.d.html</link>
+            <guid>1977713</guid>
+            <pubDate>Sun, 17 Jan 2021 10:28:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[截至17日下午2时，河北邢台初步核查隆尧县报告新增2例新冠肺炎确诊病例，1例无症状感染者。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8461157.d.html</link>
+            <guid>1977712</guid>
+            <pubDate>Sun, 17 Jan 2021 10:18:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  马来西亚新增3339例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8460108.d.html</link>
+            <guid>1977711</guid>
+            <pubDate>Sun, 17 Jan 2021 10:14:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国外交大臣拉布：现在就讨论在2月份放松管制措施还太早了。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7478395.d.html</link>
+            <guid>1977710</guid>
+            <pubDate>Sun, 17 Jan 2021 10:12:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【龙源电力拟换股吸并*ST平能 实现A+H两地上市】*ST平能：龙源电力拟换股吸收合并平庄能源，同时平庄能源拟将全部或部分资产和负债出售给国家能源集团全资子公司国家能源集团内蒙古电力有限公司或其子公司，且龙源电力拟以现金购买国家能源集团其他下属公司持有的部分新能源业务资产。合并完成后，平庄能源将终止上市，龙源电力作为存续公司将实现A+H两地上市。公司股票18日复牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7476366.d.html</link>
+            <guid>1977709</guid>
+            <pubDate>Sun, 17 Jan 2021 10:06:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  伊朗新增6016例新冠肺炎确诊病例，新增86例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8457507.d.html</link>
+            <guid>1977708</guid>
+            <pubDate>Sun, 17 Jan 2021 10:05:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【先锋领航王黔：中国股市未来10年的平均回报率是6.3%】先锋领航投资策略及研究部亚太区首席经济学家王黔认为，中国新兴市场和美国市场股市的估值是处于合理估值期间的高端，估值偏高，但也不是泡沫。另一方面，非美发达国家，包括像欧洲、英国，已经跌出了合理估值区间，呈现估值过低。“全球股票未来10年的年化回报率大概是5%-7%，美国的股票预计回报率是偏低的，大概略低于5%，中国股市未来10年的平均回报率是6.3%，略高于世界的其他地区。”]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7469611.d.html</link>
@@ -426,42 +468,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7365595.d.html</link>
             <guid>1977357</guid>
             <pubDate>Sun, 17 Jan 2021 04:23:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南非新增新冠肺炎确诊病例13973例，累计确诊1325659例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7363259.d.html</link>
-            <guid>1977344</guid>
-            <pubDate>Sun, 17 Jan 2021 04:16:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据美国约翰斯·霍普金斯大学发布的实时统计数据，美国累计新冠肺炎确诊病例达23747781例，死亡病例增至395691例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8344321.d.html</link>
-            <guid>1977343</guid>
-            <pubDate>Sun, 17 Jan 2021 04:13:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据辽宁台网测定：01月17日11时21分51.4秒在辽宁省大连市普兰店市发生M2.5级地震，震源深度7Km。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8341280.d.html</link>
-            <guid>1977333</guid>
-            <pubDate>Sun, 17 Jan 2021 04:04:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安信证券：煤价涨势已经超出市场预期 动板块估值有望回升】短期供需矛盾突出，煤价持续上涨，目前已创历史新高。目前煤价涨势已经超出市场预期，目前煤炭板块估值处于历史底部，煤价上涨有望推动上市公司业绩增长进而拉动板块估值回升。建议关注1）低估值，高盈利动力煤标的，如陕西煤业、露天煤业、中国神华等，2）受益于焦炭涨价的标的：金能科技、山西焦化、开滦股份、陕西黑猫等，3）山西国改标的：山西焦煤。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7357158.d.html</link>
-            <guid>1977297</guid>
-            <pubDate>Sun, 17 Jan 2021 03:58:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广汽埃安总经理古惠南：欧阳明高的话不要理解偏了】广汽埃安总经理古惠南今日在电动车百人会线上论坛表示，欧阳明高的话，大家要注意，不要理解偏了。他说又要这个又要那个，还要便宜，这肯定做不到。8分钟快充也不光是电池的问题，也跟充电桩有关。不要把技术问题和推广运营的问题混为一谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8330534.d.html</link>
-            <guid>1977234</guid>
-            <pubDate>Sun, 17 Jan 2021 03:38:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国众议院四个委员会宣布开始调查1月6日的国会大厦骚乱。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8328861.d.html</link>
-            <guid>1977224</guid>
-            <pubDate>Sun, 17 Jan 2021 03:33:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
