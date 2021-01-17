@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 17 Jan 2021 04:59:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jan 2021 05:56:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中国新船接单量超过韩国，时隔两年重回全球第一】工信部日前发布的数据显示，2020年，中国和韩国的新船接单量占全球份额的比例分别为48.8%和41.4%。时隔两年中国重返全球第一，韩国位居第二，日本获得约7%的份额，排名第三。 据统计，2020年，我国造船完工量和手持订单量，分别占世界总量的43.1%和44.7%，继续在国际市场份额中继续领先。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8369931.d.html</link>
+            <guid>1977604</guid>
+            <pubDate>Sun, 17 Jan 2021 05:31:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中国地震台网正式测定：01月17日12时44分在云南保山市昌宁县发生4.1级地震，震源深度8千米。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7376164.d.html</link>
@@ -456,11 +462,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7153252.d.html</link>
             <guid>1976999</guid>
             <pubDate>Sat, 16 Jan 2021 16:05:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  山西晋中榆次区重点区域人员全部完成第二次核酸检测，结果均为阴性。（央视新闻）]]></title>
-            <guid>1976982</guid>
-            <pubDate>Sat, 16 Jan 2021 15:51:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
