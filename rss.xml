@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 18 Jan 2021 19:59:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2021 20:48:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【港股基金集体大涨，基金业内人士：今年港股有望迎来戴维斯双击】2021年开年以来，南向资金加速流入香港市场，连续11个交易日流入资金超过百亿，累计净买入逾1500亿港元。2021年以来，场内交易港股基金涨幅均在10%左右。基金业内人士认为，2021年港股有机会获得戴维斯双击，港股中的互联网巨头、教育板块、顺全球复苏周期的主线、创新药及品牌消费领域都可能出现好机会。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8087024.d.html</link>
+            <guid>1979923</guid>
+            <pubDate>Mon, 18 Jan 2021 20:16:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息，拜登要求一小部分特朗普政府时期的大使留任。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8085127.d.html</link>
+            <guid>1979920</guid>
+            <pubDate>Mon, 18 Jan 2021 20:08:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  COMEX黄金期货收涨0.38%报1836.8美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9066660.d.html</link>
+            <guid>1979919</guid>
+            <pubDate>Mon, 18 Jan 2021 20:05:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国财长提名人耶伦：在缺乏更多经济援助的情况下，有可能出现更长期、更痛苦的衰退。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8084067.d.html</link>
+            <guid>1979918</guid>
+            <pubDate>Mon, 18 Jan 2021 20:04:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西咖啡出口商组织CeCafe：巴西12月绿色咖啡出口增长42%，至390万袋，创历史同期新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8084029.d.html</link>
+            <guid>1979917</guid>
+            <pubDate>Mon, 18 Jan 2021 20:04:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【意大利总理孔特赢得众议院的信任投票】当地时间1月13日下午，意大利活力党领导人伦齐宣布该党成员退出现政府内阁，导致意大利面临政府重组或重新大选的状况。如总理孔特选择重组内阁，需要通过议会信任投票，一旦投票不通过则需要提前举行大选。目前孔特已赢得众议院的信任投票。参议院的投票将在周二开启。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8083346.d.html</link>
+            <guid>1979915</guid>
+            <pubDate>Mon, 18 Jan 2021 20:01:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[现货黄金短线上扬逾4美元，刷新日高至1841.26美元/盎司，使得日内整体涨幅扩大至超过0.7%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8081083.d.html</link>
@@ -378,65 +414,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9004233.d.html</link>
             <guid>1979826</guid>
             <pubDate>Mon, 18 Jan 2021 16:02:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[官方声明：在美国国会大厦附近受到外部安全威胁后，警方为了谨慎行事，下令关闭该建筑；国会大厦内外目前都没有出现火情。声明表示，美国国会议员和工作人员被要求在事件调查期间就地避难。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-18/detail-ikftpnnx9001783.d.html</link>
-            <guid>1979824</guid>
-            <pubDate>Mon, 18 Jan 2021 15:51:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【罗素投资：新兴市场越来越像美国市场】许多资产所有者仍将新兴市场资产配置视为对大宗商品的一种投资——换句话说，新兴市场是获得石油或谷物等大宗商品更广泛敞口的地方。不过，这一概念早已过时，在MSCI新兴市场指数中，数字消费和互联网主题企业（即所谓的新经济领域）的权重在过去10年大幅上升。MSCI新兴市场指数的板块构成与标准普尔500指数相似：消费、通讯服务和科技板块在这两个指数中都占据重要地位。]]></title>
-            <guid>1979822</guid>
-            <pubDate>Mon, 18 Jan 2021 15:46:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：据信国会大厦附近的火情不构成威胁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-18/detail-ikftpnnx9000326.d.html</link>
-            <guid>1979821</guid>
-            <pubDate>Mon, 18 Jan 2021 15:45:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：就职典礼彩排人员疏散是因为几个街区外出现火情。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-18/detail-ikftpnnx8999972.d.html</link>
-            <guid>1979820</guid>
-            <pubDate>Mon, 18 Jan 2021 15:43:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【基金经理2021年大量超配新能源汽车产业链】鹏华基金权益投资二部基金经理孟昊表示：“我2021年的基金收益率，贡献最大的还是超配了新能源，其中大量超配新能源汽车产业链。从长期来看，这个行业渗透率非常低，2020年渗透率才到百分之四五个点。我相信，随着消费级车型的大量出现，这个渗透率的提升会非常快速。2025年的时候，预计新能源汽车的产业渗透率会远远超过20%，它的空间非常大。所以，我们年初重仓配置了新能源汽车，对于组合的贡献非常大。对于环保行业，我自己组合里也会有一些配置，主要配置的还是偏运营类，运营类公司本身的现金流、业务的稳定性还是比较高的。”（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-18/detail-ikftpnnx8999358.d.html</link>
-            <guid>1979819</guid>
-            <pubDate>Mon, 18 Jan 2021 15:41:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【在岸人民币兑美元夜盘收跌104点】在岸人民币兑美元（CNY）北京时间23:30收报6.4921元，较上周五夜盘收盘跌104点。成交量410.05亿美元，较上周五增加100.40亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-18/detail-ikftssan8016195.d.html</link>
-            <guid>1979818</guid>
-            <pubDate>Mon, 18 Jan 2021 15:38:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：华盛顿特区消防人员称外部火情已经扑灭，无人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-18/detail-ikftpnnx8998378.d.html</link>
-            <guid>1979817</guid>
-            <pubDate>Mon, 18 Jan 2021 15:37:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：在国会大厦西侧进行就职典礼彩排的参与者被安全官员疏散。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-18/detail-ikftssan8015323.d.html</link>
-            <guid>1979816</guid>
-            <pubDate>Mon, 18 Jan 2021 15:34:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：由于外部安全威胁，美国国会大厦被封锁，禁止出入。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-18/detail-ikftpnnx8996635.d.html</link>
-            <guid>1979815</guid>
-            <pubDate>Mon, 18 Jan 2021 15:29:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英唐智控收关注函：需说明对上海芯石无形资产进行估值的依据】英唐智控收到关注函，公司拟通过认购上海芯石半导体公司非公开发行股份以及受让羽競赫甡所持上海芯石部分股票的方式取得上海芯石40%的股份，交易价款合计16797.12万元。交易完成后，公司将成为上海芯石第一大股东，并实现对上海芯石的控股。深交所要求公司说明上海芯石的主要资产构成，无形资产明细及账面价值，本次对其无形资产进行估值的具体方法、过程、主要参数选择的依据及确定合理性，本次股权收购作价参考无形资产评估价值而非全部股权价值的原因及合理性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-18/detail-ikftpnnx8995376.d.html</link>
-            <guid>1979813</guid>
-            <pubDate>Mon, 18 Jan 2021 15:23:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
