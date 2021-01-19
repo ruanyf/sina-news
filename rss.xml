@@ -4,11 +4,503 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 19 Jan 2021 08:59:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2021 09:59:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【证券业协会推出“中证链” 首个应用已上链运行】日前，协会在“中证链”上发布首个应用——投行业务电子底稿监管系统。底稿监管系统通过提供标准化的接口与各证券公司内部的电子底稿管理系统实现对接，推动投行业务电子底稿报送的标准化，履行协会自律管理职责。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9347538.d.html</link>
+            <guid>1980968</guid>
+            <pubDate>Tue, 19 Jan 2021 09:58:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[丹化科技：控股股东丹化集团正在筹划重大事项，该事项可能涉及本公司的控制权变更，具体方式尚未确定。鉴公司A、B股股票自2021年1月20日（星期三）上午开市起停牌，停牌时间不超过两个交易日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8364526.d.html</link>
+            <guid>1980967</guid>
+            <pubDate>Tue, 19 Jan 2021 09:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天富能源：2020年预盈约4500万元 同比扭亏】天富能源(600509)1月19日晚间披露业绩预告，预计2020年净利润为4500万元左右，同比扭亏为盈。公司上年同期亏损4.13亿元。报告期内，公司供电营业区内大宗工业用电量增长较快，供电负荷增加，供电量与上年同期相比增加 13%左右；公司供热区域内供暖面积增加，大用户工业蒸汽价格上调，电、热收入增加，导致公司利润增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8364403.d.html</link>
+            <guid>1980966</guid>
+            <pubDate>Tue, 19 Jan 2021 09:57:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：法国50年期国债拍卖获得创纪录的590亿欧元竞价。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9347111.d.html</link>
+            <guid>1980965</guid>
+            <pubDate>Tue, 19 Jan 2021 09:57:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【成都路桥：拟中标投资约6亿元项目】成都路桥公告，公司拟中标江安县2020年（第二批）四面山、夕佳山镇、阳春镇、怡乐镇等9个镇13个增减挂钩项目，建设内容为拆除旧房并补助农户、土地复垦、土壤修复并改善和提高土壤质量等，建设工期12个月。该项目投标报价为23.77万元/亩，工程概算投资约6亿元，约占公司2019年度营业收入的21.47%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9347008.d.html</link>
+            <guid>1980964</guid>
+            <pubDate>Tue, 19 Jan 2021 09:56:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【金种子酒：昨日股东付小铜减持362万股 不再是公司持股5%以上股东】金种子酒公告，1月18日，公司股东付小铜减持公司362万股股份，占公司总股本0.55%。本次股份减持后，付小铜及其一致行动人陕西柳林酒业集团有限公司合计持有公司股份3285万股，占公司总股本的4.99%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9346698.d.html</link>
+            <guid>1980963</guid>
+            <pubDate>Tue, 19 Jan 2021 09:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[重庆：农村地区确实要办宴席者，应提前5日报告备案征得同意。（上游新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8363723.d.html</link>
+            <guid>1980962</guid>
+            <pubDate>Tue, 19 Jan 2021 09:55:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宏达新材：2020年预盈4500万至6500万元 同比扭亏】宏达新材(002211)1月19日晚间发布业绩预告，2020年度预盈4500万元-6500万元，上年同期亏损8800万元。报告期内，公司专网无线通信业务持续稳步推进，订单数及产量呈增长趋势，出货量稳定增长，促进了销售收入和净利润的持续增长，对公司扭亏起到了关键作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9345482.d.html</link>
+            <guid>1980959</guid>
+            <pubDate>Tue, 19 Jan 2021 09:52:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲航空安全局：波音MAX飞机飞行员必须在经过认证的飞机上接受适当的训练。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9344921.d.html</link>
+            <guid>1980958</guid>
+            <pubDate>Tue, 19 Jan 2021 09:50:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天和防务：2020年净利同比预增18%-21%】天和防务(300397)1月19日晚间发布业绩预告，2020年度预盈1.02亿元-1.05亿元，同比增长17.54%-21%。报告期内，公司通信电子业务订单保持了稳定增长，通信电子业务收入增长较多；同时按照军品合同约定积极组织产品生产，顺利完成产品交付，已实现军品收入确认。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9344871.d.html</link>
+            <guid>1980957</guid>
+            <pubDate>Tue, 19 Jan 2021 09:50:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科创板上市关键期安旭生物突遭国家药监局“点名”， 回应称责任在医疗机构公司是受害者。 (21财经)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8361452.d.html</link>
+            <guid>1980956</guid>
+            <pubDate>Tue, 19 Jan 2021 09:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：欧洲航空安全局认为他们了解两起波音MAX坠机事件的原因。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9344230.d.html</link>
+            <guid>1980955</guid>
+            <pubDate>Tue, 19 Jan 2021 09:49:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波音盘前短线走高，现涨1.67%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9344079.d.html</link>
+            <guid>1980954</guid>
+            <pubDate>Tue, 19 Jan 2021 09:48:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：欧洲航空安全局希望下周允许波音MAX在欧洲飞行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8360825.d.html</link>
+            <guid>1980953</guid>
+            <pubDate>Tue, 19 Jan 2021 09:47:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[浙江东阳一批进口工业配件核酸检测阳性，配件未流出企业。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9343212.d.html</link>
+            <guid>1980951</guid>
+            <pubDate>Tue, 19 Jan 2021 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南向资金净买入再创新高 两日加仓港股近500亿】南向资金今日净买入265.93亿港元，再创港股通开通以来新高。腾讯控股、香港交易所、美团分别获净买入48.56亿港元、33.19亿港元、16.48亿港元；中国人寿遭净卖出8.52亿港元居首。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8360180.d.html</link>
+            <guid>1980950</guid>
+            <pubDate>Tue, 19 Jan 2021 09:45:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德意志银行1月份投资者调查显示，71%的受访者预计美联储不会在年底前缩减刺激计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9342972.d.html</link>
+            <guid>1980949</guid>
+            <pubDate>Tue, 19 Jan 2021 09:45:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拼多多关联公司申请“拼多多支付”商标】天眼查App显示，1月14日，拼多多关联公司上海寻梦信息技术有限公司新增一项“拼多多支付”商标申请信息，国际分类涉及35-广告销售，商标状态显示为“商标申请中”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8360052.d.html</link>
+            <guid>1980948</guid>
+            <pubDate>Tue, 19 Jan 2021 09:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股盘前热门中概股多数上涨，百度涨超5%，哔哩哔哩、小鹏汽车、拼多多、理想均涨超4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9342830.d.html</link>
+            <guid>1980947</guid>
+            <pubDate>Tue, 19 Jan 2021 09:44:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【雷赛智能：2020年净利同比预增58%-95%】雷赛智能(002979)1月19日晚间发布业绩预告，2020年度预盈1.7亿元-2.1亿元，同比增长57.98%-95.15%。报告期内，公司交流伺服系统和总线控制产品实现快速增长；公司产品及解决方案在5G、半导体、光伏等新兴行业成功应用，同时在3C、雕刻、喷印等传统行业快速复苏；公司产品毛利率较上年同期有所提高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9342605.d.html</link>
+            <guid>1980946</guid>
+            <pubDate>Tue, 19 Jan 2021 09:44:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[天富能源：预计2020年度经营业绩与上年同期相比，将实现扭亏为盈，实现归属于上市公司股东的净利润为4500万元左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8358715.d.html</link>
+            <guid>1980943</guid>
+            <pubDate>Tue, 19 Jan 2021 09:41:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【七连板路畅科技：不存在未披露重大事项】路畅科技(002813)1月19日晚间公告，公司股票连续七个交易日涨停，1月8日至1月19日累计涨幅已达96.12%。公司、控股股东和实控人不存在关于公司的应披露而未披露的重大事项，或处于筹划阶段的重大事项。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8358641.d.html</link>
+            <guid>1980942</guid>
+            <pubDate>Tue, 19 Jan 2021 09:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【贵州一煤矿发生一氧化碳中毒事故致3人遇难】19日3时26分，位于贵州省毕节市大方县星宿乡的贵州众一金彩黔矿业有限公司瑞丰煤矿发生一起一氧化碳中毒事故，致3人遇难。记者从大方县委宣传部获悉，事故发生时，该煤矿当班下井人员47人，安全撤离43人，4人失联。经全力救援，所有失联人员于12时44分全部搜救出井，其中1人生命体征趋于平稳，正在医院救治，其余3人已无生命体征。目前，现场施救工作已全部结束，相关善后事宜及事故调查工作正在有序开展。（新华视点）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8358507.d.html</link>
+            <guid>1980941</guid>
+            <pubDate>Tue, 19 Jan 2021 09:40:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【香港2020年第四季度失业率6.6% 为16年来新高】1月19日，香港特区政府统计处公布消息，香港最新失业率升至6.6%，为16年来的新高，就业不足率则维持在3.4%的水平。香港特区政府统计处公布的数据显示，香港最新失业率经季节性调整由去年9至11月的6.3%上升至10至12月的6.6%。大多数行业的失业率上升，其中零售、住宿及餐饮服务业失业率上升明显，其中餐饮服务业的失业率升至13.8%。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8358247.d.html</link>
+            <guid>1980940</guid>
+            <pubDate>Tue, 19 Jan 2021 09:40:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【半夏投资李蓓：港股并非一直都被低估，高端制造业值得关注】1月19日，半夏投资创始人李蓓在做客时报会客厅时表示，投资者容易被直观的感受所影响，港股并非一直都是被低估。在2014年前后，A股“牛市”启动之前，港股价格更高。A股与港股的价格对比是波动的，并非恒定不变。她认为，核心资产是动态过程，需要找到趋势向上的行业及龙头公司。高端制造业值得关注，但也要注意估值。（证券时报网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9340853.d.html</link>
+            <guid>1980938</guid>
+            <pubDate>Tue, 19 Jan 2021 09:39:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上汽集团：回购期届满，累计耗资22.47亿元回购0.93%股份】上汽集团公告，1月19日，回购股份方案期限届满，公司通过集中竞价交易方式实际回购公司股份1.08亿股，占公司总股本的0.93%，回购最高价格为25.8元/股，最低价为17.81元/股，回购均价20.78元/股，使用资金总额22.47亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9340706.d.html</link>
+            <guid>1980937</guid>
+            <pubDate>Tue, 19 Jan 2021 09:39:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德意志银行1月份投资者调查显示，89%的受访者认为金融市场存在泡沫。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8357653.d.html</link>
+            <guid>1980936</guid>
+            <pubDate>Tue, 19 Jan 2021 09:38:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国国家统计局：英格兰和威尔士的每周死亡人数比5年平均水平高出45.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8356904.d.html</link>
+            <guid>1980934</guid>
+            <pubDate>Tue, 19 Jan 2021 09:36:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国国家统计局：去年12月，英格兰每8人中就有1人新冠抗体检测呈阳性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9339567.d.html</link>
+            <guid>1980933</guid>
+            <pubDate>Tue, 19 Jan 2021 09:36:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国国家统计局：这一周新冠肺炎死亡病例占了英格兰和威尔士死亡人数的34.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9338965.d.html</link>
+            <guid>1980931</guid>
+            <pubDate>Tue, 19 Jan 2021 09:34:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[金钼股份：公司预计2020年年度归属于母公司的净利润在1.55亿元至1.85亿元之间，同比下降约67%至73%。报告期内，国内外钼市场总体呈现下行行情，公司各类钼产品成交价格同比大幅下跌，影响毛利同比大幅减少，归母净利润同比大幅减少。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8356200.d.html</link>
+            <guid>1980930</guid>
+            <pubDate>Tue, 19 Jan 2021 09:34:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【君禾股份：董事周惠琴拟增持100-200万元股份 今日已增持12万股】君禾股份公告，公司董事、常务副总经理周惠琴于2021年1月19日通过上交所系统增持公司股份12万股。另外，周惠琴计划自2021年1月19日-7月18日增持公司股份金额不低于100万元，不超过200万元(含此次已增持金额)。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9338606.d.html</link>
+            <guid>1980928</guid>
+            <pubDate>Tue, 19 Jan 2021 09:33:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：南非2020年11月矿业产量同比下降11.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8355220.d.html</link>
+            <guid>1980926</guid>
+            <pubDate>Tue, 19 Jan 2021 09:31:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北上资金净流入9.18亿 京东方Ａ净买入7.52亿】北上资金今日净流入9.18亿。京东方Ａ净买入7.52亿，东方财富净买入6.36亿，科大讯飞净买入6.15亿，招商银行净买入5.41亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8355060.d.html</link>
+            <guid>1980925</guid>
+            <pubDate>Tue, 19 Jan 2021 09:30:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：南非11月黄金产量同比下降7.0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8354916.d.html</link>
+            <guid>1980924</guid>
+            <pubDate>Tue, 19 Jan 2021 09:30:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联建光电收关注函，深交所要求公司说明财务总监被刑事拘留事件是否确定其所涉案件与公司无关，公司在公告中作出上述表述是否谨慎，是否存在虚假记载或者误导性陈述。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8354768.d.html</link>
+            <guid>1980922</guid>
+            <pubDate>Tue, 19 Jan 2021 09:30:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[百度盘前涨幅扩大至5.8%，今日威马与百度Apollo合作研发车型正式下线；近期花旗亦将百度目标价上调近60%至292美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8354478.d.html</link>
+            <guid>1980919</guid>
+            <pubDate>Tue, 19 Jan 2021 09:29:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  卓翼科技：预计2020年净亏损1.35亿-1.7亿元，上年同期盈利4721.42万元。经过测试，公司对可能发生坏账损失的各类资产累计计提减值准备余额为8809.97万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9336778.d.html</link>
+            <guid>1980918</guid>
+            <pubDate>Tue, 19 Jan 2021 09:28:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国卫生大臣汉考克：将待在家里，直到周日才离开。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9336719.d.html</link>
+            <guid>1980917</guid>
+            <pubDate>Tue, 19 Jan 2021 09:28:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上汽集团：回购期届满 累计耗资22.47亿元回购0.93%股份】上汽集团1月19日晚间公告，1月19日，回购股份方案期限届满，公司通过集中竞价交易方式实际回购公司股份1.08亿股，占公司总股本的0.93%，回购最高价格为25.8元/股，最低价为17.81元/股，回购均价20.78元/股，使用资金总额22.47亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9336581.d.html</link>
+            <guid>1980916</guid>
+            <pubDate>Tue, 19 Jan 2021 09:27:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：英国卫生大臣汉考克将自我隔离。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9336461.d.html</link>
+            <guid>1980915</guid>
+            <pubDate>Tue, 19 Jan 2021 09:27:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利总理孔特向意大利参议院呼吁支持他的政府。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9336327.d.html</link>
+            <guid>1980914</guid>
+            <pubDate>Tue, 19 Jan 2021 09:26:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  雷赛智能：预计2020年净利润为1.7亿-2.1亿元，同比增长57.98%-95.15%。公司通过加大研发投入，积极推广新产品和新的解决方案，其中交流伺服系统和总线控制产品在报告期内实现快速增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8353042.d.html</link>
+            <guid>1980913</guid>
+            <pubDate>Tue, 19 Jan 2021 09:25:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国结算：12月新增投资者162.18万，同比增长100.39%，期末投资者数17777.49万，同比增长11.28%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8352958.d.html</link>
+            <guid>1980912</guid>
+            <pubDate>Tue, 19 Jan 2021 09:25:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【贵州：去年全省地区生产总值17826.56亿元 增长4.5%】贵州省统计局消息，初步核算，2020年全省地区生产总值17826.56亿元，按可比价格计算，比上年增长4.5%，增速高于全国2.2个百分点，连续10年位居全国前列。其中，第一产业增加值2539.88亿元，增长6.3%；第二产业增加值6211.62亿元，增长4.3%；第三产业增加值9075.07亿元，增长4.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9335532.d.html</link>
+            <guid>1980911</guid>
+            <pubDate>Tue, 19 Jan 2021 09:24:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【奇瑞汽车投资成立供应链公司 注册资本3亿人民币】数据显示，1月18日，安徽瑞轩供应链科技有限公司成立，注册资本3亿人民币，法定代表人为张日驹，经营范围含供应链技术研发；电子商务信息咨询；网络信息技术推广服务等。股东信息显示，该公司由奇瑞汽车股份有限公司和上海轩智供应链科技有限公司共同持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8352814.d.html</link>
+            <guid>1980910</guid>
+            <pubDate>Tue, 19 Jan 2021 09:24:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  波兰新增4835例新冠肺炎确诊病例，新增291例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8352694.d.html</link>
+            <guid>1980909</guid>
+            <pubDate>Tue, 19 Jan 2021 09:24:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【恩华药业：盐酸右美托咪定注射液通过一致性评价】恩华药业公告，公司近日收到国家药监局核准签发的关于“盐酸右美托咪定注射液”的《药品补充申请批准通知书》，批准该药品通过仿制药质量和疗效一致性评价。盐酸右美托咪定注射液用于行全身麻醉的手术患者气管插管和机械通气时的镇静、重病监护治疗期间开始插管和使用呼吸机病人的镇静。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9334641.d.html</link>
+            <guid>1980908</guid>
+            <pubDate>Tue, 19 Jan 2021 09:22:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  IEA月报乐观预计，石油需求有望改善，石油供应可能还有进一步增长的空间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9334580.d.html</link>
+            <guid>1980907</guid>
+            <pubDate>Tue, 19 Jan 2021 09:22:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  露笑科技：截至本公告日，合肥露笑半导体已购置第一期项目工业用地，相关产权证书正在办理过程中。厂房已于2020年11月底开始动工建设，预计2021年3月底前主体厂房结顶，2021年6月底前一期产线通线点亮，2021年9月底前形成产能。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9333431.d.html</link>
+            <guid>1980906</guid>
+            <pubDate>Tue, 19 Jan 2021 09:20:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【李克强签署国务院令公布《企业名称登记管理规定》】中国政府网消息，《企业名称登记管理规定》已经2020年12月14日国务院第118次常务会议修订通过，现予公布，自2021年3月1日起施行。规定指出：企业名称冠以“中国”、“中华”、“中央”、“全国”、“国家”等字词，应当按照有关规定从严审核，并报国务院批准。国务院市场监督管理部门负责制定具体管理办法。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9332635.d.html</link>
+            <guid>1980905</guid>
+            <pubDate>Tue, 19 Jan 2021 09:18:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利总理孔特：意大利需要能够引导经济复苏的政府。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8348326.d.html</link>
+            <guid>1980903</guid>
+            <pubDate>Tue, 19 Jan 2021 09:13:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  IEA月报：由于复苏步伐可能不大，预计2021年美国石油供应将减少30万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9330662.d.html</link>
+            <guid>1980901</guid>
+            <pubDate>Tue, 19 Jan 2021 09:13:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  黔源电力：预计2020年净利润为4.35亿-4.64亿元，同比增长50%-60%。本报告期，公司“两江一河”流域来水较上年同期偏多，发电量增加，使发电收入及发电利润增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9330553.d.html</link>
+            <guid>1980900</guid>
+            <pubDate>Tue, 19 Jan 2021 09:13:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【湖北：2020年全省地区生产总值43443.46亿元 同比下降5%】2020年，全省地区生产总值43443.46亿元，按可比价格计算，比上年下降5.0%，降幅比一季度收窄34.2个百分点。分产业看，第一产业增加值4131.91亿元，由一季度的下降25.3%转为与上年持平；第二产业增加值17023.90亿元，下降7.4%，降幅比一季度收窄40.8个百分点；第三产业增加值22287.65亿元，下降3.8%，降幅收窄29.5个百分点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8347800.d.html</link>
+            <guid>1980899</guid>
+            <pubDate>Tue, 19 Jan 2021 09:12:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  上海医药：公司与关联方永发印务有限公司签订《采购框架协议》，由永发印务向本公司提供药品的印刷包装材料，采购金额年度上限为6000万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8347493.d.html</link>
+            <guid>1980898</guid>
+            <pubDate>Tue, 19 Jan 2021 09:11:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  仙鹤股份：预计2020年净利润为7.05亿-7.35亿元，同比增长60.25%-67.07%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9329050.d.html</link>
+            <guid>1980897</guid>
+            <pubDate>Tue, 19 Jan 2021 09:10:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  IEA月报：2021年全球石油供应将增加100万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9328991.d.html</link>
+            <guid>1980896</guid>
+            <pubDate>Tue, 19 Jan 2021 09:10:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  江河集团：全资子公司北京江河幕墙系统工程有限公司近日收到西安丝路国际会展中心有限公司发来的西安国际会展中心项目展览中心一期C区幕墙工程项目中标通知书，中标金额为3.08亿元，约占公司2019年度营业收入的1.64%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9328873.d.html</link>
+            <guid>1980895</guid>
+            <pubDate>Tue, 19 Jan 2021 09:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  IEA月报：预计今年下半年欧佩克国家仍将减产580万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9328629.d.html</link>
+            <guid>1980894</guid>
+            <pubDate>Tue, 19 Jan 2021 09:09:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  伦敦金属交易所（LME）：LME铜库存减少1350吨，铝库存减少80吨，锌库存减少1500吨，镍库存减少210吨，锡库存减少210吨，铅库存减少2300吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9328305.d.html</link>
+            <guid>1980893</guid>
+            <pubDate>Tue, 19 Jan 2021 09:08:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IEA月报：沙特12月产量稳定在899万桶/日。利比亚12月产量升至117万桶/日。伊拉克12月产量升至387万桶/日。俄罗斯12月产量升至913万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8345776.d.html</link>
+            <guid>1980892</guid>
+            <pubDate>Tue, 19 Jan 2021 09:08:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  上交所1月19日消息，终止对包头天和磁材科技股份有限公司首次公开发行股票并在科创板上市审核。据悉，终止原因为公司方面申请撤回申请文件。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8345611.d.html</link>
+            <guid>1980891</guid>
+            <pubDate>Tue, 19 Jan 2021 09:07:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  IEA月报：将2021年第4季度全球石油需求预测下调20万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9327843.d.html</link>
+            <guid>1980890</guid>
+            <pubDate>Tue, 19 Jan 2021 09:07:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IEA月报：12月全球石油供应稳定在9280万桶/日。将2021年第2季度全球石油需求预测下调30万桶/日。将2021年第3季度全球石油需求预测下调10万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9327777.d.html</link>
+            <guid>1980889</guid>
+            <pubDate>Tue, 19 Jan 2021 09:07:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全国第一个保税物流园区转型为综合保税区】上海海关19日公布，全国第一个保税物流园区――外高桥保税物流园区走过17年历程，正式转型为外高桥港综合保税区。按照规划，外高桥港综合保税区今后将发挥“保税+”功能优势，依托仓储物流业基础，引进高能级项目，形成新的增长点和增长极，深度融入全球产业链、价值链和创新链，为周边其他保税区后续转型升级积累经验、提供样本。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9327616.d.html</link>
+            <guid>1980887</guid>
+            <pubDate>Tue, 19 Jan 2021 09:06:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  LME锡库存减少13%至2019年5月以来最低水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9327413.d.html</link>
+            <guid>1980886</guid>
+            <pubDate>Tue, 19 Jan 2021 09:06:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  IEA月报：欧佩克+12月减产执行率为100%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9327360.d.html</link>
+            <guid>1980885</guid>
+            <pubDate>Tue, 19 Jan 2021 09:06:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  部分热门中概股盘前走高，富途控股涨超10%，理想汽车、小鹏汽车涨近4%，百度涨3.8%，京东、哔哩哔哩涨3.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8344678.d.html</link>
+            <guid>1980884</guid>
+            <pubDate>Tue, 19 Jan 2021 09:05:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[19日0至12时，石家庄新增6例新冠肺炎确诊病例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9327138.d.html</link>
+            <guid>1980883</guid>
+            <pubDate>Tue, 19 Jan 2021 09:05:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  IEA月报：11月经合组织原油库存减少2360万桶，至31.08亿桶，比5年平均水平高1.67亿桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9326683.d.html</link>
+            <guid>1980881</guid>
+            <pubDate>Tue, 19 Jan 2021 09:04:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【片仔癀业绩快报：2020年度净利润16.67亿元 同比增长21.27%】片仔癀公告，公司2020年净利润16.67亿元，同比增长21.27%；营业收入65.07亿元，同比增长13.72%。主要原因系：公司核心产品片仔癀系列产品及控股子公司福建片仔癀化妆品有限公司（合并）的销售增加导致营业利润增长所致。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8343874.d.html</link>
+            <guid>1980880</guid>
+            <pubDate>Tue, 19 Jan 2021 09:03:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  IEA月报：鉴于2021年下半年的需求有望改善，石油供应可能还有进一步增长的空间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8343795.d.html</link>
+            <guid>1980879</guid>
+            <pubDate>Tue, 19 Jan 2021 09:03:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  蔚来宣布完成价值15亿美元的可转换优先债券。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9326251.d.html</link>
+            <guid>1980878</guid>
+            <pubDate>Tue, 19 Jan 2021 09:03:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  IEA月报：2020年石油供应将同比减少660万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9326186.d.html</link>
+            <guid>1980877</guid>
+            <pubDate>Tue, 19 Jan 2021 09:03:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  IEA月报：2020年原油需求同比降至880万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9326006.d.html</link>
+            <guid>1980874</guid>
+            <pubDate>Tue, 19 Jan 2021 09:02:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  IEA月报：预计2021年全球石油需求将恢复550万桶/日至9660万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9325972.d.html</link>
+            <guid>1980873</guid>
+            <pubDate>Tue, 19 Jan 2021 09:02:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元区11月季调后经常帐(亿欧元)公布250，前值266。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8343302.d.html</link>
+            <guid>1980872</guid>
+            <pubDate>Tue, 19 Jan 2021 09:02:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IEA月报：将2021年第一季度全球石油需求预测下调60万桶/日，并将2021年全年石油需求预测下调30万桶/日。预计2021年将同比增加450万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8343177.d.html</link>
+            <guid>1980871</guid>
+            <pubDate>Tue, 19 Jan 2021 09:02:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  小鹏汽车盘前涨超3%，早前小鹏汽车发布了beta版高速自主导航驾驶技术功能。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9325594.d.html</link>
+            <guid>1980870</guid>
+            <pubDate>Tue, 19 Jan 2021 09:01:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  自1月19日17时起，黑龙江黑河市爱辉区花园街道喇嘛台社区学府佳苑小区调整为低风险地区。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8343040.d.html</link>
+            <guid>1980868</guid>
+            <pubDate>Tue, 19 Jan 2021 09:01:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  国际能源署（IEA）下调石油需求预期，因为新的封锁措施将损害经济复苏。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8342977.d.html</link>
+            <guid>1980867</guid>
+            <pubDate>Tue, 19 Jan 2021 09:01:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[电魂网络：预计2020年净利润与上年同期相比将增加1.4亿-2亿元，同比增长61.37%-87.67%。报告期内，公司进一步优化了运营方案；同时《梦三国》端游在wegame平台上线，使《梦三国》端游充值收入同比有所增加。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8341256.d.html</link>
@@ -38,473 +530,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9322214.d.html</link>
             <guid>1980859</guid>
             <pubDate>Tue, 19 Jan 2021 08:53:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  两连板澳洋健康：目前粘胶短纤市场价格报价在13000元/吨以上，较2020年末价格有较大幅度增长。粘胶短纤行业经历三年不景气周期后，市场对目前及后续价格上涨较为乐观。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8339505.d.html</link>
-            <guid>1980857</guid>
-            <pubDate>Tue, 19 Jan 2021 08:52:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国银行调查：83%的受访投资者预计美债收益率曲线将变得更陡峭，高于2008年、2013年削债恐慌和2016年大选时的水平。]]></title>
-            <guid>1980856</guid>
-            <pubDate>Tue, 19 Jan 2021 08:51:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  决议草案显示，德国政府提议由于封锁延长，应改善对公司的援助。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8338980.d.html</link>
-            <guid>1980855</guid>
-            <pubDate>Tue, 19 Jan 2021 08:50:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【洁美科技：近期原材料持续走高公司会适当提价】洁美科技接受机构调研时表示，近期原材料涨幅较大，对公司毛利率会产生一定影响，原材料持续走高公司会适当提价。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8338577.d.html</link>
-            <guid>1980854</guid>
-            <pubDate>Tue, 19 Jan 2021 08:49:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  震安科技：预计2020年净利润为1.55亿-1.72亿元，同比增长70%-90%。报告期内公司承接项目金额大幅增长，营业收入较上年同期增长，相应净利润较上年同期增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9320778.d.html</link>
-            <guid>1980853</guid>
-            <pubDate>Tue, 19 Jan 2021 08:49:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  WTI原油期货涨超1%，现报52.60美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8338433.d.html</link>
-            <guid>1980852</guid>
-            <pubDate>Tue, 19 Jan 2021 08:49:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  博天环境：自前次逾期公告披露后，公司新增逾期债务本金及租金合计金额为1.34亿元，累计逾期债务本金及租金合计金额为12.4亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9320296.d.html</link>
-            <guid>1980851</guid>
-            <pubDate>Tue, 19 Jan 2021 08:47:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[决议草案显示，德国政府提议在公共交通工具和商店内强制要求佩戴医用口罩。德国政府建议学校关闭到2月15日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9319984.d.html</link>
-            <guid>1980848</guid>
-            <pubDate>Tue, 19 Jan 2021 08:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【2020年12月前十家汽车生产企业销量排名：上汽、东风、一汽位列前三】据中国汽车工业协会统计分析，2020年12月，汽车销量排名前十位的企业依次是：上汽、东风、一汽、广汽、长安、北汽、吉利、长城、奇瑞和华晨。与上月相比，一汽销量下降较明显，广汽、长安、北汽和华晨降幅略低，其他五家企业均呈增长，其中汽、东风和奇瑞增速更快。12月，上述十家企业共销售252.99万辆，占汽车销售总量的89.36%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9319674.d.html</link>
-            <guid>1980847</guid>
-            <pubDate>Tue, 19 Jan 2021 08:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  TCL科技今日跌停，深股通卖出11.3亿元并买入5.83亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9319086.d.html</link>
-            <guid>1980846</guid>
-            <pubDate>Tue, 19 Jan 2021 08:44:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【耶伦听证会来袭 警惕黄金暴动】前美联储主席耶伦将于今晚23:00出席财长提名听证会，市场消息称，耶伦将明确美国不会寻求弱势美元，且是时候在较低的利率环境之下为复苏采取“重大”行动；市场聚焦耶伦在美元汇率及经济刺激方面的措辞，或引发黄金暴动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8336707.d.html</link>
-            <guid>1980845</guid>
-            <pubDate>Tue, 19 Jan 2021 08:44:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国开行2020年支持长江大保护及绿色发展投放贷款4888亿元】2020年，国开行发挥开发性金融作用，全年向长江大保护及绿色发展领域发放贷款4888亿元，同比增长27%。国开行表示，下一步，将强化银政企合作，发挥中长期投融资优势，继续加大对长江经济带重点领域、重点项目支持力度，为服务长江经济带高质量发展作出新的贡献。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8336511.d.html</link>
-            <guid>1980844</guid>
-            <pubDate>Tue, 19 Jan 2021 08:43:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  决议草案显示，德国将延长封锁措施至2月15日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8336346.d.html</link>
-            <guid>1980843</guid>
-            <pubDate>Tue, 19 Jan 2021 08:43:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国香港将从1月23日起禁止巴西和爱尔兰的旅客入境。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9317591.d.html</link>
-            <guid>1980842</guid>
-            <pubDate>Tue, 19 Jan 2021 08:40:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苏奥传感：2020年净利润同比预增45%-75%】苏奥传感1月19日晚间发布业绩预告，公司2020年度预盈9806.02万-1.18亿元，同比增长45%-75%。报告期内，公司销售稳定增长，管理费用减少；非经常性损益对净利润的影响约为1660万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9316147.d.html</link>
-            <guid>1980839</guid>
-            <pubDate>Tue, 19 Jan 2021 08:36:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据日本放送协会NHK：日本神奈川县新增737例新冠肺炎确诊病例，新增8例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8333511.d.html</link>
-            <guid>1980838</guid>
-            <pubDate>Tue, 19 Jan 2021 08:35:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国内首款特定场景无人驾驶汽车威马W6下线】今天，在威马汽车湖北黄冈基地举办的新车量产下线仪式上，国内首款具备特定场景下云端智能无人驾驶能力的威马W6亮相。威马W6由威马汽车与百度Apollo联手打造，在“2020百度Apollo生态大会”首次亮相，将于今年上海车展正式交付。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9315692.d.html</link>
-            <guid>1980837</guid>
-            <pubDate>Tue, 19 Jan 2021 08:35:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  天铁股份：近日收到苏州中车建设工程有限公司发来的《重点建设项目中标通知书》，该通知确认公司为台州市域铁路S1线一期工程轨道橡胶减振垫采购项目的中标单位，中标金额为5103.6万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8333242.d.html</link>
-            <guid>1980836</guid>
-            <pubDate>Tue, 19 Jan 2021 08:34:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【广州港：控股股东10%的股权划转充实社保基金】广州港公告，公司广州市国资委将其持有的公司控股股东广州港集团10%的股权无偿划转给广东省财政厅以充实社保基金。本次国有股权划转不会导致公司的控股股东或实际控制人发生变化。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9315413.d.html</link>
-            <guid>1980835</guid>
-            <pubDate>Tue, 19 Jan 2021 08:34:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  宏昌电子：预计2020年净利润与上年同期相比将增加5114万元-7354万元，同比增长32%-45%左右。报告期因电子终端产品需求增加，及风力叶片装机量增加，两大需求带动环氧树脂市场需求及价格提升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8332796.d.html</link>
-            <guid>1980834</guid>
-            <pubDate>Tue, 19 Jan 2021 08:33:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【ST远程：涉嫌背信损害上市公司利益罪 原实际控制人被批准逮捕】ST远程公告，公司就公司原董事长夏建军、原实际控制人夏建统涉嫌背信损害上市公司利益罪向无锡公安机关报案。近日，公司自无锡公安机关获悉，公司原实际控制人夏建统已因涉嫌背信损害上市公司利益罪被批准逮捕。目前，公司日常经营运作正常，公司原实际控制人夏建统被批准逮捕事项不会影响公司正常生产经营活动的开展。公司管理层将按照既定的发展战略，持续推进各项生产经营活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8332312.d.html</link>
-            <guid>1980833</guid>
-            <pubDate>Tue, 19 Jan 2021 08:32:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  香港特区政府表示，劳动力市场在短期内仍将面临巨大压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9314570.d.html</link>
-            <guid>1980832</guid>
-            <pubDate>Tue, 19 Jan 2021 08:31:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国香港12月三个月失业率公布6.6%，前值6.3%，预期 6.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9314529.d.html</link>
-            <guid>1980831</guid>
-            <pubDate>Tue, 19 Jan 2021 08:31:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  在岸人民币兑美元1月19日16:30收盘报6.4872，较上一交易日上涨58点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8332141.d.html</link>
-            <guid>1980830</guid>
-            <pubDate>Tue, 19 Jan 2021 08:31:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  北京市委宣传部副部长徐和建表示，对严格境外进京人员防控管理措施进行调整，分类实施14+7+7健康管理。北京口岸入境人员在14天隔离期满后，继续开展7天居家隔离，期满后再进行7天健康监测。（北京青年报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8331634.d.html</link>
-            <guid>1980829</guid>
-            <pubDate>Tue, 19 Jan 2021 08:30:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  易德龙：持股20.82%的股东王明拟减持不超过2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9313446.d.html</link>
-            <guid>1980827</guid>
-            <pubDate>Tue, 19 Jan 2021 08:29:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【西安1月25日起停止任何形式线下教育教学及培训活动】今天（19日）西安市教育局发布通知，西安市校外培训机构从2021年1月25日起，停止任何形式的线下教育教学及培训活动。西安市中高考补习机构放假时间为2月4日前。西安市校外培训机构（含中高考补习机构）恢复线下教育教学活动的时间与全市中小学、幼儿园春季开学时间同步（2月27日—28日报到，3月1日正式复课）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9312808.d.html</link>
-            <guid>1980826</guid>
-            <pubDate>Tue, 19 Jan 2021 08:27:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  南极电商：截至2021年1月19日，公司累计回购5404万股，成交金额5.26亿元。公司此前拟以5亿-7亿元回购股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8330164.d.html</link>
-            <guid>1980825</guid>
-            <pubDate>Tue, 19 Jan 2021 08:26:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【外交部：各方尽快落实伊核外长会共识 不应设置任何其他条件】在今天（19日）的外交部例行记者会上，有记者提问：据报道，拜登团队成员正与伊朗就美重返伊核协议进行谈判，以色列希望协议纳入新附加条件，中方对此有何评论？中国外交部发言人华春莹表示，当前伊核问题正处于关键的节点，当务之急是各方加紧落实去年12月伊核外长会达成的共识，推动美方尽快无条件重返全面协议，并且恢复遵约，取消所有相关的制裁。伊朗则在此基础上恢复完整的履约，各方不应该为此设置任何其他条件，中方希望有关各方与国际社会一道为推动全面协议重回正轨，推动伊核问题政治解决进程发挥建设性作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8329295.d.html</link>
-            <guid>1980824</guid>
-            <pubDate>Tue, 19 Jan 2021 08:24:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东易日盛：2020年净利同比预增158%-172%】东易日盛1月19日晚间发布业绩预告，预计2020年净利润为1.45亿元至1.8亿元，同比增长158%-172%。去年第三、四季度。公司大力推动工程进度及收入结转；同时加大成本管控力度，主营业务整体毛利率有所上升。公司预计报告期计提的商誉减值准备金额为2500万元至4000万元。上年度计提商誉减值准备金额2.32亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9311103.d.html</link>
-            <guid>1980822</guid>
-            <pubDate>Tue, 19 Jan 2021 08:22:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【南下资金净买入港股263.35亿港元 再次刷新记录】南下资金今日净买入港股263.35亿港元，再次刷新港股通开通以来单日净买入记录。截至1月19日，南下资金已连续20个交易日净买入，连续12个交易日净买入额超百亿港元，且连续第二日净买入额超200亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8326944.d.html</link>
-            <guid>1980820</guid>
-            <pubDate>Tue, 19 Jan 2021 08:17:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  起亚可能会在佐治亚州的工厂生产苹果汽车。（EDAILY）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8326755.d.html</link>
-            <guid>1980819</guid>
-            <pubDate>Tue, 19 Jan 2021 08:17:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据德国《图片报》：德国总理默克尔希望将封锁延长至2月15日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9309128.d.html</link>
-            <guid>1980818</guid>
-            <pubDate>Tue, 19 Jan 2021 08:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  福能东方：持股5.5747%的股东雷万春拟减持不超过0.58%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9308657.d.html</link>
-            <guid>1980817</guid>
-            <pubDate>Tue, 19 Jan 2021 08:15:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  新加坡新增4例本地新冠肺炎确诊病例，新增26例输入性确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9308446.d.html</link>
-            <guid>1980815</guid>
-            <pubDate>Tue, 19 Jan 2021 08:14:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【报告：2020年全国房价收入比小升至9.2】易居房地产研究院发布的报告显示，2020年，全国商品住宅房价收入比为9.2，相比2019年的8.7小幅上升。易居研究院副院长杨红旭表示，2020年房价收入比创新高，预计2021年小幅回落，但仍将处于较高水平。房价收入比是国际通用的衡量房价是否存在泡沫风险的指标之一。报告认为，中国家庭收入普遍存在少估现象，若房价收入比高于7.5属于偏高区域。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8325934.d.html</link>
-            <guid>1980814</guid>
-            <pubDate>Tue, 19 Jan 2021 08:14:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  东易日盛：预计2020年净利润为1.45亿-1.8亿元，上年同期亏损2.49亿元，上年度公司计提商誉减值准备金额为2.3亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8325698.d.html</link>
-            <guid>1980813</guid>
-            <pubDate>Tue, 19 Jan 2021 08:14:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  北京市委宣传部副部长徐和建：春节临近，境外回国人员增多，境内人员流动性大，聚集性活动特别是室内活动多，建议广大市民春节期间“少摆席”，避免人员聚集，做好个人防护。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8325474.d.html</link>
-            <guid>1980812</guid>
-            <pubDate>Tue, 19 Jan 2021 08:13:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【报道称拜登上台后将重返巴黎气候协定，外交部：欢迎且期待】外交部发言人华春莹表示，气候变化问题是全球性挑战，需要国际社会合力来应对，中方鼓励一切有利于应对气候变化国际合作的努力。我们将继续与国际社会一道，积极落实气候变化巴黎协定，为全球应对气候变化作出更大贡献。中方欢迎并且期待美国新政府重返巴黎协定，为全球气候治理作出积极贡献。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9307834.d.html</link>
-            <guid>1980810</guid>
-            <pubDate>Tue, 19 Jan 2021 08:12:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  ST舍得：董事会于2021年1月19日收到公司董事徐超先生的书面辞职报告。因个人原因，徐超先生申请辞去公司董事职务，辞职后不再担任公司任何职务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8325145.d.html</link>
-            <guid>1980809</guid>
-            <pubDate>Tue, 19 Jan 2021 08:12:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据西班牙《世界报》：西班牙的工会和商业游说团体批准延长休假。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9307369.d.html</link>
-            <guid>1980808</guid>
-            <pubDate>Tue, 19 Jan 2021 08:11:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯新增21734例新冠肺炎确诊病例，累计361万例，新增586例死亡病例，累计达66623例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9307093.d.html</link>
-            <guid>1980805</guid>
-            <pubDate>Tue, 19 Jan 2021 08:10:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【安控科技：公司及子公司新增被列入失信被执行人名单】安控科技公告，公司于近日收到宁波市江北区人民法院出具的《失信决定书》，获悉公司及子公司宁波市东望智能系统工程有限公司新增被列入失信被执行人名单。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8324306.d.html</link>
-            <guid>1980802</guid>
-            <pubDate>Tue, 19 Jan 2021 08:10:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧普康视：2020年净利同比预增30%-50%】欧普康视1月19日晚间发布业绩预告，预计2020年实现净利3.99亿元至4.6亿元，同比增长30%-50%。报告期利润增长主要是销量增加、营销服务终端收入增加、企业所得税当期抵扣金额增加等因素所致。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9306618.d.html</link>
-            <guid>1980801</guid>
-            <pubDate>Tue, 19 Jan 2021 08:09:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  港股收盘，恒指收涨2.7%，科技股领涨大市，房地产、券商、医药等板块多点开花。南向资金净流入再创港股通开通以来新高，港股成交额创2015年以来高位。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9306455.d.html</link>
-            <guid>1980799</guid>
-            <pubDate>Tue, 19 Jan 2021 08:09:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【神马电力：非公开发行A股股票获审核通过】神马电力公告，非公开发行A股股票获得证监会发审委审核通过。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9306372.d.html</link>
-            <guid>1980798</guid>
-            <pubDate>Tue, 19 Jan 2021 08:09:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据日本富士新闻网：日本大阪新增525例新冠肺炎确诊病例，新增13例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8323748.d.html</link>
-            <guid>1980797</guid>
-            <pubDate>Tue, 19 Jan 2021 08:08:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国央行发布2020年第四季度城镇储户问卷调查报告：本季收入感受指数为50.6%，比上季上升1.3个百分点。其中，15.3%的居民认为收入“增加”，比上季下降0.5个百分点；70.8%的居民认为收入“基本不变”，比上季上升3.6个百分点；14.0%的居民认为收入“减少”，比上季下降3.1个百分点。收入信心指数为51.2%，比上季上升2.0个百分点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9306036.d.html</link>
-            <guid>1980796</guid>
-            <pubDate>Tue, 19 Jan 2021 08:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  菲律宾新增1357例新冠肺炎确诊病例，累计达504084例，死亡病例累计达9978例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8323509.d.html</link>
-            <guid>1980795</guid>
-            <pubDate>Tue, 19 Jan 2021 08:08:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国央行发布2020年第四季度企业家问卷调查报告：企业家宏观经济热度指数为34.4%，比上季提高6.7个百分点，比去年同期提高2.6个百分点。其中，33.3%的企业家认为宏观经济“偏冷”，64.6%认为“正常”，2.1%认为“偏热”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8323417.d.html</link>
-            <guid>1980794</guid>
-            <pubDate>Tue, 19 Jan 2021 08:08:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美元指数DXY短线下挫10点，现报90.56。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8323277.d.html</link>
-            <guid>1980793</guid>
-            <pubDate>Tue, 19 Jan 2021 08:07:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  普利制药：特利加压素注射液通过荷兰药物评价委员会（CBG）技术审评。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8322863.d.html</link>
-            <guid>1980791</guid>
-            <pubDate>Tue, 19 Jan 2021 08:06:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货黄金短线上扬6美元，现报1842.73美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9305308.d.html</link>
-            <guid>1980790</guid>
-            <pubDate>Tue, 19 Jan 2021 08:06:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  吉利控股集团：1月19日，吉利汽车集团与腾讯在杭州签署战略合作协议，围绕智能座舱、自动驾驶、数字化营销、数字化底座、数字化新业务及低碳发展等领域展开全方位战略合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8322345.d.html</link>
-            <guid>1980788</guid>
-            <pubDate>Tue, 19 Jan 2021 08:04:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国央行发布2020年第四季度银行家问卷调查报告：银行家宏观经济热度指数为33.6%，比上季上升8.0个百分点。其中，有62.6%的银行家认为当前宏观经济“正常”，比上季增加15.1个百分点；有35.1%的银行家认为“偏冷”，比上季减少15.5个百分点。对下季度，银行家宏观经济热度预期指数为40.8%，高于本季7.2个百分点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8322134.d.html</link>
-            <guid>1980787</guid>
-            <pubDate>Tue, 19 Jan 2021 08:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  南向资金净流入达260亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8321975.d.html</link>
-            <guid>1980786</guid>
-            <pubDate>Tue, 19 Jan 2021 08:03:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  攀钢钒钛：预计2020年净利润为2亿-2.4亿元，同比下降83.09%-85.91%。报告期内钒产品的市场价格同比大幅下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9303107.d.html</link>
-            <guid>1980784</guid>
-            <pubDate>Tue, 19 Jan 2021 08:00:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  旺能环境：公司大股东美欣达集团、实际控制人单建明先生及其一致行动人鲍凤娇女士于1月18日-1月19日通过深圳证券交易所系统出售其所持有的“旺能转债”合计335万张，占本次发行总量的23.93%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8320154.d.html</link>
-            <guid>1980782</guid>
-            <pubDate>Tue, 19 Jan 2021 07:58:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[香港股市成交量升至360亿美元，创2015年以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9301255.d.html</link>
-            <guid>1980780</guid>
-            <pubDate>Tue, 19 Jan 2021 07:54:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[天际股份公告，合计持股17.57%的股东新华化工和新昊投资拟合计减持不超过5.98%的公司股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8318398.d.html</link>
-            <guid>1980779</guid>
-            <pubDate>Tue, 19 Jan 2021 07:53:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美候任总统拜登团队正就重返伊核协议与伊朗谈判，外交部回应】外交部发言人华春莹表示，当前伊核问题正处于关键的节点，当务之急是各方加紧落实去年12月伊核外长会达成的共识，推动美方尽快无条件重返全面协议，并且恢复遵约，取消所有相关的制裁。伊朗则在此基础上恢复完整的履约，各方不应该为此设置任何其他条件，中方希望有关的各方与国际社会一道，为推动全面协议重回正轨，推动伊核问题政治解决进程发挥建设性的作用。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8318094.d.html</link>
-            <guid>1980778</guid>
-            <pubDate>Tue, 19 Jan 2021 07:52:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据36氪，针对“抖音支付正式上线”的消息，抖音相关负责人回应称，抖音支付作为目前若干主要支付方式的补充，更好的服务抖音用户。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9300151.d.html</link>
-            <guid>1980777</guid>
-            <pubDate>Tue, 19 Jan 2021 07:51:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南向资金净流入达250亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9299347.d.html</link>
-            <guid>1980775</guid>
-            <pubDate>Tue, 19 Jan 2021 07:49:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【先进数通业绩预告：2020年度净利润同比增长83%-112%】先进数通公告，预计2020年净利润为1.3亿-1.5亿元，同比增长83.44%-111.66%。业绩预告期间内，公司IT基础设施建设、软件解决方案、IT运维服务三项业务收入均实现增长，其中来自互联网行业的IT基础设施建设业务收入较上年同期大幅增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9299318.d.html</link>
-            <guid>1980774</guid>
-            <pubDate>Tue, 19 Jan 2021 07:49:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯石油运输公司：俄罗斯新罗西斯克原油装载恢复，按计划进行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9298813.d.html</link>
-            <guid>1980772</guid>
-            <pubDate>Tue, 19 Jan 2021 07:48:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[明星电力发布业绩快报，2020年全年实现净利润7002.19万元，同比下降29.76%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8316153.d.html</link>
-            <guid>1980771</guid>
-            <pubDate>Tue, 19 Jan 2021 07:47:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据阿富汗电视台1TV News援引安全力量消息人士报道，夜间激进组织塔利班武装分子对昆都士省军事哨所进行一系列袭击，造成25名安全部门人员死亡。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8315865.d.html</link>
-            <guid>1980769</guid>
-            <pubDate>Tue, 19 Jan 2021 07:47:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天能重工业绩预告：2020年度净利润同比增长55%-65%】天能重工公告，预计2020年净利润为4.18亿-4.45亿元，同比增长55%-65%。报告期内，公司抓住国内风电行业高景气度机遇，持续发挥技术、质量、品牌优势，优化各项成本控制，风机塔架及风电相关设备的交货量显著增长，经营业绩实现良好增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9298317.d.html</link>
-            <guid>1980768</guid>
-            <pubDate>Tue, 19 Jan 2021 07:46:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中谷物流：签订不超45亿元集装箱船舶建造合同】中谷物流公告，公司为进一步优化公司船队结构，拓展船队规模，积极打造经济性高、竞争力强的集装箱运输船队，不断提升企业竞争力，公司拟与国内一流船厂签订不超过12艘4600TEU国内沿海集装箱船舶建造合同，并且与相关船厂保留不超过6艘同型船舶订单选择权，船舶订单选择权由公司按照实际情况酌情决定是否行使。上述所有集装箱船舶含税总价不超过人民币45亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8315596.d.html</link>
-            <guid>1980767</guid>
-            <pubDate>Tue, 19 Jan 2021 07:46:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[河北省疾控中心专家：尽管目前新增病例已呈明显下降趋势，但鉴于传染病发展规律和新冠潜伏期长等特征，未来几天仍会有续发病例出现可能。当前仍处于严防死守关键时期，期待拐点早点出现 。（河北日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9297560.d.html</link>
-            <guid>1980765</guid>
-            <pubDate>Tue, 19 Jan 2021 07:44:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普签令评估中国无人机对美政府机构“安全风险”，华春莹回应】中国外交部发言人华春莹表示，中方的立场是非常清楚的：中方坚决反对美方泛化“国家安全”概念，抹黑和打压中国特定企业的霸凌行径。将科技政治化的做法，只会损害美国自身的利益、形象和信誉。我们敦促美方恪守公平竞争市场原则，停止对非美国企业的无理指责和打压，为中国企业提供公平公正和非歧视的营商环境。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9297403.d.html</link>
-            <guid>1980764</guid>
-            <pubDate>Tue, 19 Jan 2021 07:44:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【音乐版权纠纷，阿里起诉腾讯获赔43万元】阿里文化起诉腾讯侵害作品信息网络传播权纠纷一审民事判决书公布。原告阿里文化诉腾讯相关公司通过分开合作的方式擅自向用户提供《五月天第一张创作专辑》等10张音乐专辑的网络传播服务。经法院审理判定，阿里文化获赔经济损失及制止侵权的合理开支合计人民币43.2万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9297338.d.html</link>
-            <guid>1980763</guid>
-            <pubDate>Tue, 19 Jan 2021 07:44:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[葫芦娃：公司获长春西汀注射液药品注册证书。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8314222.d.html</link>
-            <guid>1980762</guid>
-            <pubDate>Tue, 19 Jan 2021 07:42:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧普康视：预计2020年净利润为3.99亿-4.6亿元，同比增长30%-50%。本报告期利润增长主要是销量增加、营销服务终端收入增加、企业所得税当期抵扣金额增加等因素所致。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8314158.d.html</link>
-            <guid>1980761</guid>
-            <pubDate>Tue, 19 Jan 2021 07:42:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南向资金净流入达240亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9296410.d.html</link>
-            <guid>1980759</guid>
-            <pubDate>Tue, 19 Jan 2021 07:41:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新世界业绩预告：2020年度净利润同比增长66%-116%】新世界公告，预计2020年净利润与上年同期相比将增加2437万元到4237万元，同比增加66%到116%。公司本年营业收入及利润均高于2019年。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftssan8313106.d.html</link>
-            <guid>1980757</guid>
-            <pubDate>Tue, 19 Jan 2021 07:40:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西部创业：预计2020年净利润为1.68亿元，同比增长274.55%。公司铁路运量较2019年度增加，运输收入和代维代管收入同比增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9295424.d.html</link>
-            <guid>1980756</guid>
-            <pubDate>Tue, 19 Jan 2021 07:39:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海贝岭业绩预告：2020年度净利润同比增长116%-124%】上海贝岭公告，预计2020年净利润为5.2亿-5.4亿元，同比增长116%-124%。报告期内，公司完成对南京微盟电子有限公司的并购，该项并购属于同一控制下的企业合并，涉及对上年同期财务报表进行重述。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-19/detail-ikftpnnx9294843.d.html</link>
-            <guid>1980755</guid>
-            <pubDate>Tue, 19 Jan 2021 07:37:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
