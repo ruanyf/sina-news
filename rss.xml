@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 23 Jan 2021 19:56:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2021 20:47:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  英国首相约翰逊：已经与美国总统拜登进行过沟通。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1113190.d.html</link>
+            <guid>1988931</guid>
+            <pubDate>Sat, 23 Jan 2021 20:47:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国得克萨斯州检察长因冻结驱逐出境令起诉拜登政府 】据《国会山报》消息，得克萨斯州检察长肯·帕克斯顿日前对拜登政府提起诉讼，认为拜登政府要求冻结驱逐非法移民的决定违反了移民法。帕克斯顿表示，“拜登政府的这项举措危害了得克萨斯州以致整个美国。”根据报道，拜登政府在上任后签署行政令，要求国土安全部在接下来的100天之内冻结非法移民驱逐行动。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0127628.d.html</link>
+            <guid>1988930</guid>
+            <pubDate>Sat, 23 Jan 2021 20:40:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【欧央行释放信号 数字欧元“好事将近”？】欧洲中央银行本周透露，最早或于今年4月决定是否继续推进数字欧元的筹备工作。这也是继去年发布数字欧元报告后，欧洲央行再次对数字化货币的推进表态。针对部分金融人士认为欧元数字化将最终取代硬通货的观点，欧洲央行行长拉加德曾多次在公开讲话中反复强调，数字欧元将是现金纸币的重要补充，不意味着数字欧元将取代纸币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0123220.d.html</link>
+            <guid>1988908</guid>
+            <pubDate>Sat, 23 Jan 2021 20:17:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间1月23日，索马里首都摩加迪沙发生地雷炸弹袭击，袭击造成至少5人死亡，炸弹袭击了前索马里议员穆赫丁·哈桑·阿夫拉的车辆，他在爆炸中受伤，并被送往附近的医院接受治疗。就在上个月，阿夫拉刚刚经历汽车爆炸袭击并幸存。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0120600.d.html</link>
+            <guid>1988894</guid>
+            <pubDate>Sat, 23 Jan 2021 20:04:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  中国地震台网自动测定：01月24日03时38分在黑龙江黑河市嫩江市附近发生3.1级左右地震，最终结果以正式速报为准。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0116381.d.html</link>
@@ -390,23 +414,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0956134.d.html</link>
             <guid>1988081</guid>
             <pubDate>Sat, 23 Jan 2021 08:18:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  当地时间周六上午，沙特首都利雅得市中心传出巨大爆炸声，空中弥漫着白烟。目前爆炸原因尚不明确，沙特政府尚未立即对此进行回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9971244.d.html</link>
-            <guid>1988079</guid>
-            <pubDate>Sat, 23 Jan 2021 08:15:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  截至1月23日12时，邢台新增确诊病例5例，均在南宫市。（河北日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9969318.d.html</link>
-            <guid>1988076</guid>
-            <pubDate>Sat, 23 Jan 2021 08:08:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯新增20921例新冠肺炎确诊病例，累计3698273例；新增559例死亡病例，累计68971例。]]></title>
-            <guid>1988075</guid>
-            <pubDate>Sat, 23 Jan 2021 08:08:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
