@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 23 Jan 2021 17:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2021 18:59:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【意大利新增新冠肺炎确诊病例13331例 累计确诊2455185例】根据意大利卫生部当地时间1月23日公布的最新数据，过去24小时意大利新增新冠肺炎确诊病例13331例，累计确诊2455185例；新增死亡488例，累计死亡85162例；新增治愈16062例，累计治愈1871189例。现存确诊病例498834例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0105525.d.html</link>
+            <guid>1988817</guid>
+            <pubDate>Sat, 23 Jan 2021 18:43:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【土耳其新增5856例新冠肺炎确诊病例 累计确诊2424328例】当地时间1月23日晚，土耳其卫生部网站更新的数据显示，当天进行了152758次新冠病毒检测，其中5856人检测结果呈阳性，至此，土耳其新冠肺炎累计确诊2424328例。当天新增144例死亡病例，累计死亡24933例。当天治愈5811例，累计治愈2301861例。土耳其总计进行了28348659次检测，目前重症患者1962例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0097981.d.html</link>
+            <guid>1988794</guid>
+            <pubDate>Sat, 23 Jan 2021 18:07:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京市顺义区已有15处重点地区解封】截至1月23日，北京市顺义区已有15个重点地区（村、社区、工业区等）解封，包括南法信东海洪村、仁和镇河南村、高丽营镇东马各庄村等，目前还有4个地区尚未解封。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0093785.d.html</link>
+            <guid>1988771</guid>
+            <pubDate>Sat, 23 Jan 2021 17:46:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：01月24日00时58分在巴布亚新几内亚发生5.4级地震，震源深度30千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0089913.d.html</link>
+            <guid>1988762</guid>
+            <pubDate>Sat, 23 Jan 2021 17:26:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【陈肇始：封区有可能提前结束】香港特区政府定下48小时的封区计划，香港食物及卫生局局长陈肇始接受本报采访的时候表示，有可能提前完成，她又坦承，在平衡通知和防止区内居民离开方面，会研究怎么做得更好。（香港商报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1073950.d.html</link>
+            <guid>1988761</guid>
+            <pubDate>Sat, 23 Jan 2021 17:25:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  意大利总理孔特：将采取一切可行的法律工具来确保合约得以履行。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0079286.d.html</link>
@@ -377,30 +407,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9965699.d.html</link>
             <guid>1988066</guid>
             <pubDate>Sat, 23 Jan 2021 07:54:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  河北加强返乡人员管理：高风险地区人员不进不出，低风险地区人员需持核酸检测阴性证明。（河北日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0947278.d.html</link>
-            <guid>1988065</guid>
-            <pubDate>Sat, 23 Jan 2021 07:47:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  河北分区分级防控，石家庄市继续严格管控，晋州市等低风险区有序恢复正常生产生活。（河北日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9959382.d.html</link>
-            <guid>1988061</guid>
-            <pubDate>Sat, 23 Jan 2021 07:34:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【石家庄新一轮全员核酸检测累计检出阳性样本32例】1月20日至22日，石家庄市进行了新一轮全员核酸检测，共采集样本约1025万人，均已检测完毕，累计检出阳性样本32例。从地区分布来看，藁城区23例，长安区3例，新乐市2例，平山县2例，高新区1例，桥西区1例。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9958559.d.html</link>
-            <guid>1988060</guid>
-            <pubDate>Sat, 23 Jan 2021 07:32:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据日本共同社：日本新冠肺炎死亡病例累计超5000例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0941019.d.html</link>
-            <guid>1988058</guid>
-            <pubDate>Sat, 23 Jan 2021 07:26:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
