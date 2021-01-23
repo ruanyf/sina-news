@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 23 Jan 2021 20:47:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2021 21:38:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【尼日利亚发生油罐车爆炸事故致4死11伤】尼日利亚三角洲州22日晚发生一起油罐车爆炸事故，造成4人死亡、11人受重伤。爆炸还造成周围多间房屋和多辆汽车损坏。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1122203.d.html</link>
+            <guid>1988987</guid>
+            <pubDate>Sat, 23 Jan 2021 21:37:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  伊朗外长扎里夫：伊朗方面可以与美国就波斯湾安全问题开展合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0133244.d.html</link>
+            <guid>1988956</guid>
+            <pubDate>Sat, 23 Jan 2021 21:10:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：英国首相约翰逊与美国总统拜登讨论了可能达成自由贸易协议的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0132238.d.html</link>
+            <guid>1988947</guid>
+            <pubDate>Sat, 23 Jan 2021 21:04:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国首相约翰逊：期待深化英美两国之间的关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0130120.d.html</link>
+            <guid>1988935</guid>
+            <pubDate>Sat, 23 Jan 2021 20:54:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国洛杉矶一座教堂凌晨发生爆炸事件 现场无人员伤亡】当地时间1月23日凌晨，位于洛杉矶县艾尔蒙地市的一座教堂发生爆炸事件，现场没有人受伤，警方表示这是一起蓄意破坏事件。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0129637.d.html</link>
+            <guid>1988932</guid>
+            <pubDate>Sat, 23 Jan 2021 20:51:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  英国首相约翰逊：已经与美国总统拜登进行过沟通。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1113190.d.html</link>
@@ -390,30 +420,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0958932.d.html</link>
             <guid>1988087</guid>
             <pubDate>Sat, 23 Jan 2021 08:28:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  北京疾控中心：在检测结果未出之前，自觉做到不扎堆、不聚集、不串门、不出京。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9974782.d.html</link>
-            <guid>1988085</guid>
-            <pubDate>Sat, 23 Jan 2021 08:28:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  印尼新增211例新冠肺炎死亡病例，累27664例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0957649.d.html</link>
-            <guid>1988084</guid>
-            <pubDate>Sat, 23 Jan 2021 08:23:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  印尼新增12191例新冠肺炎确诊病例，累计977474例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9973557.d.html</link>
-            <guid>1988083</guid>
-            <pubDate>Sat, 23 Jan 2021 08:23:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  北京新增3例本地确诊病例，其中2人第一次核酸检测为阴性。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0956134.d.html</link>
-            <guid>1988081</guid>
-            <pubDate>Sat, 23 Jan 2021 08:18:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
