@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 23 Jan 2021 21:38:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2021 22:47:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[伊拉克警方于当地时间1月23日称，极端组织“伊斯兰国”武装分子当天在伊北部萨拉赫丁省发动袭击，造成5人死亡、4人受伤。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0150186.d.html</link>
+            <guid>1989001</guid>
+            <pubDate>Sat, 23 Jan 2021 22:46:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国累计新冠肺炎确诊病例逼近2500万例】据美国约翰斯·霍普金斯大学截至美东时间23日下午15时21分的数据，美国累计新冠肺炎确诊病例已达24934941例，逼近2500万例。死亡人数升至416289人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1127469.d.html</link>
+            <guid>1989000</guid>
+            <pubDate>Sat, 23 Jan 2021 22:09:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【尼日利亚发生油罐车爆炸事故致4死11伤】尼日利亚三角洲州22日晚发生一起油罐车爆炸事故，造成4人死亡、11人受重伤。爆炸还造成周围多间房屋和多辆汽车损坏。（新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1122203.d.html</link>
@@ -408,18 +420,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9983316.d.html</link>
             <guid>1988092</guid>
             <pubDate>Sat, 23 Jan 2021 08:58:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  北京3例本土病例轨迹公布：1人曾乘机抵达大兴机场。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0959919.d.html</link>
-            <guid>1988089</guid>
-            <pubDate>Sat, 23 Jan 2021 08:32:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：沙特拦截了在首都利雅得上空的弹道导弹，据悉导弹是从也门发射的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0958932.d.html</link>
-            <guid>1988087</guid>
-            <pubDate>Sat, 23 Jan 2021 08:28:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
