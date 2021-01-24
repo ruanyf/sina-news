@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 24 Jan 2021 14:48:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jan 2021 15:42:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美媒爆料：特朗普竞选团队过去两年向“勤王”集会组织者支付超过270万美元】1月6日的那场集会后，前去华盛顿“勤王”的特朗普支持者暴力冲击了美国国会大厦。据彭博社23日消息，根据美国独立政治研究中心“回应政治研究中心”统计，在过去两年间，前总统特朗普的竞选团队向1月6日集会的组织者及公司支付了超过270万美元款项。报道称，而正是这场集会导致“暴徒”席卷了国会山。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1371013.d.html</link>
+            <guid>1989787</guid>
+            <pubDate>Sun, 24 Jan 2021 15:28:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【首都航空：JD5166备降因前货舱烟雾告警，初步检查为假警告】1月24日晚间，首都航空官方披露，当日，首都航空JD5166航班（哈尔滨-广州）19:31起飞，21:00飞机前货舱出现烟雾告警，机组按照程序处置，备降首都机场，21: 20飞机安全落地，初步检查为假警告。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1369572.d.html</link>
+            <guid>1989779</guid>
+            <pubDate>Sun, 24 Jan 2021 15:19:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国地质勘探局：菲律宾东南部地区南苏里高东北方向以东15千米处发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1364884.d.html</link>
+            <guid>1989761</guid>
+            <pubDate>Sun, 24 Jan 2021 14:50:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国疾控中心主管：目标是使得疾控中心重新成为可信的权威机构。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1364318.d.html</link>
@@ -315,30 +333,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0291477.d.html</link>
             <guid>1989603</guid>
             <pubDate>Sun, 24 Jan 2021 07:44:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国共产党第十九届中央纪律检查委员会第五次全体会议公报：深化金融领域反腐败工作，持续惩治国有企业腐败问题，加大对政法系统腐败惩治力度，深入推进反腐败国际合作和国际追逃追赃。深化标本兼治，做实以案促改、以案促治。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1273955.d.html</link>
-            <guid>1989602</guid>
-            <pubDate>Sun, 24 Jan 2021 07:41:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国共产党第十九届中央纪律检查委员会第五次全体会议公报：重点查处政治问题和经济问题交织的腐败案件，聚焦政策支持力度大、投资密集、资源集中的领域和环节，坚决查处基础设施建设、项目审批、国企改革、公共资源交易、科研管理等方面的腐败问题。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1273872.d.html</link>
-            <guid>1989601</guid>
-            <pubDate>Sun, 24 Jan 2021 07:41:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【ST椰岛业绩预告：2020年预盈2000万-2800万元 扭亏为盈】ST椰岛公告，2020年业绩预计盈利2000万元到2800万元，将实现扭亏为盈，上年同期归属于上市公司股东的净利润亏损2.68亿元。本次业绩预盈主要是由于酒类销售收入大幅增加和费用控制卓有成效所致。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1273246.d.html</link>
-            <guid>1989599</guid>
-            <pubDate>Sun, 24 Jan 2021 07:39:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中信证券：港股未来对A股增量资金不会产生明显分流】本轮南下资金大规模流入有明显的个股集中特征，年初以来，前10大成交个股净买入占同期港股通净买入额的占比为83.5%（在2015年3月底到4月中旬，这一指标只有32.9%），其中中移动、中海油和中芯国际三只受美国禁投令影响的个股就占到34.4%，呈现高度理性流入的状态，并未出现过热特征。近两个交易日这三只标的流入明显放缓，整体南下资金流入速度也相应放缓至单日100亿以下。此外，据测算南下资金当中公募基金贡献量不超过50%，当前存量主动型权益基金2021年对于港股的最大增量规模为4816亿元，考虑到南下年初至今净流入规模就已经达到1931亿元，后续流入速度大概率放缓。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0288376.d.html</link>
-            <guid>1989597</guid>
-            <pubDate>Sun, 24 Jan 2021 07:35:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
