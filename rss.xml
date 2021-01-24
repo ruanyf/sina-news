@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 24 Jan 2021 15:42:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jan 2021 17:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国参议院多数党领袖舒默：我们需要规模更大、更大胆的刺激计划，希望共和党人能够加入民主党的计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1388114.d.html</link>
+            <guid>1989832</guid>
+            <pubDate>Sun, 24 Jan 2021 16:56:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞典实施对挪威的入境禁令】瑞典内政部长米凯尔·丹伯格（Mikael Damberg）表示对挪威的入境禁令将于25日0时生效，有效期至2月14日。如果需要，可以延长禁令。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0400567.d.html</link>
+            <guid>1989831</guid>
+            <pubDate>Sun, 24 Jan 2021 16:40:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：以色列航班入境禁令将在当地时间周一22:00起生效。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0389676.d.html</link>
+            <guid>1989814</guid>
+            <pubDate>Sun, 24 Jan 2021 15:44:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美媒爆料：特朗普竞选团队过去两年向“勤王”集会组织者支付超过270万美元】1月6日的那场集会后，前去华盛顿“勤王”的特朗普支持者暴力冲击了美国国会大厦。据彭博社23日消息，根据美国独立政治研究中心“回应政治研究中心”统计，在过去两年间，前总统特朗普的竞选团队向1月6日集会的组织者及公司支付了超过270万美元款项。报道称，而正是这场集会导致“暴徒”席卷了国会山。（环球网）]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1371013.d.html</link>
@@ -304,35 +322,6 @@
             <title><![CDATA[  北京：加强进口进京货物检疫检测做好常态化消杀。（北京日报）]]></title>
             <guid>1989615</guid>
             <pubDate>Sun, 24 Jan 2021 08:11:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  北京：加强进口进京货物检疫检测做好常态化消杀。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0298034.d.html</link>
-            <guid>1989613</guid>
-            <pubDate>Sun, 24 Jan 2021 08:07:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  同兴达：2020年预计实现净利润2.5亿元-3亿元，同比增长126.13% -171.36%；公司与多家全球知名品牌终端商建立了深层次、高粘性的合作关系，同时，公司持续优化产品结构、提升工厂管理效能，盈利能力得到大幅增强。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0297387.d.html</link>
-            <guid>1989611</guid>
-            <pubDate>Sun, 24 Jan 2021 08:05:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  北京：继续以天宫院街道为重点，严格落实全域管控和重点小区封控措施。（北京日报）]]></title>
-            <guid>1989610</guid>
-            <pubDate>Sun, 24 Jan 2021 08:04:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【纪检监察机关将加强对惠民富民领域监督检查】十九届中央纪委五次全会公报部署2021年工作时要求，加强对惠民富民、促进共同富裕政策措施落实情况监督检查，强化对巩固“四个不摘”政策成果的监督，保障同乡村振兴有效衔接，持续纠治教育医疗、养老社保、生态环保、安全生产、食品药品安全、执法司法等领域腐败和作风问题，坚决惩处涉黑涉恶“保护伞”，完善民生领域损害群众利益问题治理机制。（新华视点）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1275149.d.html</link>
-            <guid>1989604</guid>
-            <pubDate>Sun, 24 Jan 2021 07:45:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【宁波韵升业绩预告：2020年净利预增(追溯后)544%到620%】公司预计2020年实现归属于上市公司股东的净利润1.7亿元到1.9亿元，比上年同期(追溯前)增加1.2亿元到1.4亿元，同比增长242.18%到282.44%；比上年同期(追溯后)增加1.4亿元到1.6亿元，同比增长544.08%到619.85%。公司收购了宁波韵升电子元器件技术有限公司60%股权，将其纳入合并报表范围；本事项属于同一控制下合并，因此需相应追溯调整2019年的数据。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0291477.d.html</link>
-            <guid>1989603</guid>
-            <pubDate>Sun, 24 Jan 2021 07:44:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
