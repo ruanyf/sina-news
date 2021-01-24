@@ -29,8 +29,10 @@ const filterArr = [
   '比特币',
   '以太坊',
   '莱特币',
+  '瑞波币',
   '疫苗',
   '疫情',
+  '新冠',
 ];
 
 async function main() {
