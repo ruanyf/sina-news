@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 24 Jan 2021 17:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jan 2021 18:59:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  市场消息：Al-Mubarak将接任沙特央行行长一职。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0423164.d.html</link>
+            <guid>1989842</guid>
+            <pubDate>Sun, 24 Jan 2021 18:40:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：沙特国王下令免除沙特央行行长的职务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1407273.d.html</link>
+            <guid>1989841</guid>
+            <pubDate>Sun, 24 Jan 2021 18:39:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国政府的科学顾问小组负责人Delfraissy教授：若政府不采取宵禁措施，在3月中旬，情况将会变得更加不利。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1405640.d.html</link>
+            <guid>1989840</guid>
+            <pubDate>Sun, 24 Jan 2021 18:30:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  沙特王储本·萨勒曼：预计主权财富基金资产将在2020年超过1.5万亿沙特里亚尔，在2025年超过4万亿沙特里亚尔，在2030年超过7.5万亿沙特里亚尔。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0412063.d.html</link>
+            <guid>1989836</guid>
+            <pubDate>Sun, 24 Jan 2021 17:36:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  以色列外交部：以色列驻阿联酋阿布扎比大使馆已成立。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1391877.d.html</link>
+            <guid>1989834</guid>
+            <pubDate>Sun, 24 Jan 2021 17:14:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国参议院多数党领袖舒默：我们需要规模更大、更大胆的刺激计划，希望共和党人能够加入民主党的计划。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1388114.d.html</link>
@@ -287,41 +317,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0304744.d.html</link>
             <guid>1989625</guid>
             <pubDate>Sun, 24 Jan 2021 08:28:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【二三四五业绩预告：2020年净利预亏8.06亿—9.98亿元 由盈转亏】二三四五公告，归属于上市公司股东的净利润亏损8.06亿元—9.98亿元，上年同期净利润为7.59亿元。受互联网金融服务业务市场环境变化的影响，公司于2019年度对互联网金融服务业务进行了调整，导致2020年度营业收入下滑；2014年收购的二三四五互联网信息业务商誉存在减值迹象，拟计提减值准备11.96亿元-13.48亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0304376.d.html</link>
-            <guid>1989623</guid>
-            <pubDate>Sun, 24 Jan 2021 08:26:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京今天未再通报确诊病例行程轨迹】北京今天未再通报确诊病例行程轨迹，以免引发泄露患者隐私的担忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1287794.d.html</link>
-            <guid>1989622</guid>
-            <pubDate>Sun, 24 Jan 2021 08:25:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  *ST兆新：拟定增不超5.73亿元，用于支付永晟新能源股权收益权回购价款和补充流动资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1287664.d.html</link>
-            <guid>1989621</guid>
-            <pubDate>Sun, 24 Jan 2021 08:25:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【意华股份：2020年度归母净利预增321%–412%】意华股份(002897)1月24日晚间发布业绩预告，预计2020年度归母净利1.85亿元~2.25亿元，同比增长321.23%–412.30%。业绩变动原因说明：公司于 2019 年 11 月收购了乐清意华新能源科技有限公司，报告期内，公司营业收入因此次并购出现大幅增长，致使 2020 年度归属于上市公司股东的净利润与上年同期相比出现较大幅度增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1287646.d.html</link>
-            <guid>1989620</guid>
-            <pubDate>Sun, 24 Jan 2021 08:25:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【深圳能源业绩预告：2020年净利预增117%-147%】深圳能源公告，预计归属于上市公司股东的净利润37亿元–42亿元，比上年同期增长117.49%-146.88%。报告期内确认南油工业小区拆迁补偿款约19.51亿元，营业外收入大幅增加；受燃料成本降低的影响，火力发电主营业务利润同比上升；因新项目投产，固废处理项目利润同比增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1286028.d.html</link>
-            <guid>1989619</guid>
-            <pubDate>Sun, 24 Jan 2021 08:19:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  北京：加强进口进京货物检疫检测做好常态化消杀。（北京日报）]]></title>
-            <guid>1989615</guid>
-            <pubDate>Sun, 24 Jan 2021 08:11:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
