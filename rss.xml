@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 24 Jan 2021 20:47:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jan 2021 21:38:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【证券日报头版评论：资本市场优化科技监管为有序改革创新赋能】随着资本市场创新进一步深入，以注册制为龙头的改革向市场化、法治化、国际化不断迈进，上市公司的质量、数量、体量都在发生深刻变化。因此，资本市场生态需要继续强化科技监管建设——由个案的成功范例向可复制、可推广的成功范式迈进。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0447095.d.html</link>
+            <guid>1989864</guid>
+            <pubDate>Sun, 24 Jan 2021 20:59:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[联合国贸易和发展会议（UNCTAD）报告：全球外国直接投资（FDI）在2020年锐减42%，前景仍然偏弱。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0443481.d.html</link>
