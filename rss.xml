@@ -4,13 +4,395 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 25 Jan 2021 15:44:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2021 17:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[  意大利财政部：G20国家将讨论进一步延长对贫穷国家暂停偿债的倡议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1749716.d.html</link>
+            <guid>1991548</guid>
+            <pubDate>Mon, 25 Jan 2021 17:14:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  阿斯利康CEO：很高兴在今天早些时候与欧盟委员会主席冯德莱恩谈话。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1749571.d.html</link>
+            <guid>1991547</guid>
+            <pubDate>Mon, 25 Jan 2021 17:14:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国卫生大臣汉考克：英国发现的变种病毒传播效率高30%-70%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftssap0765368.d.html</link>
+            <guid>1991546</guid>
+            <pubDate>Mon, 25 Jan 2021 17:13:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国卫生大臣汉考克：病毒的新变种让抗疫更加艰难。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftssap0765276.d.html</link>
+            <guid>1991545</guid>
+            <pubDate>Mon, 25 Jan 2021 17:13:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国央行行长贝利：认为加密货币不会是持久存在的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1749132.d.html</link>
+            <guid>1991544</guid>
+            <pubDate>Mon, 25 Jan 2021 17:12:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：支付领域的数字创新现象将保持现状。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftssap0764900.d.html</link>
+            <guid>1991543</guid>
+            <pubDate>Mon, 25 Jan 2021 17:11:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国卫生大臣汉考克：早期迹象显示抑制病毒的措施正在发挥作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1748240.d.html</link>
+            <guid>1991540</guid>
+            <pubDate>Mon, 25 Jan 2021 17:08:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【单日超140只 私募基金备案数量井喷】根据中国证券投资基金业协会最新数据统计，截至1月23日，年内一共新增备案的私募证券投资基金产品近2000只。尤其在1月22日当天，新增备案私募产品达166只，其中新增证券私募产品高达141只，出现罕见的历史高位。梳理数据发现，在这些私募产品中，不少出自于明星私募之手。如灵均投资1月以来备案了38只产品，石锋资产有6只，幻方量化则高达44只，居私募基金备案产品数量之首。此外，头部私募基金的销售也出现了“秒抢”、“限额认购”、“提前封盘”等盛况。（券商中国）]]></title>
+            <guid>1991539</guid>
+            <pubDate>Mon, 25 Jan 2021 17:08:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国司法部总检察长：调查只会涉及现任或前任司法部官员。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1747653.d.html</link>
+            <guid>1991537</guid>
+            <pubDate>Mon, 25 Jan 2021 17:05:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国司法部内部监督机构称，正在调查是否有任何部门官员参与了改变2020年总统选举结果的不当企图。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1747528.d.html</link>
+            <guid>1991536</guid>
+            <pubDate>Mon, 25 Jan 2021 17:05:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【香港特区将重开在机构债券发行计划下推出的15年期政府债券】25日，香港金融管理局以香港特别行政区政府代表身份公布，重开在机构债券发行计划下推出的15年期政府债券（债券）（发行编号15GB3007），作10年期债券供投标。该批重开债券将于二月三日（星期三）进行投标，并于二月四日（星期四）交收。通过本次重开债券，将有额外17亿港元的未到期15年期债券（发行编号15GB3007）供投标。该批债券将于二〇三〇年七月十六日期满，利率为年息2.13厘，每半年派息一次。该批债券于一月二十五日的指示价格为112.24，年收益率则为0.789%。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1745487.d.html</link>
+            <guid>1991534</guid>
+            <pubDate>Mon, 25 Jan 2021 16:56:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟卫生和食品安全委员基里亚基季斯：欧盟将采取一切措施保护公民和权利。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftssap0761096.d.html</link>
+            <guid>1991532</guid>
+            <pubDate>Mon, 25 Jan 2021 16:55:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟卫生和食品安全委员基里亚基季斯：在周一晚间就该问题再次与阿斯利康进行会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftssap0761063.d.html</link>
+            <guid>1991531</guid>
+            <pubDate>Mon, 25 Jan 2021 16:55:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科威特内阁推迟商业航班复航的第二阶段计划，以将进港航班数量降至最低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1744590.d.html</link>
+            <guid>1991529</guid>
+            <pubDate>Mon, 25 Jan 2021 16:52:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[太和水首次公开发行股票招股说明书：将A股普通股发行价定在每股43.30元人民币，预计将于1月28日在上交所发行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftssap0759451.d.html</link>
+            <guid>1991528</guid>
+            <pubDate>Mon, 25 Jan 2021 16:48:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[李子园首次公开发行股票招股说明书：将A股普通股发行价定在每股20.04元人民币，预计将于1月27日在上交所发行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1743589.d.html</link>
+            <guid>1991527</guid>
+            <pubDate>Mon, 25 Jan 2021 16:47:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳指转涨，此前一度跌近1.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftssap0758754.d.html</link>
+            <guid>1991526</guid>
+            <pubDate>Mon, 25 Jan 2021 16:44:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  高盛CEO所罗门：低利率可能加剧市场投机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftssap0758418.d.html</link>
+            <guid>1991525</guid>
+            <pubDate>Mon, 25 Jan 2021 16:43:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  高盛CEO所罗门：重要的是推出更多针对性刺激措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1742653.d.html</link>
+            <guid>1991524</guid>
+            <pubDate>Mon, 25 Jan 2021 16:43:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿斯利康股价短线走低，涨幅收窄至1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftssap0758364.d.html</link>
+            <guid>1991523</guid>
+            <pubDate>Mon, 25 Jan 2021 16:43:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧盟卫生和食品安全委员基里亚基季斯：阿斯利康对欧盟提出问题的回答不令人满意。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftssap0758341.d.html</link>
+            <guid>1991522</guid>
+            <pubDate>Mon, 25 Jan 2021 16:42:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[    【股市收盘】
+德国DAX30指数1月25日（周一） 收盘下跌224.67点，跌幅1.62%，报13649.30点;
+英国富时100指数1月25日（周一） 收盘下跌53.27点，跌幅0.80%，报6641.80点;
+法国CAC40指数1月25日（周一） 收盘下跌87.21点，跌幅1.57%，报5472.36点;
+欧洲斯托克50指数1月25日（周一） 收盘下跌47.76点，跌幅1.33%，报3554.65点;
+西班牙IBEX35指数1月25日（周一） 收盘下跌139.40点，跌幅1.73%，报7897.00点;
+意大利富时MIB指数1月25日（周一） 收盘下跌350.86点，跌幅1.59%，报21737.50点。]]></title>
+            <guid>1991521</guid>
+            <pubDate>Mon, 25 Jan 2021 16:42:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国黄金首次公开发行股票招股说明书：将A股普通股发行价定在每股4.99元人民币，预计将于1月27日在上交所发行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1742287.d.html</link>
+            <guid>1991519</guid>
+            <pubDate>Mon, 25 Jan 2021 16:41:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Downdetector网站：用户报告TikTok服务出现问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1741806.d.html</link>
+            <guid>1991518</guid>
+            <pubDate>Mon, 25 Jan 2021 16:39:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部拍卖三个月期国债，得标利率0.080%，投标倍数2.92；拍卖六个月期国债，得标利率0.085%，投标倍数3.48。]]></title>
+            <guid>1991517</guid>
+            <pubDate>Mon, 25 Jan 2021 16:32:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【欧股收盘 三大股指集体收跌】欧股收盘集体下跌，英国富时指数跌0.98%，德国DAX指数跌1.82%，法国CAC指数跌1.74%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1740036.d.html</link>
+            <guid>1991516</guid>
+            <pubDate>Mon, 25 Jan 2021 16:32:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯联邦安全会议秘书帕特鲁舍夫与美国国家安全顾问沙利文通电话，讨论延长新削减战略武器条约。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1739779.d.html</link>
+            <guid>1991515</guid>
+            <pubDate>Mon, 25 Jan 2021 16:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国DAX 30指数初步收跌1.64%，报13646.56点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftssap0755227.d.html</link>
+            <guid>1991514</guid>
+            <pubDate>Mon, 25 Jan 2021 16:31:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲STOXX 600指数初步收跌0.90%，报404.86点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1739650.d.html</link>
+            <guid>1991513</guid>
+            <pubDate>Mon, 25 Jan 2021 16:31:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲央行行长拉加德：欧洲央行将在一段较长的时间内保持其市场存在。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1738928.d.html</link>
+            <guid>1991512</guid>
+            <pubDate>Mon, 25 Jan 2021 16:27:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金短线回升近5美元，现报1851.74美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1737557.d.html</link>
+            <guid>1991511</guid>
+            <pubDate>Mon, 25 Jan 2021 16:22:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲央行行长拉加德：经济复苏有所延缓，但未偏离正轨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1737060.d.html</link>
+            <guid>1991510</guid>
+            <pubDate>Mon, 25 Jan 2021 16:20:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  壳牌得州鹿园催化裂化（FCC）装置可能再关闭三周。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1736803.d.html</link>
+            <guid>1991508</guid>
+            <pubDate>Mon, 25 Jan 2021 16:20:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲央行行长拉加德：必须维持有利的融资条件。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1736655.d.html</link>
+            <guid>1991507</guid>
+            <pubDate>Mon, 25 Jan 2021 16:19:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲央行行长拉加德：欧元区第四季度增速为负值。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1736455.d.html</link>
+            <guid>1991506</guid>
+            <pubDate>Mon, 25 Jan 2021 16:19:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲央行行长拉加德：2021年复苏的希望依然存在。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1736218.d.html</link>
+            <guid>1991505</guid>
+            <pubDate>Mon, 25 Jan 2021 16:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NYMEX铂金期货跌幅扩大至2%，现报1089美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1735670.d.html</link>
+            <guid>1991503</guid>
+            <pubDate>Mon, 25 Jan 2021 16:15:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股跳水，三大指数均跌超1%。部分中概股也跳水，雾芯科技跌7%，此前一度涨近20%。小鹏汽车、蔚来、哔哩哔哩、百度集体跳水。美股科技股也集体跳水。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1735139.d.html</link>
+            <guid>1991502</guid>
+            <pubDate>Mon, 25 Jan 2021 16:13:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  三十年期美债收益率触及三周低位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1734516.d.html</link>
+            <guid>1991501</guid>
+            <pubDate>Mon, 25 Jan 2021 16:10:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  纳指跌幅扩大至1.4%，此前一度涨逾1.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1734494.d.html</link>
+            <guid>1991500</guid>
+            <pubDate>Mon, 25 Jan 2021 16:10:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  恐慌指数VIX涨幅扩大至逾20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1734417.d.html</link>
+            <guid>1991499</guid>
+            <pubDate>Mon, 25 Jan 2021 16:10:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股继续跳水，美股三大指数跌幅均扩大至超1%，纳指跌约1.2%，此前涨超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftssap0749901.d.html</link>
+            <guid>1991497</guid>
+            <pubDate>Mon, 25 Jan 2021 16:10:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑加元USD/CAD短线冲高30点，美、布两油短线走低约0.3美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftssap0749859.d.html</link>
+            <guid>1991496</guid>
+            <pubDate>Mon, 25 Jan 2021 16:09:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  现货白银跌幅扩大至逾1%，暂报25.18美元/盎司，日内一度涨超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1734008.d.html</link>
+            <guid>1991495</guid>
+            <pubDate>Mon, 25 Jan 2021 16:08:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳指跌超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1733960.d.html</link>
+            <guid>1991494</guid>
+            <pubDate>Mon, 25 Jan 2021 16:08:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国两年期/十年期国债收益率基差触及三周来最窄的91.50个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftssap0749368.d.html</link>
+            <guid>1991493</guid>
+            <pubDate>Mon, 25 Jan 2021 16:07:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普500指数跌幅达0.9%，纳指跌近0.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftssap0749348.d.html</link>
+            <guid>1991492</guid>
+            <pubDate>Mon, 25 Jan 2021 16:07:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国纽约联储调查：未来一年家庭支出增速从此前的2.2%大幅商阳指3.0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftssap0748717.d.html</link>
+            <guid>1991491</guid>
+            <pubDate>Mon, 25 Jan 2021 16:05:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行行长拉加德将于十分钟后出席达沃斯世界经济论坛并发表讲话。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1733105.d.html</link>
+            <guid>1991490</guid>
+            <pubDate>Mon, 25 Jan 2021 16:05:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  道指跌幅超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1732837.d.html</link>
+            <guid>1991488</guid>
+            <pubDate>Mon, 25 Jan 2021 16:04:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  罗宾汉交易平台报告称公司在加密资产交易上出现问题，目前正在努力解决。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1732711.d.html</link>
+            <guid>1991487</guid>
+            <pubDate>Mon, 25 Jan 2021 16:03:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国纽约联储调查：12月份，54.6%的家庭报告至少在过去4个月内进行过一次大型采购，较4月份低位的50.7%有所增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1732565.d.html</link>
+            <guid>1991486</guid>
+            <pubDate>Mon, 25 Jan 2021 16:02:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国纽约联储调查：12月份调查显示，未来一年家庭总支出预期大幅增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1732526.d.html</link>
+            <guid>1991485</guid>
+            <pubDate>Mon, 25 Jan 2021 16:02:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股三大指数悉数转跌，标普500指数转跌且跌幅迅速扩大至0.42%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftpnny1732163.d.html</link>
+            <guid>1991484</guid>
+            <pubDate>Mon, 25 Jan 2021 16:00:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货白银短线走低约0.2美元，现货黄金短线走低约7美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-26/detail-ikftssap0747623.d.html</link>
+            <guid>1991483</guid>
+            <pubDate>Mon, 25 Jan 2021 16:00:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  墨西哥总统洛佩斯：已邀请俄罗斯总统普京访问墨西哥。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1731470.d.html</link>
+            <guid>1991481</guid>
+            <pubDate>Mon, 25 Jan 2021 15:57:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[VIX波动率日内涨幅达9.0%，报23.89。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0746742.d.html</link>
+            <guid>1991479</guid>
+            <pubDate>Mon, 25 Jan 2021 15:56:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【腾讯投资的德国数字银行N26或明年IPO】由腾讯投资的德国数字银行N26今日宣布，任命简·坎珀为公司新任首席财务官（CFO）。N26 2018年曾表示，公司有可能在未来3~5年内IPO。而知情人士称，N26有望于2022年上市。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0746577.d.html</link>
+            <guid>1991478</guid>
+            <pubDate>Mon, 25 Jan 2021 15:55:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 美股短线跳水，标普500指数涨幅收窄至0.05%，纳指涨幅收窄至0.6%，道指跌0.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0746272.d.html</link>
+            <guid>1991477</guid>
+            <pubDate>Mon, 25 Jan 2021 15:53:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑挪威克朗USD/NOK日内涨幅扩大至1%，现报8.5747。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0745984.d.html</link>
+            <guid>1991476</guid>
+            <pubDate>Mon, 25 Jan 2021 15:52:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据媒体消息：美国加州州长将取消居家令。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1730246.d.html</link>
+            <guid>1991475</guid>
+            <pubDate>Mon, 25 Jan 2021 15:51:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[游戏驿站停牌，目前涨103.54%，稍早一度大涨140%，最高触及159.18美元，今年迄今翻六倍。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0745490.d.html</link>
+            <guid>1991474</guid>
+            <pubDate>Mon, 25 Jan 2021 15:49:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国国际贸易大臣特拉斯：英国正在帮助企业克服脱欧障碍。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1728965.d.html</link>
+            <guid>1991473</guid>
+            <pubDate>Mon, 25 Jan 2021 15:44:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[  市场消息：意大利总理孔特将在辞职后寻求新的授权。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0744485.d.html</link>
             <guid>1991472</guid>
             <pubDate>Mon, 25 Jan 2021 15:44:29 GMT</pubDate>
         </item>
@@ -138,374 +520,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0741157.d.html</link>
             <guid>1991448</guid>
             <pubDate>Mon, 25 Jan 2021 15:27:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【因海岬型船运费率走低，波罗的海干散货指数录得下跌】波罗的海干散货指数在周一下跌45点或2.5%，报1765点，创1月18日以来最低水平。海岬型船运价指数下跌5.2%至2817点，为逾两周新低，日均获利下跌1265美元至23366美元。巴拿马型船运价指数上涨6点或0.4%，至1665点，为逾5个月新高，日均获利上涨54美元至14988美元。超灵便型船运价指数涨10点至1152点，为2019年10月末以来最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1724477.d.html</link>
-            <guid>1991445</guid>
-            <pubDate>Mon, 25 Jan 2021 15:21:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧盟委员会副主席兼“外长”博雷利：将在2月的第一个星期访问俄罗斯莫斯科。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1724335.d.html</link>
-            <guid>1991444</guid>
-            <pubDate>Mon, 25 Jan 2021 15:21:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中钢协：1月中旬20个城市5大品种钢材社会库存835万吨，环比升8.3%】据中钢协数据，1月中旬，20个城市5大品种钢材社会库存835万吨，比上一旬增加64万吨，上升8.3%;比年初增加105万吨，上升14.4%，近期库存回升速度较快。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1724310.d.html</link>
-            <guid>1991443</guid>
-            <pubDate>Mon, 25 Jan 2021 15:21:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国1月达拉斯联储商业活动指数将于十分钟后公布。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0739706.d.html</link>
-            <guid>1991441</guid>
-            <pubDate>Mon, 25 Jan 2021 15:20:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲药品管理局（EMA）：一些非法获取的文件，包括电子邮件通信，通过互联网被公开了。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0739677.d.html</link>
-            <guid>1991440</guid>
-            <pubDate>Mon, 25 Jan 2021 15:20:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货白银刷新日低至25.38美元/盎司，日内下跌约0.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0738711.d.html</link>
-            <guid>1991437</guid>
-            <pubDate>Mon, 25 Jan 2021 15:14:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股航空股、银行股、能源股集体下跌】航空股中，美联航、美国航空跌超3%，达美航空、西南航空跌超2%；银行股中，德意志银行跌超3%，高盛、美国银行跌超2%；能源股中，斯伦贝谢跌超3%，马拉松石油、中石油、康菲石油跌超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0738541.d.html</link>
-            <guid>1991436</guid>
-            <pubDate>Mon, 25 Jan 2021 15:13:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛将美国2021年全年GDP预测提高至6.6％，比市场共识预期的4.1％高出近50％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1722819.d.html</link>
-            <guid>1991435</guid>
-            <pubDate>Mon, 25 Jan 2021 15:12:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【内盘期货夜盘黑色系普遍收涨】螺纹期货夜盘收涨0.77%，热卷收涨1.60%；铁矿石期货收涨0.82%。 焦炭夜盘收跌0.06%，焦煤收涨0.74%，动力煤收涨0.06%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0737575.d.html</link>
-            <guid>1991432</guid>
-            <pubDate>Mon, 25 Jan 2021 15:08:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：台积电考虑上调车用半导体价格，涨幅上看15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0737493.d.html</link>
-            <guid>1991431</guid>
-            <pubDate>Mon, 25 Jan 2021 15:08:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500能源指数跌1.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0737252.d.html</link>
-            <guid>1991430</guid>
-            <pubDate>Mon, 25 Jan 2021 15:06:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  IMF数据：蒙古在2020年12月将黄金持有量减少了2.333吨，至8.157吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0737209.d.html</link>
-            <guid>1991429</guid>
-            <pubDate>Mon, 25 Jan 2021 15:06:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  IMF数据：菲律宾在2020年11月将黄金持有量减少了3.359吨，至187.917吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0737177.d.html</link>
-            <guid>1991428</guid>
-            <pubDate>Mon, 25 Jan 2021 15:06:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  IMF数据：乌兹别克斯坦在2020年12月增持了8.398吨黄金，至332.504吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1721382.d.html</link>
-            <guid>1991427</guid>
-            <pubDate>Mon, 25 Jan 2021 15:05:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉突破900美元大关，为历史首次，日内涨超6%，市值超8500亿美元，此前Baird将特斯拉目标价从488美元上调至728美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0736765.d.html</link>
-            <guid>1991426</guid>
-            <pubDate>Mon, 25 Jan 2021 15:04:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  部分信贷服务股大涨，乐信涨超16%，360数科涨超11%，趣店、陆金所涨超8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1720654.d.html</link>
-            <guid>1991425</guid>
-            <pubDate>Mon, 25 Jan 2021 15:02:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  国内期货夜盘多数收涨，油脂板块走高，棕榈油涨近2.3%，豆油涨1.78%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1720374.d.html</link>
-            <guid>1991424</guid>
-            <pubDate>Mon, 25 Jan 2021 15:00:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国30年期国债收益率跌至两周低点，维持在1.8122%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1719909.d.html</link>
-            <guid>1991423</guid>
-            <pubDate>Mon, 25 Jan 2021 14:58:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉涨超5%，刷新盘中纪录新高；苹果大涨3.8%，续创盘中纪录新高。此前两只股票均获券商上调目标价。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0735198.d.html</link>
-            <guid>1991421</guid>
-            <pubDate>Mon, 25 Jan 2021 14:56:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货黄金短线下挫近10美元，最低至1855.25美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1719257.d.html</link>
-            <guid>1991419</guid>
-            <pubDate>Mon, 25 Jan 2021 14:55:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货白银日内转跌，较日高回落近0.3美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1719035.d.html</link>
-            <guid>1991418</guid>
-            <pubDate>Mon, 25 Jan 2021 14:54:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  ICE美元指数涨幅扩大至0.3%，刷新1月21日以来高位至90.47。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0734763.d.html</link>
-            <guid>1991417</guid>
-            <pubDate>Mon, 25 Jan 2021 14:53:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美元兑日元USD/JPY短线走高逾10点，现报103.91。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1718922.d.html</link>
-            <guid>1991416</guid>
-            <pubDate>Mon, 25 Jan 2021 14:53:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  拼多多盘中涨幅扩大至10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0734167.d.html</link>
-            <guid>1991415</guid>
-            <pubDate>Mon, 25 Jan 2021 14:50:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【面对反垄断审查 科技巨头加大游说活动】因对大型科技企业进行监管的呼声越来越高，科技巨头们在过去十年中大幅提高了游说支出。官方披露的数据显示，在过去的12个月中，谷歌、亚马逊、Facebook和苹果的美国政府游说支出总计为5170万美元，较2015年增长29％，较2010年增长近500％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1718359.d.html</link>
-            <guid>1991414</guid>
-            <pubDate>Mon, 25 Jan 2021 14:50:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货白银短线下挫约0.2美元，现报25.47美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0733884.d.html</link>
-            <guid>1991413</guid>
-            <pubDate>Mon, 25 Jan 2021 14:49:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧元兑美元EUR/USD短线下挫10余点，现报1.2143，英镑兑美元GBP/USD短线下挫17点，现报1.3679，美元指数DXY短线上扬10点，现报90.45。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0733858.d.html</link>
-            <guid>1991412</guid>
-            <pubDate>Mon, 25 Jan 2021 14:49:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货黄金短线下挫6美元，现报1858.20美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1717936.d.html</link>
-            <guid>1991411</guid>
-            <pubDate>Mon, 25 Jan 2021 14:48:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  腾讯ADR涨超8%，今日港股大涨超10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0733656.d.html</link>
-            <guid>1991409</guid>
-            <pubDate>Mon, 25 Jan 2021 14:48:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中概股研控科技大涨超60%，第九城市一度涨近30%，36氪涨超19%，富途控股涨超18%，跟谁学涨超14%，微美全息、流利说涨超10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0733640.d.html</link>
-            <guid>1991408</guid>
-            <pubDate>Mon, 25 Jan 2021 14:48:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美、布两油期货短线上涨约0.3美元，现分别报52.34美元/桶、55.45美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1717655.d.html</link>
-            <guid>1991407</guid>
-            <pubDate>Mon, 25 Jan 2021 14:46:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄外交部发言人称，俄美就延长新削减战略武器条约启动专家级务实工作。（卫星新闻）]]></title>
-            <guid>1991406</guid>
-            <pubDate>Mon, 25 Jan 2021 14:45:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国煤电装机容量历史性降至50％以下】根据国家能源局日前发布的统计数据，随着风电、太阳能等新能源快速发展，2020年我国新增装机中清洁电力比重超过70%，煤电装机历史性降至50%以下，清洁电力装机容量则历史性超过50%。一减一增，碳减排效应显著。（国资委）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0732781.d.html</link>
-            <guid>1991405</guid>
-            <pubDate>Mon, 25 Jan 2021 14:43:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【富时罗素：3月纳入科创板，12家公司备选】富时罗素纳入科创板的决定将于3月22日开盘生效。共有12只科创板个股符合规定，包括中微公司、睿创微纳、杭可科技、澜起科技、安集科技、康希诺、君实生物等。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1716817.d.html</link>
-            <guid>1991404</guid>
-            <pubDate>Mon, 25 Jan 2021 14:42:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据意大利安莎通讯社：意大利总理孔特今天可能会见总统马塔雷拉。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1716203.d.html</link>
-            <guid>1991403</guid>
-            <pubDate>Mon, 25 Jan 2021 14:39:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[游戏驿站盘中停牌，停牌前涨35.06%；该股盘初一度涨超50%。]]></title>
-            <guid>1991402</guid>
-            <pubDate>Mon, 25 Jan 2021 14:38:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  黑龙江绥化安达市8个小区调整为中风险区。（新京报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1715971.d.html</link>
-            <guid>1991401</guid>
-            <pubDate>Mon, 25 Jan 2021 14:38:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  以色列央行：政府应该专注于促进经济增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1715690.d.html</link>
-            <guid>1991400</guid>
-            <pubDate>Mon, 25 Jan 2021 14:36:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货黄金短线下挫5美元，现报1862.6美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0731278.d.html</link>
-            <guid>1991399</guid>
-            <pubDate>Mon, 25 Jan 2021 14:36:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苹果因“电池门”在意大利遭集体诉讼 索赔7300万美元】意大利消费者协会“AltroConsumero”周一表示，已针对“iPhone电池门”事件对苹果公司提起集体诉讼。该协会代表被这种做法欺骗的意大利消费者要求苹果赔偿6000万欧元（约合7300万美元）。在2014年至2020年期间，这些旧型号手机在意大利的总销量约为100万部。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1714989.d.html</link>
-            <guid>1991397</guid>
-            <pubDate>Mon, 25 Jan 2021 14:33:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  百度涨超3%，消息称其计划最早于3月在香港二次上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0730633.d.html</link>
-            <guid>1991396</guid>
-            <pubDate>Mon, 25 Jan 2021 14:33:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中概股普涨，富途控股涨超14%，跟谁学涨超13%，拼多多涨超6%，京东涨超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0730570.d.html</link>
-            <guid>1991395</guid>
-            <pubDate>Mon, 25 Jan 2021 14:32:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  哔哩哔哩涨超7%，盘中股价刷新历史新高，市值站上500亿美元关口。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0730443.d.html</link>
-            <guid>1991394</guid>
-            <pubDate>Mon, 25 Jan 2021 14:32:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股区块链板块走高，第九城市涨超18%，Riot Blockchain涨5%，迅雷涨3.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0730372.d.html</link>
-            <guid>1991393</guid>
-            <pubDate>Mon, 25 Jan 2021 14:31:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【道指开盘跌0.3%，标普500涨0.2%，纳指涨1.1%】黑莓涨38.9%，黑莓已与Facebook就短信APP的纠纷达成和解。AMC院线涨34.5%。自12月中旬以来，AMC院线获得了9.17亿美元的新投资。第九城市涨23.2%，公司宣布已重新符合纳斯达克上市规则。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0730176.d.html</link>
-            <guid>1991392</guid>
-            <pubDate>Mon, 25 Jan 2021 14:30:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  WTI原油期货失守52美元/桶，日内跌幅0.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1714040.d.html</link>
-            <guid>1991390</guid>
-            <pubDate>Mon, 25 Jan 2021 14:29:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯方面称，将与美国就延长《新削减战略武器条约》展开合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1713955.d.html</link>
-            <guid>1991389</guid>
-            <pubDate>Mon, 25 Jan 2021 14:28:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【住建部召开视频会议，推进新型城市基础设施建设】今日，住房和城乡建设部召开推进新型城市基础设施建设工作视频会议，通报工作进展，交流经验做法，部署安排下步工作。住房和城乡建设部党组成员、副部长姜万荣出席会议并讲话。会议强调，要抓好试点工作，以点带面加快推进新城建。试点城市要加快推动项目落地实施，充分发挥新城建对有效投资和消费的带动作用。要探索系统推进新城建工作的体制机制，建立完善新城建各项任务与城市信息模型（CIM）基础平台对接的工作机制。充分发挥市场在资源配置中的决定性作用，形成一批可复制可推广的运作模式。（住建部）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1713511.d.html</link>
-            <guid>1991388</guid>
-            <pubDate>Mon, 25 Jan 2021 14:26:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  巴西经济部长：巴西政府继续其私有化计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0729125.d.html</link>
-            <guid>1991387</guid>
-            <pubDate>Mon, 25 Jan 2021 14:25:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  深交所表示，2020年，深市公司共披露665家次再融资预案，合计拟募资资金8673亿元，同比分别增长1.5倍和1.4倍。]]></title>
-            <guid>1991386</guid>
-            <pubDate>Mon, 25 Jan 2021 14:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华发集团入主华灿光电，产业赋能助推LED芯片龙头加速升级】1月25日，珠海华发实体产业投资控股有限公司相关人士表示，芯片半导体一直是华发集团布局战略性新兴产业的核心方向之一。此次战略投资华灿光电，正是看重了其在LED芯片领域，特别是在MiniLED芯片的技术实力和综合竞争力，以及在第三代化合物半导体领域的广阔发展前景。未来，华实控股不仅将为华灿提供强有力的资本支持，还将在上游产业链配套、下游市场拓展等方面提供全方位的战略赋能。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1712764.d.html</link>
-            <guid>1991384</guid>
-            <pubDate>Mon, 25 Jan 2021 14:22:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pimco副董事长John Studzinski：市场估值强劲，但对此感到“满意”，因其反映了对下半年经济复苏的预期及人们认为将获得合理规模的财政和货币政策支持。问题将是，财政支持是否会持续到今年以后，这可能会对通货膨胀或资产估值产生影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1712221.d.html</link>
-            <guid>1991383</guid>
-            <pubDate>Mon, 25 Jan 2021 14:20:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【伊朗外交部：伊朗油轮被印尼扣押系技术原因】当地时间25日，伊朗外交部发言人哈蒂布扎德在例行记者会上表示，关于日前伊朗油轮被印度尼西亚海岸警卫队扣押，伊朗方面目前得到的信息相互矛盾，正在等待印尼方面的最新细节公布。但这是技术层面的问题，在航运领域也发生过。据路透社报道，印度尼西亚当地时间24日表示，该国海岸警卫队扣押了两艘来自伊朗和巴拿马的船只，原因是这两艘船只涉嫌从该国水域非法转运燃料。海岸警卫队声明表示，两艘油轮涉嫌违反印尼法律，非法锚泊以及非法转移燃油等，并指巴拿马油轮所在海域出现漏油。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1711899.d.html</link>
-            <guid>1991382</guid>
-            <pubDate>Mon, 25 Jan 2021 14:18:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  芝加哥期权交易所（CBOE）：激励项目旨在提高芝加哥期权交易所上市的交易所交易产品（ETP）的市场质量。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0726874.d.html</link>
-            <guid>1991381</guid>
-            <pubDate>Mon, 25 Jan 2021 14:14:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：芝加哥期权交易所（CBOE）计划为交易所交易产品(ETP)引入一个新的激励项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1710608.d.html</link>
-            <guid>1991380</guid>
-            <pubDate>Mon, 25 Jan 2021 14:12:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浦发银行设立新加坡创新中心，推进构建全球金融科技生态】2021年1月25日，首个由股份行在境外设立的创新中心——浦发银行新加坡创新中心揭牌成立。据介绍，浦发银行新加坡创新中心打出“1+3+N”的战略布局规划牌，即与当地政府、行业组织、高校和社会各界搭建合作平台，构建“1”个海外金融科技生态；深耕人工智能、区块链、API“3”个技术领域，开展金融创新场景研究与业务产品孵化；对接“N”个国际科技先进企业、国际一流高校的科研力量，推动前瞻性技术研究和国际化金融科技人才培养，为更多客户提供优质、先进的金融科技服务，推动银行业数字化转型、贸易融通与资金畅通。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1710190.d.html</link>
-            <guid>1991379</guid>
-            <pubDate>Mon, 25 Jan 2021 14:10:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中印举行第九轮军长级会谈 双方同意尽早推动一线部队脱离接触】昨日，中印两军在莫尔多/楚舒勒会晤点中方一侧举行第九轮军长级会谈。双方就中印边界西段实控线地区脱离接触问题坦诚深入交换意见。双方均认为本轮会谈积极务实且具有建设性，进一步增进了双方互信和相互理解。双方同意尽早推动一线部队脱离接触，同意遵照两国领导人重要共识，继续保持对话谈判势头，尽快举行第十轮军长级会谈，共同努力推动降温缓局。双方同意继续采取有效措施，确保一线部队保持克制，稳控西段边境实控线地区的局势，共同维护和平与安宁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1708899.d.html</link>
-            <guid>1991376</guid>
-            <pubDate>Mon, 25 Jan 2021 14:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  IMF总裁格奥尔基耶娃：国际货币基金组织认为气候变化是“经济和金融稳定的根本风险”，应对气候变化的行动可以促进全球GDP增长。]]></title>
-            <guid>1991374</guid>
-            <pubDate>Mon, 25 Jan 2021 14:02:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【欧盟可再生能源发电占比首超化石燃料 渗透率望迎来加速提升】报告显示，2020年随着新项目启动和煤电萎缩，可再生能源首次超过化石燃料，成为欧盟主要的电力来源。2020年，风能和太阳能等可再生能源的发电量占欧盟27个成员国总发电量的38%，而煤炭和天然气等化石燃料的发电量占比为37%。随着欧盟可再生能源首次超过化石燃料，光伏、风能等可再生能源渗透率将迎来加速提升，进入全面超越阶段，国内相关供应链公司持续受益。 (证券时报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1708101.d.html</link>
-            <guid>1991373</guid>
-            <pubDate>Mon, 25 Jan 2021 14:02:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：希腊和土耳其同意在雅典举行下一轮会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0723557.d.html</link>
-            <guid>1991372</guid>
-            <pubDate>Mon, 25 Jan 2021 14:01:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【威马科技日携手百度apollo开启场景化L4驾驶时代】今日，“WeLab威马科技开放日”上，搭载了AVP无人自主泊车的全新车型威马W6正式亮相，并将于2021年3月预售、4月向消费者交付。据了解，威马与百度Apollo深度合作落地的首个技术就是AVP无人自主泊车。这项技术将搭载在即将上市的全新车型威马W6上，是国内最快落地、最快量产的L4级无人驾驶技术。 (中证网)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftpnny1707367.d.html</link>
-            <guid>1991371</guid>
-            <pubDate>Mon, 25 Jan 2021 14:00:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  IMF总裁格奥尔基耶娃：国际货币基金组织今年将推出一个新的气候变化仪表盘，以跟踪气候风险对经济的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0722879.d.html</link>
-            <guid>1991370</guid>
-            <pubDate>Mon, 25 Jan 2021 13:59:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
