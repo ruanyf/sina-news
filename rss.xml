@@ -4,433 +4,520 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 27 Jan 2021 19:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2021 20:28:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[COMEX 2月黄金期货收跌0.3%，连续第五个交易日下跌，报1844.90美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1393062.d.html</link>
-            <guid>1995480</guid>
-            <pubDate>Wed, 27 Jan 2021 19:29:36 GMT</pubDate>
+            <title><![CDATA[  据德国《图片报》：德国当局计划禁止高风险地区航班入境，包括英国、南非、巴西和葡萄牙。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2381765.d.html</link>
+            <guid>1995658</guid>
+            <pubDate>Wed, 27 Jan 2021 20:27:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【全国10座重点城市房贷利率调查：深圳上海偏低，广州、杭州上涨】问询了北京、上海、深圳、南京、杭州、苏州等10座重点城市的房贷利率，发现多地房贷利率水平持平，而除广东部分城市房贷利率上涨外，杭州也出现了略微上调的情况。从目前的房贷利率来看，深圳和上海偏低，并且首套房最低利率均低于5%，特别是上海仅为4.65%，与当前LPR相当。广州即便房贷利率普遍上涨，首套和二套的利率也低于一些利率较高的城市，比如南京和东莞。（21世纪经济报道）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1393058.d.html</link>
-            <guid>1995479</guid>
-            <pubDate>Wed, 27 Jan 2021 19:29:27 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔新闻发布会结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2381708.d.html</link>
+            <guid>1995657</guid>
+            <pubDate>Wed, 27 Jan 2021 20:26:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[分析师Chris Anstey：停止一个月期回购操作的举动，表明市场“运转”问题有所缓解，然而，FOMC的声明仍然表示，资产购买计划正在帮助解决这些问题。预计大概在某个时候，美联储需要调整措辞，只说资产购买与美联储的政策目标挂钩，而不是与市场运作挂钩。]]></title>
-            <guid>1995478</guid>
-            <pubDate>Wed, 27 Jan 2021 19:28:42 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：没有涉及直接与病毒接触的行业情况良好。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1396097.d.html</link>
+            <guid>1995651</guid>
+            <pubDate>Wed, 27 Jan 2021 20:25:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[十年期美债收益率日内跌2.9个基点至1.011%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2378402.d.html</link>
-            <guid>1995476</guid>
-            <pubDate>Wed, 27 Jan 2021 19:26:04 GMT</pubDate>
+            <title><![CDATA[  欧盟卫生和食品安全委员基里亚基季斯：阿斯利康方面仍缺乏透明度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1395831.d.html</link>
+            <guid>1995648</guid>
+            <pubDate>Wed, 27 Jan 2021 20:23:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美债收益率再度走低，回吐美联储政策声明后的涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2378355.d.html</link>
-            <guid>1995475</guid>
-            <pubDate>Wed, 27 Jan 2021 19:25:01 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：如果还有一些人没有进入劳动力市场，就没有达到就业最大化。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1395785.d.html</link>
+            <guid>1995644</guid>
+            <pubDate>Wed, 27 Jan 2021 20:22:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[道指跌幅重新扩大至超500点，纳指跌1.61%，标普500指数跌1.95%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1392762.d.html</link>
-            <guid>1995473</guid>
-            <pubDate>Wed, 27 Jan 2021 19:22:30 GMT</pubDate>
+            <title><![CDATA[  美国参议员沃伦：投资者把股票市场视作私人赌场。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2381314.d.html</link>
+            <guid>1995641</guid>
+            <pubDate>Wed, 27 Jan 2021 20:22:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【广东“双核+双副中心”再升级：强化汕头、湛江省域副中心定位】在今年广东省政府工作报告关于构建“一核一带一区”区域发展格局的阐述中，尤其强化了汕头、湛江省域副中心城市功能定位。报告指出，2021年，广东将支持汕头、湛江加快建设省域副中心城市。建立广州与湛江、深圳与汕头深度协作机制，加快打造现代化沿海经济带东西两翼重要发展极。（21世纪经济报道）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2378219.d.html</link>
-            <guid>1995472</guid>
-            <pubDate>Wed, 27 Jan 2021 19:22:19 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：美联储承诺在不平等问题上尽自己的一份力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1395763.d.html</link>
+            <guid>1995639</guid>
+            <pubDate>Wed, 27 Jan 2021 20:21:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【FOMC声明前】据CME“美联储观察”：美联储3月维持利率在0%-0.25%区间的概率为100%，加息25个基点至0.25%-0.50%区间的概率为0%；4月维持利率在0%-0.25%区间的概率为98%，加息25个基点的概率为2%。
-【FOMC声明后】据CME“美联储观察”：美联储3月维持利率在0%-0.25%区间的概率为100%，加息25个基点至0.25%-0.50%区间的概率为0%；4月维持利率在0%-0.25%区间的概率为100%，加息25个基点的概率为0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2378165.d.html</link>
-            <guid>1995470</guid>
-            <pubDate>Wed, 27 Jan 2021 19:21:04 GMT</pubDate>
+            <title><![CDATA[  美国民主党参议员Warren：游戏驿站的交易凸显了美国证交会采取行动的必要性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2381271.d.html</link>
+            <guid>1995638</guid>
+            <pubDate>Wed, 27 Jan 2021 20:21:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[分析师Theodore Littleton：除了承认复苏的步伐已经放缓，一些行业受到的冲击比其他行业更严重之外，美联储FOMC声明的变化微乎其微，这是符合预期的。美联储有关人员最近一再强调，他们会在加息或缩减购债规模等政策变化发生之前，提前长时间发出警告，而警告目前还未出现。目前应关注美联储主席鲍威尔新闻发布会的内容。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1392664.d.html</link>
-            <guid>1995469</guid>
-            <pubDate>Wed, 27 Jan 2021 19:20:30 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：美联储在对抗不平等方面有一定的作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2381221.d.html</link>
+            <guid>1995637</guid>
+            <pubDate>Wed, 27 Jan 2021 20:20:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美联储FOMC声明：公开市场操作小组将继续在每天下午进行大规模隔夜回购操作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1392138.d.html</link>
-            <guid>1995467</guid>
-            <pubDate>Wed, 27 Jan 2021 19:09:33 GMT</pubDate>
+            <title><![CDATA[分析师Jersey：鲍威尔指出，即使通货膨胀率在一段时间内高于2%，他也会坚定地承诺保持低利率。随着时间的推移，这表明当长期通胀接近2%时，收益率曲线可能会变得更陡——这种熊市趋陡的大部分可能来自通胀保值债券（TIPS）极端负值的实际收益率。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1395682.d.html</link>
+            <guid>1995636</guid>
+            <pubDate>Wed, 27 Jan 2021 20:20:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储关于“长期目标和货币政策策略”的公告：美联储坚定承诺将履行国会山授予的职责。]]></title>
-            <guid>1995466</guid>
-            <pubDate>Wed, 27 Jan 2021 19:08:08 GMT</pubDate>
+            <title><![CDATA[【证券时报头版评论：复制合肥效仿珠海？先问“体制”允不允许】前有合肥“拯救”蔚来汽车、投资零跑汽车，后有珠海向一度身陷现金流危机的FF（法拉第未来汽车）伸出“橄榄枝”，地方政府积极拥抱未来产业，以新兴产业拉动城市发展的决心可见一斑。说到底，无论是社会资本还是国有资本，做投资都需要尊重市场规律。对地方政府和国资来说，还需要努力扭转传统观念，打破僵化体制约束，才能最大程度把握创新投资的胜算。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1395654.d.html</link>
+            <guid>1995634</guid>
+            <pubDate>Wed, 27 Jan 2021 20:19:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  标普道琼斯指数公司：推迟摘除部分证券的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2377509.d.html</link>
-            <guid>1995464</guid>
-            <pubDate>Wed, 27 Jan 2021 19:06:26 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：强烈同意种族不平等阻碍经济发展的观点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2381172.d.html</link>
+            <guid>1995633</guid>
+            <pubDate>Wed, 27 Jan 2021 20:19:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美联储FOMC声明：整体融资环境仍保持宽松。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2377458.d.html</link>
-            <guid>1995463</guid>
-            <pubDate>Wed, 27 Jan 2021 19:05:41 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：美国应该考虑在更长的时间内帮助失业者。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2381159.d.html</link>
+            <guid>1995629</guid>
+            <pubDate>Wed, 27 Jan 2021 20:18:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[现货金银回吐美联储利率决定后的涨幅，均小幅下挫，白银日跌幅扩大至0.6%，暂报25.28美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2377444.d.html</link>
-            <guid>1995462</guid>
-            <pubDate>Wed, 27 Jan 2021 19:05:26 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：我们将走向不同的经济模式，一边发展一边学习。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2381152.d.html</link>
+            <guid>1995627</guid>
+            <pubDate>Wed, 27 Jan 2021 20:18:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美联储FOMC声明：公开市场操作小组仍准备适当调整回购操作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2377409.d.html</link>
-            <guid>1995461</guid>
-            <pubDate>Wed, 27 Jan 2021 19:04:42 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：正了解到技术比我们想象的更能取代人类。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2381147.d.html</link>
+            <guid>1995626</guid>
+            <pubDate>Wed, 27 Jan 2021 20:18:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美债收益率小幅走高，十年期美债收益率维持在1.014%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2377404.d.html</link>
-            <guid>1995460</guid>
-            <pubDate>Wed, 27 Jan 2021 19:04:28 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：在服务行业失去工作的人的情况仍然糟糕。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1395614.d.html</link>
+            <guid>1995625</guid>
+            <pubDate>Wed, 27 Jan 2021 20:18:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储关于“长期目标和货币政策策略”的公告：美联储坚定承诺将履行国会山授予的职责。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2377391.d.html</link>
-            <guid>1995459</guid>
-            <pubDate>Wed, 27 Jan 2021 19:04:15 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：情况没有我们所担心的那样严重。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2381055.d.html</link>
+            <guid>1995623</guid>
+            <pubDate>Wed, 27 Jan 2021 20:16:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储将继续每月购买800亿美元的国债和400亿美元的住房抵押贷款支持证券（MBS）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1391851.d.html</link>
-            <guid>1995457</guid>
-            <pubDate>Wed, 27 Jan 2021 19:03:46 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：对就业和经济造成的永久性伤害还没有定论。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1395517.d.html</link>
+            <guid>1995621</guid>
+            <pubDate>Wed, 27 Jan 2021 20:15:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美联储将基准利率维持在0%-0.25%不变 符合市场预期】美联储重申债券购买指引——每个月仍将购买至少1200亿美元的债券（购买800亿美元美国国债和400亿美元住房抵押贷款支持证券/MBS）；美联储称经济复苏和就业速度温和。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2377274.d.html</link>
-            <guid>1995456</guid>
-            <pubDate>Wed, 27 Jan 2021 19:03:17 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：利差处于其典型波动区间的低端。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1395469.d.html</link>
+            <guid>1995619</guid>
+            <pubDate>Wed, 27 Jan 2021 20:14:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国FOMC利率决策(上限)0.25%，前值0.25%，预期0.25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2377165.d.html</link>
-            <guid>1995455</guid>
-            <pubDate>Wed, 27 Jan 2021 19:00:43 GMT</pubDate>
+            <title><![CDATA[  美国银行CEO：2021年资本市场和交易的前景乐观。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1395458.d.html</link>
+            <guid>1995616</guid>
+            <pubDate>Wed, 27 Jan 2021 20:14:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  俄罗斯卢克石油公司旗下公司Litasco将为石油项目融资，将伊拉克NASSIRIYA油田的产能扩大到20万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2377029.d.html</link>
-            <guid>1995454</guid>
-            <pubDate>Wed, 27 Jan 2021 18:57:45 GMT</pubDate>
+            <title><![CDATA[谷歌跌幅扩大至5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2380928.d.html</link>
+            <guid>1995614</guid>
+            <pubDate>Wed, 27 Jan 2021 20:13:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  市场消息：美国总统拜登签署旨在应对气候变化的行政命令。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1391464.d.html</link>
-            <guid>1995453</guid>
-            <pubDate>Wed, 27 Jan 2021 18:55:42 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：在公司债务方面，违约率明显低于我们的预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2380893.d.html</link>
+            <guid>1995613</guid>
+            <pubDate>Wed, 27 Jan 2021 20:13:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国总统拜登：将保护科学家免受政治干预。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1391429.d.html</link>
-            <guid>1995452</guid>
-            <pubDate>Wed, 27 Jan 2021 18:54:35 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：房价大幅上涨不太可能持续下去。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1395372.d.html</link>
+            <guid>1995612</guid>
+            <pubDate>Wed, 27 Jan 2021 20:13:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【拜登：要求国会取消对化石燃料的补贴】美国总统拜登称，预计将通过退税和激励机制促进电动汽车的生产/销售，美国将成为清洁能源技术的最大出口国；将要求国会取消对化石燃料的补贴。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2376885.d.html</link>
-            <guid>1995451</guid>
-            <pubDate>Wed, 27 Jan 2021 18:54:26 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：一些房地产市场的紧张状况正在过去。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2380873.d.html</link>
+            <guid>1995611</guid>
+            <pubDate>Wed, 27 Jan 2021 20:13:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  市场消息：美国总统拜登对在美国的土地上进行石油和天然气租赁的禁令被起诉。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1391417.d.html</link>
-            <guid>1995450</guid>
-            <pubDate>Wed, 27 Jan 2021 18:54:20 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：尚未就放松银行限制做出决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1395276.d.html</link>
+            <guid>1995608</guid>
+            <pubDate>Wed, 27 Jan 2021 20:11:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据CME“美联储观察”：美联储1月维持利率在0%-0.25%区间的概率为100%，加息25个基点至0.25%-0.50%区间的概率为0%；3月维持利率在0%-0.25%区间的概率为100%，加息25个基点的概率为0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2376721.d.html</link>
-            <guid>1995449</guid>
-            <pubDate>Wed, 27 Jan 2021 18:50:30 GMT</pubDate>
+            <title><![CDATA[【万亿债务压顶，“三道红线”与“五档房贷”下房企抢占开年融资窗口】房企在2021年开年掀起了一场“融资奇观”，据统计，今年1月份，房企境内外拟发债规模已超过1500亿元，逼近去年的最高点。在今年1月份的融资窗口期之中，可以清晰见到“踩线”房企对资金的饥渴程度。（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1395272.d.html</link>
+            <guid>1995607</guid>
+            <pubDate>Wed, 27 Jan 2021 20:11:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国总统拜登：我们需要采取大胆的举措，现在不是采取小规模措施的时候。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1391178.d.html</link>
-            <guid>1995448</guid>
-            <pubDate>Wed, 27 Jan 2021 18:49:17 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：银行系统运转良好。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1395259.d.html</link>
+            <guid>1995604</guid>
+            <pubDate>Wed, 27 Jan 2021 20:11:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国总统拜登：美国将成为清洁能源技术的最大出口国。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1391046.d.html</link>
-            <guid>1995446</guid>
-            <pubDate>Wed, 27 Jan 2021 18:46:31 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：不知道员工何时会回到办公室工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2380781.d.html</link>
+            <guid>1995603</guid>
+            <pubDate>Wed, 27 Jan 2021 20:11:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国总统拜登：“气候日”意味着“就业日”。预计将通过退税和激励机制促进电动汽车的生产/销售。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2376486.d.html</link>
-            <guid>1995445</guid>
-            <pubDate>Wed, 27 Jan 2021 18:45:45 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：修改有关前景的声明反映了更加积极的前景。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2380703.d.html</link>
+            <guid>1995597</guid>
+            <pubDate>Wed, 27 Jan 2021 20:10:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[上海原油期货主力合约夜盘收涨1.32%，报337.3元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2375567.d.html</link>
-            <guid>1995439</guid>
-            <pubDate>Wed, 27 Jan 2021 18:33:44 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：下半年经济强劲是基本情况，但仍有下行风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1395190.d.html</link>
+            <guid>1995596</guid>
+            <pubDate>Wed, 27 Jan 2021 20:10:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  市场消息：英国与澳大利亚的下一个自由贸易协议可能最快在三月完成。英国与澳大利亚的协议将削减双边农产品的关税。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1389929.d.html</link>
-            <guid>1995438</guid>
-            <pubDate>Wed, 27 Jan 2021 18:31:50 GMT</pubDate>
+            <title><![CDATA[美元兑日元USD/JPY一度涨0.6%，为近三周来最大涨幅，暂报104.18。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2380675.d.html</link>
+            <guid>1995595</guid>
+            <pubDate>Wed, 27 Jan 2021 20:09:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[上海黄金交易所黄金T+D 1月28日（周四）晚盘收盘上涨0.08%报385.3元/克；上海黄金交易所白银T+D 1月28日（周四）晚盘收盘上涨0.08%报5245.0元/千克。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1389846.d.html</link>
-            <guid>1995437</guid>
-            <pubDate>Wed, 27 Jan 2021 18:30:35 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：很好的证据支持下半年更强劲的经济预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2380672.d.html</link>
+            <guid>1995594</guid>
+            <pubDate>Wed, 27 Jan 2021 20:09:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美股通信设备股集体上涨，诺基亚目前涨40%，盘中一度翻倍；黑莓涨超25%，英飞朗涨超11%，网络齿轮通信涨超10%，爱立信涨超9%，卫讯公司涨超7%，希拉无线、瞻博网络涨超5%，思科涨超2%。]]></title>
-            <guid>1995436</guid>
-            <pubDate>Wed, 27 Jan 2021 18:28:44 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：但尚未与财政部沟通。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2380667.d.html</link>
+            <guid>1995593</guid>
+            <pubDate>Wed, 27 Jan 2021 20:09:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[土耳其总统府：总统埃尔多安与“钢铁侠”马斯克通话。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2375241.d.html</link>
-            <guid>1995435</guid>
-            <pubDate>Wed, 27 Jan 2021 18:28:33 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：如有必要，紧急借贷工具仍是可用的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1395161.d.html</link>
+            <guid>1995592</guid>
+            <pubDate>Wed, 27 Jan 2021 20:09:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  市场消息：美国众议院有下周就预算决议进行投票的初步计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2375116.d.html</link>
-            <guid>1995434</guid>
-            <pubDate>Wed, 27 Jan 2021 18:25:24 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：紧急借贷工具对经济很有帮助。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2380654.d.html</link>
+            <guid>1995591</guid>
+            <pubDate>Wed, 27 Jan 2021 20:09:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国白宫新闻发言人普萨基：拜登团队“正在监控”游戏驿站的情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2375066.d.html</link>
-            <guid>1995433</guid>
-            <pubDate>Wed, 27 Jan 2021 18:24:22 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：还没有与财长耶伦进行通话，但预计会定期沟通。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2380645.d.html</link>
+            <guid>1995590</guid>
+            <pubDate>Wed, 27 Jan 2021 20:09:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[加拿大帝国商业银行（CIBC）CEO Dodig：美国总统拜登决定取消美加石油输送管道项目Keystone XL，这让人无比遗憾。加拿大的能源产业“遭受（美国的）袭击”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2374959.d.html</link>
-            <guid>1995432</guid>
-            <pubDate>Wed, 27 Jan 2021 18:21:38 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：尚未与拜登总统会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2380637.d.html</link>
+            <guid>1995589</guid>
+            <pubDate>Wed, 27 Jan 2021 20:09:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【贝莱德全球固定收益CIO：美联储或将在6月开始讨论缩减购债规模】尽管就业数据较为疲弱，但经济复苏幅度超过普遍预期。预计第二和第三季的经济增长将显著加快，人们会开始将其解读为美联储不会永远按兵不动。美联储或将在6月开始讨论缩减购债规模，但不确定是否会在今年开始缩减购债规模，我认为有这种可能。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2374944.d.html</link>
-            <guid>1995431</guid>
-            <pubDate>Wed, 27 Jan 2021 18:21:26 GMT</pubDate>
+            <title><![CDATA[  泛美卫生组织：美洲14个国家检测到英国和南非的变种病毒，主要存在于旅行者中。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1395132.d.html</link>
+            <guid>1995588</guid>
+            <pubDate>Wed, 27 Jan 2021 20:09:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【苹果在印度季度销量同比翻番】根据研究公司 Counterpoint 和 Cyber Media 最新的调查数据显示，在去年第四季度，苹果公司iPhone在印度销量超过150万台，增幅达100%。苹果在当地市场占有率由先前的2%升至4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2374923.d.html</link>
-            <guid>1995430</guid>
-            <pubDate>Wed, 27 Jan 2021 18:20:58 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：美国机构（美联储和财政部）都很了解彼此。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2380626.d.html</link>
+            <guid>1995586</guid>
+            <pubDate>Wed, 27 Jan 2021 20:09:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美股纺织服装股集体大涨，多只股票翻倍】Naked Brand Group一度暴涨145%，Fossil一度暴涨126%，Fossil暴涨107%，Chico’s FAS涨超20%，Xcel Brands涨超14%，诗思涨超8%，摩凡陀涨超7%，加拿大鹅涨近6%，KBS服饰涨超4%，李维斯涨超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1389335.d.html</link>
-            <guid>1995429</guid>
-            <pubDate>Wed, 27 Jan 2021 18:20:17 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：肯定会和美国财长耶伦保持良好工作关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1394925.d.html</link>
+            <guid>1995584</guid>
+            <pubDate>Wed, 27 Jan 2021 20:05:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国暂停部分外国军售，包括向阿联酋出售F35战机和向沙特出售军火的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1389265.d.html</link>
-            <guid>1995428</guid>
-            <pubDate>Wed, 27 Jan 2021 18:19:01 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：对通胀稍微走高表示欢迎。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1394848.d.html</link>
+            <guid>1995580</guid>
+            <pubDate>Wed, 27 Jan 2021 20:04:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[诺基亚置评股票交易情况，称：对任何实质性的、该披露而未披露信息并不知情。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1389177.d.html</link>
-            <guid>1995427</guid>
-            <pubDate>Wed, 27 Jan 2021 18:16:42 GMT</pubDate>
+            <title><![CDATA[百度短线拉升，跌幅缩窄至2.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2380391.d.html</link>
+            <guid>1995579</guid>
+            <pubDate>Wed, 27 Jan 2021 20:04:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  NatWest Markets全球策略主管John Briggs：预计美联储主席鲍威尔将会表示利率维持在低位，我们需要更多的财政（刺激）措施；此外病毒危机尚未脱离，目前还有很多工作要做。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1389005.d.html</link>
-            <guid>1995426</guid>
-            <pubDate>Wed, 27 Jan 2021 18:13:24 GMT</pubDate>
+            <title><![CDATA[  市场消息：美国加州车管局授权百度测试无人驾驶车辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2380371.d.html</link>
+            <guid>1995578</guid>
+            <pubDate>Wed, 27 Jan 2021 20:03:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中概股跟谁学涨近40%，网易有道涨超16%，优客工场涨超10%，康迪车业、金融界涨超8%，爱奇艺、人人涨超7%。昨日上市的易电行跌超53%，该股昨日上市暴涨352%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2374397.d.html</link>
-            <guid>1995424</guid>
-            <pubDate>Wed, 27 Jan 2021 18:10:27 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：比起可能出现的更高的通货膨胀，人们更担心的是经济无法完全复苏。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2380339.d.html</link>
+            <guid>1995577</guid>
+            <pubDate>Wed, 27 Jan 2021 20:03:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国白宫气候变化顾问McCarthy：国际气候变化目标将是“激进的”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1388749.d.html</link>
-            <guid>1995421</guid>
-            <pubDate>Wed, 27 Jan 2021 18:08:39 GMT</pubDate>
+            <title><![CDATA[  墨西哥央行：通胀演变的冲击给货币政策带来了挑战。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2380320.d.html</link>
+            <guid>1995576</guid>
+            <pubDate>Wed, 27 Jan 2021 20:03:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【游戏驿站空头巨亏超300亿人民币，有散户盈利超1亿元】根据S3 Partners的数据，今年迄今为止，游戏驿站的空头亏损超过50亿美元（相当于300多亿人民币），其中周一和上周五分别亏损9.17亿美元和16亿美元。目前还无法确认Melvin Capital的亏损额，但媒体称，有关Melvin Capital将申请破产的猜测纯属子虚乌有。与此同时，在美国社交平台上，散户们却在狂欢，网络上充斥了大量的散户持仓截图，盈利从几万到千万美元不等，甚至有网友表示，已盈利了1700万美金（折合人民币1.1亿元），1月26日至少翻了一倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2374122.d.html</link>
-            <guid>1995418</guid>
-            <pubDate>Wed, 27 Jan 2021 18:05:53 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：美国的通货膨胀动态短期内不会有太大变化。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1394751.d.html</link>
+            <guid>1995575</guid>
+            <pubDate>Wed, 27 Jan 2021 20:02:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国财政部拍卖317.8亿美元两年期浮息国债（FRNS），贴现利率为0.049%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2374064.d.html</link>
-            <guid>1995417</guid>
-            <pubDate>Wed, 27 Jan 2021 18:04:45 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：世界正在与通货紧缩的力量作斗争。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1394709.d.html</link>
+            <guid>1995573</guid>
+            <pubDate>Wed, 27 Jan 2021 20:02:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[媒体称德美利证券（TD Ameritrade）向用户发布警告，限制对GameStop、AMC及其他一些股票的交易。有关图片在社交媒体流传，但该经纪公司尚未确认这一消息，不过早些时候，德美利证券曾表示因交易量导致APP出现问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2373918.d.html</link>
-            <guid>1995416</guid>
-            <pubDate>Wed, 27 Jan 2021 18:02:59 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：一段时间以来，我们一直在与抑制通货膨胀的力量作斗争。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2380235.d.html</link>
+            <guid>1995570</guid>
+            <pubDate>Wed, 27 Jan 2021 20:02:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[纳斯达克CEO：零售交易量从2020年开始的上升趋势将延续。正在监测活动中追踪社交媒体上的讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1388128.d.html</link>
-            <guid>1995414</guid>
-            <pubDate>Wed, 27 Jan 2021 17:57:40 GMT</pubDate>
+            <title><![CDATA[  墨西哥央行：将利用现有的通货膨胀因素信息来决定未来的货币政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1394698.d.html</link>
+            <guid>1995569</guid>
+            <pubDate>Wed, 27 Jan 2021 20:01:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【首单个人不良贷款转让落地】继监管放开个人不良贷款批量转让试点后，首家“吃螃蟹”的银行已经出现。1月27日注意到，银行业信贷资产登记流转中心网站“银登网”发布了一则《平安银行拟批转个人不良债权简介》，这也是银行业首个挂网推介个人不良贷款资产包的银行。（北京商报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1388083.d.html</link>
-            <guid>1995413</guid>
-            <pubDate>Wed, 27 Jan 2021 17:56:37 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：我们的重点是给予经济所需的支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1394694.d.html</link>
+            <guid>1995568</guid>
+            <pubDate>Wed, 27 Jan 2021 20:01:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  迪拜更新入境旅客旅行规定：核酸检测的有效时间缩减至72小时。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2373542.d.html</link>
-            <guid>1995412</guid>
-            <pubDate>Wed, 27 Jan 2021 17:55:46 GMT</pubDate>
+            <title><![CDATA[  国际清算银行调查显示，代表全球五分之一人口的央行可能在未来3年内发行数字货币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1394680.d.html</link>
+            <guid>1995567</guid>
+            <pubDate>Wed, 27 Jan 2021 20:01:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  据美联社：如果特朗普再次竞选总统，共和党将保持“中立”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2373070.d.html</link>
-            <guid>1995409</guid>
-            <pubDate>Wed, 27 Jan 2021 17:48:29 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：让失业的人重返工作岗位至关重要。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2380163.d.html</link>
+            <guid>1995566</guid>
+            <pubDate>Wed, 27 Jan 2021 20:00:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  Downdetector网站公布的数据显示，热门交易网站Robinhood、Ameritrade、富达投资和嘉信理财出现宕机现象。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2372899.d.html</link>
-            <guid>1995408</guid>
-            <pubDate>Wed, 27 Jan 2021 17:46:07 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：关注的重点是为经济提供必需的支撑。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1394614.d.html</link>
+            <guid>1995565</guid>
+            <pubDate>Wed, 27 Jan 2021 20:00:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  市场消息：美国总统拜登将于4月22日就气候问题举行领导人峰会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1387380.d.html</link>
-            <guid>1995407</guid>
-            <pubDate>Wed, 27 Jan 2021 17:45:29 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：完全聚焦于退出策略是非常不成熟的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1394611.d.html</link>
+            <guid>1995564</guid>
+            <pubDate>Wed, 27 Jan 2021 20:00:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【在游戏驿站引领的史诗级逼空浪潮持续白热化之际，多家交易网站出现宕机】Downdetector.com的数据显示，热门交易网站Robinhood、Ameritrade、E*Trade、富达投资和嘉信理财都出现了宕机现象。Robinhood称其在加密货币交易方面遇到了一些问题，并正在努力解决这个问题。这次宕机事件发生之时，以游戏驿站、AMC娱乐、Express为首的众多遭大量做空的股票正在上演一场史诗级逼空。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1387278.d.html</link>
-            <guid>1995405</guid>
-            <pubDate>Wed, 27 Jan 2021 17:43:41 GMT</pubDate>
+            <title><![CDATA[  墨西哥央行：经济疲软的状况将逐渐消失。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1394607.d.html</link>
+            <guid>1995562</guid>
+            <pubDate>Wed, 27 Jan 2021 20:00:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  达美航空CEO：预计今年夏天（美国）国内旅游需求将激增。国际客流量激增可能还需要一年的时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2372645.d.html</link>
-            <guid>1995404</guid>
-            <pubDate>Wed, 27 Jan 2021 17:42:04 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：缩减购债规模将是渐进的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1394574.d.html</link>
+            <guid>1995561</guid>
+            <pubDate>Wed, 27 Jan 2021 19:59:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[苹果目前维持在平盘水平附近，根据研究公司Counterpoint 和Cyber Media最新调查数据显示，在去年第四季度，苹果公司iPhone在印度销量超过150万台，增幅达100%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2372488.d.html</link>
-            <guid>1995403</guid>
-            <pubDate>Wed, 27 Jan 2021 17:40:12 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：当到一定阶段时，我们将在逐步削减购债规模之前就进行良好的沟通。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2380100.d.html</link>
+            <guid>1995560</guid>
+            <pubDate>Wed, 27 Jan 2021 19:59:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  市场消息：挪威加强了针对外国公民的边境控制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2372456.d.html</link>
-            <guid>1995401</guid>
-            <pubDate>Wed, 27 Jan 2021 17:39:48 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：现在谈论缩减购债还为时过早。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1394539.d.html</link>
+            <guid>1995558</guid>
+            <pubDate>Wed, 27 Jan 2021 19:59:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  挪威总理：将在两周内重新评估旅行措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2372447.d.html</link>
-            <guid>1995400</guid>
-            <pubDate>Wed, 27 Jan 2021 17:39:44 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：如果需要的话，我们可以在资产购买方面做更多的事情。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2380076.d.html</link>
+            <guid>1995557</guid>
+            <pubDate>Wed, 27 Jan 2021 19:58:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国财政部声明：美国财长耶伦在与德国财长肖尔茨的电话交谈中承诺，美国将积极参与正在进行的经合组织有关国际税收的谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2372343.d.html</link>
-            <guid>1995399</guid>
-            <pubDate>Wed, 27 Jan 2021 17:38:01 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：如有必要，我们可以增强前瞻性指引。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2380071.d.html</link>
+            <guid>1995556</guid>
+            <pubDate>Wed, 27 Jan 2021 19:58:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【信托“抢滩”万亿职业年金市场】截至2020年三季度末，我国年金基金制度已覆盖近6600万职工，累计规模逾3.1万亿元。随着人力资源社会保障部扩大年金基金投资范围，我国信托产品在年金基金配置中的规模将现爆发式增长。（经参）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1386649.d.html</link>
-            <guid>1995398</guid>
-            <pubDate>Wed, 27 Jan 2021 17:32:25 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：我们提供了新的框架和前瞻性指引，现在在利率和资产购买方面的前瞻指引都非常强劲。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1394506.d.html</link>
+            <guid>1995555</guid>
+            <pubDate>Wed, 27 Jan 2021 19:58:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【“郑爽事件”波及银行，文化金融“蹊径”不好走】北京京西文化旅游股份有限公司一则5亿元银行贷款逾期，将兴业银行带入舆论的漩涡。在这背后，北京文化因踩雷“郑爽事件”，投资其主演的待播剧播出恐遇阻，资金困局“雪上加霜”，受到社会广泛关注。北京文化自2019年下半年以来，曾向兴业银行、华夏银行、民生银行等银行密集申请授信，但多笔贷款后续申请了展期。伴随着北京文化被立案调查，影视圈的“雷”波及到了金融圈，也为银行如何更好地发展文化金融敲响了警钟。（北京商报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2371548.d.html</link>
-            <guid>1995395</guid>
-            <pubDate>Wed, 27 Jan 2021 17:23:59 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：政策正在发挥作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2380024.d.html</link>
+            <guid>1995554</guid>
+            <pubDate>Wed, 27 Jan 2021 19:57:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[宝马汽车：据初步估算，本公司四季度汽车自由现金流（FCF）大约为28亿欧元，2019年同期为15亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2371368.d.html</link>
-            <guid>1995392</guid>
-            <pubDate>Wed, 27 Jan 2021 17:20:51 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：目前的政策立场是正确的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1394471.d.html</link>
+            <guid>1995553</guid>
+            <pubDate>Wed, 27 Jan 2021 19:57:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[国际铜夜盘收跌1.64%，沪铜收跌1.48%，沪铝跌0.10%，沪锌收跌1.81%，沪铅收涨0.77%，沪镍收跌1.22%，沪锡收涨0.40%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1385901.d.html</link>
-            <guid>1995390</guid>
-            <pubDate>Wed, 27 Jan 2021 17:19:34 GMT</pubDate>
+            <title><![CDATA[  墨西哥央行：2021年墨西哥经济将继续面临不确定的环境。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2380005.d.html</link>
+            <guid>1995552</guid>
+            <pubDate>Wed, 27 Jan 2021 19:57:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  国际奥委会主席巴赫：目前还不能确定观众能否现场观战东京的奥运会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2371263.d.html</link>
-            <guid>1995389</guid>
-            <pubDate>Wed, 27 Jan 2021 17:19:02 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：不考虑提高保证金的要求。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1394440.d.html</link>
+            <guid>1995551</guid>
+            <pubDate>Wed, 27 Jan 2021 19:56:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  市场消息：AMC院线总计增发了6330万股A类股票，增发收益3.048亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1385662.d.html</link>
-            <guid>1995386</guid>
-            <pubDate>Wed, 27 Jan 2021 17:16:03 GMT</pubDate>
+            <title><![CDATA[分析师Douglas Zehr：鲍威尔关于利率和资产负债表指引的评论基本上重申了这样一种观点：即我们距离加息、甚至可能缩减购债规模还有很长一段时间。在2007-2009年金融危机之后，美联储有7年没有加息，是在结束资产购买的13个月后才加息。根据这些评论，认为2023年加息的观点可能过于乐观了。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2379954.d.html</link>
+            <guid>1995549</guid>
+            <pubDate>Wed, 27 Jan 2021 19:55:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  法国游戏开发商Dontnod Entertainment：腾讯将在4000万欧元投资基础上增加投资3000万欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1385307.d.html</link>
-            <guid>1995383</guid>
-            <pubDate>Wed, 27 Jan 2021 17:10:31 GMT</pubDate>
+            <title><![CDATA[现货白银跌幅超1%，报25.14美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2379933.d.html</link>
+            <guid>1995547</guid>
+            <pubDate>Wed, 27 Jan 2021 19:55:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  英国外交大臣拉布：对美国总统拜登对气候变化和重返世界卫生组织的承诺表示欢迎。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1385293.d.html</link>
-            <guid>1995382</guid>
-            <pubDate>Wed, 27 Jan 2021 17:10:26 GMT</pubDate>
+            <title><![CDATA[现货黄金短线走低逾5美元，暂报1841.53美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2379926.d.html</link>
+            <guid>1995546</guid>
+            <pubDate>Wed, 27 Jan 2021 19:55:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【经参头版评论：强化商业银行负债质量管理 更好服务实体经济】近日，银保监会公告对《商业银行负债质量管理办法》公开征求意见，《办法》明确商业银行负债质量管理内涵和业务范围。《办法》目前是公开征求意见，在这其中，围绕中央提出的构建多层次银行机构体系的要求，商业银行既要符合监管要求，也要考虑自身情况，在合规的前提下寻求差异化策略。如相比之下，大型商业银行更要突出以存款性负债为主的负债发展格局，充分发挥其产品、服务、渠道、科技等综合性金融服务优势，以更优质的产品服务，推动存款继续保持稳定增长，将付息成本维持在合理适度水平；中小型商业银行对同业负债依赖性相对较强，可以在这方面有更多的思考并采取相应举措。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1385201.d.html</link>
-            <guid>1995381</guid>
-            <pubDate>Wed, 27 Jan 2021 17:09:30 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：要达到群体免疫还需要一段时间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2379849.d.html</link>
+            <guid>1995543</guid>
+            <pubDate>Wed, 27 Jan 2021 19:53:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[恐慌指数VIX一度涨28%，最高报29.48。]]></title>
-            <guid>1995380</guid>
-            <pubDate>Wed, 27 Jan 2021 17:08:25 GMT</pubDate>
+            <title><![CDATA[非美货币短线走低，英镑兑美元GBP/USD下挫20余点，美元指数DXY涨至90.64。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1394284.d.html</link>
+            <guid>1995542</guid>
+            <pubDate>Wed, 27 Jan 2021 19:53:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  沙特能源大臣阿卜杜勒-阿齐兹：最近的石油减产表明欧佩克成员国仍保持警惕。 全球石油库存持续下降，尤其是船舶上的库存。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1385112.d.html</link>
-            <guid>1995379</guid>
-            <pubDate>Wed, 27 Jan 2021 17:08:12 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：我们不会采用特定的通货膨胀公式。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1394241.d.html</link>
+            <guid>1995541</guid>
+            <pubDate>Wed, 27 Jan 2021 19:52:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道指跌超600点，标普500指数跌幅扩大至2.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2379771.d.html</link>
+            <guid>1995540</guid>
+            <pubDate>Wed, 27 Jan 2021 19:52:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储主席鲍威尔：如果出现这种需要，我们会有对付高通胀的工具，但不要有所期待。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2379741.d.html</link>
+            <guid>1995539</guid>
+            <pubDate>Wed, 27 Jan 2021 19:52:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储主席鲍威尔：我们现在看到的任何情况都不太可能导致令人不安的通货膨胀。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2379728.d.html</link>
+            <guid>1995538</guid>
+            <pubDate>Wed, 27 Jan 2021 19:51:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储主席鲍威尔：25年来，平均通货膨胀率低于2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1394169.d.html</link>
+            <guid>1995537</guid>
+            <pubDate>Wed, 27 Jan 2021 19:51:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  捷克总理：政府考虑采取更严格的封锁措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1394160.d.html</link>
+            <guid>1995536</guid>
+            <pubDate>Wed, 27 Jan 2021 19:51:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储主席鲍威尔：美联储将保持耐心，如果看到短期的通货膨胀小幅上升，美联储不会做出反应。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2379692.d.html</link>
+            <guid>1995535</guid>
+            <pubDate>Wed, 27 Jan 2021 19:51:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储主席鲍威尔：未来几个月的通货膨胀将是短暂的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1394140.d.html</link>
+            <guid>1995534</guid>
+            <pubDate>Wed, 27 Jan 2021 19:50:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  新西兰证交所：致力于提供改进措施。 承认监管机构发现了技术缺陷。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1394121.d.html</link>
+            <guid>1995533</guid>
+            <pubDate>Wed, 27 Jan 2021 19:50:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中概股天睿祥保险目前停牌，停牌前上涨434.25%，该股今日首日交易，盘中一度暴涨1150%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1394086.d.html</link>
+            <guid>1995531</guid>
+            <pubDate>Wed, 27 Jan 2021 19:50:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储主席鲍威尔：我更倾向于使用宏观审慎工具来处理金融稳定问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1394044.d.html</link>
+            <guid>1995529</guid>
+            <pubDate>Wed, 27 Jan 2021 19:49:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储主席鲍威尔：低利率和资产价值之间的联系并不像人们想象的那么紧密。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2379515.d.html</link>
+            <guid>1995528</guid>
+            <pubDate>Wed, 27 Jan 2021 19:47:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储主席鲍威尔：货币政策并非推动资产价格上涨的主因。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2379513.d.html</link>
+            <guid>1995527</guid>
+            <pubDate>Wed, 27 Jan 2021 19:47:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国保险经纪公司天睿祥美股上市首日一度暴涨1150%，现涨超430%，触及熔断。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2379487.d.html</link>
+            <guid>1995525</guid>
+            <pubDate>Wed, 27 Jan 2021 19:47:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储主席鲍威尔：金融稳定的脆弱性是适度的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2379448.d.html</link>
+            <guid>1995524</guid>
+            <pubDate>Wed, 27 Jan 2021 19:46:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
