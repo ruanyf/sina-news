@@ -4,11 +4,214 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 28 Jan 2021 22:29:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jan 2021 23:31:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[东京1月份整体消费物价同比下降0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1616550.d.html</link>
+            <guid>1998774</guid>
+            <pubDate>Thu, 28 Jan 2021 23:30:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本12月失业率2.9%，预估为3.0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1616518.d.html</link>
+            <guid>1998773</guid>
+            <pubDate>Thu, 28 Jan 2021 23:30:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【媒体评论：“反抗华尔街”是美国深层次矛盾在资本市场的一次爆发】在美国股市持续走牛的过程中，机构和股东几乎垄断了“牛市红利”，大部分散户没能在市场中获益，加剧了财富分化，这是散户愤怒并且抱团反抗机构的背景。这不仅仅是一次特殊的交易现象，而是美国政治、经济与社会等问题在资本市场的一次爆发，有其必然性，是对美国的现状与未来将面临的一系列深刻矛盾的揭示。（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2601914.d.html</link>
+            <guid>1998770</guid>
+            <pubDate>Thu, 28 Jan 2021 23:26:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美媒：美日印澳建不成反华同盟，理由有二】美国《外交政策》网站1月27日文章，原题：为什么构筑新反华同盟会失败？与一个更强大的中国共处，令澳大利亚、印度、日本和美国感到不自在，它们通过“四方安全对话”（Quad）合作进行防范的举动可以理解。然而，这改变不了亚洲历史的进程，原因很简单：一、四国的地缘政治利益和脆弱性不同；二、也是更根本原因，它们处在错误的博弈中。亚洲的战略大博弈并非军事，而是经济。   （环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2601777.d.html</link>
+            <guid>1998768</guid>
+            <pubDate>Thu, 28 Jan 2021 23:24:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【央行主管媒体：公开市场操作“相机抉择” 呵护节前资金面 研究员预计春节前或将加大资金投放量】中国金融时报头版援引中国银行研究院研究员李义举称，短期从流动性来看，公开市场操作在春节前或将加大资金投放量以应对需求。文章还援引光大银行金融市场部分析师周茂华称，央行将根据市场情况进行预调微调，结合往年经验，尤其是临近月底和春节，将通过公开市场操作投放流动性，保持资金面平稳无虞。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1615937.d.html</link>
+            <guid>1998767</guid>
+            <pubDate>Thu, 28 Jan 2021 23:23:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今日在售高收益银行理财产品一览】今日业绩比较基准在5%以上的银行人民币理财产品共7款。理财非存款、产品有风险、投资须谨慎！]]></title>
+            <guid>1998766</guid>
+            <pubDate>Thu, 28 Jan 2021 23:21:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中银研究：逆回购操作呵护春节流动性】中国银行研究院研究员李义举表示，预计未来货币政策将保持稳健，同时更加侧重于结构性政策。包括在两项直达实体经济的货币政策工具延期的基础上，继续采用支农支小再贷款等结构性货币政策工具支持中小企业发展。短期从流动性来看，李义举认为，公开市场操作在春节前或将加大资金投放量以应对需求。长期来看，2021年降准的可能性下降，MLF、逆回购将继续承担调节流动性的功能，LPR利率大概率保持稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2601412.d.html</link>
+            <guid>1998765</guid>
+            <pubDate>Thu, 28 Jan 2021 23:20:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【28只券商公募大集合产品上线互联网平台】在政策的助推下，券商资管产品公募化改造不断提速。数据统计显示，2020年末已有93只券商大集合产品完成了公募化改造，资产净值总计约1500亿元。在93只已完成公募化改造的券商大集合产品中，目前已有28只上线互联网理财平台销售。同时，“一参一控”限制放宽、“资管新规”延长过渡期，也为券商大集合产品的公募化改造提供了更大便利，约7000亿元存量大集合产品将在2021年底转变成公募产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2601281.d.html</link>
+            <guid>1998764</guid>
+            <pubDate>Thu, 28 Jan 2021 23:18:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【精选层“二八效应”显现 资金瞄向潜力龙头】精选层开市交易已满半年，流动性较以往有了很大提升。近期，随着精选层企业披露2020年三季度业绩及2020年全年业绩预告，个股的表现分化明显，流动性逐渐向拥有核心技术且行业壁垒高的细分领域龙头集中。精选层运行半年来，市场流动性已经呈现出“二八分化”现象，资金逐渐向头部集中。（上海证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1615424.d.html</link>
+            <guid>1998763</guid>
+            <pubDate>Thu, 28 Jan 2021 23:17:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【严监管成常态 信托业务转型方向渐明晰】2021年信托业延续“严监管”主基调。记者根据中国银保监会网站信息统计，2021年以来（以罚单发布时间为统计口径），已有5家信托公司被罚。分析人士称，“严监管”已成为一种常态。未来信托公司应回归本源，筑牢风险防范体系，进一步深化转型创新。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1615262.d.html</link>
+            <guid>1998762</guid>
+            <pubDate>Thu, 28 Jan 2021 23:16:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【私募发行火爆创纪录 头部机构成大赢家】新年伊始，A股交易活跃，私募发行快速升温，单月发行数量料创纪录。记者多方调查发现，头部私募成为其中大赢家。私募基金发行火爆的背后，是券商、银行等机构渠道的大力推动，私募投资者群体快速扩大。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2600982.d.html</link>
+            <guid>1998761</guid>
+            <pubDate>Thu, 28 Jan 2021 23:15:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【内外资分歧加大 抱团股“尚能涨否”？】1月中旬以来，以白酒股为主的抱团股出现松动、走势分化的迹象备受关注。针对这一现象，记者采访了多位内资及外资机构的专家。受访对象普遍认为两边资金属于短期分歧，白酒为代表的抱团股估值“确实是贵了”，但是基本面不差，后续需依靠业绩支撑，而股价快速上涨后波动可能因事件性因素而放大。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1615035.d.html</link>
+            <guid>1998760</guid>
+            <pubDate>Thu, 28 Jan 2021 23:14:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【快手科技香港IPO散户股获465倍超额认购】基于截至周四针对散户投资者的4,893亿港元保证金贷款计算，快手科技IPO的散户股已获得465倍超额认购。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2600771.d.html</link>
+            <guid>1998759</guid>
+            <pubDate>Thu, 28 Jan 2021 23:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【业绩未达预期，90%百亿爆款基金遭净赎回】据统计，发行总份额超过100亿份、在2020年前三个季度成立、开放式的主动权益类基金共有20只（A/C类合并计算），其中18只百亿级新基金在四季度出现净赎回，占比高达90%。这个数据背后，暗含公募基金行业新的运营趋势。（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1614776.d.html</link>
+            <guid>1998757</guid>
+            <pubDate>Thu, 28 Jan 2021 23:11:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚ASX200指数1月29日（周五）开盘上涨66.40点，涨幅1.00%，报6649.70点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2600438.d.html</link>
+            <guid>1998756</guid>
+            <pubDate>Thu, 28 Jan 2021 23:10:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WSB概念股美股盘后走强，高斯电子涨50%，AMC院线涨32%，黑莓涨12%，诺基亚涨3.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1614102.d.html</link>
+            <guid>1998755</guid>
+            <pubDate>Thu, 28 Jan 2021 23:05:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股期货盘初下跌，标普500指数期货跌0.30%，纳指期货跌0.32%，道指期货跌0.27%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2599659.d.html</link>
+            <guid>1998754</guid>
+            <pubDate>Thu, 28 Jan 2021 23:02:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国会参议院共和党成员Toomey：监管部门和国会山应当本着谨慎的态度去审查与游戏驿站（GME）股票交易相关的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1613831.d.html</link>
+            <guid>1998753</guid>
+            <pubDate>Thu, 28 Jan 2021 23:02:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[游戏驿站（GME）美股盘后涨幅扩大至将近51.9%，此前Robinhood称周五将允许有限地交易那些受限制的股票，且Robinhood经从小摩和高盛等银行获得至少数亿美元信用额度。目前，高斯电子涨47.9%，AMC娱乐涨37%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1613815.d.html</link>
+            <guid>1998752</guid>
+            <pubDate>Thu, 28 Jan 2021 23:01:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【新规实施在即 指数基金将迎大发展】公募基金管理人的指数基金开发将迎来新规约束。新规除了对基金管理人专业胜任能力做出定性规定外，更为备受关注的是对指数成份股数量、前五大权重标的占比等细节做出明确限制。分析人士指出，相关约束政策的出台是针对ETF产品申报“大跃进”的乱象。在市场环境改善的基础上，指数基金有望成为投资者多维度参与市场行情的重要选择工具，这也有望为市场持续引入中长期增量资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1613731.d.html</link>
+            <guid>1998750</guid>
+            <pubDate>Thu, 28 Jan 2021 23:00:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[快手香港IPO面向散户部分迄今已获得465倍超额认购。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2599520.d.html</link>
+            <guid>1998749</guid>
+            <pubDate>Thu, 28 Jan 2021 23:00:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【复制策略横行 “孪生”基金频现】2020年基金四季报中，各公募基金都披露了持仓数据。然而，某些基金竟拥有同样的“配方”，持仓配置高度一致，甚至业绩曲线几近重合，短期、中期、长期业绩仅相差不到0.1%，宛如一对“双胞胎”。此外，公募基金抢发“爆款”，新发产品层出不穷，但一些新发产品却缺乏新意，甚至同一时期接连发行“孪生”产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2599322.d.html</link>
+            <guid>1998748</guid>
+            <pubDate>Thu, 28 Jan 2021 22:58:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【券商：资金面无虞 结构牛可期】券商机构表示，市场回调与各方对流动性出现拐点的担忧不无关系，央行公开市场净回笼，资金利率飙升。就后市而言，预计流动性收紧的空间有限，A股依然处于结构牛市之中，建议投资者将投资周期拉长，等待盈利预期进一步抬升后的介入机会。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2599173.d.html</link>
+            <guid>1998747</guid>
+            <pubDate>Thu, 28 Jan 2021 22:56:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国广电牵手中国移动，广电5G“放号”近在眼前】“广电5G推进的脚步还是蛮快的，和中国移动的具体合作就是一次大加速。”一位接近中国广电网络股份有限公司的人士表示。据了解，广电5G则最快在今年二季度放号，这将成为广电5G最实质的喜讯。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1613229.d.html</link>
+            <guid>1998745</guid>
+            <pubDate>Thu, 28 Jan 2021 22:54:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西总统博索纳罗：巴西债务达到上限。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1613070.d.html</link>
+            <guid>1998744</guid>
+            <pubDate>Thu, 28 Jan 2021 22:51:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国五角大楼发言人表示，暂时未做出调整驻阿富汗美军数量的决定。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1613060.d.html</link>
+            <guid>1998743</guid>
+            <pubDate>Thu, 28 Jan 2021 22:50:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  全球最大黄金ETF--SPDR Gold Trust持仓较上日下降4.37吨，降幅0.37%，当前持仓量为1164.80吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2598865.d.html</link>
+            <guid>1998742</guid>
+            <pubDate>Thu, 28 Jan 2021 22:50:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国众议院议员拜伦·唐纳兹呼吁对Citadel和Robinhood进行调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1612881.d.html</link>
+            <guid>1998741</guid>
+            <pubDate>Thu, 28 Jan 2021 22:47:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国在线券商Robinhood已动用了“数亿美元”的信贷额度，向该公司提供贷款的银行包括摩根大通和高盛等银行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2598731.d.html</link>
+            <guid>1998740</guid>
+            <pubDate>Thu, 28 Jan 2021 22:47:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【3天回笼3280亿元 资金面何时迎来转机】央行昨日开展1000亿元逆回购，对冲2500亿元到期量后，实现净回笼1500亿元。近3个交易日共计净回笼3280亿元。对于连续净回笼的原因，央行表示，临近月末财政支出大幅加大，这意味着伴随财政资金投向市场，将缓和资金面边际趋紧的状况。开源证券首席固收分析师杨为敩认为，短期看，资金面紧张情况可能即将过去。后续公开市场操作节奏上，大概率略微放量，且随着月末效应过去，资金面可能出现明显恢复。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2598560.d.html</link>
+            <guid>1998739</guid>
+            <pubDate>Thu, 28 Jan 2021 22:44:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【房贷新规实施首月：广州四大行房贷全线涨价 北京房贷市场“不紧张”】近日，深圳、广州、上海地区的部分银行房贷额度收紧引发市场广泛关注。而日前广州的四大行房贷全线涨价，更是引发了房贷市场是否将迎来变局的猜测。然而与广州、上海不同的是，北京地区房贷市场却淡定如常。业内人士认为，近期四大行调整房贷利率有着风向标的意义，也体现了信贷政策收紧导向。其背后反映的是房地产调控政策“房住不炒”信号的再一次明确。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1612572.d.html</link>
+            <guid>1998738</guid>
+            <pubDate>Thu, 28 Jan 2021 22:42:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【首批科创板定开基金上市大跌 “打折”购买仍需谨慎】1月28日，易方达科创板两年定期开放混合、汇添富科创板两年定期开放混合、南方科创板三年定期开放混合3只科创板定开基金上市。昨日A股迎来调整，科创板定开基金的首秀也以大跌收场，3只基金跌幅分别达9.99%、12.21%、12.12%，且贴水率不低。业内人士认为，尽管科创板定开基金出现了一定的折价，但投资这类产品仍需谨慎。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2597991.d.html</link>
+            <guid>1998737</guid>
+            <pubDate>Thu, 28 Jan 2021 22:36:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元指数DXY跌破90.5，日内跌0.19%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2597777.d.html</link>
+            <guid>1998736</guid>
+            <pubDate>Thu, 28 Jan 2021 22:32:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【恒指连跌南向资金连买 今年来已净买入近3000亿港元】本周恒生指数30000点得而复失，近3个交易日累计下跌约5.3%，南向资金合计净买入约2982亿港元。分析师认为，由于本轮港股上涨主要缘于南向资金脉冲式涌入推动，当股价从低估修复至合理或相对高估后，就会出现更激烈的多空博弈。 (上证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2597767.d.html</link>
+            <guid>1998735</guid>
+            <pubDate>Thu, 28 Jan 2021 22:32:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据经参，展望2021年银行理财市场，专家认为，净值化转型进入冲刺阶段，现金管理类产品等业务整改压力值得关注，加码权益类配置则成为银行比拼投研实力的“新战场”。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2597634.d.html</link>
@@ -283,149 +486,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2589327.d.html</link>
             <guid>1998676</guid>
             <pubDate>Thu, 28 Jan 2021 19:46:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[交易平台Coinbase宣布其计划通过直接上市的方式上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2589023.d.html</link>
-            <guid>1998673</guid>
-            <pubDate>Thu, 28 Jan 2021 19:39:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  WTI 3月原油期货收跌0.51美元，跌幅0.96%，报52.34美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1603258.d.html</link>
-            <guid>1998672</guid>
-            <pubDate>Thu, 28 Jan 2021 19:39:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国会参议院共和党成员Cruz：希望（Robinhood等券商）围绕游戏驿站（GME）被暂停交易一事提供透明度。预计将针对交易平台暂停GME等任何股票交易的行为进行审查。GME将是一系列听证会合理的话题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2588999.d.html</link>
-            <guid>1998671</guid>
-            <pubDate>Thu, 28 Jan 2021 19:38:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国共和党参议员Toomey：（谈及罗宾汉平台）平台会暂停投资者的交易是令人不安的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1603220.d.html</link>
-            <guid>1998669</guid>
-            <pubDate>Thu, 28 Jan 2021 19:38:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[戴姆勒：初步数据显示，本公司2020年全年EBIT为66亿欧元，远超先前给出的指引和市场预期。全年调整后EBIT为86.4亿欧元。预计2021年业务前景偏正面。（车用）半导体供应短缺问题恐将影响到2021年一季度的表现。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1602589.d.html</link>
-            <guid>1998668</guid>
-            <pubDate>Thu, 28 Jan 2021 19:26:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉CEO马斯克：电动跑车Roadster将于今年完成工程，明年开始生产。目标是在夏末推出可驾驶的候选设计。三电机驱动系统和先进的电池工作是重要的前提。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1602237.d.html</link>
-            <guid>1998665</guid>
-            <pubDate>Thu, 28 Jan 2021 19:19:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国共和党议员Collins：与拜登总统进行了友好的通话。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1602219.d.html</link>
-            <guid>1998662</guid>
-            <pubDate>Thu, 28 Jan 2021 19:18:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  惠誉：拉丁美洲的企业开始复苏，预计其2021年的总收入将改善，整体而言，预计将恢复800亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1601989.d.html</link>
-            <guid>1998661</guid>
-            <pubDate>Thu, 28 Jan 2021 19:14:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国民主党参议员Kaine：可能会在下周提交谴责特朗普的决议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1601773.d.html</link>
-            <guid>1998660</guid>
-            <pubDate>Thu, 28 Jan 2021 19:09:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国共和党方面表示，民主党人使用预算达成救助方案损害了两党合作的努力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2587402.d.html</link>
-            <guid>1998659</guid>
-            <pubDate>Thu, 28 Jan 2021 19:07:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国参议员Sanders：民主党将在下周准备好预算决议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1601574.d.html</link>
-            <guid>1998656</guid>
-            <pubDate>Thu, 28 Jan 2021 19:06:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  法院文件显示，罗宾汉平台的金融客户在芝加哥和纽约因交易中止对其发起起诉，原告要求赔偿因游戏驿站、黑莓、诺基亚和AMC院线的交易中断带来的损失。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2587138.d.html</link>
-            <guid>1998655</guid>
-            <pubDate>Thu, 28 Jan 2021 19:02:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国炼油工业协会表示，寻求与生物燃料生产商结盟，反对拜登推动电动汽车的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2587129.d.html</link>
-            <guid>1998653</guid>
-            <pubDate>Thu, 28 Jan 2021 19:02:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉CEO埃隆·马斯克支持美国众议员科尔特斯对罗宾汉平台的看法（反对阻止散户交易游戏驿站股票，支持必要情况下举行听证会）。]]></title>
-            <guid>1998651</guid>
-            <pubDate>Thu, 28 Jan 2021 19:01:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  全球最大白银ETF——iShares Silver Trust的期权成交量达到历史新高的224万。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1601366.d.html</link>
-            <guid>1998650</guid>
-            <pubDate>Thu, 28 Jan 2021 19:01:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  富时罗素暂停从指数中移除部分证券。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2587101.d.html</link>
-            <guid>1998649</guid>
-            <pubDate>Thu, 28 Jan 2021 19:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国总统拜登签署行政令，重新向美国人开放奥巴马医保。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1601348.d.html</link>
-            <guid>1998648</guid>
-            <pubDate>Thu, 28 Jan 2021 19:01:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国总统拜登：正在修复特朗普导致的损害。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1601344.d.html</link>
-            <guid>1998647</guid>
-            <pubDate>Thu, 28 Jan 2021 19:01:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[十年期美债收益率涨至日高，暂报1.07%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1600192.d.html</link>
-            <guid>1998645</guid>
-            <pubDate>Thu, 28 Jan 2021 18:37:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯国家应急中心：俄罗斯将从2月8日起恢复与希腊和新加坡的空中交通。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1599954.d.html</link>
-            <guid>1998642</guid>
-            <pubDate>Thu, 28 Jan 2021 18:33:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上期所原油期货2103合约夜盘收涨0.30%，报335.00元人民币/桶。沪金夜盘收跌0.40%，沪银收涨2.51%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1599824.d.html</link>
-            <guid>1998640</guid>
-            <pubDate>Thu, 28 Jan 2021 18:30:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中概股明珠货运盘中大涨超20%后熔断。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1599105.d.html</link>
-            <guid>1998639</guid>
-            <pubDate>Thu, 28 Jan 2021 18:23:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  知情人士：脸书考虑对苹果发起反垄断诉讼。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2584819.d.html</link>
-            <guid>1998638</guid>
-            <pubDate>Thu, 28 Jan 2021 18:22:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行执委施纳贝尔：现在应该考虑如何顺利退出危机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2584800.d.html</link>
-            <guid>1998637</guid>
-            <pubDate>Thu, 28 Jan 2021 18:21:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
