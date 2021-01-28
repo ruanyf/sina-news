@@ -4,11 +4,218 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 28 Jan 2021 15:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jan 2021 16:48:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  市场消息：客户因游戏驿站股票交易问题起诉罗宾汉交易平台，寻求在纽约州联邦法院提起集体诉讼。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2578845.d.html</link>
+            <guid>1998589</guid>
+            <pubDate>Thu, 28 Jan 2021 16:44:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【欧股收盘 三大股指涨跌不一】欧股收盘涨跌不一，德国DAX指数涨0.33%报13665.93点，法国CAC40指数涨0.93%报5510.52点，英国富时100指数跌0.63%报6526.15点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1592885.d.html</link>
+            <guid>1998588</guid>
+            <pubDate>Thu, 28 Jan 2021 16:43:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲央行管委Kazaks：如果情况发生变化，不排除降息；现在无需降息，因为其他工具更为合适。]]></title>
+            <guid>1998587</guid>
+            <pubDate>Thu, 28 Jan 2021 16:43:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  罗宾汉交易平台限制美国航空、Castor Maritime、Sundial Growers及其他部分股票的交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2578549.d.html</link>
+            <guid>1998586</guid>
+            <pubDate>Thu, 28 Jan 2021 16:41:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫经济顾问提名人鲁斯：如果不支持经济并给经济提供更坚实的基础，我们可能“陷入螺旋式下跌”。拜登总统不会让共和党的税收减免“自动”废止，他会研究让企业支付合理的份额。]]></title>
+            <guid>1998585</guid>
+            <pubDate>Thu, 28 Jan 2021 16:36:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国众议院议长佩洛西：将全面审查游戏驿站公司的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2577661.d.html</link>
+            <guid>1998583</guid>
+            <pubDate>Thu, 28 Jan 2021 16:31:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股WSB概念股持续下跌，游戏驿站跌超63%，AMC院线跌60%，Express跌58%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2577130.d.html</link>
+            <guid>1998582</guid>
+            <pubDate>Thu, 28 Jan 2021 16:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西IBOVESPA指数涨超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1591316.d.html</link>
+            <guid>1998581</guid>
+            <pubDate>Thu, 28 Jan 2021 16:25:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果公司CEO库克：如果（用户隐私）数据可以被用于买卖，那我们就会丧失作为人的自由。（欧盟关于数据保护的）通用数据保护条例（GDPR）已经针对隐私权利提供意义重大的基础。在全球范围内构建隐私、数据法、安全肯定需要时间。众多用户已经要求本公司在APP和广告追踪方面提供透明度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1591052.d.html</link>
+            <guid>1998580</guid>
+            <pubDate>Thu, 28 Jan 2021 16:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMC院线大跌60%，黑莓跌超43%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1590883.d.html</link>
+            <guid>1998579</guid>
+            <pubDate>Thu, 28 Jan 2021 16:20:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[游戏驿站（GME）跌幅扩大至56%，触发日内至少第8次熔断。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1590391.d.html</link>
+            <guid>1998576</guid>
+            <pubDate>Thu, 28 Jan 2021 16:15:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：桥水基金正在为两只新基金而研究加密货币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1589759.d.html</link>
+            <guid>1998575</guid>
+            <pubDate>Thu, 28 Jan 2021 16:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  壳牌公司报告称在美国路易斯安州的Norco制造中心关停。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1589386.d.html</link>
+            <guid>1998572</guid>
+            <pubDate>Thu, 28 Jan 2021 16:05:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  葡萄牙当局将对公民海外旅行实施限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2575184.d.html</link>
+            <guid>1998571</guid>
+            <pubDate>Thu, 28 Jan 2021 16:04:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯能源部副部长索罗金：全球原油现况导致国内价格上涨。 俄罗斯2月炼油能力将提升，以满足需求。由于国内炼油需求，2月出原油出口将下降。 希望在不推升通胀的情况下保持燃料价格增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2575166.d.html</link>
+            <guid>1998570</guid>
+            <pubDate>Thu, 28 Jan 2021 16:04:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[通用汽车计划到2035年只生产电动汽车，停止生产柴油和汽油发动机的轿车、卡车和SUV。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2575049.d.html</link>
+            <guid>1998569</guid>
+            <pubDate>Thu, 28 Jan 2021 16:03:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[游戏驿站盘中第7次临停，跌幅扩大至24%，此前一度大涨超35%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2574578.d.html</link>
+            <guid>1998568</guid>
+            <pubDate>Thu, 28 Jan 2021 15:59:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德美利证券（TD Ameritrade）：此前出现的系统问题已经解决。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1588727.d.html</link>
+            <guid>1998567</guid>
+            <pubDate>Thu, 28 Jan 2021 15:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德国本土券商Trade Republic：由于交易量极高，出现交易中断现象。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1588691.d.html</link>
+            <guid>1998566</guid>
+            <pubDate>Thu, 28 Jan 2021 15:56:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国航空日内涨幅收窄至9%，此前一度涨超30%，盘前因在Reddit论坛被提及一度涨超80%；该股也被Robinhood限制交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1588562.d.html</link>
+            <guid>1998565</guid>
+            <pubDate>Thu, 28 Jan 2021 15:53:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国众议员Khanna：（谈及游戏驿站）市场需要更多监管。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1588554.d.html</link>
+            <guid>1998564</guid>
+            <pubDate>Thu, 28 Jan 2021 15:53:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股黄金板块普涨，赫克拉矿业涨超21%，科尔戴伦矿业涨近20%，哈莫尼黄金涨超6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2574321.d.html</link>
+            <guid>1998563</guid>
+            <pubDate>Thu, 28 Jan 2021 15:52:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国白宫经济顾问委员会成员Bernstein：拜登政府不会判断股市的变化。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1588529.d.html</link>
+            <guid>1998562</guid>
+            <pubDate>Thu, 28 Jan 2021 15:52:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[游戏驿站（GME）回吐盘中涨幅，并转而下跌4.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1588003.d.html</link>
+            <guid>1998560</guid>
+            <pubDate>Thu, 28 Jan 2021 15:44:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【FF招股说明书：将与吉利和中国某一线城市成立合资公司】法拉第未来（FF）今日向SEC递交的招股说明书显示，与吉利控股和中国某一线城市（a Tier 1 Chinese City）将建立合资公司，支持FF中国的生产和以及FF中国总部。该城市还将提供政府补贴，如税收优惠，建立研发中心的额外补贴等。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1587945.d.html</link>
+            <guid>1998559</guid>
+            <pubDate>Thu, 28 Jan 2021 15:43:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美、布两油短线下挫0.5美元，现分别报52.65美元/桶和55.28美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2573641.d.html</link>
+            <guid>1998558</guid>
+            <pubDate>Thu, 28 Jan 2021 15:43:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[不仅仅是iPhone助力苹果首次实现了千亿美元营收的里程碑。苹果在各方面都取得了不错的季度业绩，其中iPhone营收的17％的增长实际上是最弱的。早已被人们遗忘的iPad卷土重来，营收同比增长了40％以上。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1587496.d.html</link>
+            <guid>1998557</guid>
+            <pubDate>Thu, 28 Jan 2021 15:39:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股区块链板块大涨，第九城市涨超62%，人人网涨近20%，亿邦国际涨超7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2573009.d.html</link>
+            <guid>1998555</guid>
+            <pubDate>Thu, 28 Jan 2021 15:36:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WallStreetBets用户推文称，白银市场是“地球上受操纵最严重的市场之一”，价格应该在1000美元/盎司。而轧空将摧毁银行。]]></title>
+            <guid>1998554</guid>
+            <pubDate>Thu, 28 Jan 2021 15:36:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【波罗的海干散货指数连续刷三周新低，因海岬型、巴拿马型船运费均下跌】波罗的海干散货指数周四下跌70点或4.5%，报1470点，续刷三周以来的最低水平。海岬型船运价指数下跌9.3%或200点，至1945点，为连续第六个交易日录得下跌，触及逾五周低位，日均获利下跌1657美元至16133美元。巴拿马型船运价指数下跌14点或0.9%，至1631点，日均获利下降127美元至14680美元。超灵便型船运价指数微升3点至1166点，续刷2019年10月底以来最高水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2572940.d.html</link>
+            <guid>1998553</guid>
+            <pubDate>Thu, 28 Jan 2021 15:35:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  瓦莱罗能源公司：需要更多的欧佩克产量来平衡市场。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2572861.d.html</link>
+            <guid>1998551</guid>
+            <pubDate>Thu, 28 Jan 2021 15:34:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EIA天然气库存数据公布后，美国天然气期货短线下挫，现报2.63美元/百万英热。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1587020.d.html</link>
+            <guid>1998550</guid>
+            <pubDate>Thu, 28 Jan 2021 15:31:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMC院线跌幅扩大至将近55%，刷新日低至9.00美元，随后触发熔断。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1586999.d.html</link>
+            <guid>1998549</guid>
+            <pubDate>Thu, 28 Jan 2021 15:31:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  EIA天然气报告：美国天然气库存总量为28810亿立方英尺，较去年同期增加780亿立方英尺，同时较5年均值高出2440亿立方英尺。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1586921.d.html</link>
+            <guid>1998548</guid>
+            <pubDate>Thu, 28 Jan 2021 15:30:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股社交媒体板块齐涨，Snap涨超10%，推特涨超5%，Pinterest涨近5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1586862.d.html</link>
+            <guid>1998547</guid>
+            <pubDate>Thu, 28 Jan 2021 15:29:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[道指涨幅扩大至超过500点，成分股英特尔涨超5.8%，美国运通涨3.8%，迪士尼涨超3.4%，联合健康涨超3.0%，Visa、微软、Amgen、耐克摩根大通均涨超2.1%，但苹果仍然跌超1.4%，IBM和3M跌幅不足0.8%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2572175.d.html</link>
@@ -295,239 +502,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1581556.d.html</link>
             <guid>1998491</guid>
             <pubDate>Thu, 28 Jan 2021 14:35:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  沪银主力合约冲上5500元/千克，日内涨4.72%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1581476.d.html</link>
-            <guid>1998490</guid>
-            <pubDate>Thu, 28 Jan 2021 14:34:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[游戏驿站（GME）触发熔断，熔断前跌幅为13.63%，暂报300.16美元，美股盘前一度涨穿400美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1581457.d.html</link>
-            <guid>1998489</guid>
-            <pubDate>Thu, 28 Jan 2021 14:34:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国在线券商Robinhood：在股票、期权和加密货币交易方面遇到了问题，我们正在努力尽快解决这个问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1581447.d.html</link>
-            <guid>1998488</guid>
-            <pubDate>Thu, 28 Jan 2021 14:33:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货黄金日内涨幅扩大至1%，现报1862.03美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1581311.d.html</link>
-            <guid>1998487</guid>
-            <pubDate>Thu, 28 Jan 2021 14:32:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  部分WSB概念股大跌，AMC院线跌超39%，Express跌超25%，黑莓跌超22%，游戏驿站跌22%，3B家居跌超21%，诺基亚跌超21%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2567121.d.html</link>
-            <guid>1998486</guid>
-            <pubDate>Thu, 28 Jan 2021 14:32:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货白银日内涨幅进一步扩大至5%，现报26.49美元/盎司，创1月8日以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1581283.d.html</link>
-            <guid>1998485</guid>
-            <pubDate>Thu, 28 Jan 2021 14:31:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股三大指数高开 道指涨0.74%】标普500指数涨0.57%，纳指涨0.43%，特斯拉跌超5%，苹果跌1.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2567110.d.html</link>
-            <guid>1998484</guid>
-            <pubDate>Thu, 28 Jan 2021 14:31:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白银T+D日内上涨4.00%，现报5382元/千克。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1581249.d.html</link>
-            <guid>1998483</guid>
-            <pubDate>Thu, 28 Jan 2021 14:31:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[盈透证券：限制AMC院线、黑莓、Express、游戏驿站、高斯电子等期权交易，在另行通知之前，做多需要100%的保证金，做空需要300%的保证金。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2566827.d.html</link>
-            <guid>1998480</guid>
-            <pubDate>Thu, 28 Jan 2021 14:29:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国在线券商Robinhood提高了某些证券的保证金要求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1580923.d.html</link>
-            <guid>1998479</guid>
-            <pubDate>Thu, 28 Jan 2021 14:28:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：盈透证券将一些期权交易进行清算。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2566582.d.html</link>
-            <guid>1998478</guid>
-            <pubDate>Thu, 28 Jan 2021 14:26:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  游戏驿站（GME）美股盘前跌幅扩大至将近22%，继券商Robinhood之后，Interactive Brokers也限制游戏驿站的股票和期权交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2566241.d.html</link>
-            <guid>1998476</guid>
-            <pubDate>Thu, 28 Jan 2021 14:24:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【ST网力业绩预告：2020年度预亏3.5亿元-5.25亿元】ST网力公告，预计2020年度归属于上市公司股东的净亏损3.5亿元-5.25亿元，上年同期亏损31.93亿元。报告期内，公司归属于上市公司的净亏损较上年同期大幅下降，主要原因为2019年公司对违规担保计提预计负债及应收款项计提坏账准备、商誉进行减值等，2019年发生大额亏损。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2566159.d.html</link>
-            <guid>1998475</guid>
-            <pubDate>Thu, 28 Jan 2021 14:23:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【两连板远东股份：控股股东拟转让10%公司股份给宜兴城投】连续两日涨停的远东股份披露股价异动公告，控股股东远东控股正在与宜兴市城市发展投资有限公司沟通协商股份协议转让事项，初步确定分阶段向宜兴城投协议转让不超过10%公司股份。远东控股目前持有上市公司股份55.61%，本次协议转让不会导致控制权变更。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1580097.d.html</link>
-            <guid>1998474</guid>
-            <pubDate>Thu, 28 Jan 2021 14:23:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【思维列控业绩预告：2020年度由盈转亏 预亏5.4亿元-6.1亿元】思维列控公告，预计2020年年度实现归属于上市公司股东的净利润与上年同期(法定披露数据)相比，将出现亏损，实现归属于上市公司股东的净利润-6.1亿元到-5.4亿元。。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2565767.d.html</link>
-            <guid>1998473</guid>
-            <pubDate>Thu, 28 Jan 2021 14:21:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【证监会：福莱新材等3家公司首发过会 九恒条码被否】证监会公告，浙江福莱新材料股份有限公司、咸亨国际科技股份有限公司、东瑞食品集团股份有限公司首发获通过。广州九恒条码股份有限公司首发未获通过。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1579776.d.html</link>
-            <guid>1998472</guid>
-            <pubDate>Thu, 28 Jan 2021 14:20:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Appaloosa Management创始人David Tepper：在市场上投机性更高交易领域的投资者应保持谨慎。当互联网泡沫破灭时，这种投机并没有好结果。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2565371.d.html</link>
-            <guid>1998471</guid>
-            <pubDate>Thu, 28 Jan 2021 14:19:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：Reddit论坛提及白银ETF iShares，此前现货白银飙涨4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1579453.d.html</link>
-            <guid>1998470</guid>
-            <pubDate>Thu, 28 Jan 2021 14:19:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白银ETF iShares(SLV)盘前涨超4%，Sprott Physical Silver Trust(PSLV)盘前涨超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2565047.d.html</link>
-            <guid>1998469</guid>
-            <pubDate>Thu, 28 Jan 2021 14:17:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货黄金上破1860美元/盎司，较日内低位回升逾25美元，日内涨幅0.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2564795.d.html</link>
-            <guid>1998468</guid>
-            <pubDate>Thu, 28 Jan 2021 14:15:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【新产业：获得2项医疗器械注册证】新产业公告，近日，公司分别收到了广东省药品监督管理局、国家药品监督管理局颁发的共2项《医疗器械注册证》，产品名称为产前筛查风险计算软件、游离前列腺特异性抗原测定试剂盒(化学发光免疫分析法)。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1578961.d.html</link>
-            <guid>1998467</guid>
-            <pubDate>Thu, 28 Jan 2021 14:15:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国航空盘前涨幅收窄涨25%，稍早一度涨超80%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1578817.d.html</link>
-            <guid>1998466</guid>
-            <pubDate>Thu, 28 Jan 2021 14:14:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[游戏驿站盘前股价短线跳水，现转跌逾13%，此前一度涨逾40%。据报道，美国在线券商Robinhood暂停了游戏驿站、AMC娱乐控股等公司的股票交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1578661.d.html</link>
-            <guid>1998465</guid>
-            <pubDate>Thu, 28 Jan 2021 14:13:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京字节跳动CEO张楠：抖音做社交是基于用户需求的顺势而为】1月28日晚，在“创新大会2021”上，北京字节跳动CEO张楠围绕抖音的社交功能分享了观点。张楠表示，抖音的社交功能是个自然发生的过程，用户的表达互动需求在抖音内部开始发酵，促进了抖音的社交。她认为抖音的本质和核心是人，抖音为每个人提供了视频化的表达方式，并围绕人提供服务。越来越多用户在抖音上的视频化表达，让抖音逐渐从一种娱乐方式变成一种社交方式，未来还可能成为一种生活方式。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2564331.d.html</link>
-            <guid>1998464</guid>
-            <pubDate>Thu, 28 Jan 2021 14:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳成功落地国内首单战略性新兴产业专场知识产权资产证券化产品】1月28日，由深圳高新投发起的“福田区-平安证券-高新投知识产权2号资产支持专项计划（战略新兴）”成功发行设立，发行规模1.39亿元，成为国内首单战略性新兴产业专场知识产权资产证券化产品。据悉，在深圳市福田区政府政策性补贴和深圳高新投费率优惠的共同支持下，10家福田区入池企业实际融资成本仅为2.98%/年。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1578345.d.html</link>
-            <guid>1998463</guid>
-            <pubDate>Thu, 28 Jan 2021 14:12:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧盟官员：出口许可通常在24小时内发放。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2563906.d.html</link>
-            <guid>1998462</guid>
-            <pubDate>Thu, 28 Jan 2021 14:11:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  财经网站Forexlive：美指在美国GDP数据公布后走低，而贵金属上涨。白银得到了一些股票爱好者的青睐，价格可能会很快升至28美元/盎司，需要说明的是，当前市场并不是只有贵金属的行情在动，所有大宗商品刚刚都接到了买盘，美国股指期货也小幅走高，美指正在抹去从昨天以来的涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2563593.d.html</link>
-            <guid>1998461</guid>
-            <pubDate>Thu, 28 Jan 2021 14:09:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据外媒：丹麦计划延长封锁措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1577675.d.html</link>
-            <guid>1998460</guid>
-            <pubDate>Thu, 28 Jan 2021 14:08:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  区块链板块盘前走强，第九城市涨超17%，中网载线涨超7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1577589.d.html</link>
-            <guid>1998459</guid>
-            <pubDate>Thu, 28 Jan 2021 14:07:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【证监会：加强对拟上市企业股东信息披露监管 坚决防止资本无序扩张】2021年证监会系统工作会议在京召开。会议强调，科学合理保持IPO、再融资常态化，稳定发展交易所债券市场，完善商品及金融期货期权产品体系。完善科创属性评价标准，加强对拟上市企业股东信息披露监管，切实加强监管和风险防范，坚决防止资本无序扩张。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2563222.d.html</link>
-            <guid>1998458</guid>
-            <pubDate>Thu, 28 Jan 2021 14:06:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  IMF首席经济学家戈皮纳特：预计2022年印度经济损失9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2563107.d.html</link>
-            <guid>1998456</guid>
-            <pubDate>Thu, 28 Jan 2021 14:05:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  沪银主力合约日内大涨4.06%，现报5465元/千克。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftssap1577213.d.html</link>
-            <guid>1998455</guid>
-            <pubDate>Thu, 28 Jan 2021 14:05:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  IMF首席经济学家戈皮纳特：印度将不得不处理被压抑的破产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2562880.d.html</link>
-            <guid>1998454</guid>
-            <pubDate>Thu, 28 Jan 2021 14:04:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货白银大涨4%，现报26.21美元/盎司；现货黄金逼近1860美元/盎司。]]></title>
-            <guid>1998452</guid>
-            <pubDate>Thu, 28 Jan 2021 14:02:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【证监会：密切关注市场流动性变化，严密监控资金杠杆水平】证监会：中国证监会召开2021年系统工作会议，会议指出，贯彻“不干预”的理念，完善市场内生稳定机制。一方面，以更大力度推进投资端改革，加大权益类基金产品供给与服务创新力度，推动个人养老金投资公募基金政策尽快落地，优化中长期资金入市环境。另一方面，加强宏观形势的跟踪研判，密切关注市场流动性变化，严密监控资金杠杆水平，动态完善应对政策，严防跨市场跨领域跨境的交叉性、输入性风险，切实维护市场稳定运行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2562722.d.html</link>
-            <guid>1998451</guid>
-            <pubDate>Thu, 28 Jan 2021 14:02:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美元指数失守90.5，日内跌幅0.19%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2562604.d.html</link>
-            <guid>1998450</guid>
-            <pubDate>Thu, 28 Jan 2021 14:01:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美元指数DXY短线下挫近20点，现报90.55。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2562529.d.html</link>
-            <guid>1998449</guid>
-            <pubDate>Thu, 28 Jan 2021 14:00:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【证监会：加大对欺诈发行、财务造假、市场操纵等恶性违法违规行为的打击力度】2021年证监会系统工作会议在京召开。会议强调，全面落实“零容忍”的执法理念和打击行动。进一步依法从严打击证券违法活动，建立跨部委协调工作小组，加大对欺诈发行、财务造假、市场操纵等恶性违法违规行为的打击力度，对有关机构和个人的责任追究一抓到底。贯彻落实新证券法和刑法修正案（十一），配合修订证券期货犯罪案件刑事立案追诉标准，出台欺诈发行股票责令回购等配套制度。推动期货法立法，加快推进行政和解办法、上市公司监管条例等法规制定。依法从严加强对上市公司、中介机构等各类市场主体的日常监管，优化市场生态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2562321.d.html</link>
-            <guid>1998448</guid>
-            <pubDate>Thu, 28 Jan 2021 13:58:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  证监会：贯彻“不干预”的理念，完善市场内生稳定机制。一方面，以更大力度推进投资端改革，加大权益类基金产品供给与服务创新力度，推动个人养老金投资公募基金政策尽快落地，优化中长期资金入市环境。另一方面，加强宏观形势的跟踪研判，密切关注市场流动性变化，严密监控资金杠杆水平，动态完善应对政策，严防跨市场跨领域跨境的交叉性、输入性风险，切实维护市场稳定运行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-28/detail-ikftpnny2562253.d.html</link>
-            <guid>1998447</guid>
-            <pubDate>Thu, 28 Jan 2021 13:57:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
