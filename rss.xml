@@ -4,13 +4,138 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 29 Jan 2021 20:27:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jan 2021 21:24:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[  英国首相约翰逊办公室：约翰逊首相表达了其对欧盟使用北爱尔兰协定第16条的担忧。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2807709.d.html</link>
+            <guid>2001712</guid>
+            <pubDate>Fri, 29 Jan 2021 21:19:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储卡普兰：在实现群体免疫之前，经济活动可能会显著增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2807576.d.html</link>
+            <guid>2001705</guid>
+            <pubDate>Fri, 29 Jan 2021 21:16:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  AMC院线盘后跌超9%，本周累涨280%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2807323.d.html</link>
+            <guid>2001696</guid>
+            <pubDate>Fri, 29 Jan 2021 21:10:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[股东Gamco将AMC院线持股比例降至2.78%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2807299.d.html</link>
+            <guid>2001695</guid>
+            <pubDate>Fri, 29 Jan 2021 21:09:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股科技股普遍下跌，FAANNG全部下跌，苹果领跌，跌超3%。特斯拉跌超5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2807285.d.html</link>
+            <guid>2001694</guid>
+            <pubDate>Fri, 29 Jan 2021 21:09:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：券商Robinhood将Transenterix（TRXC）纳入用户限制交易的名单。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1821378.d.html</link>
+            <guid>2001693</guid>
+            <pubDate>Fri, 29 Jan 2021 21:09:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中概股中，华府教育涨36%，陆金所涨超6%，搜狐涨超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2807263.d.html</link>
+            <guid>2001692</guid>
+            <pubDate>Fri, 29 Jan 2021 21:08:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【股市收盘】标普500指数1月29日（周五）收盘下跌73.10点，跌幅1.93%，报3714.26点；纳斯达克指数1月29日（周五）收盘下跌266.50点，跌幅2.00%，报13070.69点；道琼斯指数1月29日（周五）收盘下跌620.70点，跌幅2.03%，报29982.68点。]]></title>
+            <guid>2001689</guid>
+            <pubDate>Fri, 29 Jan 2021 21:06:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 游戏驿站本周累涨逾400%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2807009.d.html</link>
+            <guid>2001681</guid>
+            <pubDate>Fri, 29 Jan 2021 21:02:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道指初步收跌约600点，成分股雪佛龙、陶氏化学、3M、苹果、霍尼韦尔等跌超3%。散户抱团类股中，游戏驿站涨约70%，高斯电子涨约50%，AMC院线涨约50%，Express涨约27%，黑莓则跌超3%。特斯拉跌超4%。百度跌约4%，B站跌约4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2806999.d.html</link>
+            <guid>2001680</guid>
+            <pubDate>Fri, 29 Jan 2021 21:02:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金短线下挫5美元，现报1842.5美元/盎司，接近平盘。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1821075.d.html</link>
+            <guid>2001677</guid>
+            <pubDate>Fri, 29 Jan 2021 21:01:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股三大股指低开低走，道指初步收跌约600点，白银股、WSB概念股走高，邮轮概念股走低，诺瓦瓦克斯医药收涨超60%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2806921.d.html</link>
+            <guid>2001676</guid>
+            <pubDate>Fri, 29 Jan 2021 21:00:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：Facebook封禁了拥有15.7万名成员的“罗宾汉股票交易员群”。]]></title>
+            <guid>2001660</guid>
+            <pubDate>Fri, 29 Jan 2021 20:50:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美原油期货小幅收跌0.27%】WTI 3月原油期货收跌0.27%，报52.20美元/桶。布伦特3月原油期货收涨0.63%，报55.88美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1820402.d.html</link>
+            <guid>2001656</guid>
+            <pubDate>Fri, 29 Jan 2021 20:45:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会(CFTC)：截至1月26日当周，股票基金投机者将标普500指数CME净空头持仓增加5506手至39767手，股股票基金经理将标普500指数CME净多头持仓减少370手至168760手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2806229.d.html</link>
+            <guid>2001655</guid>
+            <pubDate>Fri, 29 Jan 2021 20:44:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国交通大臣夏普斯：法国对非欧盟国家关闭边境的决定不适用于运输车。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1820233.d.html</link>
+            <guid>2001649</guid>
+            <pubDate>Fri, 29 Jan 2021 20:41:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：券商Robinhood新增更多公司到用户的股票购买限制名单，对部分公司降低买入限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1819968.d.html</link>
+            <guid>2001641</guid>
+            <pubDate>Fri, 29 Jan 2021 20:35:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会(CFTC)：截至1月26日当周，投机者将CBOT美国2年期国债期货净空头持仓减少49076手至236229手，美国5年期国债期货净空头持仓减少138899手至99122手，美国10年期国债期货净多头头寸减少9698手至36878手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1819951.d.html</link>
+            <guid>2001640</guid>
+            <pubDate>Fri, 29 Jan 2021 20:35:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至1月26日当周，WTI原油期货投机性净多头头寸减少9821手至347492手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2805638.d.html</link>
+            <guid>2001638</guid>
+            <pubDate>Fri, 29 Jan 2021 20:31:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至1月26日当周，COMEX白银期货投机性净多头头寸增加2827手至44320手；COMEX铜期货投机性净多头头寸增加458手至788833手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1819773.d.html</link>
+            <guid>2001637</guid>
+            <pubDate>Fri, 29 Jan 2021 20:30:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至1月26日当周，COMEX黄金期货投机性净多头头寸增加10721手至115716手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1819717.d.html</link>
+            <guid>2001636</guid>
+            <pubDate>Fri, 29 Jan 2021 20:29:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[  英国金融行为监管局（FCA）将就消费者或市场受到损害的证据采取行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1819662.d.html</link>
             <guid>2001635</guid>
             <pubDate>Fri, 29 Jan 2021 20:27:50 GMT</pubDate>
         </item>
@@ -318,137 +443,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1813113.d.html</link>
             <guid>2001513</guid>
             <pubDate>Fri, 29 Jan 2021 18:23:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储卡普兰：如果有进一步财政支持，今年经济增速可能超过5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2799149.d.html</link>
-            <guid>2001512</guid>
-            <pubDate>Fri, 29 Jan 2021 18:22:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美元指数DXY小幅走高，日内转涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2799113.d.html</link>
-            <guid>2001511</guid>
-            <pubDate>Fri, 29 Jan 2021 18:21:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储卡普兰：从流动性和参与度来看，预计在2022年第一季度之前恢复“常态”。]]></title>
-            <guid>2001509</guid>
-            <pubDate>Fri, 29 Jan 2021 18:21:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 美股持续走低，纳指跌2.6%，标普500指数及道指均跌2.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1812911.d.html</link>
-            <guid>2001508</guid>
-            <pubDate>Fri, 29 Jan 2021 18:20:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  高通将在法国开设新的5G研发中心。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2798738.d.html</link>
-            <guid>2001506</guid>
-            <pubDate>Fri, 29 Jan 2021 18:15:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金下破1850美元/盎司，日涨幅收窄至0.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2798656.d.html</link>
-            <guid>2001504</guid>
-            <pubDate>Fri, 29 Jan 2021 18:13:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  油服贝克休斯：1月份美国新增28个石油钻井，为连续第五个月录得增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1812304.d.html</link>
-            <guid>2001503</guid>
-            <pubDate>Fri, 29 Jan 2021 18:07:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  哥伦比亚央行维持隔夜利率在1.75%不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2798338.d.html</link>
-            <guid>2001502</guid>
-            <pubDate>Fri, 29 Jan 2021 18:06:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[油服贝克休斯：1月份美国新增33个石油和天然气钻井，为去年10月以来最大月度增幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2798270.d.html</link>
-            <guid>2001501</guid>
-            <pubDate>Fri, 29 Jan 2021 18:05:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国银行策略师团队：美国财政部恐将在8月中后期触及债务上限。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1812124.d.html</link>
-            <guid>2001500</guid>
-            <pubDate>Fri, 29 Jan 2021 18:03:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[油服贝克休斯：美国钻探公司连续第六个月增加石油和天然气钻井数量。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1812103.d.html</link>
-            <guid>2001499</guid>
-            <pubDate>Fri, 29 Jan 2021 18:03:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2020年A股“易主”大数据：321家控制权变更】2020年，A股市场321家上市公司控制权变更完成，与2019年基本持平，其中近15%易主案例的收购方为国资背景。在2020年发生易主的321家上市公司中，有300家企业截至1月28日晚收盘时的总市值不超过300亿元，其中甚至有250家企业总市值不到100亿元。（21世纪经济报道）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1812068.d.html</link>
-            <guid>2001498</guid>
-            <pubDate>Fri, 29 Jan 2021 18:02:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至1月29日当周石油钻井总数(口)：前值289，预期291，公布295。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2798100.d.html</link>
-            <guid>2001497</guid>
-            <pubDate>Fri, 29 Jan 2021 18:02:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  油服贝克休斯：美国石油和天然气钻井数量连续第十周录得增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1812006.d.html</link>
-            <guid>2001496</guid>
-            <pubDate>Fri, 29 Jan 2021 18:01:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 美国钻井数据公布后，美、布两油短线波动暂不大。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1811987.d.html</link>
-            <guid>2001495</guid>
-            <pubDate>Fri, 29 Jan 2021 18:01:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  DownDetector网站：用户报告显示，罗宾汉交易平台服务出现问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2797992.d.html</link>
-            <guid>2001493</guid>
-            <pubDate>Fri, 29 Jan 2021 18:00:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LME期铜收跌17美元，报7856美元/吨。LME期铝收跌7美元，报1978美元/吨。LME期锌收跌13美元，报2580美元/吨。LME期铅收跌8美元，报2024美元/吨。LME期镍收跌109美元，报17691美元/吨。LME期锡收跌216美元，报22779美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2797954.d.html</link>
-            <guid>2001492</guid>
-            <pubDate>Fri, 29 Jan 2021 17:59:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拜登的石油开采许可审批数目猛增】70份钻探许可因为往届政府不适当的审批而被作废，拜登政府的诸多监管部门要求众多石油公司重新递交钻探计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2797841.d.html</link>
-            <guid>2001489</guid>
-            <pubDate>Fri, 29 Jan 2021 17:57:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道指跌幅扩大至超过700点，成分股强生扩大至超过4.8%，3M和苹果跌超4.5%，雪佛龙跌约4.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2797570.d.html</link>
-            <guid>2001487</guid>
-            <pubDate>Fri, 29 Jan 2021 17:52:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[因月底买盘影响，美债回吐跌幅，收益率从高位下滑。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1811430.d.html</link>
-            <guid>2001486</guid>
-            <pubDate>Fri, 29 Jan 2021 17:51:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道指跌幅达700点，纳指跌2.59%，标普500指数跌2.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2797489.d.html</link>
-            <guid>2001485</guid>
-            <pubDate>Fri, 29 Jan 2021 17:51:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[诺基亚和黑莓转跌，此前诺基亚一度涨超11%，黑莓一度涨23%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1811376.d.html</link>
-            <guid>2001484</guid>
-            <pubDate>Fri, 29 Jan 2021 17:50:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
