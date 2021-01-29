@@ -4,11 +4,268 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 29 Jan 2021 16:49:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jan 2021 17:53:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[道指跌幅扩大至超过700点，成分股强生扩大至超过4.8%，3M和苹果跌超4.5%，雪佛龙跌约4.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2797570.d.html</link>
+            <guid>2001487</guid>
+            <pubDate>Fri, 29 Jan 2021 17:52:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[因月底买盘影响，美债回吐跌幅，收益率从高位下滑。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1811430.d.html</link>
+            <guid>2001486</guid>
+            <pubDate>Fri, 29 Jan 2021 17:51:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道指跌幅达700点，纳指跌2.59%，标普500指数跌2.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2797489.d.html</link>
+            <guid>2001485</guid>
+            <pubDate>Fri, 29 Jan 2021 17:51:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[诺基亚和黑莓转跌，此前诺基亚一度涨超11%，黑莓一度涨23%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1811376.d.html</link>
+            <guid>2001484</guid>
+            <pubDate>Fri, 29 Jan 2021 17:50:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  大型科技股走低，特斯拉跌超6%，苹果跌幅扩大至5%，台积电跌超4%，Facebook跌3.68%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2797435.d.html</link>
+            <guid>2001483</guid>
+            <pubDate>Fri, 29 Jan 2021 17:50:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至1月29日当周石油钻井总数将于十分钟后公布。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1811353.d.html</link>
+            <guid>2001482</guid>
+            <pubDate>Fri, 29 Jan 2021 17:50:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：因批准程序不当，美国撤销70个钻探许可，监管机构要求油企重新提交钻探计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2797382.d.html</link>
+            <guid>2001480</guid>
+            <pubDate>Fri, 29 Jan 2021 17:49:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  加拿大多伦多S&PTSX指数跌超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2797306.d.html</link>
+            <guid>2001479</guid>
+            <pubDate>Fri, 29 Jan 2021 17:47:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  特斯拉股价跌破800美元，日跌幅4.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1810430.d.html</link>
+            <guid>2001478</guid>
+            <pubDate>Fri, 29 Jan 2021 17:42:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  阿斯利康CEO：相信已经解决了欧盟制造工厂的大部分问题，应该很快能提高生产效率。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1810380.d.html</link>
+            <guid>2001477</guid>
+            <pubDate>Fri, 29 Jan 2021 17:41:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  现货白银短线走低0.3美元至26.68美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1810216.d.html</link>
+            <guid>2001476</guid>
+            <pubDate>Fri, 29 Jan 2021 17:40:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲地中海地震中心：乌兹别克斯坦东部发生5.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2796247.d.html</link>
+            <guid>2001475</guid>
+            <pubDate>Fri, 29 Jan 2021 17:40:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金短线下挫6美元，接近1850美元关口。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2796227.d.html</link>
+            <guid>2001474</guid>
+            <pubDate>Fri, 29 Jan 2021 17:40:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  华尔街赌场（WSB）论坛：美国证交会尚未就调查事宜联系本论坛。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1810158.d.html</link>
+            <guid>2001473</guid>
+            <pubDate>Fri, 29 Jan 2021 17:40:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  道指跌破30000点大关。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2796136.d.html</link>
+            <guid>2001472</guid>
+            <pubDate>Fri, 29 Jan 2021 17:39:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  阿斯利康股价跌幅扩大至2.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1809838.d.html</link>
+            <guid>2001469</guid>
+            <pubDate>Fri, 29 Jan 2021 17:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【道指跌超600点，散户抱团股保持涨势，高斯电子股价日内翻倍】道指成分股里，3M、雪佛龙、苹果均跌超4.0%。散户热门股中，游戏驿站（GME）目前涨80%，高斯电子（KOSS）涨超100%，Express涨37%，黑莓涨超6%，AMC院线涨75%，3B家居涨8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1809828.d.html</link>
+            <guid>2001468</guid>
+            <pubDate>Fri, 29 Jan 2021 17:35:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  阿斯利康预计美国试验的结果将于2月份公布。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2795841.d.html</link>
+            <guid>2001466</guid>
+            <pubDate>Fri, 29 Jan 2021 17:34:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：必和必拓与淡水河谷在巴西的共有矿场将筹备债务重组计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2795804.d.html</link>
+            <guid>2001465</guid>
+            <pubDate>Fri, 29 Jan 2021 17:33:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西IBOVESPA指数跌幅扩大至2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1809661.d.html</link>
+            <guid>2001464</guid>
+            <pubDate>Fri, 29 Jan 2021 17:32:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国两年期国债收益率跌至0.109%，创12月21日以来盘中新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1809644.d.html</link>
+            <guid>2001463</guid>
+            <pubDate>Fri, 29 Jan 2021 17:32:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利当局将放松对罗马、米兰及其他部分地区的限制措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2795607.d.html</link>
+            <guid>2001460</guid>
+            <pubDate>Fri, 29 Jan 2021 17:29:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：名为Keith Gill的投资者推动了游戏驿站的Reddit热潮，将全球注意力引向游戏驿站，带领网上粉丝经历了一场离奇的市场暴涨。Keith Gill自称只是普通人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2795535.d.html</link>
+            <guid>2001457</guid>
+            <pubDate>Fri, 29 Jan 2021 17:28:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  加密货币交易平台Coinbase：交易已完全恢复，所有服务情况良好。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2795343.d.html</link>
+            <guid>2001455</guid>
+            <pubDate>Fri, 29 Jan 2021 17:25:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道指跌幅扩大至超过500点，标普500指数跌超1.7%，纳指也跌超1.5%，苹果跌3.9%，特斯拉跌2.7%。道指成分股里，3M跌超4.0%，雪佛龙、霍尼韦尔均跌超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2795125.d.html</link>
+            <guid>2001454</guid>
+            <pubDate>Fri, 29 Jan 2021 17:21:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股持续下挫，道指跌超500点，纳指跌1.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2794849.d.html</link>
+            <guid>2001453</guid>
+            <pubDate>Fri, 29 Jan 2021 17:16:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英国交易APP FreeTrade暂停用户购买美国股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1808708.d.html</link>
+            <guid>2001452</guid>
+            <pubDate>Fri, 29 Jan 2021 17:16:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲央行：将对欧元区38家银行进行压力测试，这是欧洲银行业管理局（EBA）2021年全欧压力测试的一部分。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2794767.d.html</link>
+            <guid>2001451</guid>
+            <pubDate>Fri, 29 Jan 2021 17:14:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际铜夜盘收跌0.33%，沪铜收跌0.31%，沪铝收涨1.54%，沪锌收涨0.43%，沪铅收跌1.37%，沪镍收跌0.30%，沪锡收跌3.34%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2794502.d.html</link>
+            <guid>2001450</guid>
+            <pubDate>Fri, 29 Jan 2021 17:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：上调AMC院线评级至CCC。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2794448.d.html</link>
+            <guid>2001449</guid>
+            <pubDate>Fri, 29 Jan 2021 17:08:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  EIA数据：11月，美国下48州天然气产量环比增加3.0%至1025.3亿立方英尺/日，同比减少4.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1807989.d.html</link>
+            <guid>2001446</guid>
+            <pubDate>Fri, 29 Jan 2021 17:03:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国国际贸易大臣特拉斯：与美国贸易代表首次会晤的重中之重就是缓和现有争端。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1807798.d.html</link>
+            <guid>2001445</guid>
+            <pubDate>Fri, 29 Jan 2021 17:01:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：软银CEO孙正义计划在两年内大规模生产无人驾驶汽车。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2793888.d.html</link>
+            <guid>2001444</guid>
+            <pubDate>Fri, 29 Jan 2021 17:00:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股大盘下跌之际，美股娱乐股集体上涨，AMC院线涨超70%，蓝帽子涨20%，SCWorx涨14%，麦迪逊花园网络涨8%，半球传媒集团涨超3%，库客音乐、狮门娱乐、虎牙涨超2%，喜满客涨超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1807657.d.html</link>
+            <guid>2001442</guid>
+            <pubDate>Fri, 29 Jan 2021 16:58:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  花旗/YouGov调查：英国公众对未来一年通胀预期从上月的3.8%下降至3.3%，长期通胀预期稳定在3.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2793678.d.html</link>
+            <guid>2001441</guid>
+            <pubDate>Fri, 29 Jan 2021 16:56:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国司法部将决定是否因养老院问题而调查纽约州长科莫。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2793652.d.html</link>
+            <guid>2001440</guid>
+            <pubDate>Fri, 29 Jan 2021 16:56:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：刺激措施会拉动经济增长，而非拖累经济。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1807347.d.html</link>
+            <guid>2001438</guid>
+            <pubDate>Fri, 29 Jan 2021 16:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股大盘下跌之际，海运股集体大涨，中环球船务涨34%，盘中一度涨超60%；Navios海事控股涨超30%，Top Ships盘中一度涨54%；Globus海运盘中一度涨29%。]]></title>
+            <guid>2001437</guid>
+            <pubDate>Fri, 29 Jan 2021 16:53:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：现在必须就刺激措施采取行动，不能推迟。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1807314.d.html</link>
+            <guid>2001436</guid>
+            <pubDate>Fri, 29 Jan 2021 16:53:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：投资经济的回报从未有如此之高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2793393.d.html</link>
+            <guid>2001435</guid>
+            <pubDate>Fri, 29 Jan 2021 16:52:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：不采取刺激行动的代价非常高，且在与日俱增。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2793363.d.html</link>
+            <guid>2001434</guid>
+            <pubDate>Fri, 29 Jan 2021 16:51:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据u.today网站报道，有用户反馈无法在加密货币交易所Coinbase进行购买操作，该平台暂停使用美元购买加密资产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2793292.d.html</link>
+            <guid>2001433</guid>
+            <pubDate>Fri, 29 Jan 2021 16:50:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高斯电子目前上涨128%，今年迄今累涨超27倍。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2793275.d.html</link>
+            <guid>2001432</guid>
+            <pubDate>Fri, 29 Jan 2021 16:50:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美股白银股延续昨日涨势，迈力达电子涨超12%，Endeavour Silver涨超8%，First Majestic涨6.70%，泛美白银涨4.86%。（美港电讯APP）]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2792912.d.html</link>
@@ -152,209 +409,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1802070.d.html</link>
             <guid>2001388</guid>
             <pubDate>Fri, 29 Jan 2021 15:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦将于十分钟后向美国总统拜登、副总统哈里斯做简报。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1801903.d.html</link>
-            <guid>2001383</guid>
-            <pubDate>Fri, 29 Jan 2021 15:50:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫新闻发言人：拜登的主要目标是避免将刺激计划一分为二。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1801597.d.html</link>
-            <guid>2001380</guid>
-            <pubDate>Fri, 29 Jan 2021 15:45:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[诺瓦瓦克斯股价涨幅扩大至76%，创2020年5月份以来最大盘中涨幅，刷新2015年8月份以来盘中高位至235.50美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2787310.d.html</link>
-            <guid>2001378</guid>
-            <pubDate>Fri, 29 Jan 2021 15:43:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 现货钯金日内跌超3%，现报2263.08美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1801362.d.html</link>
-            <guid>2001376</guid>
-            <pubDate>Fri, 29 Jan 2021 15:42:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫新闻发言人：在最近的股市波动问题上，将遵从美国证交会（的决定）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1801330.d.html</link>
-            <guid>2001375</guid>
-            <pubDate>Fri, 29 Jan 2021 15:42:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫新闻发言人：前任政府在国家安全方面采取的一切措施都在评估之中。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2786979.d.html</link>
-            <guid>2001373</guid>
-            <pubDate>Fri, 29 Jan 2021 15:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在岸人民币兑美元（CNY）北京时间23:30收报6.4300元，较周四夜盘收盘涨200点。成交量358.70亿美元，较周四减少39.28亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1801066.d.html</link>
-            <guid>2001372</guid>
-            <pubDate>Fri, 29 Jan 2021 15:39:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  嘉信理财、德美丽证券不允许客户裸出售看涨期权。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2786771.d.html</link>
-            <guid>2001371</guid>
-            <pubDate>Fri, 29 Jan 2021 15:38:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[嘉信理财、德美利证券移除针对GME股票的保证金要求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2786676.d.html</link>
-            <guid>2001370</guid>
-            <pubDate>Fri, 29 Jan 2021 15:37:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  嘉信理财：并没有停止股票交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1800726.d.html</link>
-            <guid>2001369</guid>
-            <pubDate>Fri, 29 Jan 2021 15:36:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  德国联邦金融监管局主席Hufeld辞职。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1800566.d.html</link>
-            <guid>2001368</guid>
-            <pubDate>Fri, 29 Jan 2021 15:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【吉尔吉斯总统签署命令 禁止外企开采国家级矿产资源】吉尔吉斯新任总统扎帕罗夫的新闻处发布消息称，扎帕罗夫签署命令禁止外资企业开采国家级矿产资源，但新规定不具追溯力。新闻处指出：“根据这份命令，国家级矿区将完全由注册资本100%为国有资本的国有采矿企业开采，《矿业法》通过时已获得相关许可证和已经在开采国家级矿区的企业不受此限。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2786282.d.html</link>
-            <guid>2001367</guid>
-            <pubDate>Fri, 29 Jan 2021 15:31:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫新闻发言人：国防生产法案将用于注射器和个人防护用品。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1800343.d.html</link>
-            <guid>2001366</guid>
-            <pubDate>Fri, 29 Jan 2021 15:31:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：Reddit上wallstreetbets群组拥有超过600万名成员。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2786153.d.html</link>
-            <guid>2001365</guid>
-            <pubDate>Fri, 29 Jan 2021 15:30:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫新闻发言人：拜登会定期与美国众议院议长佩洛西通话。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1800008.d.html</link>
-            <guid>2001363</guid>
-            <pubDate>Fri, 29 Jan 2021 15:26:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  法国总统马克龙：阻止伊朗拥有核武器的时间所剩无几。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1799932.d.html</link>
-            <guid>2001361</guid>
-            <pubDate>Fri, 29 Jan 2021 15:25:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  法国总统马克龙：应该避免2015年的错误，当时地区力量被排除在与伊朗核协议之外。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1799913.d.html</link>
-            <guid>2001360</guid>
-            <pubDate>Fri, 29 Jan 2021 15:25:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国白宫：拜登在与俄罗斯总统普京的通话中呼吁其释放俄罗斯反对派领袖纳瓦尔尼。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1799593.d.html</link>
-            <guid>2001358</guid>
-            <pubDate>Fri, 29 Jan 2021 15:22:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  法国总统马克龙表示，他将第三次访问黎巴嫩。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2785405.d.html</link>
-            <guid>2001357</guid>
-            <pubDate>Fri, 29 Jan 2021 15:21:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国白宫：伊朗必须遵守伊核协议的要求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1799234.d.html</link>
-            <guid>2001355</guid>
-            <pubDate>Fri, 29 Jan 2021 15:19:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[螺纹期货夜盘收跌0.05%，热卷收跌0.20%；铁矿石期货收涨1.17%。焦炭夜盘收涨0.43%，焦煤收跌2.12%，动力煤收跌0.13%。橡胶夜盘收涨1.70%，沥青收涨0.44%。豆粕夜盘收跌1.38%，菜粕收跌0.60%。郑棉夜盘收涨0.30%。]]></title>
-            <guid>2001354</guid>
-            <pubDate>Fri, 29 Jan 2021 15:19:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫新闻发言人：美国总统拜登将于下周二宣布成立移民特别工作组。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1799118.d.html</link>
-            <guid>2001353</guid>
-            <pubDate>Fri, 29 Jan 2021 15:18:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫新闻发言人：美国正在评估俄罗斯的行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2784885.d.html</link>
-            <guid>2001350</guid>
-            <pubDate>Fri, 29 Jan 2021 15:16:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股区块链板块大涨，Riot Blockchain涨超14%，Marathon Patent涨超13%，Bit Digital涨超12%，迅雷涨超10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2784805.d.html</link>
-            <guid>2001349</guid>
-            <pubDate>Fri, 29 Jan 2021 15:15:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国内商品期货夜盘多数收涨 苯乙烯、LPG收涨3%】国内商品期货夜盘收盘多数上涨，能源化工品表现强劲，苯乙烯涨3.33%，LPG涨3.03%，乙二醇涨2.09%，PTA涨1.85%，橡胶涨1.7%。黑色系多数下跌，焦煤跌2.12%，热轧卷板跌0.2%，动力煤跌0.13%，螺纹钢跌0.05%，焦炭涨0.43%，铁矿石涨1.17%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2784758.d.html</link>
-            <guid>2001348</guid>
-            <pubDate>Fri, 29 Jan 2021 15:14:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫新闻发言人：拜登希望重新开放学校，但这将取决于专家的医疗指导。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1798381.d.html</link>
-            <guid>2001344</guid>
-            <pubDate>Fri, 29 Jan 2021 15:10:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫新闻发言人：美国总统拜登将于下周五就经济问题发表讲话。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1798325.d.html</link>
-            <guid>2001343</guid>
-            <pubDate>Fri, 29 Jan 2021 15:10:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inovio制药涨超15%，该股在最受欢迎做空榜单上排名第25，目前该美国散户论坛上的讨论量激增。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2784153.d.html</link>
-            <guid>2001341</guid>
-            <pubDate>Fri, 29 Jan 2021 15:09:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫新闻发言人：美国总统拜登下周一将在国务院会见美国国务卿布林肯。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1798116.d.html</link>
-            <guid>2001339</guid>
-            <pubDate>Fri, 29 Jan 2021 15:08:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫新闻发言人：美国总统拜登将在下周二签署移民的行政令。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1798041.d.html</link>
-            <guid>2001338</guid>
-            <pubDate>Fri, 29 Jan 2021 15:07:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  机构评美国12月成屋签约销售指数月率：受待售房屋短缺拖累，12月美国成屋购买合同数量连续第四个月录得下降，这推高了房价。2020年，现房销售量达到14年来的最高水平。美国房产经纪协会NAR首席经济学家Lawrence Yun在一份声明中称，"住房需求很高，潜在买家人数众多。这种需求上升而供应没有显著增加的情况，已经导致房价上涨，我们可以预期在可预见的未来，房价将面临进一步的上行压力。"]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2783764.d.html</link>
-            <guid>2001335</guid>
-            <pubDate>Fri, 29 Jan 2021 15:05:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  西伯特金融（SIEB）暴涨365%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2783390.d.html</link>
-            <guid>2001334</guid>
-            <pubDate>Fri, 29 Jan 2021 15:02:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【亿晶光电业绩预告：2020年度预亏6.6亿元 亏损扩大】亿晶光电公告，预计2020年度实现归属于上市公司股东的净利润与上年同期相比仍为亏损，归属于上市公司股东的净亏损约为6.6亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2783300.d.html</link>
-            <guid>2001333</guid>
-            <pubDate>Fri, 29 Jan 2021 15:01:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：英国免佣金交易平台Freetrade禁止美国股票的买入指令。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2783258.d.html</link>
-            <guid>2001332</guid>
-            <pubDate>Fri, 29 Jan 2021 15:01:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
