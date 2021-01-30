@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 30 Jan 2021 12:36:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2021 13:31:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  据中国基金报：Wind数据显示，截至1月末，今年以来新成立基金122只，募集总规模4901.4亿元，这一规模仅次于2020年7月高点的5389亿元，成为新发基金月度规模的历史第二高点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1952318.d.html</link>
+            <guid>2002788</guid>
+            <pubDate>Sat, 30 Jan 2021 13:20:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据叙利亚国家通讯社（SANA）报道，恐怖分子在叙北部城市阿夫林引爆一颗汽车炸弹，有平民伤亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1950808.d.html</link>
+            <guid>2002786</guid>
+            <pubDate>Sat, 30 Jan 2021 13:05:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  市场消息：前意大利总理伦齐或寻求担任意大利财长以作为支持孔特的条件。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2933260.d.html</link>
@@ -329,18 +341,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2860664.d.html</link>
             <guid>2002659</guid>
             <pubDate>Sat, 30 Jan 2021 04:25:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中信证券：维持今年政策温和退出的判断不变】中信证券表示，通过观察央行历史的流动性投放时点，预计自2月1日起，央行将开始启动明显的流动性投放行为，帮助平抑节前的流动性缺口。预计春节前央行将通过14/28天OMO+MLF+普惠金融定向降准的方式投放约1.7万亿流动性，维持今年政策温和退出的判断不变，预计年内看到政策利率的变化的可能性较低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2859437.d.html</link>
-            <guid>2002658</guid>
-            <pubDate>Sat, 30 Jan 2021 04:17:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家能源局：全国煤炭供应总体平稳】国家能源局今天（30日）发布的最新数据显示，2020年全国规模以上企业煤炭产量38.4亿吨，同比增长0.9%，12月煤炭产量3.5亿吨，同比增长3.2%。全国煤炭日产量持续保持1100万吨左右的较高水平，煤炭供应总体平稳。煤炭价格方面，煤炭中长期合同兑现率高、价格平稳，2020年煤炭企业中长期合同兑现率超过90%，履约情况总体良好，较好发挥了市场稳定器作用。煤炭现货价格11月初以来持续上涨，近日已出现回落。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2856890.d.html</link>
-            <guid>2002653</guid>
-            <pubDate>Sat, 30 Jan 2021 03:57:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
