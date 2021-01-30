@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 30 Jan 2021 21:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2021 22:29:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【2020年可再生能源发电量同比增约8.4%】截至2020年底，可再生能源发电装机达到9.34亿千瓦，同比增长约17.5%；其中，水电装机3.7亿千瓦、风电装机2.81亿千瓦、光伏发电装机2.53亿千瓦、生物质发电装机2952万千瓦。2020年，全国可再生能源发电量达22148亿千瓦时，同比增长约8.4%。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap1983154.d.html</link>
+            <guid>2003051</guid>
+            <pubDate>Sat, 30 Jan 2021 22:20:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国强制民众乘公共交通时戴口罩】作为拜登百日新政目标之一，美国疾控中心周五发布指令，自2月1日周一凌晨开始，强制乘客在搭乘包括飞机、轮船、火车、地铁、公共汽车、出租车、共享车辆等交通工具时佩戴口罩。（中国日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny2967694.d.html</link>
+            <guid>2003049</guid>
+            <pubDate>Sat, 30 Jan 2021 21:57:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【开源证券：流动性紧张局面或趋于缓和】开源证券认为，近期流动性的紧张，与公开市场回笼、短端交易拥堵等有关，银行不缺“长钱”。信用收缩下，流动性不具备持续收紧基础，短期紧张或趋于缓和、但难明显宽松。随着月底财政资金投放等，流动性紧张局面或趋于缓和，但经济景气高位、通胀预期升温等，使得货币流动性环境短期难明显宽松。经验显示，1月财政缴税后，财政资金投放增多，普惠金融定向降准考核一般在1季度、1月底居多；随着春节临近，央行也会加大公开市场操作等稳定流动性，叠加春节就地过年增多、取现压力下降，预计流动性紧张局面或趋于缓和，但较难回到前期非常宽松的情况。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny2965668.d.html</link>
@@ -259,18 +271,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1921065.d.html</link>
             <guid>2002740</guid>
             <pubDate>Sat, 30 Jan 2021 09:12:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[30日0时至14时石家庄无新增本土确诊病例和无症状感染者。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2905852.d.html</link>
-            <guid>2002739</guid>
-            <pubDate>Sat, 30 Jan 2021 09:07:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【特斯拉Model 3车型在香港降价，最低售价不足30万港元】《香港经济日报》1月30日消息，特斯拉今日宣布，香港版Telsa Model 3各款车型均会减价，其中标准续航后轮驱动“Plus版”的“一换一”车价低于30万港元。另外，Model 3长续航版本以“一换一”计划购置，税项全免，售价35.5万港元起。香港版的货源将由上海超级工厂制造，其外形及车厢内饰设计均比上代稍有不同。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2904828.d.html</link>
-            <guid>2002737</guid>
-            <pubDate>Sat, 30 Jan 2021 09:00:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
