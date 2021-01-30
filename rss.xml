@@ -4,11 +4,46 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 30 Jan 2021 05:28:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2021 06:30:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  土耳其将特殊通信税从7.5%上调至10%。]]></title>
+            <guid>2002700</guid>
+            <pubDate>Sat, 30 Jan 2021 06:30:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  上海通报2例本地确诊病例排查情况，18例本地病例都有关联性。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2872815.d.html</link>
+            <guid>2002698</guid>
+            <pubDate>Sat, 30 Jan 2021 06:19:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【深圳市金管局：加快出台金融科技扶持政策 推动监管沙盒试点】1月29日，深圳市地方金融监管局召开2021年工作务虚会。深圳市金管局局长何杰强调，要加快推动创新资本形成中心建设，修订私募创投系列政策，围绕产业链及未来产业方向，打造上市培育工作品牌。加快出台金融科技扶持政策，推动监管沙盒试点，深化“深港澳金融科技师专才计划”，全力打造全球金融科技中心。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2872245.d.html</link>
+            <guid>2002696</guid>
+            <pubDate>Sat, 30 Jan 2021 06:11:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲地中海地震中心：萨尔瓦多近海发生5.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1883733.d.html</link>
+            <guid>2002688</guid>
+            <pubDate>Sat, 30 Jan 2021 05:42:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【招商证券：2021年财政进一步扩张的可能性减弱】招商证券发布研究报告点评12月及全年财政数据称，2021年“积极财政”可能要比2020年的“积极”打个折扣。2020年实际赤字比预算赤字下降2.5万亿，叠加国内经济增速大体修复至潜在经济增长水平，2021年财政保持扩张的可能性减弱。截至目前专项债仍未有发行计划。我们维持之前的判断，预计2021年财政预算赤字3.3%，专项债发行30000亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2869481.d.html</link>
+            <guid>2002687</guid>
+            <pubDate>Sat, 30 Jan 2021 05:41:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲地中海地震中心：印尼塞兰岛发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1882513.d.html</link>
+            <guid>2002685</guid>
+            <pubDate>Sat, 30 Jan 2021 05:30:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【2020年江苏光伏电池产量约占全国44% 十四五”累计将装机26GW】据统计，2020年江苏光伏电池产量48.3GW，约占全国产量44%，占全球产量的34.5%;光伏组件产量46.9GW，占全国产量约48%，全球占比约34%。根据江苏省“十四五”规划，到2025年底江苏将实现光伏累计装机26GW，这意味着未来5年江苏省年均新增装机约2GW。]]></title>
             <guid>2002684</guid>
@@ -364,60 +399,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2812954.d.html</link>
             <guid>2001757</guid>
             <pubDate>Fri, 29 Jan 2021 23:02:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[离岸人民币（CNH）兑美元北京时间05:59报6.4522元，较周四纽约尾盘涨221点，盘中整体交投于6.4811-6.4398元区间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2812798.d.html</link>
-            <guid>2001755</guid>
-            <pubDate>Fri, 29 Jan 2021 23:00:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中证报头版：起底“抵押经营贷”购房流水线】近日调查发现，在北上深多地，利用“抵押经营贷”购房已形成一条成熟的灰色产业链。中介可以提供设立壳公司、做账和申请贷款等全流程服务。而在关键的贷款审批环节，银行监管和产品的漏洞隐约可见。有中介机构人士甚至对记者表示，不用担心垫资的风险，可以先审核房本，出了批贷函，确定能放款了再垫资结清，然后重新在合作银行抵押和放款。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2812772.d.html</link>
-            <guid>2001754</guid>
-            <pubDate>Fri, 29 Jan 2021 23:00:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2021年第一季度券商营业部投资顾问调查报告：近九成投顾看好A股全年行情 ，建议调升仓位】近九成投顾判断A股今年能有正收益。认为当前合适仓位应在80%以上的投顾占比，从2020年四季度的40%升至本季度的50%，表明不少投顾认为应增加仓位。在市场风格方面，科技股重新成为最受投顾青睐的市场风格，其次是低估值蓝筹股、消费股。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2812526.d.html</link>
-            <guid>2001753</guid>
-            <pubDate>Fri, 29 Jan 2021 22:58:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【央行短期流动性投放仍可期待】本周以来，市场资金面持续紧张。流动性隐忧下，A股市场也出现一波调整。多位受访业内人士认为，近期流动性趋紧稍微超出预期，不过货币政策总体基调“不急转弯”，央行短期流动性投放仍可期待。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1826530.d.html</link>
-            <guid>2001751</guid>
-            <pubDate>Fri, 29 Jan 2021 22:56:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【个人投资者为市场绝对主力 银行理财产品去年为投资者创收近万亿元】银行业理财登记托管中心昨日发布的《中国银行业理财市场年度报告（2020年）》显示，截至2020年末，银行理财市场规模达25.86万亿元。银行理财产品为投资者兑付收益9932.5亿元，同比增长7.13%。 2020年，银行理财市场持有理财产品的投资者达4162万，较2019年增长86.85%。个人投资者是理财市场绝对主力，个人投资者占全部投资者数量的99.65%，个人投资者持有总金额占全部投资者持有总金额的87.50%。个人投资者偏重于净值型、低风险、短期限的理财产品。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2812159.d.html</link>
-            <guid>2001750</guid>
-            <pubDate>Fri, 29 Jan 2021 22:52:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“固收+”类产品再受关注，基金经理看好转债价值】 近期，流动性趋紧、股市调整等使得去年以来大热的“固收+”基金再度受到关注。多位基金经理认为，立足全年，股债市场或将经历一轮价值重估，对权益投资的收益预期应适当降低，“固收+”类产品为投资者提供了更稳健的选择。从资产配置的角度看，可转债在波动过后仍有较好的投资价值。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1826301.d.html</link>
-            <guid>2001749</guid>
-            <pubDate>Fri, 29 Jan 2021 22:51:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[盈透证券：取消针对期权交易的限制措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1826242.d.html</link>
-            <guid>2001748</guid>
-            <pubDate>Fri, 29 Jan 2021 22:49:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[证监会昨晚通报了2020年证监稽查20起典型违法案例，涉及财务造假、信息披露违法违规、审计机构未勤勉尽责、内幕交易、操纵市场、“老鼠仓”等案件。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2811912.d.html</link>
-            <guid>2001746</guid>
-            <pubDate>Fri, 29 Jan 2021 22:46:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【个人投资者为市场绝对主力，银行理财产品去年为投资者创收近万亿元】 银行业理财登记托管中心昨日发布的《中国银行业理财市场年度报告（2020年）》显示，截至2020年末，银行理财市场规模达25.86万亿元。银行理财产品为投资者兑付收益9932.5亿元，同比增长7.13%。 2020年，银行理财市场持有理财产品的投资者达4162万，较2019年增长86.85%。个人投资者是理财市场绝对主力，个人投资者占全部投资者数量的99.65%，个人投资者持有总金额占全部投资者持有总金额的87.50%。个人投资者偏重于净值型、低风险、短期限的理财产品。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2811835.d.html</link>
-            <guid>2001745</guid>
-            <pubDate>Fri, 29 Jan 2021 22:45:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
