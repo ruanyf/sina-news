@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 30 Jan 2021 20:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2021 21:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【开源证券：流动性紧张局面或趋于缓和】开源证券认为，近期流动性的紧张，与公开市场回笼、短端交易拥堵等有关，银行不缺“长钱”。信用收缩下，流动性不具备持续收紧基础，短期紧张或趋于缓和、但难明显宽松。随着月底财政资金投放等，流动性紧张局面或趋于缓和，但经济景气高位、通胀预期升温等，使得货币流动性环境短期难明显宽松。经验显示，1月财政缴税后，财政资金投放增多，普惠金融定向降准考核一般在1季度、1月底居多；随着春节临近，央行也会加大公开市场操作等稳定流动性，叠加春节就地过年增多、取现压力下降，预计流动性紧张局面或趋于缓和，但较难回到前期非常宽松的情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny2965668.d.html</link>
+            <guid>2003047</guid>
+            <pubDate>Sat, 30 Jan 2021 20:53:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国地质勘探局：智利北部塔拉帕卡大区首府伊基克西北向34公里处发生5.2级地震。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap1977782.d.html</link>
@@ -265,29 +271,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2904828.d.html</link>
             <guid>2002737</guid>
             <pubDate>Sat, 30 Jan 2021 09:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙江宁波到港6100余个空集装箱 缓解港口“一箱难求”】1月29日，浙江省宁波梅山国际集装箱码头六号泊位有一批特殊货物抵达——6100余个空集装箱，这些空集装箱将在该港区全部卸载，暂时缓解我国航运市场“一箱难求”燃眉之急。据了解，这艘运输空集装箱的货轮从荷兰鹿特丹出发，到港后全部卸载完毕预计需要48小时。码头值班经理沈迪介绍，2020年下半年以来，海运外贸运输形势好转，集装箱就跟着紧俏起来，“最近很多箱子卸下来，都不等我们提醒客人就立马被提走了，空箱流转非常快。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1919255.d.html</link>
-            <guid>2002736</guid>
-            <pubDate>Sat, 30 Jan 2021 09:00:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【银河证券：把握行业景气向上的确定性机会 推荐2月十大金股】2021年是我国经济转型升级的关键一年，十四五开好局的重要性较高，建议沿着十四五规划及中央经济工作会议的基调，积极布局符合技术升级或消费升级的中长期景气趋势上行的行业，例如新能源、高端制造、消费服务等。2021年2月推荐十大金股为：赣锋锂业、福斯特、七一二、恒立液压、祖龙娱乐、晨光文具、北新建材、卫星石化、智飞生物、华贸物流。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1918364.d.html</link>
-            <guid>2002735</guid>
-            <pubDate>Sat, 30 Jan 2021 08:52:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲地中海地震中心：俄罗斯Komandorskiye Ostrova（指挥官群岛）发生5.3级地震。]]></title>
-            <guid>2002734</guid>
-            <pubDate>Sat, 30 Jan 2021 08:49:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【青海省政府工作报告：加快推进盐湖综合利用等循环经济产业链建设】青海省第十三届人大六次会议于1月30日在西宁召开，青海省委副书记、省长信长星在政府工作报告中提出，2021年青海将加快推进盐湖综合利用等循环经济产业链建设和重点园区循环化改造，巩固提升油气化工、金属冶炼等优势产业。同时，用好多层次资本市场，推动条件成熟企业上市融资。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1915420.d.html</link>
-            <guid>2002732</guid>
-            <pubDate>Sat, 30 Jan 2021 08:37:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
