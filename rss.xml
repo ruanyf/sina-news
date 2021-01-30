@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 30 Jan 2021 03:31:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2021 04:34:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中信证券：短期内对于货币政策转向无需太过担忧】中信证券认为，货币政策不会过快转向，关注春节前后资金面的预期差。从历史经验和逻辑上看，若央行全面收紧货币政策，股票、房地产价格将会承压，债券亦不能幸免。然而，从近期央行释放的诸多信号来看，货币政策“不急转弯”，继续支持实体经济，确保政策的稳定性和一贯性是相对确定的，全面收紧的概率不大。我们认为，短期内对于货币政策转向无需太过担忧，参考往年春节前后资金面的表现以及今年倡导春节就地过年的影响下，需要关注后续央行操作与实际资金感受之间的预期差。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2860664.d.html</link>
+            <guid>2002659</guid>
+            <pubDate>Sat, 30 Jan 2021 04:25:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中信证券：维持今年政策温和退出的判断不变】中信证券表示，通过观察央行历史的流动性投放时点，预计自2月1日起，央行将开始启动明显的流动性投放行为，帮助平抑节前的流动性缺口。预计春节前央行将通过14/28天OMO+MLF+普惠金融定向降准的方式投放约1.7万亿流动性，维持今年政策温和退出的判断不变，预计年内看到政策利率的变化的可能性较低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2859437.d.html</link>
+            <guid>2002658</guid>
+            <pubDate>Sat, 30 Jan 2021 04:17:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家能源局：全国煤炭供应总体平稳】国家能源局今天（30日）发布的最新数据显示，2020年全国规模以上企业煤炭产量38.4亿吨，同比增长0.9%，12月煤炭产量3.5亿吨，同比增长3.2%。全国煤炭日产量持续保持1100万吨左右的较高水平，煤炭供应总体平稳。煤炭价格方面，煤炭中长期合同兑现率高、价格平稳，2020年煤炭企业中长期合同兑现率超过90%，履约情况总体良好，较好发挥了市场稳定器作用。煤炭现货价格11月初以来持续上涨，近日已出现回落。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2856890.d.html</link>
+            <guid>2002653</guid>
+            <pubDate>Sat, 30 Jan 2021 03:57:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[猫眼榜单实时数据显示，2021年春节档影片预售总票房已突破1亿。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1866310.d.html</link>
@@ -50,6 +68,12 @@
             <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2841020.d.html</link>
             <guid>2002212</guid>
             <pubDate>Sat, 30 Jan 2021 02:19:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【后续资金利率如何走？】 近期资金利率上行的非常迅速，R007 已经到了4%以上，隔夜甚至到了10%，我们认为是一种偏高的水平，如果维持必然会传导至实体，即使经济向好也不可能承受如此之高的利率水平。当前对资金的担忧已经引起了权益的大幅下跌，情绪传染明显，预计接下来央行会有相应的维稳操作，资金利率有望从当前高位回落，但是要明确的是：第一，即使回落，整体的资金利率中枢也不会再回到以前低位，按照我们在年度策略会的判断，我们预计 Q1 的 R007 中枢水平在 2.6%左右。第二，继续观察央行操作，如果只是以短期的逆回购为主进行投放，那么对节后的资金也不要过度乐观。节后将面临到期回笼。（申银万国）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1855142.d.html</link>
+            <guid>2002211</guid>
+            <pubDate>Sat, 30 Jan 2021 02:18:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[市场消息，新加坡暂停与德国、马来西亚和韩国的往返绿道安排。]]></title>
@@ -407,36 +431,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2809626.d.html</link>
             <guid>2001734</guid>
             <pubDate>Fri, 29 Jan 2021 22:03:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国联邦航空管理局称，将与SpaceX公司合作审查发射许可的变更。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1823371.d.html</link>
-            <guid>2001733</guid>
-            <pubDate>Fri, 29 Jan 2021 21:59:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国得州总检察长对Robinhood、视频社交平台Discord、盈透、E-TRADE、WEBULL、Citadel证券、德美利证券等多家交易平台提出民事调查要求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2809056.d.html</link>
-            <guid>2001732</guid>
-            <pubDate>Fri, 29 Jan 2021 21:55:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧盟首席谈判代表巴尼耶：果英国和欧盟未来要合作，就必须有“合作精神”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2808797.d.html</link>
-            <guid>2001729</guid>
-            <pubDate>Fri, 29 Jan 2021 21:49:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  机构测算：美国商品期货交易委员会（CFTC）欧元净多头持仓升至2020年10月以来最高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1822796.d.html</link>
-            <guid>2001727</guid>
-            <pubDate>Fri, 29 Jan 2021 21:44:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  穆迪：确认德国评级为“AAA”，前景展望稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1822675.d.html</link>
-            <guid>2001725</guid>
-            <pubDate>Fri, 29 Jan 2021 21:41:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
