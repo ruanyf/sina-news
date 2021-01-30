@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 30 Jan 2021 19:28:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2021 20:27:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国地质勘探局：智利北部塔拉帕卡大区首府伊基克西北向34公里处发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap1977782.d.html</link>
+            <guid>2003040</guid>
+            <pubDate>Sat, 30 Jan 2021 19:45:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  据俄罗斯卫星网：印度计划禁止私人的加密货币，并为印度央行推出数字货币建立法律基础。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap1976487.d.html</link>
@@ -282,18 +288,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1915420.d.html</link>
             <guid>2002732</guid>
             <pubDate>Sat, 30 Jan 2021 08:37:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【消息称无刘海iPhone原型机正在测试】知名爆料者MauriQHD表示，至少存在一款iPhone 13原型机正在测试中，该机相比目前熟知的iPhone取消了刘海设计，但边框略厚。但他补充说，该设计也可能是用于iPhone 14系列。部分外媒认为，苹果新一代iPhone也可能会类似索尼旗舰机的设计，将其设计为四等边框，好使得该机看起来更对称。（36氪）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1914570.d.html</link>
-            <guid>2002731</guid>
-            <pubDate>Sat, 30 Jan 2021 08:32:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【SpaceX公司“星际飞船”火箭首次高空试飞违反测试许可】据知情人士透露，SpaceX公司“星际飞船（Starship）”火箭首次高空试飞违反了美国联邦航空管理局的测试许可证条款。上个月，SpaceX公司的“星际飞船”火箭在一次成功的测试发射之后，试图着陆时发生了爆炸。知情人士称，当时进行了一项调查，重点是火箭着陆时的爆炸过程，以及SpaceX拒绝遵守美国联邦航空局的授权问题。SpaceX没有立即回应置评请求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2899032.d.html</link>
-            <guid>2002729</guid>
-            <pubDate>Sat, 30 Jan 2021 08:26:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
