@@ -4,11 +4,40 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 31 Jan 2021 14:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2021 15:27:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  意大利众议院议长：将于周一继续与各政党谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3103415.d.html</link>
+            <guid>2003901</guid>
+            <pubDate>Sun, 31 Jan 2021 15:05:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士称，在投资者承诺注入新资本后，Melvin资本在1月底拥有逾80亿美元资产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap2116712.d.html</link>
+            <guid>2003900</guid>
+            <pubDate>Sun, 31 Jan 2021 15:05:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DownDetector网站：用户报告显示，Reddit论坛网站出现问题。]]></title>
+            <guid>2003899</guid>
+            <pubDate>Sun, 31 Jan 2021 14:58:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国财长耶伦认为，现在采取行动并且采取大规模的行动长期来看是有好处的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap2114896.d.html</link>
+            <guid>2003897</guid>
+            <pubDate>Sun, 31 Jan 2021 14:39:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：因受游戏驿站和其他交易影响，美国对冲基金Melvin一月份损失了53% 。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3101227.d.html</link>
+            <guid>2003896</guid>
+            <pubDate>Sun, 31 Jan 2021 14:33:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【GameStop空头梦魇料不会全面扩散 美股短期回调或不改牛市格局】巴克莱策略师Maneesh Deshpande表示，GameStop股价暴涨使任何做空的人都感到恐惧。但是这些空头头寸的规模可能还没有达到让投资基金界陷入困境的地步。通过计算空头押注与整个市场市值的关系，他们发现过去一年的卖空头寸已下降到至少自2008年以来的最低水平。此外，今年被日内交易员锁定的做空量最大企业的空头头寸还不到总规模43万亿美元市场的0.001%。Front Barnett Associates首席投资官Marshall Front表示，“经济的基本面很强。美联储非常激进和宽松的政策仍然完好。它们共同帮助股市上涨。”]]></title>
             <guid>2003895</guid>
@@ -437,17 +466,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3054992.d.html</link>
             <guid>2003574</guid>
             <pubDate>Sun, 31 Jan 2021 07:59:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国疾控中心：近期报告无症状感染者较多，主因是发现病例能力增强。（澎湃新闻）]]></title>
-            <guid>2003573</guid>
-            <pubDate>Sun, 31 Jan 2021 07:57:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【消息称2月1日起茅台零售商不得设置抢购门槛】据知情人士透露，2月1日起，针对1499元平价53度飞天茅台，所有线上线下茅台零售商不得设置消费限制门槛或“仅会员购买”。此前，曾有部分电商平台规定仅会员可以参与1499元平价53度飞天茅台秒杀抢购活动。（品玩）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3054133.d.html</link>
-            <guid>2003570</guid>
-            <pubDate>Sun, 31 Jan 2021 07:51:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
