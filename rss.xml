@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 31 Jan 2021 05:29:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2021 06:30:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【荀玉根：A股春季行情仍未结束 短期重视滞涨低估板块】海通证券首席策略分析师荀玉根发布研报称，这次春季行情属于启动较早，2020年11月已经开始，沪深300已上涨两个多月，最大涨幅20%，与牛市期间平均最大涨幅仍有差距。春季行情关注滞涨低估板块，全年看好科技行业和大众消费行业。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3042520.d.html</link>
+            <guid>2003541</guid>
+            <pubDate>Sun, 31 Jan 2021 06:26:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【住在“理想退休地”有麻烦？媒体：特朗普在海湖庄园居住权被审查】据《国会山报》当地时间29日报道，佛罗里达州棕榈滩镇向媒体证实，目前正在对前总统特朗普在海湖庄园的居住权进行法律审查。 “我们镇的律师正在审查协议和相关法律。” 棕榈滩镇镇长柯克·布劳因透露道。 (环球网)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3042059.d.html</link>
+            <guid>2003540</guid>
+            <pubDate>Sun, 31 Jan 2021 06:22:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[成都银行公告，持股6.64%股东渤海基金拟6个月内减持不超过6%的公司股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3041995.d.html</link>
+            <guid>2003539</guid>
+            <pubDate>Sun, 31 Jan 2021 06:22:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中直股份：持股5%以上股东天津滨江拟将所持有的5.0512%股份协议转让给国新投资，股份转让价格为52.04元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap2053591.d.html</link>
+            <guid>2003538</guid>
+            <pubDate>Sun, 31 Jan 2021 06:11:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  江苏租赁：市场总监李裕勇应相关部门要求协助调查，目前李裕勇的工作已指定专人负责，公司日常经营运作正常。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap2053551.d.html</link>
+            <guid>2003537</guid>
+            <pubDate>Sun, 31 Jan 2021 06:11:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【海南自贸港首票“零关税”帆船通关放行，减免税款约190万元】1月29日，海南一家旅游企业申报的蓝高46型双体帆船，在海口海关所属三亚海关通关放行。进口的帆船货值约550万元，减免税款约190万元，为海南自贸港首票“零关税”交通工具及游艇业务。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap2041995.d.html</link>
@@ -283,12 +313,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap1976272.d.html</link>
             <guid>2003012</guid>
             <pubDate>Sat, 30 Jan 2021 19:10:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  凯投宏观：美联储今年仍将维持超宽松货币政策立场。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap1972482.d.html</link>
-            <guid>2002917</guid>
-            <pubDate>Sat, 30 Jan 2021 17:49:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
