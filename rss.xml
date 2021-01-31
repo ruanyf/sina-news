@@ -4,11 +4,34 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 31 Jan 2021 19:28:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2021 20:27:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  加纳重新实施聚集禁令，禁止超过25人的公共聚会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-01/detail-ikftpnny3119609.d.html</link>
+            <guid>2003941</guid>
+            <pubDate>Sun, 31 Jan 2021 20:09:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：02月01日03时05分在圭亚那（北纬2.78度，西经59.54度）发生5.9级地震，震源深度10千米。]]></title>
+            <guid>2003939</guid>
+            <pubDate>Sun, 31 Jan 2021 19:34:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国多个贵金属零售网站暂停销售白银】美国多个主要贵金属零售网站暂停销售白银产品，包括Money Market、SD Bullion、JM Bullion、Apmex以及沃尔玛北美。他们均表示，由于需求剧增，在白银亚盘开盘（北美周日晚上）前不能接受新订单。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-01/detail-ikftpnny3118208.d.html</link>
+            <guid>2003938</guid>
+            <pubDate>Sun, 31 Jan 2021 19:33:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国贵金属交易所(AMPEX)：由于白银实物产品面临前所未有的需求，我们无法接受大额订单，直至周日晚间（即亚洲市场）开盘。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-01/detail-ikftssap2131521.d.html</link>
+            <guid>2003937</guid>
+            <pubDate>Sun, 31 Jan 2021 19:31:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  高盛发布研报称，上周对冲基金仓位出现自2009年2月以来最大降幅；在回补空仓和多仓后，对冲基金敞口仍接近纪录水平，表明仓位驱动的抛售风险持续存在。]]></title>
             <guid>2003936</guid>
@@ -351,30 +374,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3068217.d.html</link>
             <guid>2003616</guid>
             <pubDate>Sun, 31 Jan 2021 09:26:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【友发集团：拟收购国强安全新材料71%股权 提高华东地区市占率】友发集团(601686)1月31日晚间公告，为提高华东地区产品市场占有率，公司拟以现金交易方式使用自有资金收购江苏国强安全新材料有限公司的71%股权。标的公司审计、评估工作尚未完成，暂定标的公司100%股权价值为5.32亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap2080924.d.html</link>
-            <guid>2003614</guid>
-            <pubDate>Sun, 31 Jan 2021 09:21:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【新潮能源：拟不高于4.2亿美元收购美国油气资产】新潮能源(600777)1月31日晚间公告，公司的美国全资子公司拟以不高于4.2亿美元的价格收购位于美国德克萨斯州霍华德县的油气资产。该油田净租约面积约18,010英亩，油气探明储量约6500万桶，现阶段油气产量约为9000桶当量/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3067488.d.html</link>
-            <guid>2003613</guid>
-            <pubDate>Sun, 31 Jan 2021 09:20:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英科医疗公告，向香港联交所递交境外上市外资股（H股）上市申请并刊发申请资料。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3067469.d.html</link>
-            <guid>2003612</guid>
-            <pubDate>Sun, 31 Jan 2021 09:20:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  菲利华：拟受让中益（泰兴）环保科技有限公司51.88%的股权并现金增资，以取得中益科技控股权；标的公司主要从事安全环保工业布产品的研发生产及销售业务，主要产品包括电子玻纤布、高强玻纤布、碳纤维布、石墨烯纤维布、石英纤维布等。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3067445.d.html</link>
-            <guid>2003611</guid>
-            <pubDate>Sun, 31 Jan 2021 09:20:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
