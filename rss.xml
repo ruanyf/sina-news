@@ -4,11 +4,28 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 31 Jan 2021 13:31:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2021 14:27:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【GameStop空头梦魇料不会全面扩散 美股短期回调或不改牛市格局】巴克莱策略师Maneesh Deshpande表示，GameStop股价暴涨使任何做空的人都感到恐惧。但是这些空头头寸的规模可能还没有达到让投资基金界陷入困境的地步。通过计算空头押注与整个市场市值的关系，他们发现过去一年的卖空头寸已下降到至少自2008年以来的最低水平。此外，今年被日内交易员锁定的做空量最大企业的空头头寸还不到总规模43万亿美元市场的0.001%。Front Barnett Associates首席投资官Marshall Front表示，“经济的基本面很强。美联储非常激进和宽松的政策仍然完好。它们共同帮助股市上涨。”]]></title>
+            <guid>2003895</guid>
+            <pubDate>Sun, 31 Jan 2021 14:01:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【免税行业获政策支持 将成海外消费回流重要渠道】中办、国办近日印发《建设高标准市场体系行动方案》，其中提出完善引导境外消费回流政策，鼓励重点城市增设一批离境退税商店，并增加海南离岛免税城市和门店。据了解，上海、深圳等城市也都将积极争取市内免税政策落地，打造高端免税消费中心。进口税制以及奢侈品定价策略导致境内外价差明显，免税成为海外消费回流和境内消费升级重要的渠道。王府井已投资设立免税品经营公司；中国中免是免税商品销售行业龙头。（上证资讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3097085.d.html</link>
+            <guid>2003885</guid>
+            <pubDate>Sun, 31 Jan 2021 13:42:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  江苏淮安：2份奶枣样本核酸检测为阳性，其余均为阴性。所有涉疫奶枣均已封存，对接触涉疫产品外环境进行了全面彻底消毒。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3096468.d.html</link>
+            <guid>2003882</guid>
+            <pubDate>Sun, 31 Jan 2021 13:38:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【黑龙江：调整呼兰区孟家乡红旗村红旗屯等3地风险等级】从2021年1月31日12时起：在中风险地区呼兰区孟家乡中，新增红旗村红旗屯为管控单元；在高风险地区呼兰区兰河街道中，新增富强村五队为管控单元；在中风险地区道里区抚顺街道中，新增地德里小区205栋6单元为管控单元。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap2108186.d.html</link>
@@ -431,18 +448,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3054133.d.html</link>
             <guid>2003570</guid>
             <pubDate>Sun, 31 Jan 2021 07:51:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  国家食品安全风险评估中心：食品核酸阳性不代表一定有传染性，至今为止，未发现消费者由于购买、加工被污染食品而发生感染的案例报道。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3053091.d.html</link>
-            <guid>2003566</guid>
-            <pubDate>Sun, 31 Jan 2021 07:41:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  沙特基础工业公司首席执行官：公司将继续在亚洲和美国市场发展业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap2065986.d.html</link>
-            <guid>2003561</guid>
-            <pubDate>Sun, 31 Jan 2021 07:39:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
