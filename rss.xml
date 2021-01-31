@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 31 Jan 2021 21:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2021 22:29:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【监管部门将对注册制改革试点进行全面总结评估】监管部门将对注册制改革试点进行全面总结评估，并着手实施制度改进和优化。在关口前移提高上市公司质量、进一步压实中介机构责任、优化审核机制、把握投融资平衡等方面，相关部门可望推出一系列务实政策。 (上证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-01/detail-ikftssap2138270.d.html</link>
+            <guid>2003958</guid>
+            <pubDate>Sun, 31 Jan 2021 22:27:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国在线券商Robinhood更新了有关购买限制的规定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-01/detail-ikftpnny3124815.d.html</link>
+            <guid>2003957</guid>
+            <pubDate>Sun, 31 Jan 2021 22:26:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【2386家上市公司近六成去年业绩预喜】数据显示，截至1月31日，A股共有2386家上市公司披露2020年全年业绩预告。其中，1366家公司业绩预喜，占比为57.25%。梳理发现，在业绩增长较好上市公司中，电气机械和器材制造业，计算机、通信和其他电子设备制造业，化学原料和化学制品制造业等行业的企业所占数量较多。业内人士指出，A股春季行情仍未结束，短期内可重视低估值板块，看好科技行业和大众消费行业上市公司全年市场表现。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-01/detail-ikftpnny3124430.d.html</link>
+            <guid>2003954</guid>
+            <pubDate>Sun, 31 Jan 2021 22:16:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据CME“美联储观察”：美联储3月维持利率在0%-0.25%区间的概率为96.9%，加息25个基点至0.25%-0.50%区间的概率为3.1%；4月维持利率在0%-0.25%区间的概率为96.9%，加息25个基点的概率为3.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-01/detail-ikftpnny3124205.d.html</link>
+            <guid>2003953</guid>
+            <pubDate>Sun, 31 Jan 2021 22:12:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据监测网络状况的网站DownDetector：用户报告称美国在线券商Robinhood在美东时间下午4:21（北京时间凌晨5:21）后出现问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-01/detail-ikftssap2136952.d.html</link>
+            <guid>2003951</guid>
+            <pubDate>Sun, 31 Jan 2021 22:01:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚1月AIG/PWC制造业表现指数：前值52.1，公布 55.3。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-01/detail-ikftssap2135807.d.html</link>
+            <guid>2003950</guid>
+            <pubDate>Sun, 31 Jan 2021 21:30:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  据英国金融时报：英国首相约翰逊和英国财政大臣苏纳克将起草疫后经济恢复计划。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-01/detail-ikftssap2134862.d.html</link>
@@ -327,36 +363,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3077839.d.html</link>
             <guid>2003638</guid>
             <pubDate>Sun, 31 Jan 2021 10:29:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行执委施纳贝尔：预计今年晚些时候通胀率会上升，但千万不要把这与持续增长混为一谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap2090916.d.html</link>
-            <guid>2003636</guid>
-            <pubDate>Sun, 31 Jan 2021 10:25:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行执委施纳贝尔：在当前环境下加息将产生毁灭性后果。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap2090781.d.html</link>
-            <guid>2003635</guid>
-            <pubDate>Sun, 31 Jan 2021 10:24:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【正邦科技：2021年6月公司有望冲击单月200万头的出栏】正邦科技接待调研时表示，2021年一季度是从高比例外购育肥到基本自产仔猪为主的过渡期，出栏还不会放量，加上淘汰母猪，2021年一季度总的出栏量在220-250万头。2021年二季度出栏对应的是2020年四季度的投苗，环比增量会比较明显，到2021年6月公司有望冲击单月200万头的出栏。2021年整个上半年的生猪出栏量预计占全年出栏量的30%。公司对 2021 年猪价持乐观态度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3076528.d.html</link>
-            <guid>2003632</guid>
-            <pubDate>Sun, 31 Jan 2021 10:15:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【央视财经评论：基金投资正本清源对资本市场有利】央视财经评论指出，任何一种投资都应建立在理性冷静的基础上，当前资本市场上投资基金的狂热现象值得警惕和深思。有些投资者像炒股一样炒基金，追涨杀跌，频繁申赎。许多投资者不了解基金市场，以为投资基金无风险稳赚，甚至能一夜暴富，基金收益好就追捧明星经理，净值下跌则把基金经理骂上热搜。有的投资者既不研究产品也不研究基金经理，看到机构和银行推销新基金，即跟风追热点买爆款，今年众多新发基金成了“日光基”，有些百亿规模的新基金被炒到2300多亿。盲目狂热的投资行为不利于基金管理人对产品的管理，也不利于投资者的投资收益。正本清源，让市场得以良性循环和健康平稳发展，才是资本市场之福，也是投资者之福。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3074630.d.html</link>
-            <guid>2003629</guid>
-            <pubDate>Sun, 31 Jan 2021 10:05:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【长江健康：2020年度预计盈利2.4亿元–3.6亿元 扭亏为盈】长江健康披露2020年度业绩预告，公司净利润为盈利2.4亿元–3.6亿元，上年同期亏损3.72亿元。公司上年同期业绩受商誉减值影响大幅亏损，本报告期预计无需计提商誉减值准备。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3072095.d.html</link>
-            <guid>2003625</guid>
-            <pubDate>Sun, 31 Jan 2021 09:52:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
