@@ -4,11 +4,40 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 31 Jan 2021 18:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2021 19:28:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  高盛发布研报称，上周对冲基金仓位出现自2009年2月以来最大降幅；在回补空仓和多仓后，对冲基金敞口仍接近纪录水平，表明仓位驱动的抛售风险持续存在。]]></title>
+            <guid>2003936</guid>
+            <pubDate>Sun, 31 Jan 2021 19:25:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据德国地学研究中心GFZ：圭亚那发生6.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-01/detail-ikftpnny3117146.d.html</link>
+            <guid>2003935</guid>
+            <pubDate>Sun, 31 Jan 2021 19:13:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京独角兽企业数量居世界城市首位 总共有93家】十三五期间，北京的任务是建设全国的科技创新中心，依托“三城一区”主平台和中关村自主创新示范区的建设，取得了显著的成效。目前北京高新技术企业已达2.9万家，独角兽企业93家。该指标不仅是全国，乃至世界，在各个城市排位中，均排在首位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-01/detail-ikftssap2130209.d.html</link>
+            <guid>2003933</guid>
+            <pubDate>Sun, 31 Jan 2021 19:06:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲央行首席经济学家连恩：我们的工具箱包括短期利率、资产购买、定向贷款和前瞻性指导。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-01/detail-ikftpnny3116612.d.html</link>
+            <guid>2003932</guid>
+            <pubDate>Sun, 31 Jan 2021 19:01:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲央行首席经济学家连恩：购买股票以及银行业债券不在当前工具箱内。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-01/detail-ikftssap2129411.d.html</link>
+            <guid>2003931</guid>
+            <pubDate>Sun, 31 Jan 2021 18:49:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【多地银行房贷现趋紧迹象，不存在大面积停贷】据了解，目前部分地区出现银行房贷放款周期拉长、利率上调的现象，但是大面积的停贷并不存在。分析人士认为，坚持“房住不炒”定位，银行在“房贷红线”约束和监管政策趋严背景下，对住房贷款资格审核更为严格，2021年个人房贷总体趋势偏紧，居民购房杠杆率或将稳中趋降。（经参）]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-01/detail-ikftssap2127626.d.html</link>
@@ -346,48 +375,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3067445.d.html</link>
             <guid>2003611</guid>
             <pubDate>Sun, 31 Jan 2021 09:20:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【万马科技：拟收购车联网服务商果通科技 签订股份转让框架协议】万马科技(300698)1月31日晚间公告，公司与转让方近期签订股份转让框架协议，公司和/或其届时指定的第三方拟以支付现金的形式收购转让方合计持有的上海果通通信科技股份有限公司100%股权。果通科技全部股东权益初步估值为1.8亿元，该公司是车联网服务提供商和解决方案商，已服务国内多家主流车企，累计装车逾350万辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap2080479.d.html</link>
-            <guid>2003610</guid>
-            <pubDate>Sun, 31 Jan 2021 09:17:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  先河环保：拟与北京正合绿势生态科技有限公司合作设立上海碳和管理咨询合伙企业（有限合伙），认缴出资总额4000万元，经营项目为碳排放权交易的配套服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3066792.d.html</link>
-            <guid>2003608</guid>
-            <pubDate>Sun, 31 Jan 2021 09:14:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【恩捷股份：下属公司拟投资20亿元建设锂电池隔离膜干法项目】恩捷股份公告，下属公司江西明扬拟在江西省高安高新技术产业园区投资建设锂电池隔离膜干法项目，项目投资总额为20亿元，资金通过自有资金与自筹资金等方式解决。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3066349.d.html</link>
-            <guid>2003607</guid>
-            <pubDate>Sun, 31 Jan 2021 09:11:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[扬子新材公告，持股12.3%股东胡卫林拟减持不超过总股本3％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap2079788.d.html</link>
-            <guid>2003606</guid>
-            <pubDate>Sun, 31 Jan 2021 09:10:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中国发布建设高标准市场体系行动方案】中办、国办印发的《建设高标准市场体系行动方案》31日公布，提出通过5年左右的努力，基本建成统一开放、竞争有序、制度完备、治理完善的高标准市场体系。开展个人破产制度改革试点、推动户籍准入年限同城化累计互认、开展社会化职称评审……这项基础性改革，畅通市场循环、疏通堵点，将为构建新发展格局提供有力制度支撑，也将深刻影响你我未来生活。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3065678.d.html</link>
-            <guid>2003604</guid>
-            <pubDate>Sun, 31 Jan 2021 09:05:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  拓维信息：公司近日与贵安产控、云上贵州共同组建合资公司贵州云上鲲鹏科技有限公司，公司认缴额7000万元，持股比例70%；合资公司以鲲鹏服务器生产及销售、行业应用开发和数字化转型咨询规划三大核心业务为公司发展方向。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3065588.d.html</link>
-            <guid>2003603</guid>
-            <pubDate>Sun, 31 Jan 2021 09:04:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中芯国际发布关于终止美国预托证券一级计划公告】中芯国际集成电路制造有限公司今日宣布，其美国预托证券的一级计划，截至2021年1月29日(美东时间)已发行在外的美国预托证券占本公司已发行股本总数已少于0.3%，该计划参与程度已很低，本公司决定终止该计划。根据与该计划有关的存托协议条款，该计划将于2021年3月4日(美东时间)终止。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3065552.d.html</link>
-            <guid>2003602</guid>
-            <pubDate>Sun, 31 Jan 2021 09:04:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
