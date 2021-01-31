@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 31 Jan 2021 03:31:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2021 04:34:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[阿根廷圣安东尼奥德洛斯科布雷斯以西63千米处发生5.1级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3021034.d.html</link>
+            <guid>2003514</guid>
+            <pubDate>Sun, 31 Jan 2021 04:26:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外媒：距弹劾案不足两周，5名律师离开特朗普法律团队】特朗普弹劾案没律师了？美国有线电视新闻网（CNN）当地时间30日援引消息人士的话称，在距离美国前总统特朗普的弹劾审判还有一周多时间之际，5名律师已经离开其法律团队，其中包括两名“领头”律师，理由是不赞同特朗普的“法律策略”。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap2032441.d.html</link>
+            <guid>2003512</guid>
+            <pubDate>Sun, 31 Jan 2021 04:14:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【春运第三天，全国发送旅客1727.9万人次】昨天（30日）是春运第三天，国务院联防联控机制春运工作专班数据显示，昨天，全国发送旅客1727.9万人次。其中铁路发送296.3万人次，公路1353万人次，水路29.8万人次，民航48.8万人次。全国高速公路流量2699.3万辆。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3009005.d.html</link>
@@ -259,24 +271,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap1968216.d.html</link>
             <guid>2002878</guid>
             <pubDate>Sat, 30 Jan 2021 16:37:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据俄罗斯卫星网：叙利亚北部阿夫林地区汽车爆炸事件至少导致5人死亡，13人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1965042.d.html</link>
-            <guid>2002843</guid>
-            <pubDate>Sat, 30 Jan 2021 15:58:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国内阁办公厅大臣戈夫：欧盟方面认识到他们错误地触发了英国脱欧协议的条款，现在有必要重设。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1964821.d.html</link>
-            <guid>2002842</guid>
-            <pubDate>Sat, 30 Jan 2021 15:53:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【部分枣庄涉疫奶枣通过线上渠道流入天津市】记者刚刚从天津市防控指挥部获悉，部分枣庄涉疫奶枣通过线上渠道流入天津市，目前全市共有8份奶枣样本核酸检测结果呈阳性，相关人员核酸检测结果均为阴性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1963359.d.html</link>
-            <guid>2002821</guid>
-            <pubDate>Sat, 30 Jan 2021 15:23:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
