@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 31 Jan 2021 20:27:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2021 21:23:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  据英国金融时报：英国首相约翰逊和英国财政大臣苏纳克将起草疫后经济恢复计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-01/detail-ikftssap2134862.d.html</link>
+            <guid>2003949</guid>
+            <pubDate>Sun, 31 Jan 2021 21:00:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：埃克森美孚和雪佛龙公司的CEO去年曾就合并进行讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-01/detail-ikftpnny3121095.d.html</link>
+            <guid>2003947</guid>
+            <pubDate>Sun, 31 Jan 2021 20:52:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士称，意大利前总理伦齐希望欧洲央行前行长德拉基领导意大利政府。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-01/detail-ikftssap2133882.d.html</link>
+            <guid>2003943</guid>
+            <pubDate>Sun, 31 Jan 2021 20:34:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【东北证券：流动性紧张将缓解，3800点目标仍可期】东北证券认为，宏观流动性短期最紧张的时点预计已经过去，A股中长期走势更多取决于基本面。春节前新基金发行通常加速，同时外资大概率加速流入，微观资金面短期大幅宽松趋势不会逆转。宏观流动性紧张情绪预计有所缓解，企业盈利改善持续，慢牛行情延续，3800点目标不变。行业配置上继续偏均衡，景气度上行以及调整幅度较大的新能源、军工等主线板块以及化工、有色、TMT、医药等扩散板块值得关注。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-01/detail-ikftssap2133692.d.html</link>
+            <guid>2003942</guid>
+            <pubDate>Sun, 31 Jan 2021 20:27:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  加纳重新实施聚集禁令，禁止超过25人的公共聚会。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-01/detail-ikftpnny3119609.d.html</link>
@@ -333,47 +357,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3072095.d.html</link>
             <guid>2003625</guid>
             <pubDate>Sun, 31 Jan 2021 09:52:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【*ST众泰：股票可能被实施退市风险警示】*ST众泰公告，根据《深圳证券交易所股票上市规则（2020年修订）》的有关规定，公司2020年度经审计后的净资产若为负值，或被出具“无法表示意见”，公司股票将在 2020 年年度报告披露后继续被实施退市风险警示。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap2084930.d.html</link>
-            <guid>2003622</guid>
-            <pubDate>Sun, 31 Jan 2021 09:49:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美尚生态：入股品斛堂 后者布局石斛健康品、健康白酒板块】美尚生态(300495)1月31日晚间公告，公司的全资子公司美尚投资拟向品斛堂投资1250万元认购品斛堂2.44%股权。增资后，美尚投资预计持有品斛堂2.44%股权。品斛堂是一家专注于石斛全产业链开发的高科技生物企业，主要布局石斛健康品、健康白酒两大板块。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3069779.d.html</link>
-            <guid>2003621</guid>
-            <pubDate>Sun, 31 Jan 2021 09:38:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  汇金股份：控股子公司前海汇金与太极计算机股份有限公司近日签署了《建设工程施工合同》、《UPS及边柜设备购销合同》，合同含税金额6.02亿元。]]></title>
-            <guid>2003620</guid>
-            <pubDate>Sun, 31 Jan 2021 09:37:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中来股份：武飞成将为实际控制人】中来股份公告，姜堰道得拟通过协议转让方式受让林建伟、普乐投资持有的3.64%公司股份，林建伟将其持有的2%公司股份对应表决权无条件委托给姜堰道得行使。此外，信息披露义务人已与上市公司签订了《附条件生效的股份认购协议之补充协议》。本次权益变动完成后，上市公司控制权将发生变化，姜堰道得成为上市公司控股股东，武飞成为上市公司实际控制人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3069364.d.html</link>
-            <guid>2003619</guid>
-            <pubDate>Sun, 31 Jan 2021 09:35:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  世联行：预计2020年盈利9833万元-1.2亿元，同比增长20%-50%；预计非经常性损益对净利润的影响金额约为9630万元，主要系处置部分股权投资取得收益及政府补助。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap2081925.d.html</link>
-            <guid>2003618</guid>
-            <pubDate>Sun, 31 Jan 2021 09:29:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  力盛赛车：持股23.99%股东夏青拟6个月内减持不超过4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap2081720.d.html</link>
-            <guid>2003617</guid>
-            <pubDate>Sun, 31 Jan 2021 09:27:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  湘潭电化：预计第一季度盈利1800万元-2300万元，同比增长255.18%-353.85%；主要系公司于2020年11月起逐步提高产品售价后，2021年第一季度产品全面提价，同时产品产销两旺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3068217.d.html</link>
-            <guid>2003616</guid>
-            <pubDate>Sun, 31 Jan 2021 09:26:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
