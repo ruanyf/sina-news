@@ -4,11 +4,283 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 02 Feb 2021 06:31:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2021 07:29:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[现货黄金短线下挫7美元，最低至1844.78美元/盎司。]]></title>
+            <guid>2006682</guid>
+            <pubDate>Tue, 02 Feb 2021 07:27:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[天然气日内涨幅3.54%，现报2.9285美元/百万英热。]]></title>
+            <guid>2006681</guid>
+            <pubDate>Tue, 02 Feb 2021 07:27:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中信建投：升港交所目标价至622港元 料港股“连水换鱼”效应加速】中信建投发表报告表示，在基准情形下，据2020年底香港主板市值为47.5万亿港元，综合考虑新经济巨头赴港上市节奏的加速以及整体香港市场景气度的抬升，给予2021年香港平均市值预测为55万亿港元。该行预计港股今年的日均成交额为1,980亿元，上调对港交所目标价至622港元。2021年不一样的地方，在于港股南下资金于日均成交占比已经显着提升，新经济巨头活跃的持续性较强。南下日均成交占比已达到14.2%，对市场的影响程度显着提升。中信建投指，港股“连水换鱼”效益加速显现，指互联互通进一步扩大，北上成交及南下成交均呈现放大趋势，从总量角度看，北上南下均有巨大提升空间。]]></title>
+            <guid>2006680</guid>
+            <pubDate>Tue, 02 Feb 2021 07:24:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货铂金跌破1100美元/盎司，日内跌2.66%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3425657.d.html</link>
+            <guid>2006678</guid>
+            <pubDate>Tue, 02 Feb 2021 07:21:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[东京奥组委主席森喜朗：我们必须讨论奥运会期间如何避免人群聚集。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2438872.d.html</link>
+            <guid>2006677</guid>
+            <pubDate>Tue, 02 Feb 2021 07:19:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【浙商证券：本轮银价上行源于散户入市推动叠加基本面自有逻辑】浙商证券宏观李超团队2月2日发布研报称，本轮白银价格上行源于个人投资者入市推动叠加基本面自有逻辑（经济复苏+通胀预期），当前不宜低估个人投资者的购买力量，存量储蓄对资产价格的潜在推升能力不可小视。短期内白银仍可能快速上行，但难以长期持续。最晚可能在一季度末伴随“再通胀交易”的转向而告一段落，不影响对全年通胀节奏的判断。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3425059.d.html</link>
+            <guid>2006676</guid>
+            <pubDate>Tue, 02 Feb 2021 07:18:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[东京奥组委副主席远藤利明：希望讨论的不是是否将举办奥运会，而是如何安全举办奥运会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3424908.d.html</link>
+            <guid>2006675</guid>
+            <pubDate>Tue, 02 Feb 2021 07:17:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[金银比大涨，日内涨4.00%，现报66.71。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2438496.d.html</link>
+            <guid>2006674</guid>
+            <pubDate>Tue, 02 Feb 2021 07:16:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金跌回1850美元/盎司下方，日内跌幅达0.50%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3424748.d.html</link>
+            <guid>2006673</guid>
+            <pubDate>Tue, 02 Feb 2021 07:16:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMEX期银日内暴跌5.11%，现报27.90美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3424722.d.html</link>
+            <guid>2006672</guid>
+            <pubDate>Tue, 02 Feb 2021 07:16:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[游戏驿站在德国Tradegate交易所跌20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3424592.d.html</link>
+            <guid>2006671</guid>
+            <pubDate>Tue, 02 Feb 2021 07:15:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货白银短线跌0.7美元，最低至27.80美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2438210.d.html</link>
+            <guid>2006670</guid>
+            <pubDate>Tue, 02 Feb 2021 07:14:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国央行委员：首尔房价大幅上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2438154.d.html</link>
+            <guid>2006669</guid>
+            <pubDate>Tue, 02 Feb 2021 07:14:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMEX期银失守28美元/盎司，日内跌幅4.87%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2438088.d.html</link>
+            <guid>2006668</guid>
+            <pubDate>Tue, 02 Feb 2021 07:13:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其央行：如有必要，将实施更多的先发制人的决定性紧缩政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2437582.d.html</link>
+            <guid>2006666</guid>
+            <pubDate>Tue, 02 Feb 2021 07:10:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国央行会议前瞻：关注负利率政策和经济前景预测】由于受封锁政策的影响，我们预计英国央行将下调2021年第一季度GDP预测。此外，英国央行将着重讨论负利率政策。但是，由于内部人员对国内外经济前景存在分歧，就执行负利率一事似乎没有达成一致意见。英国央行首席经济学家霍尔丹预计，从第二季度开始，英国经济将以“缓慢的速度”复苏，而行长贝利最近则指出，实施负利率可能还为时过早。最后，预计英国央行将延长每周44亿英镑的资产购买步伐至今年五月。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3423752.d.html</link>
+            <guid>2006665</guid>
+            <pubDate>Tue, 02 Feb 2021 07:10:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[东京奥运会行动委员会主席Endo：国际奥委会主席巴赫曾表示，东京奥运会将是准备最充分的一届奥运会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3423411.d.html</link>
+            <guid>2006663</guid>
+            <pubDate>Tue, 02 Feb 2021 07:09:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国石油(BP.N)：第四季度调整后净利润1.15亿美元，市场预期4.4亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3423332.d.html</link>
+            <guid>2006661</guid>
+            <pubDate>Tue, 02 Feb 2021 07:08:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货白银短线走低0.3美元，现报28.33美元/盎司，日内跌2.46%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2436910.d.html</link>
+            <guid>2006660</guid>
+            <pubDate>Tue, 02 Feb 2021 07:08:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国央行公布1月15日利率决议时的会议纪要。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2436694.d.html</link>
+            <guid>2006659</guid>
+            <pubDate>Tue, 02 Feb 2021 07:07:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国财政部：将对现购后付的产品进行监管。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2436548.d.html</link>
+            <guid>2006658</guid>
+            <pubDate>Tue, 02 Feb 2021 07:06:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场评论：英国房价增长放缓可能反映了在全国范围内印花税假期结束前需求逐渐减少。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3422833.d.html</link>
+            <guid>2006657</guid>
+            <pubDate>Tue, 02 Feb 2021 07:06:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[数据显示，北向资金全天单边净买入32.81亿元，为连续三日净买入；其中深股通净买入29.82亿元。]]></title>
+            <guid>2006656</guid>
+            <pubDate>Tue, 02 Feb 2021 07:05:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国石油公司：目前全球液化天然气市场供应紧张，加上美国天然气价格上涨，将推高其它地区的天然气价格。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2436004.d.html</link>
+            <guid>2006655</guid>
+            <pubDate>Tue, 02 Feb 2021 07:03:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国石油公司：原油需求预计将在2021年恢复。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3422178.d.html</link>
+            <guid>2006654</guid>
+            <pubDate>Tue, 02 Feb 2021 07:03:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国石油公司：预计随着供应下降和液化天然气出口需求复苏，2021年美国天然气市场将趋紧。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2435818.d.html</link>
+            <guid>2006653</guid>
+            <pubDate>Tue, 02 Feb 2021 07:03:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【收评：三大指数高开高走沪指涨0.81% 汽车板块领涨】2月2日消息，A股三大指数集体高开，稀土永磁涨幅居前，机场航运开盘大跌，上海机场一字跌停。随后，三大指数悉数翻绿。盘中，指数小幅回升，创指、深成指涨幅逾1%，汽车整车板块强势领涨，长安汽车涨幅超8%，基因测序概念持续走强，白马股表现活跃，市场情绪有所回暖，赚钱效应较好。临近午盘，三大指数红盘整理，白酒概念下探回升，农业板块走强。午后，三大指数红盘整理，沪指涨0.6%，创指涨1.8%。尾盘，指数维持高位盘整，汽车板块大涨，注册制次新股重挫。截至收盘，沪指涨0.81%，报收3533点；深成指涨2.07%，报收15335点；创业板指涨2.17%，报收3228点。从盘面上看，汽车整车、白马股、农业服务涨幅居前，注册制次新股、玉米、机场航运板块跌幅居前。]]></title>
+            <guid>2006652</guid>
+            <pubDate>Tue, 02 Feb 2021 07:02:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【期货收盘：国内期货跌多涨少 黑色系领跌】国内期货跌多涨少，黑色系领跌，铁矿跌5%，动力煤、焦炭跌3%，焦煤、螺纹跌2%；油脂油料普跌，豆二跌3%，豆一跌2%，豆粕、菜粕、豆油、菜籽油、棕榈油跌1%；能源板块领涨，低硫燃油涨4%，原油涨3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3421539.d.html</link>
+            <guid>2006650</guid>
+            <pubDate>Tue, 02 Feb 2021 07:00:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南向资金净流入达150亿元。]]></title>
+            <guid>2006648</guid>
+            <pubDate>Tue, 02 Feb 2021 06:59:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国1月Nationwide房价指数月率录得-0.3%，创去年6月以来新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2434872.d.html</link>
+            <guid>2006647</guid>
+            <pubDate>Tue, 02 Feb 2021 06:59:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国1月Nationwide房价指数月率：-0.3%；预期：0.3%；前值：0.80%；修正：0.9%（前值）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3421089.d.html</link>
+            <guid>2006646</guid>
+            <pubDate>Tue, 02 Feb 2021 06:59:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿富汗黎明电视台（Tolo News）报道称，极端组织塔利班的武装分子对阿富汗昆都士一检查站夜袭造成4名警察死亡、3人受伤。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3420816.d.html</link>
+            <guid>2006645</guid>
+            <pubDate>Tue, 02 Feb 2021 06:58:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[初步行业数据显示，印度1月本地汽油销量同比增长5.9%，柴油销量同比下降2.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2434380.d.html</link>
+            <guid>2006644</guid>
+            <pubDate>Tue, 02 Feb 2021 06:57:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北向资金净流入达50亿元。]]></title>
+            <guid>2006643</guid>
+            <pubDate>Tue, 02 Feb 2021 06:54:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗：如果上个月看到的大量资金流入白银支持交易所交易基金的趋势持续到2月份，那么未来一周银价可能达到33美元/盎司，并可能到3月初达到36-38美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3419514.d.html</link>
+            <guid>2006642</guid>
+            <pubDate>Tue, 02 Feb 2021 06:52:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北向资金净流入达40亿元。]]></title>
+            <guid>2006641</guid>
+            <pubDate>Tue, 02 Feb 2021 06:51:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【传三星显示将韩国8代LCD产线设备出售给TCL华星】据韩媒报道，YMC和中国面板厂TCL华星从去年7月份开始对SDC残留LCD产线完成了评估作业。计划今年1季度内进行LCD产线售让搬迁合同。三星显示的8代LCD线拥有COA技术。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2432319.d.html</link>
+            <guid>2006640</guid>
+            <pubDate>Tue, 02 Feb 2021 06:50:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沪深300指数尾盘突破5500点，日内涨1.52%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2431962.d.html</link>
+            <guid>2006639</guid>
+            <pubDate>Tue, 02 Feb 2021 06:48:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[深证成指涨2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2431929.d.html</link>
+            <guid>2006638</guid>
+            <pubDate>Tue, 02 Feb 2021 06:48:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[黑龙江绥化海伦市：除生病就医、核酸检测等情况，城乡居民无证一律禁止离开家门。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2431545.d.html</link>
+            <guid>2006637</guid>
+            <pubDate>Tue, 02 Feb 2021 06:46:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[注册制次新股午后持续下跌，C信测、C药易购跌逾30%，C秋田微、中英科技跌20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3416986.d.html</link>
+            <guid>2006636</guid>
+            <pubDate>Tue, 02 Feb 2021 06:43:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马来西亚证券交易所表示不禁止受监管的卖空交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3416878.d.html</link>
+            <guid>2006635</guid>
+            <pubDate>Tue, 02 Feb 2021 06:42:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[越南VN指数涨幅扩大至3％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3415292.d.html</link>
+            <guid>2006633</guid>
+            <pubDate>Tue, 02 Feb 2021 06:36:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北京市住房和城乡建设委员会、北京市市场监督管理局等部门：银行业金融机构、小额贷款公司等机构不得将承租人申请的“租金贷”资金拨付给住房租赁企业。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2428808.d.html</link>
+            <guid>2006632</guid>
+            <pubDate>Tue, 02 Feb 2021 06:35:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北京市住房和城乡建设委员会、北京市市场监督管理局等部门：住房租赁企业向承租人预收的租金数额原则上不得超过3个月租金，收、付租金的周期应当匹配。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3414946.d.html</link>
+            <guid>2006631</guid>
+            <pubDate>Tue, 02 Feb 2021 06:34:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北京市住房和城乡建设委员会、北京市市场监督管理局等部门发布关于规范本市住房租赁企业经营活动的通知。]]></title>
+            <guid>2006630</guid>
+            <pubDate>Tue, 02 Feb 2021 06:34:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国KOSPI指数2月2日（周二）收盘上涨40.28点，涨幅1.32%，报3096.81点。]]></title>
+            <guid>2006629</guid>
+            <pubDate>Tue, 02 Feb 2021 06:33:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[铁矿石主力合约日内跌幅6.07%，现报929.0元/吨。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2427405.d.html</link>
@@ -264,263 +536,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2415723.d.html</link>
             <guid>2006573</guid>
             <pubDate>Tue, 02 Feb 2021 05:23:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“2021全国网上年货节”前十天零售额超3000亿元】由商务部会同中央网信办、工业和信息化部、市场监管总局、国家邮政局、中国消费者协会等部门和单位共同指导开展的“2021全国网上年货节”，自2021年1月20日启动以来，取得阶段性成效。据商务大数据监测，1月20日至29日的10天，全国网络零售额达3441.1亿元人民币。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3401918.d.html</link>
-            <guid>2006572</guid>
-            <pubDate>Tue, 02 Feb 2021 05:22:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  食品消费板块走强，涪陵杂菜午后封板，安井食品、千禾味业、天味食品、三全食品等大幅高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3401784.d.html</link>
-            <guid>2006571</guid>
-            <pubDate>Tue, 02 Feb 2021 05:21:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[涪陵榨菜午后涨停，成交额7.10亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3401699.d.html</link>
-            <guid>2006570</guid>
-            <pubDate>Tue, 02 Feb 2021 05:20:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  澳大利亚ASX200指数周二收盘上涨99.60点，涨幅1.49%，报6762.60点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3401615.d.html</link>
-            <guid>2006569</guid>
-            <pubDate>Tue, 02 Feb 2021 05:20:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【杨洁篪同美中关系全国委员会举行视频对话】中共中央政治局委员、中央外事工作委员会办公室主任杨洁篪2日在北京同美国美中关系全国委员会举行视频对话。杨洁篪表示，当前中美关系正处于关键时刻，面临新的机遇和挑战。中国政府对美政策始终保持高度稳定性和连续性。中方愿同美方共同努力，推动两国关系沿着不冲突不对抗、相互尊重、合作共赢的轨道向前发展，造福两国和两国人民；同时中方将继续坚定捍卫国家主权、安全、发展利益。希望美方正确看待中国，同中方一道努力恢复正常交往，妥善处理矛盾分歧，开展互利合作。与会美方人士表示，美中关系是世界上最重要的双边关系，美中加强合作对两国和世界具有重要意义，期待双方相向而行，推动双边关系朝着正确方向发展。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2414961.d.html</link>
-            <guid>2006568</guid>
-            <pubDate>Tue, 02 Feb 2021 05:18:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[赣锋锂业港股午后走高，涨超10%，现报125.3港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3400828.d.html</link>
-            <guid>2006567</guid>
-            <pubDate>Tue, 02 Feb 2021 05:13:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【理想汽车在上海设立研发中心 规模将超过2000人】2月2日，理想汽车宣布在上海设立研发中心。据悉，理想汽车上海研发中心将致力于智能电动车技术的前沿开发，包括高电压平台及超快充技术、自动驾驶技术和下一代智能座舱科技。上海研发中心的招聘工作已经启动，研发中心规模将超过2000人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2414371.d.html</link>
-            <guid>2006566</guid>
-            <pubDate>Tue, 02 Feb 2021 05:13:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  南向资金净流入达110亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2414080.d.html</link>
-            <guid>2006565</guid>
-            <pubDate>Tue, 02 Feb 2021 05:10:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【92家欧普眼视光服务终端入驻平安好医生】欧普康视旗下首批92家眼视光服务机构正式上线平安好医生互联网眼科中心，标志着欧普康视与平安好医生的战略合作正式启动，这些社区化眼科及视光服务终端分布于安徽、江苏、江西、陕西、湖北、福建、山东、广东等省份，将为平安好医生的客户和患者提供定期的眼健康检查，以及视力矫正、近视防控、眼病治疗等线下服务，后续还将有更多的欧普康视眼视光服务终端上线平安好医生互联网眼科中心。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3400416.d.html</link>
-            <guid>2006564</guid>
-            <pubDate>Tue, 02 Feb 2021 05:10:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华储网：2021年2月4日和9日投放中央储备冻猪肉数量各3万吨】华储网：根据国家有关部门安排定于2021年2月4日和9日组织开展中央储备冻猪肉投放竞价交易，投放数量各3万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2413839.d.html</link>
-            <guid>2006563</guid>
-            <pubDate>Tue, 02 Feb 2021 05:09:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞银：上调舜宇评级至买入 目标价大升至285港元】瑞银发表研究报告，上调舜宇光学科技投资评级，由中性上调至买入，主要反映三星市占增加带来的摄像镜头模组上行潜力，目标价由130港元大幅升至285港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3400112.d.html</link>
-            <guid>2006562</guid>
-            <pubDate>Tue, 02 Feb 2021 05:08:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国商品期货交易委员会（CFTC）：机构信息收集活动需要在美国行政管理和预算局（OMB）的审查下进行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2413394.d.html</link>
-            <guid>2006561</guid>
-            <pubDate>Tue, 02 Feb 2021 05:06:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  食品板块持续走高，洽洽食品涨停，华文食品、千禾味业、安井食品、三全食品等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3399865.d.html</link>
-            <guid>2006560</guid>
-            <pubDate>Tue, 02 Feb 2021 05:06:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  港股海底捞午后涨超10%，刷新股价新高至76.1港元。其他餐饮股表现强势，呷哺呷哺涨近8%，九毛九涨4%，盘中股价均刷新新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2413205.d.html</link>
-            <guid>2006559</guid>
-            <pubDate>Tue, 02 Feb 2021 05:05:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  标准普尔：印度的预算对经济来说是一剂强心针。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2413181.d.html</link>
-            <guid>2006558</guid>
-            <pubDate>Tue, 02 Feb 2021 05:04:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【伊朗称正等待美国有效解除制裁：双边对话没有必要】伊朗外交部发言人表示，伊朗正在等待美国采取相关措施，以有效解除制裁。而所谓“有效”，意思是伊朗需要切实看到美国的实际行动及结果，仅签署文件不能使美国自动回到伊核协议中。同时，哈蒂布扎德表示，伊朗已数次明确表示，同美国进行双边对话是没有必要的，伊朗也不会这样做。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2413081.d.html</link>
-            <guid>2006557</guid>
-            <pubDate>Tue, 02 Feb 2021 05:04:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  京东午后短线拉升，现涨超5%，据报道，京东物流计划本月提交香港IPO申请。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3399341.d.html</link>
-            <guid>2006556</guid>
-            <pubDate>Tue, 02 Feb 2021 05:01:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据路透社旗下媒体IFR报道，京东物流计划本月提交香港IPO申请。对此，京东方面回复称不予置评。(新京报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3399163.d.html</link>
-            <guid>2006555</guid>
-            <pubDate>Tue, 02 Feb 2021 05:00:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2020年我国工业机器人产量增长19.1%】工信部日前公布的数据显示，2020年我国工业机器人完成产量237068台，同比增长19.1%；全国规模以上工业机器人制造企业营业收入531.7亿元，同比增长6%，实现利润总额17.7亿元，同比下降26.9%，降幅较去年前三季度收窄24.4个百分点。2020年12月，全国工业机器人完成产量29706台，同比增长32.4%。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3398811.d.html</link>
-            <guid>2006553</guid>
-            <pubDate>Tue, 02 Feb 2021 04:57:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【韩正同欧盟委员会第一副主席蒂默曼斯举行首次中欧环境与气候高层对话】韩正指出，2020年9月，中德欧领导人视频会晤决定建立中欧环境与气候高层对话，打造中欧绿色合作伙伴关系。我们要落实领导人共识，发挥高层对话的引领作用，深化中欧环境与气候务实合作，使绿色合作成为中欧全面战略伙伴关系的新亮点新引擎。蒂默曼斯表示，欧方高度赞赏中方在气候变化等问题上采取的积极立场，愿扩大和深化欧中环境与气候领域对话合作，充分发挥多边机制作用，支持中方办好《生物多样性公约》第十五次缔约方大会。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3398314.d.html</link>
-            <guid>2006551</guid>
-            <pubDate>Tue, 02 Feb 2021 04:53:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【央行连续实施净投放 专家称短期央行有望加大净投放呵护资金面】中国银行国际金融研究所研究员梁斯分析说，“预计春节前后，流动性需求将有所上升，流动性可能会呈现有所偏紧的情况，预计流动性投放将适度增加，或可考虑综合运用不同期限流动性投放工具，例如14天、21天期逆回购等组合。”国盛证券首席宏观分析师熊园在最新研报中也指出，春节前后资金缺口仍大，预计短期央行大概率还会加大净投放“跨节”、呵护资金面。（中国经营报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3397612.d.html</link>
-            <guid>2006550</guid>
-            <pubDate>Tue, 02 Feb 2021 04:47:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中电联预测2021年全社会用电量增长6%-7%】中国电力企业联合会在今日召开的“2020-2021年度全国电力供需形势分析预测报告”新闻发布会上表示，预计2021年全社会用电量增速前高后低，全年增长6%-7%。预计2021年全国基建新增发电装机容量1.8亿千瓦左右，其中非化石能源发电装机投产1.4亿千瓦左右。 (中国能源报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2410866.d.html</link>
-            <guid>2006549</guid>
-            <pubDate>Tue, 02 Feb 2021 04:45:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港特区行政长官林郑月娥：强制检测行动基于科学】香港特区行政长官林郑月娥2日在出席行政会议前回答记者提问时表示，特区政府的限制及强制检测行动基于科学，综合考虑环境及楼宇等因素去判断封区，并不单以确诊病例作衡量。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2409963.d.html</link>
-            <guid>2006547</guid>
-            <pubDate>Tue, 02 Feb 2021 04:40:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本经济再生大臣西村康稔：政府寻求将紧急状态延长至3月7日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3395874.d.html</link>
-            <guid>2006546</guid>
-            <pubDate>Tue, 02 Feb 2021 04:34:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【天风证券：苹果或与现代、通用PSA合作造车】天风国际分析师郭明錤发表研报，相信苹果将与现代深入合作Apple Car，其底盘将采用E-GMP平台，现代Mobis提供部分零组件设计与生产支持。若与现代的合作模式进展顺利，预测后续苹果将与通用与PSA（Stellantis）合作，以开发其他Apple Car车型或进入其他市场。预计苹果最早于2025年推出首款汽车。郭明錤指出，虽然看好鸿海集团对电动车的投资，但鸿海集团并非最佳的核心合作伙伴。对于"Apple Car概念股"，他重申现在买入Apple Car股票风险过高，但可关注与苹果合作车厂既有供应链与目前苹果的光学与半导体供应链。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3395744.d.html</link>
-            <guid>2006544</guid>
-            <pubDate>Tue, 02 Feb 2021 04:33:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【本周存储产品全面上涨 最高涨幅达7%】根据中国闪存市场ChinaFlashMarket报价，本周120GB SSD报价由13.7美元上涨至14.5美元，涨幅达5.8%；240GB SSD报价由23美元上涨至24.2美元，涨幅达5.2%；480GB SSD报价由41.5美元上涨至44美元，涨幅达6%。部分嵌入式产品价格上扬，最高涨幅达7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2408717.d.html</link>
-            <guid>2006543</guid>
-            <pubDate>Tue, 02 Feb 2021 04:30:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  印度SENSEX指数和NIFTY指数涨幅扩大至3％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2408460.d.html</link>
-            <guid>2006542</guid>
-            <pubDate>Tue, 02 Feb 2021 04:29:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【吉宏股份：白酒项目招商 进货60万可享5万飞天茅台配额】吉宏股份发文称，“遵义产区▪中国好酱酒”项目招商。只要进货60万即可享受5万飞天茅台配额，飞天茅台酒价格严格按照1499元/瓶（500ML）出货。“遵义产区▪中国好酱酒”项目是遵义市白酒行业商会发起，由吉宏股份独家负责线上销售、招商、运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2408076.d.html</link>
-            <guid>2006540</guid>
-            <pubDate>Tue, 02 Feb 2021 04:26:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【百度回应造车进展：正在组建智能汽车公司 各方面进展顺利】有媒体报道称，百度正在江浙沪地区招揽造车的人才，而百度造车的合资公司，百度约占51%的股权，吉利占49%。对此，百度方面回：“正在组建智能汽车公司，各方面进展顺利。” (澎湃)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3393785.d.html</link>
-            <guid>2006539</guid>
-            <pubDate>Tue, 02 Feb 2021 04:21:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【IDC：2020年国内手机市场华为出货量夺冠 5G手机出货量占比过半】根据国际数据公司（IDC）手机季度跟踪报告，2020年第四季度中国智能手机市场出货量约8640万台，同比小幅上升0.3%。2020年全年整体出货量约3.26亿台，同比下降11.2%。第四季度，Apple、OPPO、vivo、小米出货量均明显增长。第四季度，国内5G手机出货量约6000万台，2020年全年，累计出货量约1.67亿台，占比超过50%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2405605.d.html</link>
-            <guid>2006537</guid>
-            <pubDate>Tue, 02 Feb 2021 04:11:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[汇丰：将高鑫零售评级下调至持有，目标价7.80港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3391361.d.html</link>
-            <guid>2006535</guid>
-            <pubDate>Tue, 02 Feb 2021 04:08:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【胡昌升任黑龙江省副省长，代理省长】黑龙江省十三届人大常委会第二十三次会议决定任命胡昌升为省政府副省长，决定为代理省长。（黑龙江日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2404393.d.html</link>
-            <guid>2006534</guid>
-            <pubDate>Tue, 02 Feb 2021 04:06:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  印度SENSEX指数上涨，再度突破50000点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2404292.d.html</link>
-            <guid>2006533</guid>
-            <pubDate>Tue, 02 Feb 2021 04:06:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日本12月铝库存环比增长5.1％，至26.69万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3390246.d.html</link>
-            <guid>2006532</guid>
-            <pubDate>Tue, 02 Feb 2021 04:03:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广东：2020年金融业增加值9907亿元 上市公司总数为全国第一】从2月1日广东省政府召开2021年全省金融工作会议上获悉，2020年，广东金融业实现增加值9907亿元，同比增长9.2%，拉动GDP增长0.8个百分点，占GDP的比重近9%。贡献税收3627.5亿元，增长14%，占全省税收总额的1/6。本外币存款余额、贷款余额、上市公司总数、直接融资额、原保费收入等主要金融指标均居全国第一。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3390222.d.html</link>
-            <guid>2006531</guid>
-            <pubDate>Tue, 02 Feb 2021 04:03:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[精艺股份：孙公司芜湖新材料收到政府补贴694万元，预计影响公司2021年度利润总额为694万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3389036.d.html</link>
-            <guid>2006530</guid>
-            <pubDate>Tue, 02 Feb 2021 03:59:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  力生制药：子公司中央药业收到药监局通知，盐酸环丙沙星片0.25g规格通过仿制药质量和疗效一致性评价。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2402215.d.html</link>
-            <guid>2006529</guid>
-            <pubDate>Tue, 02 Feb 2021 03:59:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 山东路桥：山东高速路桥-北京一方-广发1期供应链金融资产支持专项计划正式成立。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3388811.d.html</link>
-            <guid>2006528</guid>
-            <pubDate>Tue, 02 Feb 2021 03:58:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  山河智能：股份回购完成，累计耗资约1亿元，共回购约1.16%股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3388740.d.html</link>
-            <guid>2006527</guid>
-            <pubDate>Tue, 02 Feb 2021 03:58:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[京东物流据悉计划本月提交香港IPO申请。（IFR）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2401177.d.html</link>
-            <guid>2006526</guid>
-            <pubDate>Tue, 02 Feb 2021 03:55:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  印度SENSEX指数、NIFTY指数涨幅扩大至2.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3386433.d.html</link>
-            <guid>2006525</guid>
-            <pubDate>Tue, 02 Feb 2021 03:51:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  南向资金净流入达100亿元。]]></title>
-            <guid>2006523</guid>
-            <pubDate>Tue, 02 Feb 2021 03:49:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【山东违法倾倒化工废料事件致4人死亡 当地环保局：对周围环境污染已基本控制】2日，记者从诸城市环保局了解到，1月31日，山东诸城舜王街道发生一起违法倾倒化工废料事件，目前，已与有资质的危险废物处理公司签订合同，对废液进行集中收集处理，对周围环境的污染已基本控制。（央广）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3385352.d.html</link>
-            <guid>2006522</guid>
-            <pubDate>Tue, 02 Feb 2021 03:48:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
