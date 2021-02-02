@@ -4,11 +4,121 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 02 Feb 2021 17:53:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2021 18:39:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  上海原油期货主力合约夜盘收涨1.50%，报345.7元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3514266.d.html</link>
+            <guid>2007277</guid>
+            <pubDate>Tue, 02 Feb 2021 18:35:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【交易所收盘】
+上海黄金交易所黄金T+D 2月2日（周二）晚盘收盘下跌1.74%报381.2元/克；
+上海黄金交易所白银T+D 2月2日（周二）晚盘收盘下跌7.1%报5432.0元/千克。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3514257.d.html</link>
+            <guid>2007276</guid>
+            <pubDate>Tue, 02 Feb 2021 18:35:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国会参议院投票，确认Buttigieg为美国交通部长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3513838.d.html</link>
+            <guid>2007275</guid>
+            <pubDate>Tue, 02 Feb 2021 18:27:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  瑞士央行行长：负利率的利大于弊。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3513653.d.html</link>
+            <guid>2007274</guid>
+            <pubDate>Tue, 02 Feb 2021 18:26:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  瑞士央行行长：如果没有负利率，瑞士的情况会糟糕得多。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3513627.d.html</link>
+            <guid>2007273</guid>
+            <pubDate>Tue, 02 Feb 2021 18:25:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储卡普兰：美国经济还远没有脱离困境。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2526038.d.html</link>
+            <guid>2007270</guid>
+            <pubDate>Tue, 02 Feb 2021 18:15:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国民主党参议员曼钦：不支持每小时15美元的最低工资提案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2525919.d.html</link>
+            <guid>2007269</guid>
+            <pubDate>Tue, 02 Feb 2021 18:13:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  沪银主力合约跌至5500元/千克下方，日内跌7.58%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2525530.d.html</link>
+            <guid>2007268</guid>
+            <pubDate>Tue, 02 Feb 2021 18:09:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储卡普兰：预计2021年第一季度GDP增长将相对疲软。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3512246.d.html</link>
+            <guid>2007267</guid>
+            <pubDate>Tue, 02 Feb 2021 18:08:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国众议院议长佩洛西：拜登的移民法案“恢复了系统的理智”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3512199.d.html</link>
+            <guid>2007266</guid>
+            <pubDate>Tue, 02 Feb 2021 18:08:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  荷兰首相吕特：不能放松封锁，因为不同毒株可能导致新的病例激增。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2525268.d.html</link>
+            <guid>2007265</guid>
+            <pubDate>Tue, 02 Feb 2021 18:06:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储更新消息表示，其实时支付系统FedNow将在2023年推出。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2525257.d.html</link>
+            <guid>2007264</guid>
+            <pubDate>Tue, 02 Feb 2021 18:06:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  荷兰首相吕特：荷兰将把封锁至少延长到3月2日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2525147.d.html</link>
+            <guid>2007263</guid>
+            <pubDate>Tue, 02 Feb 2021 18:05:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  恐慌指数VIX跌超15%，报25.54。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3511742.d.html</link>
+            <guid>2007262</guid>
+            <pubDate>Tue, 02 Feb 2021 18:02:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国民主党参议员曼钦：将投票支持民主党的预算计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2524743.d.html</link>
+            <guid>2007259</guid>
+            <pubDate>Tue, 02 Feb 2021 17:58:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LME期铜收跌22美元，报7777美元/吨。LME期铝收涨4美元，报1972美元/吨。LME期锌收跌1美元，报2570美元/吨。LME期铅收跌21美元，报2016美元/吨。LME期镍收跌163美元，报17697美元/吨。LME期锡收跌113美元，报22990美元/吨。LME期钴收涨1750美元，报43000美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2524637.d.html</link>
+            <guid>2007258</guid>
+            <pubDate>Tue, 02 Feb 2021 17:56:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比亚迪ADR涨超7%，据Seeking Alpha，此前有传言称特斯拉将向比亚迪投资360亿美元以持股20%，但这一传言已被比亚迪高管否认。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3511377.d.html</link>
+            <guid>2007257</guid>
+            <pubDate>Tue, 02 Feb 2021 17:56:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白银T+D日内跌幅扩大至7%，现报5437元/千克。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2524507.d.html</link>
+            <guid>2007256</guid>
+            <pubDate>Tue, 02 Feb 2021 17:54:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  意大利官员：意大利前总理伦齐要求建立新一届意大利政府的请求被拒绝。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2524366.d.html</link>
@@ -88,7 +198,7 @@
             <pubDate>Tue, 02 Feb 2021 17:28:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普表示，弹劾条款是有缺陷的，参议院不再对他有管辖权，参议院不再对他有管辖权。]]></title>
+            <title><![CDATA[特朗普表示，弹劾条款是有缺陷的，参议院不再对他有管辖权。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3509706.d.html</link>
             <guid>2007233</guid>
             <pubDate>Tue, 02 Feb 2021 17:28:30 GMT</pubDate>
@@ -326,118 +436,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3499911.d.html</link>
             <guid>2007178</guid>
             <pubDate>Tue, 02 Feb 2021 15:32:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  海航集团：自1月29日海航集团发布声明宣布被申请破产重整，连日来，合作伙伴支持之声纷纷而来，给了海航人砥砺奋进、勇往直前的力量。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2513232.d.html</link>
-            <guid>2007176</guid>
-            <pubDate>Tue, 02 Feb 2021 15:32:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据Sensor Tower数据，Robinhood应用上周在Google Play和App Store上的下载量达到了210万，比前一周增长了394％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2513223.d.html</link>
-            <guid>2007175</guid>
-            <pubDate>Tue, 02 Feb 2021 15:32:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国共和党参议员Romney：预计民主党人将继续和解，拜登在会见共和党参议员时持乐观态度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3499609.d.html</link>
-            <guid>2007174</guid>
-            <pubDate>Tue, 02 Feb 2021 15:27:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  监测网络状况的网站DownDetector：用户报告德美利证券（TD Ameritrade）出现问题。]]></title>
-            <guid>2007173</guid>
-            <pubDate>Tue, 02 Feb 2021 15:24:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道指涨超500点，纳指涨1.2%，标普500指数涨1.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2512286.d.html</link>
-            <guid>2007172</guid>
-            <pubDate>Tue, 02 Feb 2021 15:19:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中概股造车新势力跌幅扩大，理想汽车跌6.5%，小鹏汽车跌超3%，蔚来汽车跌2.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3498635.d.html</link>
-            <guid>2007170</guid>
-            <pubDate>Tue, 02 Feb 2021 15:14:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据德国《汉德尔斯布拉特报》报道，美国已首次表示愿意就结束对“北溪2”项目的制裁开始谈判。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3498625.d.html</link>
-            <guid>2007169</guid>
-            <pubDate>Tue, 02 Feb 2021 15:13:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【内盘期货夜盘黑色系再度普遍收跌】螺纹期货夜盘收跌1.03%，热卷收跌0.69%；铁矿石期货收跌2.30%。 焦炭夜盘收跌1.83%，焦煤收跌2.19%，动力煤收跌1.29%。 橡胶夜盘收跌0.85%，沥青收涨0.93%。 豆粕夜盘收跌2.12%，菜粕收跌1.91%。 郑棉夜盘收跌0.73%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2511665.d.html</link>
-            <guid>2007168</guid>
-            <pubDate>Tue, 02 Feb 2021 15:10:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为56，表明市场处在贪婪状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2511552.d.html</link>
-            <guid>2007166</guid>
-            <pubDate>Tue, 02 Feb 2021 15:08:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉涨超3%，松下CFO表示特斯拉电池业务有望在本财年实现盈利，并将在4月试产4860电池。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2511442.d.html</link>
-            <guid>2007165</guid>
-            <pubDate>Tue, 02 Feb 2021 15:07:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中概音频股荔枝涨38%，声网目前涨6%；近日Clubhouse因马斯克走红，在不到一年的时间里就成为估值达到10亿美元的独角兽，这让语音社交这一赛道再次被瞩目。]]></title>
-            <guid>2007164</guid>
-            <pubDate>Tue, 02 Feb 2021 15:05:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  墨西哥央行调查显示，私营部门分析师预计2021年墨西哥经济将增长3.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3497947.d.html</link>
-            <guid>2007163</guid>
-            <pubDate>Tue, 02 Feb 2021 15:05:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  S3 Partners：当前游戏驿站空头头寸为58.1亿美元，未平仓空头股数为2609万股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3497838.d.html</link>
-            <guid>2007161</guid>
-            <pubDate>Tue, 02 Feb 2021 15:03:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国民主党人在众议院的弹劾备忘录中称，很明显，特朗普在骚乱中进行了煽动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3497751.d.html</link>
-            <guid>2007160</guid>
-            <pubDate>Tue, 02 Feb 2021 15:02:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【大商所、郑商所夜盘收盘 豆二跌超3%】大商所、郑商所夜盘收盘，多数品种下跌。豆二跌超3%，棕榈、铁矿等跌超2%，焦炭、玻璃等跌超1%；PTA涨超1%，燃油、EG等小幅上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2510993.d.html</link>
-            <guid>2007159</guid>
-            <pubDate>Tue, 02 Feb 2021 15:01:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国家过敏症和传染病研究所所长福奇：美国疾病控制与预防中心或建议人们佩戴两只口罩以对抗病毒。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3497572.d.html</link>
-            <guid>2007158</guid>
-            <pubDate>Tue, 02 Feb 2021 15:00:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国地质勘探局：菲律宾陆兰加尼东南199公里处发生5.0级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2510880.d.html</link>
-            <guid>2007157</guid>
-            <pubDate>Tue, 02 Feb 2021 15:00:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股各大类资产类ETF中，美国布伦特原油基金领涨，涨超2%，其次是道指ETF；恐慌指数做多ETF领跌，跌超5%，其次是黄金ETF，跌1.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftssap2510650.d.html</link>
-            <guid>2007155</guid>
-            <pubDate>Tue, 02 Feb 2021 14:58:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货白银持续下行，跌幅扩大至8%，报26.66美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-02/detail-ikftpnny3497157.d.html</link>
-            <guid>2007154</guid>
-            <pubDate>Tue, 02 Feb 2021 14:55:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
