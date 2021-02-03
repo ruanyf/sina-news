@@ -4,11 +4,215 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 03 Feb 2021 01:56:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2021 02:40:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【知情人士：贵州茅台销售公司并未发文叫停有条件促销】有媒体报道称为规范商超和电商的促销行为，贵州茅台酒销售有限公司要求所有新发展的线上线下商家不得以积分、消费金额等促销条件设立门槛，限制部分消费者抢购飞天茅台酒。记者通过知情人士获悉，销售公司并未发文。有经销商也表示，目前并未收到这个通知。（财联社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3568371.d.html</link>
+            <guid>2007861</guid>
+            <pubDate>Wed, 03 Feb 2021 02:38:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  银行板块异动拉升，平安银行涨5%，兴业银行、杭州银行、成都银行、邮储银行等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3568161.d.html</link>
+            <guid>2007860</guid>
+            <pubDate>Wed, 03 Feb 2021 02:37:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[华为官方今日宣布，新一代折叠屏手机将会在2月22日正式发布，定名Mate X2。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2581048.d.html</link>
+            <guid>2007859</guid>
+            <pubDate>Wed, 03 Feb 2021 02:37:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【18万吨中央储备肉已挂牌投放 还有大批肉“在路上”】从国家发展改革委了解到，从2020年12月17日（冬至前4天）开始到2021年1月28日（腊月十六），7批中央储备冻猪肉已组织投放，累计挂牌投放量达18万吨。此外，华商储备商品管理中心将于2月4日（腊月二十三）、2月9日（腊月二十八）两次挂牌投放各3万吨中央储备冻猪肉。预计随着更多地方启动储备肉投放，猪肉价格可能继续缓慢回落。目前，大批待投放中央储备冻猪肉已经“在路上”，春节后至“两会”期间将继续投放，持续保障市场供应。（央广）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3567648.d.html</link>
+            <guid>2007858</guid>
+            <pubDate>Wed, 03 Feb 2021 02:35:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中消协公布2020年11大消费投诉热点】中消协3日发布2020年全国消协组织受理投诉情况分析，公布2020年11大消费投诉热点，分别是卫生防疫用品投诉短期集中爆发；交通出行服务退订难；餐饮、团购等食品问题突出；网络购物、直播带货问题多；在线视频、网络游戏纠纷难；校外培训机构 “跑路”频；长租公寓等租房纠纷冲突大；新老能源汽车投诉热；房屋装修消费心很累；“办卡”消费模式坑很深；电视购物上当受骗事很烦。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2580479.d.html</link>
+            <guid>2007857</guid>
+            <pubDate>Wed, 03 Feb 2021 02:35:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中国光伏行业协会王勃华：预计国内今年新增装机在55到65吉瓦】在今天上午举行的光伏行业2020年发展回顾及2021年形势展望线上研讨会上，中国光伏行业协会副理事长、秘书长王勃华表示，2020年国内新增装机规模同比增幅达到60%，装机量会这么高，业内都没料到。预计今年全球光伏市场规模将加速扩大，总计新增装机达到150到170吉瓦，海外规模会创新高。他预计国内今年新增装机在55到65吉瓦，整个“十四五”期间，年均新增装机规模预计可达70到90吉瓦。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3567250.d.html</link>
+            <guid>2007856</guid>
+            <pubDate>Wed, 03 Feb 2021 02:34:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广东正起草打好种业翻身仗行动方案 全省主要供种基本实现自给】2月2日，广东召开现代种业发展交流座谈会。会议提出，要采取一切可能的措施提高种质质量、供给能力、生产成绩，解决好种子问题，全力打好种业翻身仗。会议透露，围绕打好种业翻身仗，目前广东还在起草《广东省打好种业翻身仗行动方案》，初步形成了广东现代种业发展的总体思路；正在编制《广东省农业种质资源保护与利用中长期发展规划（2021-2035年）》，科学、长远谋划广东省种质资源收集、保护、鉴评、开发利用与共享。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3566984.d.html</link>
+            <guid>2007855</guid>
+            <pubDate>Wed, 03 Feb 2021 02:33:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  旅游概念股异动，众信旅游拉升触板，中青旅、云南旅游、首旅酒店、锦江酒店等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3566483.d.html</link>
+            <guid>2007854</guid>
+            <pubDate>Wed, 03 Feb 2021 02:32:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  澳洲联储主席洛威：封锁措施对消费的危害并不像最初担心的那样严重。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2579183.d.html</link>
+            <guid>2007853</guid>
+            <pubDate>Wed, 03 Feb 2021 02:31:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【宁德时代子公司成立新能源科技公司 注册资本10亿】2月1日，成都市新津时代新能源科技有限公司成立，法定代表人为武志强，注册资本10亿元人民币，经营范围包含：新兴能源技术研发；电池制造；电池销售等。股权穿透显示，该公司由宁德时代新能源产业投资有限公司100%控股，后者为宁德时代全资子公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3566087.d.html</link>
+            <guid>2007852</guid>
+            <pubDate>Wed, 03 Feb 2021 02:31:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  恒生科技指数涨超1%，猫眼娱乐涨超6%，美团、联想集团、金山软件涨超4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3565927.d.html</link>
+            <guid>2007850</guid>
+            <pubDate>Wed, 03 Feb 2021 02:30:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[知情人士透露，奈雪的茶计划在今年第一季度提交在港上市申请。（IFR）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3565496.d.html</link>
+            <guid>2007848</guid>
+            <pubDate>Wed, 03 Feb 2021 02:29:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【LG化学将在无锡建华东技术中心】LG化学3日表示，近日与江苏省无锡市签署关于设立技术中心的战略投资谅解备忘录（MOU），加强技术支持服务。根据备忘录，LG化学投资约300亿韩元（约合人民币1.7亿元）在无锡市高新区设立“华东技术中心”，专门负责为当地客户提供技术支持和开发业务。无锡市将在建设、运营所需用地和基础设施等方面提供积极支援。 (韩联社)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2578470.d.html</link>
+            <guid>2007847</guid>
+            <pubDate>Wed, 03 Feb 2021 02:29:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宁德时代一度涨逾5% 大和称其动力电池扩产计划迎合市场需求 野村上调公司目标价】宁德时代现涨3.9%，盘中一度上涨5.3%，股价升至1月27日以来最高；此前公司公告称，拟投资不超290亿元建设三个动力电池项目。大和表示，考虑到锂电池未来十年需求旺盛，宁德时代的扩产将帮助其抓住未来的市场需求，预计公司将宣布一项技术突破，料振股价。此外，野村将宁德时代目标价上调69%，由252元上调至427元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3565371.d.html</link>
+            <guid>2007846</guid>
+            <pubDate>Wed, 03 Feb 2021 02:29:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[旅游板块走高，中国中免大涨5％，首旅酒店、众信旅游、中青旅等纷纷跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2577311.d.html</link>
+            <guid>2007844</guid>
+            <pubDate>Wed, 03 Feb 2021 02:25:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国对冲基金Crescat Capital投资组合经理Otavio Costa：银价有望继续攀升】在周一逼空演变成对实物白银的强劲需求后，昨日银价大幅回调逾8%。但白银的走势比游戏驿站之类的逼空更加复杂，而且可能会再度大幅上行。推动银价走高的因素有很多，包括全球大量债务堆积、流动性泛滥压低利率、缺乏收益率高于通胀的合理定价资产，以及白银供应（短缺）问题，综合来看，不到30美元/盎司的白银或许是最有吸引力的资产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2576946.d.html</link>
+            <guid>2007843</guid>
+            <pubDate>Wed, 03 Feb 2021 02:24:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南向资金净流入达50亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2576129.d.html</link>
+            <guid>2007842</guid>
+            <pubDate>Wed, 03 Feb 2021 02:20:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳洲联储主席洛威：并没有对政府结束薪资补贴计划感到失望。薪资补贴计划本身就是设定为临时使用的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3563082.d.html</link>
+            <guid>2007841</guid>
+            <pubDate>Wed, 03 Feb 2021 02:20:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳洲联储主席洛威：目前并不特别担心资产价格上涨过快。房价上涨并非不可持续。监管机构准备在需要的时候介入住房借贷问题，但不是现在。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2575754.d.html</link>
+            <guid>2007839</guid>
+            <pubDate>Wed, 03 Feb 2021 02:19:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[影视股走强，慈文传媒早盘涨停，中视传媒、上海电影、万达电影涨幅居前。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2575294.d.html</link>
+            <guid>2007838</guid>
+            <pubDate>Wed, 03 Feb 2021 02:17:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳洲联储主席洛威：没有考虑设定10年期国债目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3561447.d.html</link>
+            <guid>2007837</guid>
+            <pubDate>Wed, 03 Feb 2021 02:14:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：将科威特前景展望调整为负面，评级确认为“AA”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3561366.d.html</link>
+            <guid>2007836</guid>
+            <pubDate>Wed, 03 Feb 2021 02:13:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据路透报价，现货白银涨超2%，现报27.16美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3561353.d.html</link>
+            <guid>2007835</guid>
+            <pubDate>Wed, 03 Feb 2021 02:13:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股光伏股持续下挫，阳光能源跌超7%，卡姆丹克太阳能、顺风清洁能源等跟跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2573602.d.html</link>
+            <guid>2007834</guid>
+            <pubDate>Wed, 03 Feb 2021 02:10:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳洲联储主席洛威：预计QE不会持续数年。财政应对措施对经济复苏至关重要。全球央行在外汇市场上并没有处于“冷战”状态。目前还没有看到房地产市场的不可持续动态。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3559722.d.html</link>
+            <guid>2007830</guid>
+            <pubDate>Wed, 03 Feb 2021 02:07:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【贵州茅台叫停有条件促销 电商和商超紧急修改规则】2月2日晚，21世纪经济报道记者从多位茅台酒经销商处获悉，进入2月以来，为规范商超和电商的促销行为，贵州茅台酒销售有限公司要求所有新发展的线上线下商家不得以积分、消费金额等促销条件设立门槛，限制部分消费者抢购飞天茅台酒，缓冲期只有2-3天。目前，多家经销商都在做修改规则公布的准备，京东和夏商集团率先已作更改。（21财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2572614.d.html</link>
+            <guid>2007829</guid>
+            <pubDate>Wed, 03 Feb 2021 02:06:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【创业板指翻绿，此前一度涨超1%】注册制次新股、HIT电池、快手概念板块跌幅居前。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3558620.d.html</link>
+            <guid>2007828</guid>
+            <pubDate>Wed, 03 Feb 2021 02:03:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[小米集团快速跳水，现跌超2%，报29.1港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2571455.d.html</link>
+            <guid>2007826</guid>
+            <pubDate>Wed, 03 Feb 2021 02:02:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南向资金净流入达40亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2571320.d.html</link>
+            <guid>2007824</guid>
+            <pubDate>Wed, 03 Feb 2021 02:01:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广东正起草打好种业翻身仗行动方案】2月2日，广东召开现代种业发展交流座谈会。会议要求，要结合广东实际，对标国内外最高水平，要从固优势、破卡点、补短板三个方面，进行全产业链谋划，推进种质资源保护与利用，加快种源关键核心技术攻关，选育一批优势特色品种，建设现代化种业基地，加强资源和数据共享，培育壮大优势种业企业，推动广东省种业高质量发展。（南方日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3557614.d.html</link>
+            <guid>2007821</guid>
+            <pubDate>Wed, 03 Feb 2021 01:59:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【部分银行下调基金销售提成？公募高管人士：主要源于银行分行下调中收】在2021年新基金募集规模突破5000亿的背景下，已有部分银行于近期下调理财经理销售基金的业绩提成比例。对此，一位了解此事的公募高管人士透露，这主要源于此前银行的基金销售提成高于理财产品，而年初爆款基金频发，使得银行理财产品“搬家”至基金的同时，部分银行在基金销售方面的“奖励”费用支出也大大超出预算。为此，部分银行总行降低了给各分行的中收。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2570698.d.html</link>
+            <guid>2007820</guid>
+            <pubDate>Wed, 03 Feb 2021 01:59:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[注册制新股早盘继续杀跌，中英科技、药易购、中辰股份、信测标准跌超10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2570358.d.html</link>
+            <guid>2007818</guid>
+            <pubDate>Wed, 03 Feb 2021 01:57:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[稀土永磁板块拉升，截至发稿，盛和资源涨停，五矿稀土涨8%，北方稀土、龙磁科技等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2570304.d.html</link>
+            <guid>2007817</guid>
+            <pubDate>Wed, 03 Feb 2021 01:57:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京锤子数码科技有限公司再成被执行人 累计执行标的已超1782万】2月2日，北京锤子数码科技有限公司新增一条被执行信息，案号为(2021)京0105执3431号，执行法院为北京市朝阳区人民法院，执行标的超84万。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2570269.d.html</link>
+            <guid>2007816</guid>
+            <pubDate>Wed, 03 Feb 2021 01:57:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中国银行间市场隔夜质押式回购加权利率盘初跌约38个基点至1.86%附近，半个月来首次回到2%下方。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3556856.d.html</link>
@@ -122,6 +326,12 @@
             <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2566659.d.html</link>
             <guid>2007794</guid>
             <pubDate>Wed, 03 Feb 2021 01:42:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息，美国在线券商Robinhood仍然限制AMC院线与游戏驿站的交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3553517.d.html</link>
+            <guid>2007793</guid>
+            <pubDate>Wed, 03 Feb 2021 01:41:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[澳洲联储主席洛威：无意实施负利率。经济复苏开始得更早，比我们预期的要强劲。]]></title>
@@ -347,181 +557,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2556575.d.html</link>
             <guid>2007748</guid>
             <pubDate>Wed, 03 Feb 2021 01:00:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  富时中国A50指数期货开盘涨0.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3543314.d.html</link>
-            <guid>2007747</guid>
-            <pubDate>Wed, 03 Feb 2021 01:00:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【“500ETF基金”融券余量已达71.49% 上交所提示融券交易风险】上交所公告，发现“500ETF基金”（512500）融券余量已达到该证券上市可流通量的71.49%。依照《上海证券交易所融资融券交易实施细则》第六章第五十二条的相关规定，单只交易型开放式指数基金的融券余量达到其上市可流通量的75%时，本所可在次一交易日暂停其融券卖出，请投资者注意投资风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3542705.d.html</link>
-            <guid>2007743</guid>
-            <pubDate>Wed, 03 Feb 2021 00:56:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  深交所调整深港通下的港股通股票名单，调入恒腾网络（新）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3542310.d.html</link>
-            <guid>2007740</guid>
-            <pubDate>Wed, 03 Feb 2021 00:54:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今日财经日历大事件提醒】经济数据关注：①09:45：中国1月财新服务业PMI（预估55.5，前值为56.3）、中国1月财新综合PMI（前值为55.8）；②16:50 法国1月Markit服务业PMI终值；③16:55 德国1月Markit服务业PMI终值；④17:00 欧元区1月Markit服务业PMI终值；⑤17:30 英国1月Markit服务业PMI终值；⑥18:00 欧元区1月消费价格同比初值；⑦21:15 美国1月ADP就业人数变动；⑧22:45 美国1月Markit服务业PMI终值；⑨23:00 美国1月ISM非制造业活动指数。全球央行和政府动态关注：①09:30：澳大利亚联储主席Lowe讲话；②09:30 日本央行副行长若田部昌澄讲话；③15:05 泰国央行基准利率（预估0.5%，现值0.5%）；④21:30 美国明尼阿波利斯联储行长Kashkari讲话；⑤4日02:00 美国圣路易斯联储行长Bullard讲话；⑥4日03:00 美国费城联储行长Harker讲话。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3540366.d.html</link>
-            <guid>2007736</guid>
-            <pubDate>Wed, 03 Feb 2021 00:44:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  COMEX白银期货涨幅扩大至超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3540191.d.html</link>
-            <guid>2007735</guid>
-            <pubDate>Wed, 03 Feb 2021 00:43:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【两市融资余额减少2.17亿元】截至2月2日，上交所融资余额报8074.18亿元，较前一交易日减少4.82亿元；深交所融资余额报7308.38亿元，较前一交易日增加2.65亿元；两市合计15382.56亿元，较前一交易日减少2.17亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3540162.d.html</link>
-            <guid>2007734</guid>
-            <pubDate>Wed, 03 Feb 2021 00:42:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日经225指数涨超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3540044.d.html</link>
-            <guid>2007733</guid>
-            <pubDate>Wed, 03 Feb 2021 00:42:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国股指期货涨幅扩大，标普500指数期货上涨0.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3539875.d.html</link>
-            <guid>2007732</guid>
-            <pubDate>Wed, 03 Feb 2021 00:41:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日本东证指数涨幅达1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2552855.d.html</link>
-            <guid>2007731</guid>
-            <pubDate>Wed, 03 Feb 2021 00:40:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家卫健委： 31个省（自治区、直辖市）和新疆生产建设兵团报告新增无症状感染者12例（境外输入7例）；当日转为确诊病例10例（境外输入2例）；当日解除医学观察45例（境外输入13例）；尚在医学观察无症状感染者829例（境外输入279例）。]]></title>
-            <guid>2007730</guid>
-            <pubDate>Wed, 03 Feb 2021 00:40:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【31省区市新增25例确诊 其中新增15例本土确诊】2月2日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例25例，其中境外输入病例10例（上海4例，广东2例，四川2例，江苏1例，陕西1例），本土病例15例（吉林8例，黑龙江6例，河北1例）；无新增死亡病例；新增疑似病例1例，为境外输入病例（在上海）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2552492.d.html</link>
-            <guid>2007729</guid>
-            <pubDate>Wed, 03 Feb 2021 00:39:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国盛证券：央行呵护流动性 短期企稳难改震荡格局】国盛证券指出，央行本周对市场流动性的释放促成A股企稳走势，也是对A股的节奏控制，预计一季度前后，随着经济复苏的顶部区间临近、通胀预期抬头，货币政策才能回归正常化，随着信用政策结构性收紧，广义流动性的周期性拐点才会到来。技术上，判断在3580点没有回补之前，市场还是弱势反抽，因周线MACD背离，KDJ高位死叉，沪指或将维持震荡格局。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2552421.d.html</link>
-            <guid>2007728</guid>
-            <pubDate>Wed, 03 Feb 2021 00:39:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿里巴巴发行至多50亿美元的美元债券。阿里巴巴自2月3日起就美元债举行投资者会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3538971.d.html</link>
-            <guid>2007726</guid>
-            <pubDate>Wed, 03 Feb 2021 00:36:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中信证券：看好阿里长期数字科技价值 维持美股及港股“买入”评级】中信证券研报称，阿里巴巴发布2021财年12月季度业绩，核心商业稳健增长，新增年活消费者2200万，天猫实物GMV同比增长19%，客户服务收入同增20%，新零售业务、本地生活业务稳步推进。云业务收入持续保持强劲增长，单季度EBITA转正。公司仍将持续加码投入新业务，强化中长期竞争力，信息流、特价版等新投资领域本季度表现强劲。依然看好公司长期数字科技价值，维持公司美股及港股“买入”评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2551869.d.html</link>
-            <guid>2007725</guid>
-            <pubDate>Wed, 03 Feb 2021 00:35:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【银河证券：军工板块进入蓄势期 调整意味着机会】银河证券指出，2021年1月初以来，军工板块自高点已累计回调18.5%，估值风险释放较为充分，我们认为军工板块进入蓄势期，进二退一或是未来常态。在行业景气度无忧的背景下，调整意味着机会。我们看好两类资产，第一类是稀缺性核心资产，享受长期折现定价，短期可以容忍较高估值，推荐航发动力、中航沈飞；第二类是确定性高成长资产，未来三到五年业绩复合增速达30-50%，推荐鸿远电子、火炬电子等。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2551132.d.html</link>
-            <guid>2007722</guid>
-            <pubDate>Wed, 03 Feb 2021 00:31:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上海证交所上日融资余额下跌0.1%至8074.2亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3537981.d.html</link>
-            <guid>2007721</guid>
-            <pubDate>Wed, 03 Feb 2021 00:30:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本1月份JIBUN BANK服务业PMI报46.1，综合PMI报47.1。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2551000.d.html</link>
-            <guid>2007719</guid>
-            <pubDate>Wed, 03 Feb 2021 00:30:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【深圳共建成5G基站4.65万个  已实现5G独立组网全覆盖】2月2日，深圳市工业和信息化局负责人表示，截至2020年12月底，深圳共建成5G基站4.65万个，被工信部评为“5G独立组网最佳城市”，在全国5G“绽放杯”斩获多项大奖。据了解，深圳在2020年8月率先实现5G独立组网全覆盖。这位负责人表示，将依托5G链长制工作机制，充分发挥5G骨干企业创新先发优势，加快构建一流的5G创新生态，推出更多5G应用场景、创新业态和示范工程。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3537752.d.html</link>
-            <guid>2007718</guid>
-            <pubDate>Wed, 03 Feb 2021 00:29:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国联邦航空管理局将监督今日SpaceX星舰SN9原型机在得州着陆事故的调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3537639.d.html</link>
-            <guid>2007717</guid>
-            <pubDate>Wed, 03 Feb 2021 00:28:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网正式测定：02月03日07时58分在洛亚蒂群岛（南纬22.78度，东经171.85度）发生5.5级地震，震源深度10千米。]]></title>
-            <guid>2007716</guid>
-            <pubDate>Wed, 03 Feb 2021 00:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[广东省卫健委：2月2日0-24时，全省新增境外输入确诊病例2例，佛山报告，分别来自美国和科威特。新增境外输入无症状感染者1例，深圳报告，来自肯尼亚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2550520.d.html</link>
-            <guid>2007715</guid>
-            <pubDate>Wed, 03 Feb 2021 00:27:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【29省份2021年GDP增长目标出炉 湖北、海南定在10%以上】截至2月2日，除了河北、黑龙江外，其余29个省份均在政府工作报告中明确了2021年经济增长预期目标。整体来看，29个省份设定的2021年GDP增速目标均不低于6%，湖北、海南设定的GDP增速目标目前最高，为10%以上。广东、江苏、山东这3个经济大省的GDP增速目标均为6%以上。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2549922.d.html</link>
-            <guid>2007714</guid>
-            <pubDate>Wed, 03 Feb 2021 00:22:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【前欧洲央行行长德拉吉被意大利总统召见 或为下任总理人选】据外媒报道，意大利国家元首召见前欧洲央行行长马里奥·德拉吉前往总统府开会，可能要他去组建政府。意大利总统塞尔吉奥·马塔雷拉的发言人对记者说，总统将在周三会见德拉吉。]]></title>
-            <guid>2007712</guid>
-            <pubDate>Wed, 03 Feb 2021 00:19:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[四川省卫健委：2月2日0-24时，四川新增新型冠状病毒肺炎确诊病例2例（境外输入，均为1月31日自尼泊尔乘机抵蓉，2月2日确诊），无新增治愈出院病例，无新增疑似病例，无新增死亡病例。]]></title>
-            <guid>2007711</guid>
-            <pubDate>Wed, 03 Feb 2021 00:17:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[起亚汽车在韩国市场跳涨11%。此前有报道称，苹果将向起亚汽车投资4万亿韩元以进行电动汽车领域合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3535518.d.html</link>
-            <guid>2007709</guid>
-            <pubDate>Wed, 03 Feb 2021 00:14:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【报道称苹果将向起亚汽车投资36亿美元生产电动汽车】据韩国《东亚日报》未引消息来源报道称，苹果公司将向起亚汽车公司投资4万亿韩元（36亿美元），作为与韩国汽车制造商合作生产电动汽车的一部分。报道称，苹果公司计划与起亚公司合作，在其位于美国佐治亚州的工厂生产苹果汽车。两家公司可能会在2月17日签署协议，并计划在2024年推出苹果汽车。报道称，它们的初步目标是每年销售10万辆汽车。起亚汽车股价周三跃升14%，创下1997年以来的最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3534396.d.html</link>
-            <guid>2007708</guid>
-            <pubDate>Wed, 03 Feb 2021 00:07:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【腾讯集团发布反舞弊通报 100余人因违反“高压线”被辞退】腾讯反舞弊调查部周二发布公告称，2019年第四季度至今，腾讯反舞弊调查部共发现查处违反“腾讯高压线”案件60余起，100余人因违反“腾讯高压线”被辞退，40余人因涉嫌犯罪被移送公安机关处理。其中大部分涉及职务侵占、收受贿赂等行为。腾讯还新增37家公司为永不合作主体清单。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2547338.d.html</link>
-            <guid>2007707</guid>
-            <pubDate>Wed, 03 Feb 2021 00:06:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【游戏驿站股价大跌 美散户带头人两天损失逾半收益】随着游戏驿站股价持续下跌，上周被媒体曝光的美国散户“带头大哥”凯斯-帕特里克-基尔（Keith Patrick Gill）周二表示，他当天在这只股票上的损失超过1300万美元，但仍然不会卖出任何头寸。基尔说，他自今年年初以来一直持有游戏驿站的5万股股票和500份看涨期权。根据他上周在Reddit网站上发布的帖子，他在这只股票上的总收益达到了3300万美元。不过，随着本周游戏驿站的轧空行情开始消退，基尔损失了一大部分收益。在周一损失500多万美元后，他在游戏驿站股票和看涨期权上的头寸周二又损失了1360万美元。]]></title>
-            <guid>2007705</guid>
-            <pubDate>Wed, 03 Feb 2021 00:04:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【河北新增1例本地确诊病例】2021年2月2日0—24时，河北省新增1例本地新型冠状病毒肺炎确诊病例，为石家庄市报告。无新增死亡病例，无新增疑似病例，新增治愈出院39例。无新增无症状感染者。2例无症状感染者解除隔离医学观察。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2546939.d.html</link>
-            <guid>2007704</guid>
-            <pubDate>Wed, 03 Feb 2021 00:02:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【吉林新增8例确诊 新增2例无症状】2月2日0-24时，吉林省既往报告的在定点医疗机构集中隔离医学观察的无症状感染者中，有8例转为确诊病例（长春市3例，通化市5例）；新发现无症状感染者2例（长春市1例，通化市1例），其中，长春市1例是通过对应检尽检人员开展主动检测筛查发现，通化市1例是通过对隔离医学观察人员开展主动检测筛查发现。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3533595.d.html</link>
-            <guid>2007703</guid>
-            <pubDate>Wed, 03 Feb 2021 00:01:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
