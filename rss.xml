@@ -4,11 +4,328 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 03 Feb 2021 13:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2021 14:37:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[部分中概股走高，荔枝(LIZI.O)涨超33%，富途控股(FUTU.O)涨7.5%，宝尊电商(BZUN.O)、拼多多(PDD.O)、陆金所(LU.N)涨约6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3856940.d.html</link>
+            <guid>2009183</guid>
+            <pubDate>Wed, 03 Feb 2021 14:37:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英镑兑美元GBP/USD短线走高20点，现报1.3664。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3856554.d.html</link>
+            <guid>2009181</guid>
+            <pubDate>Wed, 03 Feb 2021 14:36:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[葛兰素史克(GSK.N)跌3.35%，第四季度净利润同比降48%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3856151.d.html</link>
+            <guid>2009179</guid>
+            <pubDate>Wed, 03 Feb 2021 14:35:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spotify(SPOT.N)跌超7%，2020年全年亏损同比扩大逾2倍。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2867316.d.html</link>
+            <guid>2009178</guid>
+            <pubDate>Wed, 03 Feb 2021 14:34:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[电子艺界(EA.O)跌4.5%，2021财年第三财季净利润同比降40%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3855776.d.html</link>
+            <guid>2009177</guid>
+            <pubDate>Wed, 03 Feb 2021 14:34:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WSB概念股反弹，游戏驿站(GME.N)涨超26%，AMC院线(AMC.N)涨近10%，Express(EXPR.N)涨超12%，Naked Brand(NAKD.O)涨近7%，诺基亚(NOK.N)涨超2%；此前美国在线券商Robinhood先后移除对以上几只股票的交易限制。]]></title>
+            <guid>2009175</guid>
+            <pubDate>Wed, 03 Feb 2021 14:32:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿里巴巴涨4%，第三季度业绩好于市场预期，获多家大行上调目标价。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3854253.d.html</link>
+            <guid>2009174</guid>
+            <pubDate>Wed, 03 Feb 2021 14:31:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【后期猪肉价格还有下降空间】近期农业农村部召集专家会商，结合前期生猪生产恢复情况、新生仔猪数量、猪饲料销量等因素测算，预计今年1至2月份生猪出栏比上年同期增长25%左右，后期猪肉价格还有下降空间。展望2021年，中国宏观经济研究院市场与价格研究所主任郭丽岩分析，由于全年翘尾明显低于上年，加之猪肉价格对CPI的拉动影响将由涨转降，预计全年CPI涨幅将低于2020年，全年呈现“前低后稳”态势。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3853152.d.html</link>
+            <guid>2009171</guid>
+            <pubDate>Wed, 03 Feb 2021 14:28:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：Blink Charging(BLNK.O)与Ballantyne Strong(BTN.A)签署经销商协议，将部署电动汽车充电站。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3852793.d.html</link>
+            <guid>2009170</guid>
+            <pubDate>Wed, 03 Feb 2021 14:28:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国首相约翰逊的发言人：政府希望与北爱尔兰协议有关的问题尽快得到解决。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3852537.d.html</link>
+            <guid>2009169</guid>
+            <pubDate>Wed, 03 Feb 2021 14:27:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯副总理诺瓦克：俄罗斯的目标是100%遵守欧佩克+协议。关注欧佩克+以外国家的石油产量很重要。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3851525.d.html</link>
+            <guid>2009168</guid>
+            <pubDate>Wed, 03 Feb 2021 14:25:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  证监会：天顺风能发行股份购买资产事项将于2月8日上会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2861530.d.html</link>
+            <guid>2009167</guid>
+            <pubDate>Wed, 03 Feb 2021 14:22:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  福特汽车(F.N)：1月份减去重型卡车后销量同比下降8.6%至142,577辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2861086.d.html</link>
+            <guid>2009166</guid>
+            <pubDate>Wed, 03 Feb 2021 14:21:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美银证券：将华纳音乐(WMG.O)目标价从39美元上调至48美元，评级从中性上调至买入。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2861026.d.html</link>
+            <guid>2009165</guid>
+            <pubDate>Wed, 03 Feb 2021 14:21:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利联盟党主席萨尔维尼：目前最好的解决办法是选举。选举将给意大利带来稳定。 将听取欧洲央行前行长德拉基的建议。将向欧洲央行前行长德拉基提交的优先事项包括减税的需要。现在就讨论右翼政党是否会在议会投票中对欧洲央行前行长德拉基投弃权票还为时过早。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2860882.d.html</link>
+            <guid>2009164</guid>
+            <pubDate>Wed, 03 Feb 2021 14:21:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧佩克+草案声明：12月石油减产执行率为101%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3848766.d.html</link>
+            <guid>2009162</guid>
+            <pubDate>Wed, 03 Feb 2021 14:19:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  瑞银：将法拉利(RACE.N)目标价从250下调至247美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2858553.d.html</link>
+            <guid>2009161</guid>
+            <pubDate>Wed, 03 Feb 2021 14:16:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【微信发布《2020年微信支付智慧社保数据》，31省份居民使用微信支付缴纳社保】2月2日，微信发布《2020年微信支付智慧社保数据》。报告显示，全国有31省份通过微信支付缴纳社保，年缴费笔数突破5.64亿。其中，社保数字化能力比例最强的省市是河北、山东和新疆。《2020年微信支付智慧社保数据》显示，2020年，微信支付智慧社保新增覆盖10个省市，目前已经覆盖全国31个省市，全年缴费笔数高达5.64亿，同比增长2.64亿笔，其中人均缴纳372.64元。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2858429.d.html</link>
+            <guid>2009160</guid>
+            <pubDate>Wed, 03 Feb 2021 14:15:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股大麻类股盘前普遍大涨，GW Pharmaceuticals涨超46.8%，Sundial Growers涨超14.4%，Tilray涨超9.1%，Aphria涨超5.8%，The Cannabis ETF涨约7.4%、ETFMG Alternative Harvest ETF也涨超6.1%，美国国会参议院民主党领导人Schumer推动改革，有望结束联邦政府对大麻市场的禁令。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2858251.d.html</link>
+            <guid>2009159</guid>
+            <pubDate>Wed, 03 Feb 2021 14:15:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  瑞银：将联合包裹(UPS.N)目标价从210美元下调至205美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2857209.d.html</link>
+            <guid>2009157</guid>
+            <pubDate>Wed, 03 Feb 2021 14:13:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧佩克+代表：欧佩克+联合部长级监督委员会（JMMC）会议不会讨论该组织4月份的石油产量。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2857084.d.html</link>
+            <guid>2009156</guid>
+            <pubDate>Wed, 03 Feb 2021 14:12:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑加元USD/CAD短线上扬近20点，报1.2809。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2855546.d.html</link>
+            <guid>2009155</guid>
+            <pubDate>Wed, 03 Feb 2021 14:09:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  华海药业：公司于当日参加了第四批全国药品集中采购的投标工作，公司产品伏立康唑片拟中选此次集中采购。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3844059.d.html</link>
+            <guid>2009154</guid>
+            <pubDate>Wed, 03 Feb 2021 14:09:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国方面表示将致力于深化与日本的防御和安全合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3843721.d.html</link>
+            <guid>2009153</guid>
+            <pubDate>Wed, 03 Feb 2021 14:08:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国央行表示要让金融公司降低对等值的期望。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3843097.d.html</link>
+            <guid>2009152</guid>
+            <pubDate>Wed, 03 Feb 2021 14:07:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[游戏驿站(GME.N)短线拉升，现涨近23%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3842591.d.html</link>
+            <guid>2009151</guid>
+            <pubDate>Wed, 03 Feb 2021 14:06:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  VIX波动率日内跌幅达8.0%，报23.5。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2853422.d.html</link>
+            <guid>2009149</guid>
+            <pubDate>Wed, 03 Feb 2021 14:05:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：滴滴出行正在考虑下半年进行IPO。（美港电讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3841900.d.html</link>
+            <guid>2009148</guid>
+            <pubDate>Wed, 03 Feb 2021 14:04:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  游戏驿站(GME.N)：任命Matt Francis为新设立的首席技术官。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3841491.d.html</link>
+            <guid>2009147</guid>
+            <pubDate>Wed, 03 Feb 2021 14:03:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：奈飞(NFLX.O)凭借22项电影类提名和20项电视类提名领跑金球奖提名。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3840664.d.html</link>
+            <guid>2009146</guid>
+            <pubDate>Wed, 03 Feb 2021 14:02:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  瑞典方面在边境部署军队以确保入境禁令的实施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3839504.d.html</link>
+            <guid>2009145</guid>
+            <pubDate>Wed, 03 Feb 2021 13:59:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【报告：今年全球智能手机销量将增逾11%，中国5G手机份额料增至近六成】市场研究机构Gartner预测，2021年全球智能手机销售将增长11.4%达15亿部，将会接近2019年的水平；全球5G手机销量达5.39亿部，占智能手机销售比例的35%。随着5G更广泛应用加上更多5G型号手机推出，5G手机将带动整体手机的销售增长。在低价型号的推动下，中国消费者选用5G手机更为积极，2021年中国5G手机的份额有望达59.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2850470.d.html</link>
+            <guid>2009143</guid>
+            <pubDate>Wed, 03 Feb 2021 13:58:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【摩根士丹利：将谷歌目标价上调至2200美元 维持跑赢大市评级】摩根士丹利分析师Brian Nowak将谷歌(GOOG.O,GOOGL.O)目标价从2050美元上调至2200美元，并维持跑赢大市评级。第四季度的业绩显示，搜索方面和YouTube营收增长强劲，同时披露的新信息突显了其核心业务的广泛实力，对谷歌云业务超过预期的投资。Nowak此前曾表示，谷歌和Facebook是仅有的两家“超大型”科技公司，它们没有采用某种“部分相加”估值方法进行交易。报告发布后，他表示，这些结果让各部分相加发挥了作用，对此他感到乐观。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3838492.d.html</link>
+            <guid>2009142</guid>
+            <pubDate>Wed, 03 Feb 2021 13:57:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：北约对美俄延长《新削减战略武器条约》表示欢迎，认为该条约有助于国际稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3838084.d.html</link>
+            <guid>2009141</guid>
+            <pubDate>Wed, 03 Feb 2021 13:56:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：德、法寻求诺基亚、爱立信在5G领域合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2849436.d.html</link>
+            <guid>2009140</guid>
+            <pubDate>Wed, 03 Feb 2021 13:56:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴克莱：将亚马逊目标价上调至3860美元 维持增持评级】巴克莱银行分析师Ross Sandler将亚马逊(AMZN.O)的目标价从3660美元上调至3860美元，并在昨晚公布第四季度业绩后维持对该公司股票的增持评级。Sandler在一份研究报告中告诉投资者，与上季度不同的是，买家数量大幅上升。该分析师表示，唯一的问题是首席执行官的交接，但管理层在清晰表述新的组织结构方面“做得很好”。Sandler补充说，鉴于亚马逊仍有很多优秀人才，他认为该公司不会在过渡时期发生暂停的情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2846145.d.html</link>
+            <guid>2009137</guid>
+            <pubDate>Wed, 03 Feb 2021 13:48:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美俄《新削减战略武器条约》正式延长至2026年2月】“今日俄罗斯”（RT）消息，俄罗斯与美国的《新削减战略武器条约》正式延长至2026年2月。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2845813.d.html</link>
+            <guid>2009136</guid>
+            <pubDate>Wed, 03 Feb 2021 13:48:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【索尼2020财年前三季度净利润创新高】日本索尼公司3日发布的2020财年前三季度（4月至12月）合并财报显示，净利润较上年同期增长87.0%至1.0647万亿日元（约合人民币655亿元），时隔一年创新高，首次超过1万亿日元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3834209.d.html</link>
+            <guid>2009135</guid>
+            <pubDate>Wed, 03 Feb 2021 13:47:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Robinhood表示允许用户购买AMC和GME的零碎股份，此前，用户只能出售和平仓零碎股份，而不能开设新的零碎股份仓位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2844140.d.html</link>
+            <guid>2009132</guid>
+            <pubDate>Wed, 03 Feb 2021 13:44:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Needham：将谷歌目标价从1800美元上调至2500美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3831435.d.html</link>
+            <guid>2009131</guid>
+            <pubDate>Wed, 03 Feb 2021 13:42:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【文旅部提醒游客春节不安排出境旅游】文化和旅游部3日发布春节出游提示，建议游客坚持非必要不安排出境旅游，不前往国内中高风险地区旅游，减少不必要出行。出游期间做好自我防护，戴口罩、勤洗手，少聚集、勤通风，养成“一米线”好习惯。（新华视点）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3831176.d.html</link>
+            <guid>2009130</guid>
+            <pubDate>Wed, 03 Feb 2021 13:41:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国财长勒梅尔：希望空客制造第一架氢飞机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2842599.d.html</link>
+            <guid>2009129</guid>
+            <pubDate>Wed, 03 Feb 2021 13:41:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【财经网站Fxstreet分析师：金价仍在区间内波动，ADP数据公布后波动不大】现货黄金在两周低位上方盘整，潜在的看涨情绪令避险资产黄金承压，并遏制了黄金上涨至1845美元区域的势头。另外，美国国债收益率的小幅上扬也引发了一些围绕黄金的抛售。再加上美元需求的复苏，给以美元计价的大宗商品带来了一些额外压力。美国ADP就业数据好过预期，美指依然高企。从小时图和日图上的看跌技术指标进一步加强了悲观前景，若稍后跌破隔夜低点1830美元，将再次表明看跌偏好，并引发一些技术性卖盘。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3830837.d.html</link>
+            <guid>2009127</guid>
+            <pubDate>Wed, 03 Feb 2021 13:41:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯外交部发布消息称，《新削减战略武器条约》的有效期延长至2026年2月5日，不会出现变化以及额外条件。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3830435.d.html</link>
+            <guid>2009125</guid>
+            <pubDate>Wed, 03 Feb 2021 13:40:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国宣布季度再融资后，10年期国债收益率下跌，报1.1237%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2841841.d.html</link>
+            <guid>2009121</guid>
+            <pubDate>Wed, 03 Feb 2021 13:39:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国将出售创纪录的1260亿美元的3年期、10年期和30年期国债以进行再融资。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3830000.d.html</link>
+            <guid>2009118</guid>
+            <pubDate>Wed, 03 Feb 2021 13:39:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  永高股份：拟以5000万-1亿元回购股份，用于实施公司限制性股票激励计划。回购价格不超过人民币8.30元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2838460.d.html</link>
+            <guid>2009116</guid>
+            <pubDate>Wed, 03 Feb 2021 13:32:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国财政部表示现金余额将会减少，但也指出了步伐的不确定性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3826627.d.html</link>
+            <guid>2009115</guid>
+            <pubDate>Wed, 03 Feb 2021 13:32:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国财政部表示有足够的能力满足短期借贷需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2838113.d.html</link>
+            <guid>2009113</guid>
+            <pubDate>Wed, 03 Feb 2021 13:31:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国财政部下周将标售270亿美元30年期国债和410亿美元10年期国债。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2838030.d.html</link>
+            <guid>2009112</guid>
+            <pubDate>Wed, 03 Feb 2021 13:31:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  宝尊电商(09991.HK)：本公司其已与Full Jet Limited全体股东订立股份购买协议，以收购Full Jet的100%股权。该收购须符合惯常成交条件，预计将于2021年2月10日或前后完成。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3826319.d.html</link>
+            <guid>2009111</guid>
+            <pubDate>Wed, 03 Feb 2021 13:31:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  奥本海默：将电子艺界(EA.O)目标价从150美元上调至165美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3826269.d.html</link>
+            <guid>2009110</guid>
+            <pubDate>Wed, 03 Feb 2021 13:31:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国财政部表示，下一季借款需求的季节性或意外变化将由债券拍卖规模和现金管理债券的变化来应对。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3826125.d.html</link>
+            <guid>2009109</guid>
+            <pubDate>Wed, 03 Feb 2021 13:30:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【今日财经TOP10】①国常会：部署完善企业特别是中小微企业退出相关政策；②工信部：不得误导、强迫用户办理或升级5G套餐；③“十四五”自贸试验区会否再扩围？商务部回应了；④2020全国百城房价出炉 涨幅近11% 你家涨了吗？⑤又一波药品即将降价！第四批国家药品集采拟中选产品158个；⑥珍爱网VIP有多少水分？相亲男子被指已婚，还骗财、骗色、骗狗；⑦三只松鼠暴跌：原始股东再抛12亿减持计划 上市后净利率一降再降；⑧传一汽集团收购华晨中国股份 华晨回应：暂无确切消息；⑨网易云音乐怒斥酷狗音乐抄袭 谁“山寨”了谁？⑩销量惨淡还涉霸王条款？员工和供应商撑起了董明珠的手机梦。]]></title>
             <guid>2009108</guid>
@@ -115,7 +432,7 @@
             <pubDate>Wed, 03 Feb 2021 13:08:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[国际航空运输协会（IATA）：截至2020年年底，航空客运量下降了70%。截至2020年年底，国内的航空客运量下降43%。新的旅行限制可能会将2021年空中交通恢复幅度限制在2019年水平的38%。]]></title>
+            <title><![CDATA[国际航空运输协会（IATA）：截至2020年年底，航空客运量下降了70%。截至2020年年底，国内的航空客运量下降43%。新的旅行限制可能会将2021年空中交通恢复幅度限制在2019年水平的38%。到2021年，航空公司可能还需要700亿至800亿美元的政府资金援助。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2826031.d.html</link>
             <guid>2009086</guid>
             <pubDate>Wed, 03 Feb 2021 13:07:03 GMT</pubDate>
@@ -142,382 +459,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3812945.d.html</link>
             <guid>2009080</guid>
             <pubDate>Wed, 03 Feb 2021 13:03:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【瑞幸咖啡在海南成立科技公司】瑞幸咖啡关联公司瑞幸咖啡（中国）有限公司，在海南新成立瑞幸咖啡科技（海南）有限公司。该公司成立于2021年1月，注册资本1000万人民币，经营范围主要包括食品互联网销售、广告发布（广播电台、电视台、报刊出版单位）、药品互联网信息服务等。股权透视显示，瑞幸咖啡科技（海南）有限公司为瑞幸咖啡（中国）有限公司全资子公司。（36氪）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2824359.d.html</link>
-            <guid>2009079</guid>
-            <pubDate>Wed, 03 Feb 2021 13:03:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上海证券原董事长李俊杰回归国泰君安，何伟接棒董事长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3812461.d.html</link>
-            <guid>2009078</guid>
-            <pubDate>Wed, 03 Feb 2021 13:02:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国内阁办公厅大臣戈夫向欧盟委员会副主席谢夫乔维奇表示，如果无法就我们提出的方式达成一致，那么英国将方面将考虑使用所有可以使用的工具。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2823036.d.html</link>
-            <guid>2009076</guid>
-            <pubDate>Wed, 03 Feb 2021 13:00:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国内期货夜盘开盘普跌，沪银跌近0.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3811439.d.html</link>
-            <guid>2009075</guid>
-            <pubDate>Wed, 03 Feb 2021 13:00:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[东方日升：终止向不特定对象发行可转换公司债券事项并撤回申请文件。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3811118.d.html</link>
-            <guid>2009074</guid>
-            <pubDate>Wed, 03 Feb 2021 13:00:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波罗的海干散货指数跌3.84%，报1327点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3810936.d.html</link>
-            <guid>2009073</guid>
-            <pubDate>Wed, 03 Feb 2021 12:59:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国内阁办公厅大臣戈夫向欧盟委员会副主席谢夫乔维奇表示，有关药物的安排应该再延长一年，至少到2023年1月1日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3810547.d.html</link>
-            <guid>2009071</guid>
-            <pubDate>Wed, 03 Feb 2021 12:58:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：生物制药公司Signify Health预计IPO发行的A类普通股将高达2,350万股，发行价在17.00美元和19.00美元之间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2821986.d.html</link>
-            <guid>2009070</guid>
-            <pubDate>Wed, 03 Feb 2021 12:58:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国内阁办公厅大臣戈夫向欧盟委员会副主席谢夫乔维奇表示，现在需要的是政治解决方案，而不是技术解决方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3809954.d.html</link>
-            <guid>2009069</guid>
-            <pubDate>Wed, 03 Feb 2021 12:57:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【农业农村部：加强农业外来入侵物种治理】农业农村部、自然资源部、生态环境部、海关总署、国家林草局联合印发《进一步加强外来物种入侵防控工作方案》，要求加强农田、渔业水域等区域外来入侵物种治理，落实阻截防控措施，坚决守住粮食安全底线。当前重点做好草地贪夜蛾、马铃薯甲虫、苹果蠹蛾、红火蚁等重大危害种植业生产外来物种阻截防控，坚持分类施策、治早治小、全力扑杀，在关键区域布设阻截带，集成绿色防控技术模式，建立综合治理示范区。强化水生外来物种养殖环节监管，推进水葫芦、福寿螺、鳄雀鳝等水生外来入侵物种综合治理。加强对危害农业生态环境的紫茎泽兰、豚草等外来入侵恶性杂草的综合治理，加强生物防治和生物替代，稳妥开展集中灭除。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3808794.d.html</link>
-            <guid>2009067</guid>
-            <pubDate>Wed, 03 Feb 2021 12:55:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国内阁办公厅大臣戈夫向欧盟委员会副主席谢夫乔维奇表示，北爱尔兰超市和供应商的宽限期至少应该延长到2023年1月1日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2820307.d.html</link>
-            <guid>2009066</guid>
-            <pubDate>Wed, 03 Feb 2021 12:54:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富国银行：将联合包裹(UPS.N)目标价从184美元上调至193美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3808304.d.html</link>
-            <guid>2009065</guid>
-            <pubDate>Wed, 03 Feb 2021 12:53:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【法本信息：拟向激励对象授予不超601.3万股限制性股票】法本信息发布2021年限制性股票激励计划(草案)，拟向激励对象授予不超过601.3万股的限制性股票，约占公告时公司股本总额的4.64%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3807881.d.html</link>
-            <guid>2009064</guid>
-            <pubDate>Wed, 03 Feb 2021 12:52:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[葛兰素史克（GSK）盘前大跌近5%，2020年营收341亿英镑，去年同期337.54亿英镑。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2819327.d.html</link>
-            <guid>2009063</guid>
-            <pubDate>Wed, 03 Feb 2021 12:52:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  朗新科技：公司决定增加此次回购的总金额，即回购总金额不低于1亿元，且不超过1.5亿元。截至目前，公司累计回购公司股份数量为407.58万股，占公司总股本的0.399%，支付的总金额为5786.5万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3806458.d.html</link>
-            <guid>2009061</guid>
-            <pubDate>Wed, 03 Feb 2021 12:50:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【溢多利：拟推800万股限制性股票激励计划】溢多利披露2021年限制性股票激励计划(草案)，该激励计划拟授予激励对象的限制性股票数量为800万股，占该激励计划草案公告日公司股本总额4.9亿股的1.63%。其中首次授予720万股，占该激励计划草案公告日公司股本总额的1.47%，占该激励计划拟授予限制性股票总数的90.00%；预留80万股，占该激励计划草案公告日公司股本总额的0.16%，占该激励计划拟授予限制性股票总数的10.00%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2817960.d.html</link>
-            <guid>2009060</guid>
-            <pubDate>Wed, 03 Feb 2021 12:50:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  突尼斯国防部发言人表示，阿尔及利亚边境发生爆炸，四名突尼斯士兵死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3804127.d.html</link>
-            <guid>2009057</guid>
-            <pubDate>Wed, 03 Feb 2021 12:45:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  双鹭药业：公司参加了联合采购办公室组织的第四批全国药品集中采购的投标工作。公司产品替莫唑胺胶囊（20mg,100mg）拟中标本次集中采购。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2815574.d.html</link>
-            <guid>2009056</guid>
-            <pubDate>Wed, 03 Feb 2021 12:44:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  摩根士丹利：将谷歌A(GOOGL.O)目标价从2050美元升至2200美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3803884.d.html</link>
-            <guid>2009055</guid>
-            <pubDate>Wed, 03 Feb 2021 12:44:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  意大利民主党领袖表示，希望就德拉基政府与五星运动党和左翼政党进行谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3803809.d.html</link>
-            <guid>2009054</guid>
-            <pubDate>Wed, 03 Feb 2021 12:44:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  2月3日晚间，据多位业内人士消息，原乐创文娱董事长兼CEO张昭去世，享年58岁。（每日经济新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2815039.d.html</link>
-            <guid>2009053</guid>
-            <pubDate>Wed, 03 Feb 2021 12:43:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  大连港：经公司申请，并经上海证券交易所核准，自2021年2月9日起，公司证券简称由“大连港”变更为“辽港股份”，公司代码保持不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3802364.d.html</link>
-            <guid>2009052</guid>
-            <pubDate>Wed, 03 Feb 2021 12:41:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  东软载波：股东股份转让完成过户，实控人变更为佛山市南海区国有资产监督管理局。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2813531.d.html</link>
-            <guid>2009051</guid>
-            <pubDate>Wed, 03 Feb 2021 12:40:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  ST宇顺：公司拟向凯旋门控股、白宜平购买其持有前海首科100%股权，交易各方初步商定本次交易拟定价为9.40亿元。本次交易中，公司拟向中植融云非公开发行股份募集配套资金不超过5.12亿元。股票复牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2812864.d.html</link>
-            <guid>2009050</guid>
-            <pubDate>Wed, 03 Feb 2021 12:38:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  挪威财长：刺激措施将逐步取消。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2812698.d.html</link>
-            <guid>2009049</guid>
-            <pubDate>Wed, 03 Feb 2021 12:38:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国30年期国债收益率升至-0.014%，为去年9月以来的最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3800979.d.html</link>
-            <guid>2009048</guid>
-            <pubDate>Wed, 03 Feb 2021 12:38:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海高金副院长：GME事件根本不存在“散户吊打机构”】上海交大上海高级金融学院副院长、金融学教授朱宁部署，这次GME事件中，逼空行为本身是正常的，根本不存在“散户赚了机构的钱”或者“散户吊打机构”的现象，这种说法不但很有误导性，而且很有危害性。朱宁表示，GME公司2/3以上的股票是由公募基金等机构投资者持有的，所以很难说在这个过程中究竟是谁赚了大钱。 (证券时报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3800664.d.html</link>
-            <guid>2009046</guid>
-            <pubDate>Wed, 03 Feb 2021 12:37:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：欧盟的行为违背了北爱尔兰议定书的精神。我们将采取一切必要措施，要么通过立法，要么援引北爱尔兰议定书第16条，即商品应能够在欧盟和北爱尔兰之间自由流动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3799794.d.html</link>
-            <guid>2009045</guid>
-            <pubDate>Wed, 03 Feb 2021 12:35:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亿纬锂能：全资孙公司对外投资设立全资子公司惠州亿纬动力】亿纬锂能公告，董事会同意公司全资孙公司亿纬动力香港有限公司以自有及自筹资金出资的方式投资设立全资子公司惠州亿纬动力电池有限公司，惠州亿纬动力注册资本为1.28亿美元。本次投资完成后，亿纬动力香港将持有惠州亿纬动力100%的股权。此举将进一步扩大公司动力电池的生产规模，进一步优化公司新能源汽车动力电池产品布局，从而提高公司整体核心竞争能力，对公司的发展具有积极作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3799080.d.html</link>
-            <guid>2009043</guid>
-            <pubDate>Wed, 03 Feb 2021 12:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【特斯拉上海超级充电桩工厂投产】2月3日，特斯拉上海超级充电桩工厂正式建成投产，自2020年8月正式立项到正式投产用时不到半年。主要生产第三代超级充电桩（V3）。该项目投资约4,200万元，占地面积近5000平米，集研发、生产于一体，初期规划年产能10,000根超级充电桩。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2810059.d.html</link>
-            <guid>2009042</guid>
-            <pubDate>Wed, 03 Feb 2021 12:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  台海核电：预计2020年全年亏损8亿-12亿元，上年同期亏损6.4亿元。报告期内，因公司资金紧张及涉讼事项较多，导致新增市场订单和生产不达预期，总体产能利用率较低，加之固定费用支出较高，预计2020年度亏损6-7亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3797837.d.html</link>
-            <guid>2009040</guid>
-            <pubDate>Wed, 03 Feb 2021 12:31:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  瑞穗：将阿里巴巴目标价上调至285美元，维持买入评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2809187.d.html</link>
-            <guid>2009039</guid>
-            <pubDate>Wed, 03 Feb 2021 12:30:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  星展银行：将香港交易所(00388.HK)评级下调至持有，目标价539港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3796836.d.html</link>
-            <guid>2009038</guid>
-            <pubDate>Wed, 03 Feb 2021 12:29:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  东方嘉盛业绩快报：2020年全年净利润为2亿元，同比增长30.55%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2808384.d.html</link>
-            <guid>2009037</guid>
-            <pubDate>Wed, 03 Feb 2021 12:29:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国首相约翰逊告知北爱尔兰民主统一党领袖福斯特：将在三月底解决北爱尔兰面临的问题。 现在轮到首相用实际行动来支持其言论，以保护整个英国的完整性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3796676.d.html</link>
-            <guid>2009036</guid>
-            <pubDate>Wed, 03 Feb 2021 12:29:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[超讯通信公告，公司正在筹划以发行股份的方式购买白小波、洪碧珊合计持有的广东康利达物联科技有限公司49%的股权，同时拟向不超过35名特定投资者非公开发行股份募集配套资金。公司股票自2021年2月4日开市起停牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3796537.d.html</link>
-            <guid>2009035</guid>
-            <pubDate>Wed, 03 Feb 2021 12:28:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【康恩贝：子公司两种药品拟中标第四批全国药品集采】康恩贝公告，公司及全资子公司杭州康恩贝和控股子公司江西珍视明于当日参加了第四批全国药品集中采购的投标。杭州康恩贝、江西珍视明已通过国家药监局仿制药质量和疗效一致性评价的产品泮托拉唑钠肠溶片和玻璃酸钠滴眼液拟中标此次集中采购。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2808016.d.html</link>
-            <guid>2009034</guid>
-            <pubDate>Wed, 03 Feb 2021 12:28:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞银：将亚马逊的目标价从4000美元上调至4150美元 并维持买入评级】瑞银分析师Eric Sheridan将亚马逊(AMZN.O)的目标价从4000美元上调至4150美元，并维持买入评级。Sheridan在一份研究报告中对投资者说，在第四季度业绩超过预期之后，亚马逊的执行情况“没有改变”。尽管2020年年中，围绕正面动态的“担忧之火墙”仍将存在，但亚马逊仍有望跑赢大盘。从长期来看，亚马逊应该成为电子商务、云计算、媒体消费、数字广告和人工智能语音助手等关键主题的受益者。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3796316.d.html</link>
-            <guid>2009032</guid>
-            <pubDate>Wed, 03 Feb 2021 12:28:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【澳新银行：低实际利率环境将支撑黄金】美国10年期国债收益率不断上升，以及风险资产表现出众，打压了黄金作为避险资产的吸引力。近期美元走强也给贵金属市场带来了不利影响。不过澳新银行策略师认为，在通胀预期上升和股市估值偏高的情况下，黄金仍是良好的风险分散工具。今年，实际利率的上升似乎受到了限制，因为美联储已暗示，其宽松立场将继续下去，这应该会为金价保持良好的大环境。白银持续优于黄金的表现不太可能持续下去，预计白银受限于30美元/盎司水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2807575.d.html</link>
-            <guid>2009031</guid>
-            <pubDate>Wed, 03 Feb 2021 12:27:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  乐普医疗：人工智能“多道心电图机”（OmniECG C120AI）获得NMPA注册批准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2807012.d.html</link>
-            <guid>2009030</guid>
-            <pubDate>Wed, 03 Feb 2021 12:26:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  德国方面表示正在就驻阿富汗部队问题与美国对话。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3794876.d.html</link>
-            <guid>2009027</guid>
-            <pubDate>Wed, 03 Feb 2021 12:25:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科大讯飞江涛：有关高毅的传闻公司无法查实 定增事项进展符合预期】科大讯飞召开投资人线上说明会。科大讯飞联合创始人、高级副总裁、董秘江涛主持会议，围观者超过200人。江涛表示，2020年公司净利润预计增长约为50%-70%，定增事项各项进展符合预期。公司董事长参与定增系对公司未来发展的信心。关于高毅重仓股出现大跌的传闻，公司没法查实。“我们对公司未来发展还是有信心的”，他表示。]]></title>
-            <guid>2009025</guid>
-            <pubDate>Wed, 03 Feb 2021 12:23:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑兑美元GBP/USD短线走低逾15点，现报1.3622；欧元兑美元EUR/USD短线走低十余点，现报1.2005。]]></title>
-            <guid>2009024</guid>
-            <pubDate>Wed, 03 Feb 2021 12:22:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  投行瑞杰：将亚马逊(AMZN.O)目标价从3500美元上调至4000美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2805154.d.html</link>
-            <guid>2009023</guid>
-            <pubDate>Wed, 03 Feb 2021 12:22:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【宇信科技：深交所中止审核公司定增申请】宇信科技公告，因《审核问询函》涉及的相关事项需要公司进一步落实，相关事项完成时间存在不确定性，公司2021年2月3日向深交所提交了《北京宇信科技集团股份有限公司关于2020年度向特定对象发行股票并在创业板上市中止审核的申请》，2021年2月3日，公司收到深交所同意中止审核的回复。公司正在积极推进《审核问询函》涉及相关事项的处理，待相关工作完成后，将及时向深交所申请恢复审核。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2804954.d.html</link>
-            <guid>2009022</guid>
-            <pubDate>Wed, 03 Feb 2021 12:22:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  投行瑞杰：将谷歌目标价从1800美元上调至2440美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2804448.d.html</link>
-            <guid>2009021</guid>
-            <pubDate>Wed, 03 Feb 2021 12:21:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  罗森布拉特证券：将高通(QCOM.O)目标价155美元上调至175美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2804305.d.html</link>
-            <guid>2009020</guid>
-            <pubDate>Wed, 03 Feb 2021 12:20:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  投行瑞杰：将阿里巴巴(BABA.N)目标价从330美元上调至350美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3792289.d.html</link>
-            <guid>2009019</guid>
-            <pubDate>Wed, 03 Feb 2021 12:20:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Benchmark：将亚马逊目标价从4000美元上调至4400美元】Benchmark分析师Daniel Kurnos将亚马逊(AMZN.O)的目标价从4000美元上调至4400美元，并维持买入评级，此前该公司的假日季业绩出现强劲增长。Kurnos表示，在亚马逊的历史上其他任何时候，宣布首席执行官杰夫•贝佐斯将下台，AWS负责人Andy Jassy将接任首席执行官都可能会对公司股票造成较大的影响，但鉴于Prime用户增速加快以及广告业务的复苏，该公司的前景将会更好。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3791970.d.html</link>
-            <guid>2009018</guid>
-            <pubDate>Wed, 03 Feb 2021 12:19:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据俄罗斯政府新闻局消息，俄罗斯总理米哈伊尔∙米舒斯京签署文件，恢复与阿塞拜疆和亚美尼亚通航。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2802252.d.html</link>
-            <guid>2009015</guid>
-            <pubDate>Wed, 03 Feb 2021 12:16:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  新美星：控股股东、实际控制人及其一致行动人拟合计减持不超过6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3790408.d.html</link>
-            <guid>2009014</guid>
-            <pubDate>Wed, 03 Feb 2021 12:16:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海钢联：拟推2021年限制性股票激励计划】上海钢联披露2021年限制性股票激励计划(草案)，本激励计划拟授予的限制性股票数量为1100万股，约占公司股本总额的5.76%。其中，首次授予981.3万股，占公司股本总额的5.14%，占本次授予权益总额的89.21%。首次授予的激励对象总人数847人。本计划限制性股票的授予价格(含预留授予)为47.63元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2801660.d.html</link>
-            <guid>2009013</guid>
-            <pubDate>Wed, 03 Feb 2021 12:15:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元兑美元EUR/USD短线波动不大。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2801524.d.html</link>
-            <guid>2009012</guid>
-            <pubDate>Wed, 03 Feb 2021 12:15:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  巴克莱：将亚马逊(AMZN.O)目标价从3660美元上调至3860美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2801448.d.html</link>
-            <guid>2009011</guid>
-            <pubDate>Wed, 03 Feb 2021 12:15:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【天津普林：已获中环投资累计增持2.64%的股份】天津普林公告，公司于2021年02月03日收到公司控股股东天津中环电子信息集团有限公司(“中环电子”)一致行动人天津市中环投资有限公司(“中环投资”)出具的《告知函》，基于对公司持续稳定发展的信心，中环投资于2018年02月12日至2021年02月03日通过深圳证券交易所交易系统以集中竞价交易方式累计增持公司股票649.96万股，占公司总股本的2.64%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2801354.d.html</link>
-            <guid>2009010</guid>
-            <pubDate>Wed, 03 Feb 2021 12:14:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行前行长德拉基接受组建意大利政府的授权。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2801257.d.html</link>
-            <guid>2009009</guid>
-            <pubDate>Wed, 03 Feb 2021 12:14:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【科伦药业：4种药品拟中标第四批全国药品集采】科伦药业公告，公司及全资子公司湖南科伦、湖北科伦参加了第四批全国药品集中采购的投标工作。公司的恩格列净片（10mg、25mg）、丙泊酚中/长链脂肪乳注射液（20ml：0.2g）、注射用帕瑞昔布钠（20mg、40mg）、盐酸氨溴索注射液（2ml：15mg）拟中标此次集中采购。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2800707.d.html</link>
-            <guid>2009008</guid>
-            <pubDate>Wed, 03 Feb 2021 12:13:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  杰富瑞：将陆金所(LU.N)目标价从17美元上调至18.5美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3788567.d.html</link>
-            <guid>2009007</guid>
-            <pubDate>Wed, 03 Feb 2021 12:12:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国共和党参议员卢比奥：两党合作得出的纾困计划比移民改革更重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2799211.d.html</link>
-            <guid>2009006</guid>
-            <pubDate>Wed, 03 Feb 2021 12:10:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[生化基因（Biogen）预计2021年营收104.5亿美元至107.5亿美元；第四季度营收28.5亿美元，市场预估28亿美元；第四季度调整后每股收益4.58美元，市场预估4.80美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3787038.d.html</link>
-            <guid>2009005</guid>
-            <pubDate>Wed, 03 Feb 2021 12:09:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  佳兆业集团(01638.HK)：本集团于二零二一年一月份录得约人民币8,254百万元的合约销售，按年增加约99.5%。二零二一年一月的合约建筑面积约为482,810平方米，按年增加约127.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3786928.d.html</link>
-            <guid>2009004</guid>
-            <pubDate>Wed, 03 Feb 2021 12:09:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【联创电子：拟推2021年限制性股票激励计划】联创电子发布2021年限制性股票激励计划(草案)，激励计划拟授予激励对象的限制性股票数量为1578.50万股，约占本激励计划草案公告日公司股本总额的1.51%。本激励计划为一次性授予，无预留权益。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftpnny3786506.d.html</link>
-            <guid>2009003</guid>
-            <pubDate>Wed, 03 Feb 2021 12:08:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[公布财报后，葛兰素史克(GSK.N)盘前跌1.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-03/detail-ikftssap2796672.d.html</link>
-            <guid>2009002</guid>
-            <pubDate>Wed, 03 Feb 2021 12:05:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
