@@ -4,11 +4,71 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 04 Feb 2021 18:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Feb 2021 19:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  基金分析公司理柏（Lipper）：美国高收益基金本周流入13.4亿美元资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3740454.d.html</link>
+            <guid>2011216</guid>
+            <pubDate>Thu, 04 Feb 2021 19:18:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储戴利：解决不平等问题将意味着改变机构。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4726309.d.html</link>
+            <guid>2011215</guid>
+            <pubDate>Thu, 04 Feb 2021 19:17:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股部分航空股走高，忠诚旅游公司涨11.66%，西空航空涨超7%，捷蓝航空涨6.6%，西南航空(LUV.N)涨超5%，夏威夷航空涨4.61%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3735307.d.html</link>
+            <guid>2011213</guid>
+            <pubDate>Thu, 04 Feb 2021 19:06:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  天然气日内涨超5%，现报2.9240美元/百万英热。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3733522.d.html</link>
+            <guid>2011212</guid>
+            <pubDate>Thu, 04 Feb 2021 19:02:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  COMEX 4月黄金期货收跌2.4%，报1791.20美元/盎司。COMEX 3月白银期货收跌2.4%，报26.234美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4719619.d.html</link>
+            <guid>2011211</guid>
+            <pubDate>Thu, 04 Feb 2021 19:02:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储卡普兰：如果我们能够脱离非常规措施，我们将在未来几年变得更加强大、更具韧性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3728174.d.html</link>
+            <guid>2011209</guid>
+            <pubDate>Thu, 04 Feb 2021 18:51:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  布伦特原油期货站上59美元/桶，日内涨1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4706514.d.html</link>
+            <guid>2011208</guid>
+            <pubDate>Thu, 04 Feb 2021 18:34:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  上期所原油期货2103合约夜盘收涨1.16%，报357.20元人民币/桶。 沪金夜盘收跌1.63%，沪银收跌2.23%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4704505.d.html</link>
+            <guid>2011207</guid>
+            <pubDate>Thu, 04 Feb 2021 18:30:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储卡普兰：随着经济重新开放，我们将看到短期的通胀压力，但这将是暂时性的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4704088.d.html</link>
+            <guid>2011206</guid>
+            <pubDate>Thu, 04 Feb 2021 18:29:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  WTI原油期货较日低回升超1美元，涨幅扩大至1.2%，报56.37美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4703022.d.html</link>
+            <guid>2011205</guid>
+            <pubDate>Thu, 04 Feb 2021 18:27:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  市场消息：SpaceX向美国联邦通信委员会（FCC）寻求补贴，以用于轨道互联网。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4701121.d.html</link>
@@ -460,71 +520,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-04/detail-ikftpnny4618104.d.html</link>
             <guid>2011117</guid>
             <pubDate>Thu, 04 Feb 2021 15:28:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧亚经济委员会官员：欧亚地区互联互通进程加快，外贸重心将由西向东转移】4日，欧亚经济委员会在哈萨克斯坦首都努尔苏丹举行全体成员参加的新闻发布会。委员会负责一体化和宏观经济事务的官员谢尔盖·格拉济耶夫表示，欧亚地区的基础设施互联互通进程正在加快，俄罗斯等欧亚经济联盟成员国与中国和东南亚国家的经贸合作水平不断提升。他说，道路越多意味着机会越多，欧亚经济联盟国家与中国的公路和铁路对接速度正在加快，整个地区的互联互通水平都在提高。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-04/detail-ikftssap3631738.d.html</link>
-            <guid>2011116</guid>
-            <pubDate>Thu, 04 Feb 2021 15:28:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国1月份新车销售创下自1970年有记录以来最糟糕的开年。SMMT的最新新车注册数据显示，1月份仅注册了90249辆新车，同比下滑40%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-04/detail-ikftssap3631046.d.html</link>
-            <guid>2011115</guid>
-            <pubDate>Thu, 04 Feb 2021 15:27:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利富时MIB指数涨2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-04/detail-ikftssap3630859.d.html</link>
-            <guid>2011114</guid>
-            <pubDate>Thu, 04 Feb 2021 15:26:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞信：将eBay目标价上调至76美元 保持强于大盘评级】瑞士信贷分析师Stephen Ju将eBay(EBAY.O)的目标价从70美元上调至76美元，并保持其强于大盘的评级。这位分析师指出，尽管季度环比出现了减速，但买家活动仍在持续升温。他补充称，随着公司扩大管理支付和产品列表广告的规模，营收增长继续超过商品总价值，从而提高了总成交率。鉴于eBay表现出的执行这些举措的能力，支付和广告的快速普及带来了更高的佣金率，分析师将预期提高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-04/detail-ikftpnny4616696.d.html</link>
-            <guid>2011113</guid>
-            <pubDate>Thu, 04 Feb 2021 15:25:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳元兑美元AUD/USD跌至0.76下方，跌0.23%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-04/detail-ikftssap3630220.d.html</link>
-            <guid>2011112</guid>
-            <pubDate>Thu, 04 Feb 2021 15:25:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国陆基中段反导拦截技术试验成功实施】据国防部发布 ：今天，中国在境内进行了一次陆基中段反导拦截技术试验，试验达到了预期目的。这一试验是防御性的，不针对任何国家。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-04/detail-ikftpnny4616021.d.html</link>
-            <guid>2011111</guid>
-            <pubDate>Thu, 04 Feb 2021 15:23:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元兑美元EUR/USD跌0.5%，现报1.1975。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-04/detail-ikftpnny4613202.d.html</link>
-            <guid>2011109</guid>
-            <pubDate>Thu, 04 Feb 2021 15:17:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议院多数党领袖舒默：参议院将很快为起草援助法案的小组铺平道路。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-04/detail-ikftpnny4613105.d.html</link>
-            <guid>2011108</guid>
-            <pubDate>Thu, 04 Feb 2021 15:17:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据知情人土透露，周四美国市场开盘时，阿里巴巴此次发行的四种期限债券已经获得过300亿美元认购，预计将于日内晚些时候定价。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-04/detail-ikftssap3626590.d.html</link>
-            <guid>2011107</guid>
-            <pubDate>Thu, 04 Feb 2021 15:17:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为58，表明市场处在贪婪状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-04/detail-ikftpnny4612964.d.html</link>
-            <guid>2011106</guid>
-            <pubDate>Thu, 04 Feb 2021 15:17:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[医疗保健公司Cassava Sciences（SAVA）股价上涨约30%，进入连续第五个交易日上涨之中，刷新盘中历史高位至115美元，本周累计涨幅已经超过440%，本周稍早，该公司宣布其阿尔茨海默症候选药品Simufilam（原名PTI-125）开放标签的中期研究取得积极进展，将进入第三阶段临床试验。]]></title>
-            <guid>2011105</guid>
-            <pubDate>Thu, 04 Feb 2021 15:16:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
