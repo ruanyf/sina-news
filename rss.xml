@@ -4,11 +4,430 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 05 Feb 2021 11:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Feb 2021 12:30:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【褀氏生物完成数千万元A轮融资】今日，褀氏生物宣布完成数千万元A轮融资。本轮融资由景泽资本投资，所募集资金将用于新品研发及全球市场营销渠道建设。褀氏生物成立于2018年，是一家主营方向为自动化体外诊断系统平台的科技企业，目前研发方向涵盖了细胞学体外诊断、免疫学体外诊断等领域。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4299552.d.html</link>
+            <guid>2012604</guid>
+            <pubDate>Fri, 05 Feb 2021 12:28:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【科拓生物：拟推不超100万股限制性股票激励计划】科拓生物披露2021年限制性股票激励计划(草案)，该激励计划拟授予的限制性股票总量不超过100.00万股，占该激励计划草案公告时公司股本总额8251.77万股的1.21%。其中首次授予82.00万股，占该激励计划草案公告时公司股本总额8251.77万股的0.99%，首次授予部分占此次授予权益总额的82.00%；预留18.00万股，占该激励计划草案公告时公司股本总额8251.77万股的0.22%，预留部分占本次授予权益总额的18.00%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4299071.d.html</link>
+            <guid>2012603</guid>
+            <pubDate>Fri, 05 Feb 2021 12:27:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国央行首席经济学家霍尔丹：英国央行的最新预测显示，今年GDP和通胀都将出现“相当强劲”的复苏。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5283732.d.html</link>
+            <guid>2012602</guid>
+            <pubDate>Fri, 05 Feb 2021 12:26:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科创板上市委公告，江苏金智教育信息股份有限公司、正元地理信息集团股份有限公司首发获通过。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4298465.d.html</link>
+            <guid>2012601</guid>
+            <pubDate>Fri, 05 Feb 2021 12:26:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【恒宝股份：拟推1506万份股票期权激励计划】恒宝股份披露2021年股票期权激励计划(草案)，该激励计划拟授予的股票期权数量1506.00万份，占该激励计划草案公告时公司股本总额6.97亿股的2.16%。其中首次授予1456.00万份，占该激励计划草案公告时公司股本总额6.97亿股的2.09%；预留50.00万份，占该激励计划草案公告时公司股本总额6.97亿股的0.07%，预留部分占此次授予权益总额的3.32%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4296848.d.html</link>
+            <guid>2012598</guid>
+            <pubDate>Fri, 05 Feb 2021 12:23:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  加拿大皇家银行前瞻非农：预计美国非农就业人口新增20万，这将抵消12月的下降，此前的下降很大程度上是因为防疫限制措施叠加了冬季招聘不利因素的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5281756.d.html</link>
+            <guid>2012597</guid>
+            <pubDate>Fri, 05 Feb 2021 12:23:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[赛诺菲(SNY.O)盘前涨2.5%，第四季度同比扭亏为盈，实现净利润10.9亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4295921.d.html</link>
+            <guid>2012596</guid>
+            <pubDate>Fri, 05 Feb 2021 12:21:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【深交所：主板与中小板合并不会对投资者交易行为产生实质影响】深交所新闻发言人就合并主板与中小板有关安排答记者问时表示，本次合并仅变更原中小板公司证券类别，证券代码和证券简称保持不变，不会影响投资者交易方式和交易习惯。主板、中小板交易机制和投资者门槛一致，投资者群体总体无差异，且合并不涉及交易机制和投资者门槛的改变，不会对投资者交易行为产生实质影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4295743.d.html</link>
+            <guid>2012595</guid>
+            <pubDate>Fri, 05 Feb 2021 12:21:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[浙江交科公告，拟中标330国道青田温溪至船寮段改建工程第EPC01标段项目，拟中标金额17.37亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4295156.d.html</link>
+            <guid>2012594</guid>
+            <pubDate>Fri, 05 Feb 2021 12:20:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[京蓝科技公告，持股9.21%的股东北京杨树嘉业投资中心拟减持不超过4.61%的公司股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5279404.d.html</link>
+            <guid>2012593</guid>
+            <pubDate>Fri, 05 Feb 2021 12:18:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[星云股份公告，控股股东、实际控制人之一江美珠和股东汤平拟合计减持不超过3.5%的公司股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4294086.d.html</link>
+            <guid>2012592</guid>
+            <pubDate>Fri, 05 Feb 2021 12:18:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深交所印发关于启动合并主板与中小板相关准备工作的通知】本通知发布后至合并实施完成日为过渡期。过渡期内，主板、中小板上市公司继续执行现行规定，企业发行上市维持现行安排。实施完成后，中小板上市公司的证券类别变更为“主板A股”，证券代码和证券简称保持不变。对涉及中小板的有关指数名称和简称等作适应性调整，指数编制方法暂不作实质性变更。相关指数调整公告另行发布。对相关行情展示、数据接口等进行适应性改造。相关技术准备通知另行发布。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4293815.d.html</link>
+            <guid>2012591</guid>
+            <pubDate>Fri, 05 Feb 2021 12:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  罗森布拉特证券：将Snap(SNAP.N)目标价从50美元上调至70美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4293577.d.html</link>
+            <guid>2012590</guid>
+            <pubDate>Fri, 05 Feb 2021 12:17:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  星云股份：控股股东、实际控制人之一江美珠和股东汤平拟合计减持不超过3.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5278575.d.html</link>
+            <guid>2012589</guid>
+            <pubDate>Fri, 05 Feb 2021 12:17:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深交所：合并完成后，主板定位成熟企业融资发展，创业板服务成长型创新创业企业】深交所：合并完成后，深市主板定位于支持相对成熟的企业融资发展、做优做强，发行上市门槛保持不变；创业板主要服务于成长型创新创业企业，突出“三创”“四新”。深市以主板、创业板为主体的市场格局，将为处在不同发展阶段、不同类型的企业提供融资服务，进一步提高资本市场服务实体经济能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5278240.d.html</link>
+            <guid>2012588</guid>
+            <pubDate>Fri, 05 Feb 2021 12:16:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【深市主板与中小板合并后恢复主板上市功能 不意味着全市场注册制很快实施】根据证监会今日发布，深交所启动主板与中小板合并工作。此次合并工作，主要解决深市主板与中小板趋同问题，要警惕四大误区，一是深交所主板与中小板合并不意味着全市场注册制很快实施；二是资本市场对中小企业的服务功能不会因为这次两板合并而削弱，实际上在不断增强；三是合并后恢复深市主板上市功能，不会导致市场加速扩容；四是合并不会带来两板块估值的大幅波动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5277929.d.html</link>
+            <guid>2012587</guid>
+            <pubDate>Fri, 05 Feb 2021 12:16:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中通客车：1月公司汽车产量为665辆，同比减少30.51%；销量为589辆，同比减少33.52%。]]></title>
+            <guid>2012586</guid>
+            <pubDate>Fri, 05 Feb 2021 12:15:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  深交所：目前，本次合并相关业务规则调整已准备就绪，内部技术系统改造已基本完成，监管模式、指数及产品调整、发行上市已明确适应性安排，外部技术系统改造的评估及沟通工作已初步展开。为做好新旧衔接，充分预留时间，本次合并设置了过渡期安排，即《业务通知》发布后至合并完成日为过渡期，过渡期内主板、中小板公司继续执行现行规定。深交所将按照中国证监会部署要求，抓实抓细相关工作，全力推进两板合并有序实施、平稳落地。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4291822.d.html</link>
+            <guid>2012585</guid>
+            <pubDate>Fri, 05 Feb 2021 12:14:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[杭锅股份公告，公司实际控制人王水福先生计划自2021年2月6日起6个月内，增持公司股份不低于2%，不超过3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5276314.d.html</link>
+            <guid>2012584</guid>
+            <pubDate>Fri, 05 Feb 2021 12:12:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深交所：合并完成后，深市主板发行上市门槛保持不变】合并完成后，深市主板定位于支持相对成熟的企业融资发展、做优做强，发行上市门槛保持不变；创业板主要服务于成长型创新创业企业，突出“三创”“四新”。深市以主板、创业板为主体的市场格局，将为处在不同发展阶段、不同类型的企业提供融资服务，进一步提高资本市场服务实体经济能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4291073.d.html</link>
+            <guid>2012583</guid>
+            <pubDate>Fri, 05 Feb 2021 12:12:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  深交所新闻发言人就合并主板与中小板有关安排答记者问：《业务通知》发布后至合并实施完成前的过渡期内，企业发行上市维持现行安排。合并后，主板发行上市条件与原中小板一致，且保持不变，原中小板证券类别变更为“主板A股”，对应证券代码区间并入主板使用，发行审核安排不变，在审企业无需重新申报材料，不会对企业发行上市产生实质影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4290558.d.html</link>
+            <guid>2012582</guid>
+            <pubDate>Fri, 05 Feb 2021 12:11:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世界黄金协会：2021年1月全球黄金ETF再次实现净流入，流入量为13.8吨（约合10亿美元，资产管理规模增加0.4％）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5274573.d.html</link>
+            <guid>2012581</guid>
+            <pubDate>Fri, 05 Feb 2021 12:09:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【深市主板中小板合并过渡期内在审企业不用重新准备资料】根据证监会今日发布，深交所启动主板与中小板合工作。据了解，在合并业务通知发布及合并实施完成前的过渡期内，深市主板、中小板上市公司继续执行现行规定，企业发行上市维持现行安排，在审企业不用重新准备资料。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4288446.d.html</link>
+            <guid>2012577</guid>
+            <pubDate>Fri, 05 Feb 2021 12:07:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【郑州监管部门约谈多家茅台经销商 保证每瓶1499元】全市茅台酒经销商、专营店和酒便利负责人主动签订《郑州市高端白酒稳价保供承诺书》，并向全社会公开承诺，严格按照与贵州茅台酒销售有限公司签订合同中1499元/瓶的价格，诚信守法经营。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4287949.d.html</link>
+            <guid>2012576</guid>
+            <pubDate>Fri, 05 Feb 2021 12:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：可口可乐(KO.N)可能出售价值6.69亿美元的南非瓶装厂业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5272908.d.html</link>
+            <guid>2012575</guid>
+            <pubDate>Fri, 05 Feb 2021 12:06:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  大商所关于发布《大连商品交易所境外特殊参与者管理办法》和相关规则修正案的通知。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4286727.d.html</link>
+            <guid>2012574</guid>
+            <pubDate>Fri, 05 Feb 2021 12:04:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Truist证券：将Snap(SNAP.N)目标价从43美元上调至61美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5271816.d.html</link>
+            <guid>2012573</guid>
+            <pubDate>Fri, 05 Feb 2021 12:04:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【市场分析人士：深交所主板和中小板合并不会加速市场扩容】关于深交所主板与中小板合并后恢复深市主板上市功能，是否会导致市场加速扩容的问题，市场分析人士表示，深交所主板与中小板合并总的思路是，“两个统一”“四个不变”。即统一业务规则，统一运行监管模式；保持发行上市条件不变，投资者门槛不变，交易机制不变，证券代码及简称不变。合并后主板仍然实行核准制，没有降低上市门槛，也没有新增上市通道，不会直接导致市场短期内加速扩容。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5270826.d.html</link>
+            <guid>2012570</guid>
+            <pubDate>Fri, 05 Feb 2021 12:02:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[再生元制药盘前大涨超3%，此前其财报显示2020年Q4营收24.23亿美元，去年同期21.69亿美元。2020年营收84.97亿美元，去年同期78.63亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4285032.d.html</link>
+            <guid>2012569</guid>
+            <pubDate>Fri, 05 Feb 2021 12:01:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行副行长伍兹：今年银行资本将面临更大压力，尽管压力很大，但仍在可控范围内。 英国脱欧后绝对无意降低财务标准，但会做出一些改变，以更好地适应英国的要求。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4284901.d.html</link>
+            <guid>2012568</guid>
+            <pubDate>Fri, 05 Feb 2021 12:01:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3个月期英镑Libor上涨0.75个基点，涨幅为去年10月以来最高水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5269543.d.html</link>
+            <guid>2012567</guid>
+            <pubDate>Fri, 05 Feb 2021 12:00:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3个月期美元Libor创下历史新低，至0.19088%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4284184.d.html</link>
+            <guid>2012565</guid>
+            <pubDate>Fri, 05 Feb 2021 12:00:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【富瀚微：拟3.3亿元收购眸芯科技32.43%股权】富瀚微公告，公司将以现金收购眸芯科技（上海）有限公司32.43%股权，此次交易金额合计为3.3亿元。此次交易完成后，公司持有的眸芯科技股权比例将由18.57%变更为51%，眸芯科技将成为公司的控股子公司。标的公司主要产品为智能视频监控系统后端设备（DVR、NVR等）主处理器SoC芯片及带屏显的智能家居类电子设备主处理器SoC芯片等，该类产品市场未来发展前景广阔。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5269293.d.html</link>
+            <guid>2012564</guid>
+            <pubDate>Fri, 05 Feb 2021 11:59:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中农立华：持股6.90%的股东广东信达兴投资有限公司拟减持不超过1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4282850.d.html</link>
+            <guid>2012562</guid>
+            <pubDate>Fri, 05 Feb 2021 11:57:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  东方证券：2020年下半年计提各项资产减值准备共计25.92亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5267364.d.html</link>
+            <guid>2012561</guid>
+            <pubDate>Fri, 05 Feb 2021 11:55:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中国武夷：大股东拟增持0.5%-2%公司股份】中国武夷公告，大股东福建建工拟于2月5日起6个月内以自有资金在以竞价交易方式增持公司股票，数量约占公司总股本的0.5%-2%。22月5日已经增持330万股，均价2.75元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4281011.d.html</link>
+            <guid>2012560</guid>
+            <pubDate>Fri, 05 Feb 2021 11:53:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  接近监管部门人士解读深交所主板中小板将合并：两板合并初期受市场情绪影响，可能会出现个股异常波动情况，但这不会改变市场运行的基础逻辑和总体趋势；深交所将对个股异常波动情况予以重点监控，依法从严监管。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4280927.d.html</link>
+            <guid>2012559</guid>
+            <pubDate>Fri, 05 Feb 2021 11:53:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【博世科：广州环投集团成为公司第一大股东 广州市政府成为公司实控人】博世科公告，公司原共同实际控制人王双飞先生、宋海农先生、杨崎峰先生、许开绍先生向广州环投集团转让公司股份的事项已完成过户登记手续，广州环投集团成为公司的第一大股东，广州市人民政府成为公司的实际控制人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5266246.d.html</link>
+            <guid>2012558</guid>
+            <pubDate>Fri, 05 Feb 2021 11:53:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【北京大兴将办首场春节线上消费活动 发放2000万元消费券】记者从大兴区商务局获悉，大兴区商务局将结合春节、元宵节两大消费节点，于2月8日启动“情暖大兴，陪您过年”活动，发放2000万元云上年货消费券。 (北京日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4280530.d.html</link>
+            <guid>2012557</guid>
+            <pubDate>Fri, 05 Feb 2021 11:52:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德银：将百胜餐饮(YUM.N)目标价从107美元上调至113美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4280122.d.html</link>
+            <guid>2012555</guid>
+            <pubDate>Fri, 05 Feb 2021 11:52:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  蒙特利尔银行：将吉利德科学(GILD.O)目标价从65美元上调至67美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4279674.d.html</link>
+            <guid>2012554</guid>
+            <pubDate>Fri, 05 Feb 2021 11:51:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德银：将福特汽车(F.N)目标价从11美元上调至12美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5264720.d.html</link>
+            <guid>2012552</guid>
+            <pubDate>Fri, 05 Feb 2021 11:50:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  伊戈尔：魏欣等12名特定股东拟合计减持不超过1.26%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4279138.d.html</link>
+            <guid>2012551</guid>
+            <pubDate>Fri, 05 Feb 2021 11:50:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[腾讯音游《节奏大师》将暂停运营，2月5日起停服、暂时下架。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4278459.d.html</link>
+            <guid>2012549</guid>
+            <pubDate>Fri, 05 Feb 2021 11:48:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：欧洲央行前行长德拉基将在与意大利各党派会谈后将与工会交谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5263335.d.html</link>
+            <guid>2012548</guid>
+            <pubDate>Fri, 05 Feb 2021 11:47:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  韦德布什：将动视暴雪(ATVI.O)目标价从104美元上调至125美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5263243.d.html</link>
+            <guid>2012547</guid>
+            <pubDate>Fri, 05 Feb 2021 11:47:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  D.A Davidson：将Pinterest(PINS.N)目标价从42美元上调至76美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4277500.d.html</link>
+            <guid>2012546</guid>
+            <pubDate>Fri, 05 Feb 2021 11:46:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【花旗：维持Snap卖出评级 目标价29美元】在Snap公布第四季度业绩后，花旗分析师Jason Bazinet保持对Snap(SNAP.N)的卖出评级，目标价29美元。Bazinet在一份研究报告中告诉投资者，Snap的营收和日活跃用户超出了市场预期。即便如此，调整后的息税折旧摊销前利润远低于华尔街预期。他预计该股今天会下跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5262396.d.html</link>
+            <guid>2012545</guid>
+            <pubDate>Fri, 05 Feb 2021 11:45:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  交易员：印度债券市场交易时间延长至当地时间下6点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4276897.d.html</link>
+            <guid>2012544</guid>
+            <pubDate>Fri, 05 Feb 2021 11:45:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲央行监事会主席恩瑞亚：截至9月，需要从英国转移8100亿欧元的资产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5261137.d.html</link>
+            <guid>2012543</guid>
+            <pubDate>Fri, 05 Feb 2021 11:43:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  古根海姆：将Pinterest(PINS.N)目标价从72美元上调至95美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4274161.d.html</link>
+            <guid>2012541</guid>
+            <pubDate>Fri, 05 Feb 2021 11:39:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  博世科：公司原共同实际控制人王双飞先生、宋海农先生、杨崎峰先生、许开绍先生向广州环投集团转让公司股份的事项已完成过户登记手续，广州环投集团成为公司的第一大股东，广州市人民政府成为公司的实际控制人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4274107.d.html</link>
+            <guid>2012540</guid>
+            <pubDate>Fri, 05 Feb 2021 11:39:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【米奥会展：公司第一大股东变更为方欢胜】米奥会展公告，1月27日至2月4日，方欢胜以集中竞价交易方式买入公司股份17.6万股，占公司总股本的0.18%。此次权益变动后，方欢胜持有公司股份2361万股，占公司总股本的23.57%，变更为公司第一大股东，潘建军为公司第二大股东。公司第一大股东的变更对公司经营和持续发展不会产生重大影响；公司实控人及其一致行动人未发生变动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5258807.d.html</link>
+            <guid>2012539</guid>
+            <pubDate>Fri, 05 Feb 2021 11:38:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利左翼政党自由平等党表示，仍希望听取德拉基的政策建议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5258634.d.html</link>
+            <guid>2012538</guid>
+            <pubDate>Fri, 05 Feb 2021 11:38:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利左翼政党自由平等党在与德拉基会面后表示，如果右翼政党支持德拉基，自由平等党将很难支持他。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4272821.d.html</link>
+            <guid>2012537</guid>
+            <pubDate>Fri, 05 Feb 2021 11:37:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  再生元制药公司(REGN.O)：2020年Q4营收24.23亿美元，市场预期24.23亿美元，去年同期21.69亿美元。2020年营收84.97亿美元，市场预期89.94亿美元，去年同期78.63亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5257808.d.html</link>
+            <guid>2012536</guid>
+            <pubDate>Fri, 05 Feb 2021 11:36:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[再生元制药公司(REGN.O)盘前涨3.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5257660.d.html</link>
+            <guid>2012535</guid>
+            <pubDate>Fri, 05 Feb 2021 11:36:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲央行监事会主席恩瑞亚：根据我们的脱欧计划，即将进入欧洲的国际银行打算将总计约1.2万亿欧元的资产转移到受欧洲监管的机构。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4271048.d.html</link>
+            <guid>2012533</guid>
+            <pubDate>Fri, 05 Feb 2021 11:33:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【天泽信息：股东刘智辉拟转让股份降低股票质押风险】天泽信息公告，公司于2021年2月4日收到股东刘智辉先生发来的其于2021年2月2日与东吴证券、邵宜仲先生签订了《三方协议》，东吴证券作为质权人同意刘智辉先生将其所持公司850万股股份以协议转让方式转让给邵宜仲先生，并以部分转让价款用于偿还相应债务，以降低股票质押风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5256067.d.html</link>
+            <guid>2012532</guid>
+            <pubDate>Fri, 05 Feb 2021 11:33:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【ST海马：控股子公司拟3.3亿出售海南银行7%股权】ST海马公告，为进一步聚焦汽车主业、优化资源配置，公司控股子公司海马财务拟向中国铁路投资出售其持有的海南银行7%股权。此次股权转让的转让价格为3.297亿元。此次股权转让前，海马财务持有海南银行12%股权，转让完成后，海马财务持有海南银行5%股权。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4270770.d.html</link>
+            <guid>2012531</guid>
+            <pubDate>Fri, 05 Feb 2021 11:33:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  古根海姆：将吉利德科学(GILD.O)目标价从75美元上调至78美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5255586.d.html</link>
+            <guid>2012530</guid>
+            <pubDate>Fri, 05 Feb 2021 11:32:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  康弘药业：副总裁、财务总监、董事会秘书钟建军拟增持公司股份不低于50万股，增持价格不超过人民币43.00元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4270249.d.html</link>
+            <guid>2012529</guid>
+            <pubDate>Fri, 05 Feb 2021 11:32:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【央行： 市场利率定价自律机制推出外币同业存单】为进一步推动同业存单市场平稳有序发展，丰富金融机构境内外币融资渠道，经中国人民银行同意，市场利率定价自律机制自即日起在银行间市场推出外币同业存单。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4269870.d.html</link>
+            <guid>2012527</guid>
+            <pubDate>Fri, 05 Feb 2021 11:31:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据美国证券交易委员会文件：Paypal(PYPL.O)于2021年1月21日收到了美国消费者金融保护局的民事调查要求。Paypal表示，民事调查要求涉及Venmo未经授权的资金转账和收款流程以及相关事宜。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4269641.d.html</link>
+            <guid>2012526</guid>
+            <pubDate>Fri, 05 Feb 2021 11:30:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[极光盘前涨幅扩大至110%，近日公司宣布与快手在广告商业化领域达成合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5254400.d.html</link>
+            <guid>2012525</guid>
+            <pubDate>Fri, 05 Feb 2021 11:29:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德意志银行前瞻非农：我行分析师预计非农就业人数将增加20万，因自上次报告以来，申请失业救济的总人数下降了173万，ADP数据也出人意料地上升了17.4万。然而，这一增长可能不足以改变6.7%的失业率，拜登政府可能会利用报告向国会施压，以便迅速实行刺激计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5254254.d.html</link>
+            <guid>2012524</guid>
+            <pubDate>Fri, 05 Feb 2021 11:29:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【普门科技：拟推2021年限制性股票激励计划】普门科技披露2021年限制性股票激励计划(草案)，拟向激励对象授予750万股限制性股票，占公司股本总额的1.78%。其中首次授予674.7万股，占公司总股本的1.6%，首次授予部分占本次授予权益总额的89.96%。本激励计划首次授予部分涉及的激励对象共计229人。本次限制性股票的授予价格(含预留授予)为每股12.9元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5253236.d.html</link>
+            <guid>2012522</guid>
+            <pubDate>Fri, 05 Feb 2021 11:27:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  麦达数字：公司中文全称拟变更为深圳市实益达科技股份有限公司，证券简称变更为实益达。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5251853.d.html</link>
+            <guid>2012521</guid>
+            <pubDate>Fri, 05 Feb 2021 11:24:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【ST巴士：2020年亏损1.14亿元 2月9日起实施退市风险警示】ST巴士披露年报，公司2020年年实现营业收入为1318.61万元，同比下滑38.02%；净利润亏损1.14亿元，上年同期盈利5.16亿元，同比转亏；基本每股收益-0.39元。公司股票将于2月8日开市时起停牌一天，将于2月9日开市时起复牌，复牌后实施“退市风险警示”；实施退市风险警示后的股票简称由“ST巴士”变为“*ST巴士”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4265796.d.html</link>
+            <guid>2012519</guid>
+            <pubDate>Fri, 05 Feb 2021 11:23:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  投行瑞杰：将动视暴雪(ATVI.O)目标价从109美元上调至120美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5250575.d.html</link>
+            <guid>2012518</guid>
+            <pubDate>Fri, 05 Feb 2021 11:22:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  雪佛龙(CVX.N)盘前涨0.8%，油田服务公司Noble Midstream盘前涨超6%，雪佛龙提出以每股12.47美元的价格收购Noble Midstream。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4264556.d.html</link>
@@ -80,438 +499,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4256060.d.html</link>
             <guid>2012501</guid>
             <pubDate>Fri, 05 Feb 2021 11:04:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【财经网站Forexlive分析师Justin：美国参议院通过措施以快速批准拜登的刺激计划】在某些情况下，美国参议院可以以简单多数票的方式通过措施，而无需达到60票的门槛。不过，刺激计划无论如何都必须保持在1.9万亿美元以下，而且不包括非财政条款，否则就需要进行冗长的辩论。这一消息有利于风险情绪的提振。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4254455.d.html</link>
-            <guid>2012500</guid>
-            <pubDate>Fri, 05 Feb 2021 11:01:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海一中院一审公开开庭审理被告人顾国平等集资诈骗案】上海一中法院消息，2021年2月4日、5日，上海市第一中级人民法院对被告人顾国平等集资诈骗案一审公开开庭审理。顾国平等人通过“联璧金融”“华夏万家金服”平台非法集资共计人民币830余亿元，造成110余万名被害人损失共计人民币120余亿元。公诉机关认为，被告人顾国平、侬锦、陈雨、朱军、王晶晶、张冀敏以非法占有为目的，共同使用诈骗方法非法集资，数额特别巨大，其行为均应当以集资诈骗罪追究刑事责任。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4253808.d.html</link>
-            <guid>2012497</guid>
-            <pubDate>Fri, 05 Feb 2021 11:00:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  投行Evercore ISI：将动视暴雪(ATVI.O)目标价从110美元上调至120美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4253577.d.html</link>
-            <guid>2012496</guid>
-            <pubDate>Fri, 05 Feb 2021 11:00:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【深交所：终止华剑智能创业板上市审核】深交所公告，因浙江华剑智能装备股份有限公司及其保荐人中信建投证券申请撤回上市申请文件，深交所决定终止对公司首次公开发行股票并在创业板上市的审核。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4253288.d.html</link>
-            <guid>2012494</guid>
-            <pubDate>Fri, 05 Feb 2021 10:59:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  投行Gordon Haskett：将星巴克(SBUX.O)评级从持有上调至买入。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5237370.d.html</link>
-            <guid>2012493</guid>
-            <pubDate>Fri, 05 Feb 2021 10:57:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国20年期和30年期国债收益率触及去年3月以来的最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5237252.d.html</link>
-            <guid>2012492</guid>
-            <pubDate>Fri, 05 Feb 2021 10:57:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【*ST海创：海航旅游与浙江中企有意在公司股权层面进行合作】*ST海创公告，公司、公司控股股东海航旅游集团有限公司与浙江中启实业有限公司签订《合作框架协议》。海航旅游与浙江中企有意在公司股权层面进行合作，推动公司良好运营；协议三方有意在体育赛事等文化旅游领域进行战略合作，共同推动平湖市九龙山旅游度假区的开发和运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4250482.d.html</link>
-            <guid>2012491</guid>
-            <pubDate>Fri, 05 Feb 2021 10:55:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国10年期国债收益率上升5个基点，至0.49%，为去年3月以来的最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4247864.d.html</link>
-            <guid>2012489</guid>
-            <pubDate>Fri, 05 Feb 2021 10:51:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【发改委同意11个国家城乡融合发展试验区方案】国家发改委复函国家城乡融合发展试验区实施方案，原则同意浙江嘉湖片区、福建福州东部片区、广东广清接合片区、江苏宁锡常接合片区、山东济青局部片区、河南许昌、江西鹰潭、四川成都西部片区、重庆西部片区、陕西西咸接合片区、吉林长吉接合片区等11个试验区方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4247745.d.html</link>
-            <guid>2012488</guid>
-            <pubDate>Fri, 05 Feb 2021 10:51:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  新纶科技：持股4.99%的股东唐千军拟减持不超过0.60%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5232942.d.html</link>
-            <guid>2012487</guid>
-            <pubDate>Fri, 05 Feb 2021 10:50:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  银保监会发通知：对于财险和再保险实施总精算制度将不再给予过渡期。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5232739.d.html</link>
-            <guid>2012486</guid>
-            <pubDate>Fri, 05 Feb 2021 10:50:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  凯龙股份：控股股东中荆集团通知公司拟增持公司股份，增持金额不超过1.5亿元，不低于7500万元。增持价格不超过15元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5232623.d.html</link>
-            <guid>2012485</guid>
-            <pubDate>Fri, 05 Feb 2021 10:50:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上交所发布2020年度上市公司监管十大纪律处分案例】上交所发布2020年度上市公司监管十大纪律处分案例。上交所表示，案例包括财务造假、资金占用、违规担保等“零容忍”案件，亦包括“三高类”重组、年报监管、退市监管等重点监管事项，涉及信息披露、规范运作、董监高履职、中介执业等多个方面。涉及上市公司包括：*ST富控、长园集团、*ST鹏起、梅雁吉祥股东等。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5232456.d.html</link>
-            <guid>2012484</guid>
-            <pubDate>Fri, 05 Feb 2021 10:50:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  花旗：维持对Snap(SNAP.N)的卖出评级，预期股价将走低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5231477.d.html</link>
-            <guid>2012483</guid>
-            <pubDate>Fri, 05 Feb 2021 10:48:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国外汇交易中心：为进一步推动同业存单市场平稳有序发展，丰富金融机构境内外币融资渠道，经中国人民银行同意，市场利率定价自律机制自即日起在银行间市场推出外币同业存单。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5231398.d.html</link>
-            <guid>2012482</guid>
-            <pubDate>Fri, 05 Feb 2021 10:48:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股期货扩大涨幅】 道琼斯30期货涨幅扩大至0.47%，标普500期货涨至0.48%，纳斯达克100指数期货涨0.36%，美小型股2000指数期货涨幅扩大至0.9%，此前参议院通过预算措施，拜登刺激计划进入获批快速通道。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4245428.d.html</link>
-            <guid>2012481</guid>
-            <pubDate>Fri, 05 Feb 2021 10:47:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯外长拉夫罗夫在与欧盟委员会副主席兼“外长”博雷利会谈后表示，莫斯科认为欧盟是一个不可靠的伙伴。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5230589.d.html</link>
-            <guid>2012480</guid>
-            <pubDate>Fri, 05 Feb 2021 10:47:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  摩根大通：将Pinterest(PINS.N)目标价从82美元上调至102美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5229616.d.html</link>
-            <guid>2012478</guid>
-            <pubDate>Fri, 05 Feb 2021 10:45:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  加拿大国家银行财富管理（NBF）前瞻美国1月非农就业报告：从去年12月到今年1月申请失业救济金的人数来看，本月的招聘数量可能仍然低迷，再加上仍然很高的裁员人数，这可能意味着就业人数减少了7.5万。预计住户调查将显示就业数量出现回落，假设调查参与率保持在61.5%，失业率或将上升0.2%至6.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4244229.d.html</link>
-            <guid>2012477</guid>
-            <pubDate>Fri, 05 Feb 2021 10:45:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【拼多多主体公司申请注册“快团团”商标】拼多多主体公司近日申请了“快团团”商标。天眼查信息显示，上海寻梦信息技术有限公司日前新增一项“快团团”商标申请注册信息，国际分类涉及社会服务、网站服务等，商标状态显示为“商标申请中”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4244157.d.html</link>
-            <guid>2012476</guid>
-            <pubDate>Fri, 05 Feb 2021 10:45:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【庄园牧场：与新疆蒙牛乳业签订战略合作协议】庄园牧场公告，公司与新疆蒙牛乳业有限公司于2021年2月4日签署了《兰州庄园牧场股份有限公司与新疆蒙牛乳业有限公司战略合作协议》，双方决定共同携手就生鲜乳购销、乳制品加工、乳制品研发、供应商共享等领域形成战略合作伙伴关系，充分发挥双方的各自优势，充分利用双方资源，共同发展，实现双赢的共同目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5229148.d.html</link>
-            <guid>2012475</guid>
-            <pubDate>Fri, 05 Feb 2021 10:45:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  MKM Partners：将Pinterest(PINS.N)目标价从90美元上调至93美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4241248.d.html</link>
-            <guid>2012472</guid>
-            <pubDate>Fri, 05 Feb 2021 10:40:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【被罚2890万元 中信银行回应：已基本完成整改】今日央行披露信息显示，中信银行因“未按规定保存客户身份资料和交易记录”等多项违法违规行为被央行罚款2890万元。中信银行回应表示，这是央行2019年对中信银行检查发现问题的处理结果。自2019年接受检查期间，该行按照“立查立改、举一反三”原则，积极开展整改工作。截至目前，具体问题已基本完成整改。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4240339.d.html</link>
-            <guid>2012471</guid>
-            <pubDate>Fri, 05 Feb 2021 10:39:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国参议院将美国总统拜登的刺激计划提交众议院以获得最终批准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5224577.d.html</link>
-            <guid>2012470</guid>
-            <pubDate>Fri, 05 Feb 2021 10:37:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国参议院通过预算措施以快速批准拜登刺激计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5223401.d.html</link>
-            <guid>2012469</guid>
-            <pubDate>Fri, 05 Feb 2021 10:35:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  投行Atlantic Equities：将Snap(SNAP.N)目标价从34美元上调至50美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4237251.d.html</link>
-            <guid>2012467</guid>
-            <pubDate>Fri, 05 Feb 2021 10:34:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【光大证券彭文生：深市主板与中小板合并能形成一个更有广度和深度的板块】光大证券首席经济学家彭文生接受采访时表示，深交所主板与中小板合并，是进一步推进资本市场的存量改革，并不意味着全市场注册制会很快实施，这两者是两码事。另外，深市主板与中小板合并能够形成了一个更有广度和深度的板块，此外，也与创业板各有侧重，满足不同阶段企业发展融资需求。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5222278.d.html</link>
-            <guid>2012466</guid>
-            <pubDate>Fri, 05 Feb 2021 10:34:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  国联证券：拟定增募资不超过65亿元，扣除发行费用后将全部用于进一步扩大包括融资融券在内的信用交易业务规模；扩大固定收益类、权益类、股权衍生品等交易业务；增加子公司投入以及其他营运资金安排。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4236031.d.html</link>
-            <guid>2012465</guid>
-            <pubDate>Fri, 05 Feb 2021 10:32:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乐惠国际公告，2020年度公司主营收入基本为啤酒酿造等装备业务贡献，精酿业务尚处于投入阶段，营业收入忽略不计，预计精酿业务2020年净利润约为-170万元；敬请广大投资者谨慎投资，注意投资风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4235604.d.html</link>
-            <guid>2012464</guid>
-            <pubDate>Fri, 05 Feb 2021 10:31:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【武汉科技大学董登新：深交所主板与中小板合并不意味着全市场注册制很快实施】武汉科技大学金融证券研究所所长董登新接受记者采访时表示，深交所启动合并主板与中小板是好事情，顺应了市场发展规律。深交所主板与中小板合并不意味着全市场注册制很快实施，两者没有必然联系，股票发行注册制改革是一项系统工程，要循序渐进地推进。在全市场推行股票发行注册制不能过于理想化，也不能急于求成。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4234011.d.html</link>
-            <guid>2012461</guid>
-            <pubDate>Fri, 05 Feb 2021 10:28:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国卫通：中星9A卫星推进剂耗尽，公司将对其资产价值重新核定】中国卫通公告，依据中星9A卫星数据判断，该卫星推进剂耗尽，公司将根据中星9A卫星最终的实际使用寿命情况，对其资产价值重新核定，后续将按照企业会计准则进行会计处理，对中星9A卫星计提资产减值损失及时予以披露。中星9A卫星上述情况将不会对公司日常经营产生重大不利影响。公司将加快推进中星9A接替星项目中星9B卫星的有关建设工作，充实广播电视直播卫星资源和业务能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5218495.d.html</link>
-            <guid>2012460</guid>
-            <pubDate>Fri, 05 Feb 2021 10:27:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Piper Sandler：重申对Snap增持评级 目标价66美元】Piper Sandler分析师Thomas Champion重申对Snap(SNAP.N)的增持评级，目标价为66美元。华尔街预计该公司第一季度盈利能力也将有所提高，销售额将较上季度加速增长。Champion在一份研究报告中告诉投资者，Snap第一季度的年增长率为56%-60%，并指出3月份苹果隐私政策的对Snap的潜在影响。他认为这次抛售是一次“健康的回调和预期重置”，并表示对Snap的基本观点没有改变。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4232816.d.html</link>
-            <guid>2012459</guid>
-            <pubDate>Fri, 05 Feb 2021 10:26:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新疆火炬：苏州工业园区昆吾民乐九鼎投资中心等多名股东拟合计减持不超过2.58%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5217403.d.html</link>
-            <guid>2012458</guid>
-            <pubDate>Fri, 05 Feb 2021 10:25:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东方证券业绩快报：2020年度净利润27.23亿元 同比增长11.82%】东方证券公告，公司2020年度实现总营收231.3亿元，同比增长21.41%，实现净利润27.23亿元，同比增长11.82%。2020年下半年计提各项资产减值准备共计人民币25.92亿元.公司经纪、自营、资管等主要业务收入均实现了同比增长；同时，公司审慎评估股票质押项目等预期信用风险，计提减值准备增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4231796.d.html</link>
-            <guid>2012457</guid>
-            <pubDate>Fri, 05 Feb 2021 10:24:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利10年期国债收益率跌至0.527%的新低，创下7月份以来的最大单周跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4231066.d.html</link>
-            <guid>2012455</guid>
-            <pubDate>Fri, 05 Feb 2021 10:23:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京沪高铁：与中经社签订《战略合作框架协议》】京沪高铁公告，公司于2021年2月5日与中国经济信息社有限公司签订了《战略合作框架协议》。双方充分发挥并整合各自优势，在智库运营、品牌塑造、创意策划、全球传播、智慧党建、舆情监测、市值管理与投资者关系、网站建设等多个领域开展强强合作，实现资源共享、优势互补，共同促进双方业务的延伸和发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4230840.d.html</link>
-            <guid>2012454</guid>
-            <pubDate>Fri, 05 Feb 2021 10:23:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利10年期国债收益率与德国的息差收窄至97.2个基点，为2016年3月以来的最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4229914.d.html</link>
-            <guid>2012452</guid>
-            <pubDate>Fri, 05 Feb 2021 10:21:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广弘控股：控股股东及一致人拟增持1%-2%公司股份】广弘控股公告，控股股东广弘资产及其一致行动人广弘创投计划以自有资金增持公司股份，累计增持公司股份比例不低于广弘控股已发行总股本1%，不超过2%。此次增持计划的实施期限至2021年8月4日止。其中，2020年12月28日至2021年2月5日，广弘创投累计增持公司股份584万股，占广弘控股总股本的1%，增持使用资金3705万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5214820.d.html</link>
-            <guid>2012451</guid>
-            <pubDate>Fri, 05 Feb 2021 10:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中集集团：中集租赁拟申请发行资产支持专项计划（ABS）】中集集团公告，公司的全资子公司中集融资租赁有限公司拟通过计划管理人设立资产支持专项计划，拟向深圳证券交易所申请注册发行医疗设备租赁资产支持证券以及申请储架发行小微车辆租赁资产支持证券。发行规模不超过人民币3.7亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5214625.d.html</link>
-            <guid>2012450</guid>
-            <pubDate>Fri, 05 Feb 2021 10:20:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[华夏幸福：公司收到控股股东华夏控股关于将其持有的公司部分股份质押的通知，本次质押股数为1.90亿股，占其所持股份比例为13.50%，占公司总股本比例为4.86%，质押融资资金用途为缓解公司流动性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5214438.d.html</link>
-            <guid>2012449</guid>
-            <pubDate>Fri, 05 Feb 2021 10:20:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国10年期国债收益率升至2020年3月以来的最高水平，报0.466%，日内上涨2个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5214296.d.html</link>
-            <guid>2012448</guid>
-            <pubDate>Fri, 05 Feb 2021 10:20:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国副总统哈里斯作为副总统首次投了决定性的一票，在关于预算案的程序性投票中打破了平局。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4229173.d.html</link>
-            <guid>2012447</guid>
-            <pubDate>Fri, 05 Feb 2021 10:19:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【滴滴顺风车：2020年收到车内纠纷投诉1474起，近5成为虚假投诉】今日，滴滴顺风车发布《2020年度安全透明度报告》。报告指出，2020年1月1日至12月31日期间，滴滴顺风车客服共收到用户关于车内纠纷的安全投诉1474起，其中45%为虚假投诉。在查实有效的816起投诉中，车主投诉乘客460起，占比56%；乘客投诉车主356起，占比44%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5213689.d.html</link>
-            <guid>2012446</guid>
-            <pubDate>Fri, 05 Feb 2021 10:18:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【厦门象屿：副董事长陈方增持10万股】厦门象屿公告，2021年2月5日，公司接到公司副董事长陈方的通知，其于2021年2月5日通过上海证券交易所集中竞价交易系统增持公司10万股股份，增持前持股数量0，增持后持股比例0.0046%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5212424.d.html</link>
-            <guid>2012444</guid>
-            <pubDate>Fri, 05 Feb 2021 10:16:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[建设银行公告，董事会同意聘任王江先生担任本行行长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4226218.d.html</link>
-            <guid>2012443</guid>
-            <pubDate>Fri, 05 Feb 2021 10:14:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场监管总局：下一步，要坚持把握新发展阶段、贯彻新发展理念、服务构建新发展格局，立足“大市场、大质量、大监管”，深入研究、积极推动市场监管改革创新，组织编制好“十四五”市场监管现代化规划，为建立健全与高水平社会主义市场经济体制相适应、与高标准市场体系相匹配、与国际通行规则相衔接的制度体系和监管模式，推进市场监管治理体系和治理能力现代化做出积极努力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4226151.d.html</link>
-            <guid>2012442</guid>
-            <pubDate>Fri, 05 Feb 2021 10:14:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【成都银行：将严格按照房地产贷款集中度管理要求 动态调整贷款结构】成都银行在互动平台表示，公司将严格按照房地产贷款集中度管理要求，动态调整贷款结构，确保过渡期内贷款占比符合监管要求，确保信贷业务稳定增长，保持业务平稳运行。此次监管政策的调整不会影响公司经营工作目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5210615.d.html</link>
-            <guid>2012441</guid>
-            <pubDate>Fri, 05 Feb 2021 10:13:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[途牛(TOUR.O)盘前短线拉升，现涨22%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4224938.d.html</link>
-            <guid>2012440</guid>
-            <pubDate>Fri, 05 Feb 2021 10:11:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国银行将法国股票上调至增持。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4224766.d.html</link>
-            <guid>2012439</guid>
-            <pubDate>Fri, 05 Feb 2021 10:11:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[兰州民百：公司接到前实控人家属通知，公司前实控人案件在审理阶段发现一笔2018年占用上市公司资金事项，涉及金额为167.5万元。目前，公司已全额收回被占用资金及利息共计177.35万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4223767.d.html</link>
-            <guid>2012438</guid>
-            <pubDate>Fri, 05 Feb 2021 10:09:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华夏幸福：2月4日控股股东质押公司总股本4.86% 用于缓解公司流动性】华夏幸福公告，公司控股股东华夏控股于2月4日质押1.9亿股公司股份，占其所持股份比例13.5%，占公司总股本4.86%。质押融资资金用于缓解公司流动性。截至本公告披露日，华夏控股及其一致行动人持有公司股份累计质押合计6.29亿股，占其持有公司股份的43.23%，占公司总股本的16.08%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4223210.d.html</link>
-            <guid>2012437</guid>
-            <pubDate>Fri, 05 Feb 2021 10:08:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会副主席兼“外长”博雷利：欧盟方面必须与俄罗斯接触，因为俄罗斯是关键角色。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5208091.d.html</link>
-            <guid>2012436</guid>
-            <pubDate>Fri, 05 Feb 2021 10:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【习近平赴贵州考察，会见“中国天眼”项目负责人和科研骨干，听取贵州省委和省政府工作汇报】5日上午，习近平会见了“中国天眼”项目负责人和科研骨干，听取“中国天眼”建设历程、技术创新、国际合作等情况介绍。习近平指出，“中国天眼”是国家重大科技基础设施，是观天巨目、国之重器，实现了我国在前沿科学领域的一项重大原创突破，以南仁东为代表的一大批科技工作者为此默默工作，无私奉献，令人感动。5日上午，习近平听取了贵州省委和省政府工作汇报。习近平强调，创新发展是构建新发展格局的必然选择。要着眼于形成新发展格局，推动大数据和实体经济深度融合，培育壮大战略性新兴产业，加快发展现代产业体系。要积极释放消费需求，拓展消费新模式，把消费潜力充分释放出来。要发挥好改革的先导和突破作用，更多解决深层次体制机制问题，多做创新性探索，多出制度性成果。要积极参与西部陆海新通道建设，主动融入粤港澳大湾区发展，加快沿着“一带一路”走出去，以开放促改革、促发展。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5207937.d.html</link>
-            <guid>2012435</guid>
-            <pubDate>Fri, 05 Feb 2021 10:08:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会副主席兼“外长”博雷利：将于星期五晚些时候继续与俄罗斯外长拉夫罗夫会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5207633.d.html</link>
-            <guid>2012434</guid>
-            <pubDate>Fri, 05 Feb 2021 10:07:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中海达披露定增报告书：博时资本、大成基金及中国银河证券等参投】中海达披露向特定对象发行股票并在创业板上市发行情况报告书，确定此次发行价格为8.37元/股，发行数量为60,931,891股，募集资金总额为5.1亿元。此次发行对象最终确定为10家。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4222358.d.html</link>
-            <guid>2012433</guid>
-            <pubDate>Fri, 05 Feb 2021 10:07:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰总理：波兰方面不会放松对餐馆的限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4222237.d.html</link>
-            <guid>2012432</guid>
-            <pubDate>Fri, 05 Feb 2021 10:07:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯外长拉夫罗夫：俄罗斯与欧盟的会谈是诚实的，没有掩盖分歧。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4222197.d.html</link>
-            <guid>2012431</guid>
-            <pubDate>Fri, 05 Feb 2021 10:06:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[博敏电子：拟以8000万-1.6亿元回购股份，用于员工持股计划或股权激励，回购的价格不超过15元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5207175.d.html</link>
-            <guid>2012430</guid>
-            <pubDate>Fri, 05 Feb 2021 10:06:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰政府宣布酒店和电影院将于2月中旬重新开放。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4221978.d.html</link>
-            <guid>2012429</guid>
-            <pubDate>Fri, 05 Feb 2021 10:06:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本首相菅义伟表示，没有权利要求东京奥组委主席森喜朗辞职。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4221824.d.html</link>
-            <guid>2012428</guid>
-            <pubDate>Fri, 05 Feb 2021 10:06:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【央行政策研究：对大型互联网平台监管的当务之急是实现穿透性监管】央行2月5日发布政策研究《大型互联网平台消费者金融信息保护问题研究》。文章指出：对大型互联网平台监管的当务之急是综合运用各种监管手段，实现穿透性监管，令其树立起“负责任金融”的理念。建议从我国实际出发，依法将金融业务全面纳入监管，根据同一金融业务，同一监管标准的要求，加强对大型互联网平台的监管，尤其是增强业务信息披露全面性和透明度，切实保护金融消费者长远和根本利益。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5206731.d.html</link>
-            <guid>2012427</guid>
-            <pubDate>Fri, 05 Feb 2021 10:05:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南部战区就美舰擅闯我西沙领海发表谈话：组织海空兵力进行跟踪监视并予以警告驱离。战区部队时刻保持高度戒备状态，坚决捍卫国家主权安全和南海地区和平稳定。（人民日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5205844.d.html</link>
-            <guid>2012426</guid>
-            <pubDate>Fri, 05 Feb 2021 10:04:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯外长拉夫罗夫：俄罗斯和欧盟方面讨论了中东和北非的局势。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5205211.d.html</link>
-            <guid>2012424</guid>
-            <pubDate>Fri, 05 Feb 2021 10:02:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[根据工商登记信息，广期所正式落户南沙，成为我国第一家混合所有制的交易所。根据工商登记信息，广期所注册资本金30亿元人民币。作为我国第一家混合所有制的交易所，上海期货交易所、郑州商品交易所、大连商品交易所、中国金融期货交易所、香港交易所以及中国平安保险（集团）股份有限公司、广东珠江投资控股集团有限公司、广州金融控股集团有限公司等广东企业作为广州期货交易所的股东参与建设发展。（南方日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5205165.d.html</link>
-            <guid>2012423</guid>
-            <pubDate>Fri, 05 Feb 2021 10:02:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯外长拉夫罗夫：俄罗斯、欧盟同意在适当的方面进行合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4218737.d.html</link>
-            <guid>2012422</guid>
-            <pubDate>Fri, 05 Feb 2021 10:00:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯外长拉夫罗夫与欧盟委员会副主席兼“外长”博雷利举行新闻发布会：俄罗斯和欧盟同意在双方合适的领域进行合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5203728.d.html</link>
-            <guid>2012421</guid>
-            <pubDate>Fri, 05 Feb 2021 10:00:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯法院因原油泄漏事件对诺里尔斯克镍业公司处以20亿美元的罚款。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4218329.d.html</link>
-            <guid>2012420</guid>
-            <pubDate>Fri, 05 Feb 2021 09:59:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯外长拉夫罗夫表示，在与欧盟委员会副主席兼“外长”博雷利交谈后，莫斯科和布鲁塞尔在许多问题上存在分歧。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5203402.d.html</link>
-            <guid>2012419</guid>
-            <pubDate>Fri, 05 Feb 2021 09:59:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“年货春运”寄递大数据：四至六线城市寄件量暴涨324%】据京东快递数据，1月18日-1月31日期间，全国异地订单量同比增长超55%，四至六线城市个人寄递业务量同比暴涨超324%。其中，阜阳、盐城、韶关、揭阳、汉中、六安、桂林、渭南、衡阳等地成为寄件量增幅最多的城市。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4218005.d.html</link>
-            <guid>2012418</guid>
-            <pubDate>Fri, 05 Feb 2021 09:58:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西班牙IBEX35指数涨近1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny5201943.d.html</link>
-            <guid>2012417</guid>
-            <pubDate>Fri, 05 Feb 2021 09:56:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江苏阳光：控股子公司停产，对公司未来收入和利润的影响存在不确定性】江苏阳光公告，公司控股子公司璜塘热电将于2021年2月6日开始停产，并在董事会的权限内授权公司经营层具体负责处置璜塘热电停产的后续相关事宜，包括但不限于职工安置、闲置资产处置等。停产后，璜塘热电将按每吨蒸汽22元（不含税）收取补偿收益，按照2020年的蒸汽销量162万吨估算，年收入约为3564万元，年利润约为2100万元。受蒸汽实际销量影响，对公司未来收入和利润的影响存在不确定性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4216362.d.html</link>
-            <guid>2012415</guid>
-            <pubDate>Fri, 05 Feb 2021 09:55:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[东方生物：股东上海祥禾、上海涌创、连云港涌诚拟合计减持不超过9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap4215717.d.html</link>
-            <guid>2012413</guid>
-            <pubDate>Fri, 05 Feb 2021 09:54:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
