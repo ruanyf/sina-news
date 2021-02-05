@@ -4,11 +4,65 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 05 Feb 2021 22:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Feb 2021 23:24:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【世贸组织总干事候选人俞明希宣布退出】世界贸易组织总干事候选人、韩国产业通商资源部通商交涉本部长俞明希2月5日宣布决定退出世贸组织总干事遴选。根据韩国外交部当天发布的消息，为使世贸组织成员就新任总干事人选达成一致，俞明希与美国等成员一直进行磋商。从促进世贸组织职能发挥等角度考虑，俞明希决定退出遴选。韩国政府今后将继续为恢复和加强全球多边贸易体系贡献力量，特别是在世贸组织改革、数字经济、气候变化等全球性问题上努力发挥作用。世贸组织第六任总干事阿泽维多于去年8月31日离任，提前一年结束任期。新任总干事遴选程序于去年6月8日启动，共有8位候选人获得正式提名。去年10月上旬，世贸组织总理事会主席戴维·沃克宣布，成员经过两轮磋商后决定，新任总干事将在尼日利亚候选人恩戈齐·奥孔乔-伊韦阿拉和韩国候选人俞明希两位女性中产生。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4383373.d.html</link>
+            <guid>2013059</guid>
+            <pubDate>Fri, 05 Feb 2021 22:58:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【重仓港股尝甜头，多只权益基金业绩亮眼】据统计，今年以来截至2月4日，共有57只主动权益基金的净值涨幅超过15%，其中不少产品的前十大重仓股中均出现了港股。在多位公募人士看来，港股当前处于估值洼地，且投资标的日趋丰富，未来还将吸引以公募基金为代表的内地资金持续涌入。据券商研报统计，截至去年四季度末，共有321只公募产品重仓了港股，相较于去年三季度末新增86只基金产品。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4382436.d.html</link>
+            <guid>2013057</guid>
+            <pubDate>Fri, 05 Feb 2021 22:38:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据不完全统计，开年以来有47家上市公司公告，将展开远期结售汇等汇率避险业务，这一数据与去年同期相比高出422%，暗示企业风险偏好中性的意识显著增强。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5367996.d.html</link>
+            <guid>2013056</guid>
+            <pubDate>Fri, 05 Feb 2021 22:36:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【业内人士：IPO监管新规对发行节奏影响不大】证监会昨日发布实施《监管规则适用指引——关于申请首发上市企业股东信息披露》。投行人士认为，新规发布后，发行人或与新进股东、投资机构就发行时间重新博弈，中介机构也面临更严格的核查要求。但客观来看，由于指引中的不少规则为已有规则的梳理、重申，不少中介机构已在尽职调查、审核中落实相关要求，新规不会对现有审核秩序和IPO发行节奏带来太大影响。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4382305.d.html</link>
+            <guid>2013055</guid>
+            <pubDate>Fri, 05 Feb 2021 22:35:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多数上市券商2020年业绩预喜】Wind数据显示，截至2月5日，共有31家上市券商发布2020年业绩预告。多数券商2020年实现净利润和营业收入双增长，光大证券、东方财富、兴业证券等2020年净利润增长超过100%。业内人士认为，2021年与全市场注册制配套的相关政策有望陆续落地，券商业务空间进一步拓宽，盈利能力将持续改善。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5367802.d.html</link>
+            <guid>2013054</guid>
+            <pubDate>Fri, 05 Feb 2021 22:31:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2月首周罚单不断，银行贷款违规成重灾区】梳理发现，2月至今，中国银保监会开出约50张罚单（以罚单挂网时间为统计口径）。本周多家银行因为挪用信贷资金被罚。除信贷问题外，还有不少银行（主要是中小银行）因违规处置不良等被罚。分析人士称，金融严监管态势仍在延续。目前监管态度明确，引导金融服务实体经济也必然会促使监管层持续加大对金融违规行为的监控和处罚力度。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5367764.d.html</link>
+            <guid>2013053</guid>
+            <pubDate>Fri, 05 Feb 2021 22:30:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【扎堆“换帅”，信托公司争亮转型牌】2月首周，北京银保监局密集发布多个任职批复，多家北京辖区信托公司官宣“新帅”。有信托行业人士表示，信托公司高管密集变动，背后导火索是信托业面临的转型发展压力：行业分化日益加剧；严监管背景下，传统业务规模不增反降；大量中小型信托公司面临困境，亟需寻求新的发展方向。因此，部分信托公司意欲通过选任新高管，形成新的发展思路，进一步促进信托公司更好地转型发展。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4382092.d.html</link>
+            <guid>2013051</guid>
+            <pubDate>Fri, 05 Feb 2021 22:29:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  离岸人民币（CNH）兑美元北京时间05:59报6.4593元，较周四纽约尾盘涨133点，盘中整体交投于6.4879-6.4576元区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5367710.d.html</link>
+            <guid>2013049</guid>
+            <pubDate>Fri, 05 Feb 2021 22:29:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一线热点城市密集发布租房新政，业内人士：长租公寓在京沪等城市占比超过20%】北京、上海、深圳等多个一线热点城市日前密集发布租房新政，旨在整顿住房租赁市场秩序，规范住房租赁市场行为，解决住房租赁领域存在的突出问题。业内人士指出，长租公寓类的企业在北京、上海等城市的市场份额占比已超过20%，如果计算普通二房东交易模式，当下市场，已经有60%的租赁房源很难见到房主交易。在这种情况下，租赁市场特别是长租公寓市场需要加大监管力度。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5367665.d.html</link>
+            <guid>2013048</guid>
+            <pubDate>Fri, 05 Feb 2021 22:28:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【证监会发布新规严打“突击入股”】证监会2月5日发布《监管规则适用指引——关于申请首发上市企业股东信息披露》。分析人士指出，《指引》的及时出台，将过去散落在不同规则体系之间的股东信息披露要求进行成体系梳理，形成统一标准。在原有规则基础上，对市场普遍认为存在较大利益输送风险的“突击入股”、特殊股东异常价格入股等情形做了有针对性的强化监管要求。据不完全统计，在当前科创板和创业板申报企业中，仍有大量企业存在IPO申报前一年内新增股东情形。目前，审核周期大幅缩短，导致资本短期“造富效应”显著、长期支持力度不足。因此，有必要对“突击入股”等行为采取更严格管理措施。（中证报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5367546.d.html</link>
@@ -428,66 +482,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5354502.d.html</link>
             <guid>2012847</guid>
             <pubDate>Fri, 05 Feb 2021 17:48:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行管委雷恩：欧洲央行需要调整通胀目标，使其真正对称。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4369132.d.html</link>
-            <guid>2012845</guid>
-            <pubDate>Fri, 05 Feb 2021 17:46:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行管委雷恩：经济需要援助，直到反弹开始“稳步上升”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5354407.d.html</link>
-            <guid>2012843</guid>
-            <pubDate>Fri, 05 Feb 2021 17:45:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【去年银行理财产品投资者数量超4000万，兑付客户收益近万亿元】银行业理财登记托管中心发布了《中国银行业理财市场年度报告（2020）》，2020年年底，我国银行理财市场持有理财产品的投资者数量为4162.48万，较2019年底增长86.85%，这意味着每天新增加投资者数量5.36万。理财投资者队伍在迅速壮大的同时，银行理财投资收益显著提升。全年封闭式理财产品的兑付客户平均收益率为4.05%。2020年累计为投资者创造收入9932.5亿元，同比增长7.13%。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5354301.d.html</link>
-            <guid>2012842</guid>
-            <pubDate>Fri, 05 Feb 2021 17:43:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国总统拜登：美国财长耶伦谈到了经济痛苦的疤痕效应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4368502.d.html</link>
-            <guid>2012840</guid>
-            <pubDate>Fri, 05 Feb 2021 17:35:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：德国最终的封锁决定取决于病毒变异的传播状况。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4368447.d.html</link>
-            <guid>2012839</guid>
-            <pubDate>Fri, 05 Feb 2021 17:34:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：德国总理默克尔计划将德国的封锁延长两周。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4368438.d.html</link>
-            <guid>2012838</guid>
-            <pubDate>Fri, 05 Feb 2021 17:34:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国总统拜登：不会削减给美国人的救济支票额度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5353260.d.html</link>
-            <guid>2012836</guid>
-            <pubDate>Fri, 05 Feb 2021 17:28:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国总统拜登：共和党人并不愿意走到我们需要达到的位置。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4367819.d.html</link>
-            <guid>2012835</guid>
-            <pubDate>Fri, 05 Feb 2021 17:27:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纳指涨幅扩大至超0.5%，刷新盘中纪录高位。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5352996.d.html</link>
-            <guid>2012834</guid>
-            <pubDate>Fri, 05 Feb 2021 17:26:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国总统拜登：美国正经历巨大的痛苦。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5352986.d.html</link>
-            <guid>2012833</guid>
-            <pubDate>Fri, 05 Feb 2021 17:25:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
