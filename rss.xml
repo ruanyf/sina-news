@@ -4,11 +4,112 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 05 Feb 2021 20:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Feb 2021 21:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  恐慌指数VIX收跌4.13%，报20.87，创12月8日以来最低收盘水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4379144.d.html</link>
+            <guid>2012987</guid>
+            <pubDate>Fri, 05 Feb 2021 21:18:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股各行业ETF中，网络股指数ETF领涨，涨1.8%，其次是生物科技指数ETF，涨1.7%；半导体板块ETF领跌，其次是科技行业ETF。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4378687.d.html</link>
+            <guid>2012971</guid>
+            <pubDate>Fri, 05 Feb 2021 21:10:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  标普500指数、纳指录得截至11月6日当周以来最大单周涨幅，道指录得截至11月13日当周以来最大单周涨幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5363967.d.html</link>
+            <guid>2012964</guid>
+            <pubDate>Fri, 05 Feb 2021 21:04:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中概股中，流利说涨50%，极光、途牛涨超20%，瑞幸咖啡跌超40%，荔枝跌超20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5363882.d.html</link>
+            <guid>2012962</guid>
+            <pubDate>Fri, 05 Feb 2021 21:03:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  芯片股多数下跌，应用材料、科磊半导体跌超2%，高通、德州仪器、英特尔跌超1%，媒体称芯片短缺从汽车蔓延至手机和游戏机行业。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5363879.d.html</link>
+            <guid>2012961</guid>
+            <pubDate>Fri, 05 Feb 2021 21:03:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  游戏驿站本周累跌80％，AMC院线累跌48%，均为有史以来最大周跌幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4378341.d.html</link>
+            <guid>2012960</guid>
+            <pubDate>Fri, 05 Feb 2021 21:02:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股收盘，纳指、标普500指数再创新高，道指初步收涨约90点，3D打印概念、电子游戏及多媒体板块表现强势。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5363796.d.html</link>
+            <guid>2012959</guid>
+            <pubDate>Fri, 05 Feb 2021 21:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【去年银行理财产品投资者数量超4000万，兑付客户收益近万亿元】 银行业理财登记托管中心发布了《中国银行业理财市场年度报告（2020）》，2020年年底，我国银行理财市场持有理财产品的投资者数量为4162.48万，较2019年底增长86.85%，这意味着每天新增加投资者数量5.36万。理财投资者队伍在迅速壮大的同时，银行理财投资收益显著提升。全年封闭式理财产品的兑付客户平均收益率为4.05%。2020年累计为投资者创造收入9932.5亿元，同比增长7.13%。（证券日报）]]></title>
+            <guid>2012958</guid>
+            <pubDate>Fri, 05 Feb 2021 20:57:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美指下破91，日内跌幅达0.58%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4377875.d.html</link>
+            <guid>2012954</guid>
+            <pubDate>Fri, 05 Feb 2021 20:47:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国财长耶伦：明白小企业需要的不仅仅是拨款，还将提供外展服务和技术援助。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5363163.d.html</link>
+            <guid>2012940</guid>
+            <pubDate>Fri, 05 Feb 2021 20:41:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）数据显示，上周投机者对美元净空头押注有所减少。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4377428.d.html</link>
+            <guid>2012933</guid>
+            <pubDate>Fri, 05 Feb 2021 20:34:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：至2月2日当周，投机者将CBOT美国2年期国债期货净空头持仓减少26009手至210220手，美国5年期国债期货净空头持仓增加16036手至115158手，美国10年期国债期货净多头持仓增加21809手至58687手，超长期国债期货净空头持仓增加2947手至211872手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4377414.d.html</link>
+            <guid>2012932</guid>
+            <pubDate>Fri, 05 Feb 2021 20:34:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至2月2日当周，COMEX铜期货投机性净多头头寸削减1101手至77732手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4377252.d.html</link>
+            <guid>2012927</guid>
+            <pubDate>Fri, 05 Feb 2021 20:30:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至2月2日当周，COMEX白银期货投机性净多头头寸减少3706手至40615手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4377245.d.html</link>
+            <guid>2012926</guid>
+            <pubDate>Fri, 05 Feb 2021 20:30:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至2月2日当周，COMEX黄金期货投机性净多头头寸削减9875手至105841手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5362693.d.html</link>
+            <guid>2012925</guid>
+            <pubDate>Fri, 05 Feb 2021 20:30:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至2月2日当周，WTI原油期货投机性净多头头寸增加6656手至354149手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4377234.d.html</link>
+            <guid>2012924</guid>
+            <pubDate>Fri, 05 Feb 2021 20:30:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  SpaceX：暂停了这周末从LC-39A发射星链的尝试，需要进行额外的检查，我们的团队将继续推进下周末从SLC-40单独发射猎鹰9号搭载星链的任务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4377017.d.html</link>
+            <guid>2012918</guid>
+            <pubDate>Fri, 05 Feb 2021 20:24:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国财长耶伦：早期的数据显示，当经济复苏时，黑人工人将是最后一类被重新雇用的人。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5362166.d.html</link>
@@ -401,65 +502,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5348245.d.html</link>
             <guid>2012817</guid>
             <pubDate>Fri, 05 Feb 2021 16:43:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫经济顾问委员会Boushey：（驳斥了有关拜登救助计划将威胁通货膨胀的批评）无所作为的代价将比做得太多的代价大。]]></title>
-            <guid>2012813</guid>
-            <pubDate>Fri, 05 Feb 2021 16:32:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫经济顾问委员会Boushey：应该优先确保失业救济在必要的时间内一直有效。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4362002.d.html</link>
-            <guid>2012812</guid>
-            <pubDate>Fri, 05 Feb 2021 16:32:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国白宫官员：现在我们只是没有足够的手套，几乎100%依赖海外制造商。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5346572.d.html</link>
-            <guid>2012811</guid>
-            <pubDate>Fri, 05 Feb 2021 16:26:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[百度盘中涨超5%，实现五日连涨，本周累涨逾15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5346470.d.html</link>
-            <guid>2012810</guid>
-            <pubDate>Fri, 05 Feb 2021 16:26:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  沪银主力合约走高，日内涨2.05%，现报5563元/千克。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4360219.d.html</link>
-            <guid>2012808</guid>
-            <pubDate>Fri, 05 Feb 2021 16:22:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货白银日内涨幅达2%，报26.79美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5345538.d.html</link>
-            <guid>2012807</guid>
-            <pubDate>Fri, 05 Feb 2021 16:22:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国加州海军基地丢失10磅C-4炸药】据福克斯新闻当地时间2月5日报道，美国加州圣贝纳迪诺县海军陆战队空中作战中心丢失了约10磅C-4炸药。海军犯罪调查局（NCIS）发言人杰夫·休斯顿（Jeff Houston）当日表示，出于对调查程序的尊重，目前不会对正在进行的调查发表评论或确认其细节。报道指出，炸药在该海军基地两周前进行的军事练习中丢失，有可能是被盗走。目前海军基地提供了有奖悬赏，以确保炸药安全返回。据悉C-4炸药是一种高能炸药，约1磅的C-4炸药就足以炸毁一辆汽车。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5344584.d.html</link>
-            <guid>2012804</guid>
-            <pubDate>Fri, 05 Feb 2021 16:16:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家电投与中国石油签署战略合作协议】据国家电力投资集团有限公司消息，2月5日，国家电投与中国石油在京签署战略合作协议。根据协议，双方将本着优势互补、互惠共赢的原则，在新能源及电能综合替代、能源产品互供、科技创新、高端智库建设、国际合作、资本与金融等重点领域，充分发挥各自在产业、技术、市场、资本等方面的优势，建立战略合作伙伴关系。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4359102.d.html</link>
-            <guid>2012803</guid>
-            <pubDate>Fri, 05 Feb 2021 16:14:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  迅雷盘中涨幅扩大至10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5344325.d.html</link>
-            <guid>2012802</guid>
-            <pubDate>Fri, 05 Feb 2021 16:12:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上交所：公开募集基础设施证券投资基金上市初费为3万元 上市年费为每年6万元】上交所公布公开募集基础设施证券投资基金上市及交易相关收费，基础设施基金的上市初费为3万元，上市年费为每年6万元；基础设施基金的竞价交易经手费按成交金额的0.0045%向买卖双方收取。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5343801.d.html</link>
-            <guid>2012799</guid>
-            <pubDate>Fri, 05 Feb 2021 16:05:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
