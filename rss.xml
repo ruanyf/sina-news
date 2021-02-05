@@ -4,11 +4,210 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 05 Feb 2021 01:47:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Feb 2021 02:28:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  WTI原油期货日内涨幅达1%，现报56.81美元/桶；布伦特原油期货涨0.95%。]]></title>
+            <guid>2011957</guid>
+            <pubDate>Fri, 05 Feb 2021 02:27:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【工信部明确国家鼓励的集成电路设计、装备、材料、封装、测试企业条件】工信部公开征求对《国家鼓励的集成电路设计、装备、材料、封装、测试企业条件》的意见。《意见》提出，国家鼓励的集成电路设计企业需满足的条件包括：汇算清缴年度集成电路设计或EDA工具销售（营业）收入占企业收入总额的比例不低于 60%，其中自主设计销售（营业）收入占企业收入总额的比例不低于 50%，且企业收入总额不低于（含）1500 万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4944901.d.html</link>
+            <guid>2011956</guid>
+            <pubDate>Fri, 05 Feb 2021 02:26:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股部分科技股和新能源汽车股下跌，中芯国际跌超7%，小米集团跌超3%，中心通讯跌2.5%；五菱汽车跌8.6%，恒大汽车跌超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4940245.d.html</link>
+            <guid>2011955</guid>
+            <pubDate>Fri, 05 Feb 2021 02:19:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  北向资金净流入达20亿元。]]></title>
+            <guid>2011954</guid>
+            <pubDate>Fri, 05 Feb 2021 02:19:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【石化“十四五”专项规划近期将出】中国石油和化学工业联合会副会长傅向升透露，，石化行业近期将出台《石化“十四五”科技发展指南》《石化“十四五”绿色发展指南》等多个专项规划。“十四五”时期，国家也将重点培育五大世界级石化产业集群，重点培育70个重点石化基地和专业化工园区。（一财）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4940073.d.html</link>
+            <guid>2011953</guid>
+            <pubDate>Fri, 05 Feb 2021 02:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  机构分析师Elizabeth Low：在欧佩克+承诺将继续减产的背景下，WTI原油期货连续第五天录得上涨，本周迄今累涨近9%，势创去年10月来最大单周涨幅。但技术指标显示油价将回落，目前美、布两油期货的14天相对强弱指数(RSI)均处于超买水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4939710.d.html</link>
+            <guid>2011952</guid>
+            <pubDate>Fri, 05 Feb 2021 02:18:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  南向资金净流入达40亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4938751.d.html</link>
+            <guid>2011950</guid>
+            <pubDate>Fri, 05 Feb 2021 02:16:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股新股健倍苗苗首日涨幅扩大至100％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3951098.d.html</link>
+            <guid>2011949</guid>
+            <pubDate>Fri, 05 Feb 2021 02:14:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印尼第四季度GDP同比下降2.19％，预估为下降2.30％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3951029.d.html</link>
+            <guid>2011948</guid>
+            <pubDate>Fri, 05 Feb 2021 02:14:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印尼第四季度GDP环比-0.42%，预估为-0.22%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4936339.d.html</link>
+            <guid>2011947</guid>
+            <pubDate>Fri, 05 Feb 2021 02:12:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中金岭南：为应对当地政局不稳定 缅甸金属向澳交所提交停牌申请并获批】中金岭南2月5日在互动平台表示，公司澳大利亚全资子公司佩利雅持有缅甸金属有限公司发行在外总股份的16.8%。为应对当地政局不稳定可能带来的影响，2021年2月1日，缅甸金属向澳交所提交了自愿性停牌申请，并获得了澳交所的批准。缅甸金属将根据事态情况尽快申请恢复股票交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4936203.d.html</link>
+            <guid>2011945</guid>
+            <pubDate>Fri, 05 Feb 2021 02:12:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  健倍苗苗涨幅扩大至90%，该股今日在港挂牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3949282.d.html</link>
+            <guid>2011944</guid>
+            <pubDate>Fri, 05 Feb 2021 02:11:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【模塑科技：目前北京奔驰所有车型的保险杠均由公司参股子公司北汽模塑配套供货】模塑科技在互动平台表示，目前北京奔驰所有车型的保险杠均由公司参股子公司北汽模塑配套供货。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3949198.d.html</link>
+            <guid>2011943</guid>
+            <pubDate>Fri, 05 Feb 2021 02:11:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  银行股持续上攻，无锡银行再度涨停，招商银行涨4%刷新历史新高，市值突破1.4万亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3948925.d.html</link>
+            <guid>2011942</guid>
+            <pubDate>Fri, 05 Feb 2021 02:11:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【工信部：引入政府性融资担保工具支持产业基础能力提升】工业和信息化部办公厅关于引入政府性融资担保工具支持产业基础能力提升的通知：为提升产业基础能力，增强企业创新发展活力，工业和信息化部拟联合国家融资担保基金，充分发挥政府性融资担保作用，引导金融资本投向工业基础领域。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4935206.d.html</link>
+            <guid>2011941</guid>
+            <pubDate>Fri, 05 Feb 2021 02:10:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  铁矿石主力合约上破1000元/吨，日内涨3.73%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4934902.d.html</link>
+            <guid>2011940</guid>
+            <pubDate>Fri, 05 Feb 2021 02:10:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[银河娱乐一度上涨7.3%，触及2018年6月以来最高水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3947423.d.html</link>
+            <guid>2011939</guid>
+            <pubDate>Fri, 05 Feb 2021 02:08:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上汽集团：公司的部分在售车型已采用磷酸铁锂电池】上汽集团在互动平台表示， 公司的部分在售车型已采用磷酸铁锂电池。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3947184.d.html</link>
+            <guid>2011938</guid>
+            <pubDate>Fri, 05 Feb 2021 02:08:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国奶业协会启动编制《中国奶业“十四五”战略发展指导意见》】中奶协副会长兼秘书长刘亚清提出，要加强引导提高人民奶类消费水平，积极优化丰富乳品供给结构。《指导意见》拟于第十二届中国奶业大会暨2021中国奶业展览会开幕式对外发布。（中国奶业协会官网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3945755.d.html</link>
+            <guid>2011936</guid>
+            <pubDate>Fri, 05 Feb 2021 02:06:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国药企Moderna洽谈在韩国投资约2亿美元开设工厂。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4932013.d.html</link>
+            <guid>2011935</guid>
+            <pubDate>Fri, 05 Feb 2021 02:05:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  有色金属概念股早盘走强，神火股份、怡球资源、华峰铝业涨停，云铝股份、顺博合金、天山铝业、闽发铝业等涨近5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4929578.d.html</link>
+            <guid>2011932</guid>
+            <pubDate>Fri, 05 Feb 2021 02:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  农林牧渔板块拉升，回盛生物涨逾15%；新赛股份涨停，牧原股份涨近8%，禾丰牧业等大涨。]]></title>
+            <guid>2011931</guid>
+            <pubDate>Fri, 05 Feb 2021 02:01:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  港股中芯国际直线跳水跌近9%，公司早上回应了近期热点问题，称市场行情已经变了，涨价这件事是经过和客户商量过的；汽车芯片影响不是特别大，不会改变供货体系。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4929405.d.html</link>
+            <guid>2011930</guid>
+            <pubDate>Fri, 05 Feb 2021 02:01:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【*ST众泰：公司目前整车基本处于停产状态】*ST众泰在互动平台表示，公司目前整车基本处于停产状态，所以不存在供应链压力情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3941727.d.html</link>
+            <guid>2011928</guid>
+            <pubDate>Fri, 05 Feb 2021 02:00:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  南向资金净流入达30亿元。]]></title>
+            <guid>2011926</guid>
+            <pubDate>Fri, 05 Feb 2021 01:59:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  对于快手暴涨，辉立证券新股部经理陈英杰表示：“在公开市场甲尾无法做到稳中1手，顶头槌分货也是很少；市场情绪高涨，情绪效应很强。我们看到国际配售也非常火爆，最后导致供给不足，很多机构都会去炒作，快手有望迎来爆炸性行情。”]]></title>
+            <guid>2011925</guid>
+            <pubDate>Fri, 05 Feb 2021 01:59:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  大和：上调舜宇光学科技目标价至256港元，评级买入。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4927720.d.html</link>
+            <guid>2011924</guid>
+            <pubDate>Fri, 05 Feb 2021 01:59:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  小米集团跌幅扩大至4.7%，瑞银维持对小米的沽售评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4927564.d.html</link>
+            <guid>2011923</guid>
+            <pubDate>Fri, 05 Feb 2021 01:58:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【发改委召开应急医疗装备发展座谈会 研究呼吸机等装备高质量发展问题】近日，国家发展改革委产业发展司组织行业协会、咨询协会、有关企业召开座谈会，研究呼吸机等应急医疗装备高质量发展问题。参会企业介绍了“十三五”期间应急医疗装备业务发展情况以及下一步重点发展方向，与会各方围绕呼吸机等应急医疗装备整机性能提升、关键零部件自主技术突破、零部件质量标准体系和检验检测平台建设等方面进行了深入交流讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4927394.d.html</link>
+            <guid>2011922</guid>
+            <pubDate>Fri, 05 Feb 2021 01:58:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  医疗器械板块继续走强，健帆生物、赛科希德涨逾15%，阳普医疗、金域医学、康德莱、三鑫医疗等涨逾5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3940737.d.html</link>
+            <guid>2011921</guid>
+            <pubDate>Fri, 05 Feb 2021 01:58:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  港股光伏股持续走弱，阳光能源跌近4%，顺风清洁能源、信义光能、卡姆丹克太阳能等走弱跟跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3938377.d.html</link>
+            <guid>2011919</guid>
+            <pubDate>Fri, 05 Feb 2021 01:54:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登将于当地时间周五上午11:45（北京时间周六凌晨00:45）就刺激法案发表评论。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4923441.d.html</link>
+            <guid>2011918</guid>
+            <pubDate>Fri, 05 Feb 2021 01:51:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【央行本周公开市场已累计净投放960亿元】央行本周（2月1日-5日）合计开展4800亿元逆回购操作；本周有3840亿元逆回购到期，截至周五已净投放960亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4922653.d.html</link>
+            <guid>2011917</guid>
+            <pubDate>Fri, 05 Feb 2021 01:50:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股快手成交额超200亿港元，涨幅收窄至174%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3935292.d.html</link>
+            <guid>2011916</guid>
+            <pubDate>Fri, 05 Feb 2021 01:49:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  富时中国A50指数期货涨幅扩大至1%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4920411.d.html</link>
@@ -39,7 +238,7 @@
             <pubDate>Fri, 05 Feb 2021 01:41:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[银行股拉升，无锡银行张槎7%，邮储银行、长沙银行、招商银行等个股纷纷跟涨。]]></title>
+            <title><![CDATA[银行股拉升，无锡银行涨超7%，邮储银行、长沙银行、招商银行等个股纷纷跟涨。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4915743.d.html</link>
             <guid>2011908</guid>
             <pubDate>Fri, 05 Feb 2021 01:40:02 GMT</pubDate>
@@ -360,197 +559,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3892298.d.html</link>
             <guid>2011840</guid>
             <pubDate>Fri, 05 Feb 2021 00:37:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  澳洲联储：高企的商品价格给澳元带来了上行压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3892235.d.html</link>
-            <guid>2011839</guid>
-            <pubDate>Fri, 05 Feb 2021 00:37:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据媒体报道，顺丰控股考虑收购嘉里物流的少数股权，嘉里物流还可能将一些资产出售给母公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4878104.d.html</link>
-            <guid>2011838</guid>
-            <pubDate>Fri, 05 Feb 2021 00:37:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国盛证券：抱团继续分化 调整仍未结束】周四大盘探底回升，科技板块的及时回暖起到了事半功倍的效果，但是从周线级别来看，本次调整并未结束，虽然本周三大股指均有不同程度的反弹，但是量能却继续萎缩，依靠权重股带动的反弹持续性有待考验。另从KDJ指标来看，周线形成高位死叉，后市有进一步向下发散的趋势，指数仍有二次探底的需求。所以，急跌之后虽有修复，但是确定性的机会或要等到节后。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4877398.d.html</link>
-            <guid>2011835</guid>
-            <pubDate>Fri, 05 Feb 2021 00:35:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【房住不炒、规范长租房……地方两会透露出哪些楼市信号？】据不完全统计，绝大多数省、市、自治区的政府工作报告都提及了房地产市场相关政策，重点聚焦在房住不炒、发展租赁住房市场、推进老旧小区改造三方面。对比往年，多地政府工作报告延续了坚持房住不炒、促进房地产市场平稳健康发展的表述，专家认为，这表明今年各地的楼市调控政策不会出现大的变化。规范发展长租房、增加租赁住房土地，是各地政府工作报告中着笔较多的内容，海南等地还明确提出“出台租购同权办法”。老旧小区改造在“十四五”期间将继续推进，不少省市公布了2021年的具体目标。（中新经纬）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3890817.d.html</link>
-            <guid>2011834</guid>
-            <pubDate>Fri, 05 Feb 2021 00:35:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  澳洲联储：预计2021年12月潜在通胀为1.25%，2022年12月为1.5%，2023年6月为1.75%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4876514.d.html</link>
-            <guid>2011832</guid>
-            <pubDate>Fri, 05 Feb 2021 00:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  澳洲联储：预计2021年12月失业率为6%，2022年12月为5.5%，2023年6月为5.25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4876412.d.html</link>
-            <guid>2011831</guid>
-            <pubDate>Fri, 05 Feb 2021 00:33:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  澳洲联储：预计2021年12月GDP增速为3.5%，2022年12月为3.5%，2023年6月为3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4876338.d.html</link>
-            <guid>2011830</guid>
-            <pubDate>Fri, 05 Feb 2021 00:33:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  澳洲联储：预计2020年GDP萎缩2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3889419.d.html</link>
-            <guid>2011828</guid>
-            <pubDate>Fri, 05 Feb 2021 00:32:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  工信部发布关于侵害用户权益行为的APP通报：UC浏览器、墨迹天气等APP在列。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3889251.d.html</link>
-            <guid>2011827</guid>
-            <pubDate>Fri, 05 Feb 2021 00:32:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  澳洲联储上调2020年GDP预期，下调2022年失业率预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3888557.d.html</link>
-            <guid>2011826</guid>
-            <pubDate>Fri, 05 Feb 2021 00:31:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  澳洲联储：最早也要到2024年才能达到失业率和通货膨胀的目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3888483.d.html</link>
-            <guid>2011825</guid>
-            <pubDate>Fri, 05 Feb 2021 00:31:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国众议院议长佩洛西、美国众议院多数党领袖Hoyer以及众议院委员会主席将于周五会见美国总统拜登。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4874805.d.html</link>
-            <guid>2011824</guid>
-            <pubDate>Fri, 05 Feb 2021 00:30:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  澳洲联储：承诺维持高度支持性的货币政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4874708.d.html</link>
-            <guid>2011823</guid>
-            <pubDate>Fri, 05 Feb 2021 00:30:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上海证交所上日融资余额下跌0.5%至8029.0亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3887967.d.html</link>
-            <guid>2011821</guid>
-            <pubDate>Fri, 05 Feb 2021 00:30:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国科学技术大学团队揭示阿尔茨海默症致病全新机制】从中国科学技术大学获悉，该校刘强团队揭示了ApoE对神经元的胆固醇代谢进行重编程的机制，以及这种代谢调控对神经元功能特别是学习记忆过程的影响，同时也揭示了ApoE4导致阿尔茨海默症的全新机制。研究成果以论文形式日前发表在《神经元》杂志上。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3886826.d.html</link>
-            <guid>2011820</guid>
-            <pubDate>Fri, 05 Feb 2021 00:28:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【银河证券：继续看好工程机械、工业机器人以及轨交板块】银河证券指出，在基建和地产双驱动下，预计工程机械板块未来仍将保持较高景气度。由于下游需求逐步回暖，制造业整体环境改善，工业机器人产量增速呈V型走势，预计工业机器人行业复苏趋势有望持续。我国城轨储备项目充足、新基建城际轨交广阔发展空间、后市场规模增长将驱动轨交板块，预计城市轨道交通的市场空间有望进一步打开。我们继续看好工程机械、工业机器人以及轨交板块。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4872465.d.html</link>
-            <guid>2011819</guid>
-            <pubDate>Fri, 05 Feb 2021 00:26:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元/韩元自6月以来首次升破100日移动均线。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3885395.d.html</link>
-            <guid>2011818</guid>
-            <pubDate>Fri, 05 Feb 2021 00:25:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日产汽车大涨6.4% 成交量量明显放大】日本基准股指上涨，日产汽车公司上涨6.4%，创下自12月9日以来的单日涨幅新高，股价从579.30日元涨至616.20日元，高于2020年1月23日以来的任何收盘价。该股在同类股票中表现最好。东证指数上涨0.9%，MSCI亚太指数上涨0.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4871902.d.html</link>
-            <guid>2011817</guid>
-            <pubDate>Fri, 05 Feb 2021 00:25:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【1月信贷投放力度不减 市场呈供需两旺格局】近日从多位银行人士处了解到，为完成年初的“开门红”任务，各家银行1月贷款投放节奏较快，且新增贷款力度不减。在信贷供需两旺格局下，分析人士预计1月新增人民币贷款在3.3万亿至3.6万亿元之间。“经济持续复苏之下，制造业融资需求改善明显，预计今年一季度信贷需求旺盛。”招商证券首席银行业分析师廖志明表示。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3883476.d.html</link>
-            <guid>2011816</guid>
-            <pubDate>Fri, 05 Feb 2021 00:22:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家卫健委：31个省（自治区、直辖市）和新疆生产建设兵团报告新增无症状感染者28例（境外输入23例）；当日转为确诊病例3例（境外输入1例）；当日解除医学观察58例（境外输入17例）；尚在医学观察无症状感染者755例（境外输入282例）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4869252.d.html</link>
-            <guid>2011815</guid>
-            <pubDate>Fri, 05 Feb 2021 00:20:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【有人跨界布局 有人加码生产 磷酸铁锂产能迎来大扩张】磷酸铁锂再迎高光时刻。据百川资讯监测，其国内价格已从去年11月初的3.4万元/吨猛涨到2月3日的4.3万元/吨。记者发现，在下游需求端的强力拉动下，近期多家上市公司发布公告，拟跨界布局磷酸铁锂或加码磷酸铁锂产能。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3882242.d.html</link>
-            <guid>2011814</guid>
-            <pubDate>Fri, 05 Feb 2021 00:20:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  韩国KOSPI指数日内涨超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4867630.d.html</link>
-            <guid>2011813</guid>
-            <pubDate>Fri, 05 Feb 2021 00:17:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【31省区市新增20例确诊】2月4日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例20例，其中境外输入病例14例（上海9例，广东2例，天津1例，江苏1例，福建1例），本土病例6例（黑龙江5例，上海1例）；无新增死亡病例；新增疑似病例3例，均为境外输入病例（均在上海）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4867076.d.html</link>
-            <guid>2011812</guid>
-            <pubDate>Fri, 05 Feb 2021 00:16:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【报告：全球计算力指数排名美国居首 中美差距将进一步缩小】浪潮信息联合国际机构IDC4日在北京发布的《2020全球计算力指数评估报告》显示，美国以75分位列国家计算力指数排名第一，坐拥全球最多超大规模数据中心是美国算力的基础保障，而中国获得66分位列第二，其AI算力领跑全球。日本、德国、英国分别以55分、52分和47分位列第三至第五名。报告称，尽管中美两国在计算效率和应用水平方面仍有差距，但中国各项指标增速均高于美国，随着云计算、AI、物联网等新兴技术的快速发展和行业渗透，中美两国的差距将进一步缩小。（中新社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4866692.d.html</link>
-            <guid>2011811</guid>
-            <pubDate>Fri, 05 Feb 2021 00:16:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国台湾面板制造商预计第一季度价格继续上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3879189.d.html</link>
-            <guid>2011810</guid>
-            <pubDate>Fri, 05 Feb 2021 00:14:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三星考虑投170亿美元在德州奥斯汀建芯片厂】根据三星电子向美国德克萨斯州官员提交的文件，该公司正考虑在德州首府奥斯汀投资170亿美元建设一个新的芯片工厂，可能创造1800个工作岗位。文件显示，该项目将涉及在三星已经拥有的一块640英亩的土地上建造一个面积达700万平方英尺（约65万平方米）的新工厂。三星目前在奥斯汀有一家生产计算芯片的工厂。]]></title>
-            <guid>2011808</guid>
-            <pubDate>Fri, 05 Feb 2021 00:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  2月4日，吉林省新发现无症状感染者2例（长春市1例，通化市1例），均是通过对应检尽检人员开展主动检测筛查发现。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4863592.d.html</link>
-            <guid>2011807</guid>
-            <pubDate>Fri, 05 Feb 2021 00:10:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日本央行行长黑田东彦预计将于大约当地时间下午1:11（北京时间12:11）出席议会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4861270.d.html</link>
-            <guid>2011805</guid>
-            <pubDate>Fri, 05 Feb 2021 00:05:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中信证券：无风险资产或将在当前环境下受益】中信证券研报指出，在当前全球流动性收紧的预期之下，美元走强叠加美债收益率走升，新兴市场国家资产价格波动的风险或值得我们留意。从历史经验来看，强美元+美债收益率上行可能会带来新兴市场国家风险资产估值压力的增大，信用资产在流动性收紧之下违约风险也会有所提升，从大类资产的角度，无风险资产或将在当前环境下受益。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4860185.d.html</link>
-            <guid>2011803</guid>
-            <pubDate>Fri, 05 Feb 2021 00:03:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【完美日记创始人跻身全球亿万富豪榜】国内美妆品牌完美日记母公司逸仙电商周三股价大涨17.27%至22.2美元，市值达148亿美元，创上市以来新高。另据福布斯数据，逸仙电商联合创始人兼首席执行官黄锦峰已跻身全球亿万富豪榜，净资产约为30亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4860017.d.html</link>
-            <guid>2011802</guid>
-            <pubDate>Fri, 05 Feb 2021 00:03:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中信建投：看好物业管理板块一季度行情及地产开发板块在政策调控影响下的结构性机会】中信建投：看好物业管理板块一季度行情及地产开发板块在政策调控影响下的结构性机会。开发商推荐包括A股：万科A、保利地产；港股：龙湖集团、华润置地、旭辉控股集团、中国海外发展。物业管理公司推荐包括A股：招商积余、新大正；港股：碧桂园服务、融创服务、金科服务、永升生活服务、宝龙商业、华润万象生活。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3873235.d.html</link>
-            <guid>2011801</guid>
-            <pubDate>Fri, 05 Feb 2021 00:03:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【2月4日0—24时河北无新增】2021年2月4日0—24时，河北省无新增新型冠状病毒肺炎确诊病例，无新增死亡病例，无新增疑似病例，新增治愈出院50例。无新增无症状感染者，12例无症状感染者解除隔离医学观察。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4859106.d.html</link>
-            <guid>2011800</guid>
-            <pubDate>Fri, 05 Feb 2021 00:01:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
