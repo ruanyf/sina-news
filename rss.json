@@ -6,6 +6,81 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 2013046,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5367546.d.html",
+            "title": "【证监会发布新规严打“突击入股”】证监会2月5日发布《监管规则适用指引——关于申请首发上市企业股东信息披露》。分析人士指出，《指引》的及时出台，将过去散落在不同规则体系之间的股东信息披露要求进行成体系梳理，形成统一标准。在原有规则基础上，对市场普遍认为存在较大利益输送风险的“突击入股”、特殊股东异常价格入股等情形做了有针对性的强化监管要求。据不完全统计，在当前科创板和创业板申报企业中，仍有大量企业存在IPO申报前一年内新增股东情形。目前，审核周期大幅缩短，导致资本短期“造富效应”显著、长期支持力度不足。因此，有必要对“突击入股”等行为采取更严格管理措施。（中证报）",
+            "date_modified": "2021-02-05T22:24:21.000Z"
+        },
+        {
+            "id": 2013045,
+            "content_html": "",
+            "title": "  美国白宫经济顾问委员会成员Bernstein表示，美国证券交易委员会（SEC）正确保市场通道仍然是稳固的。",
+            "date_modified": "2021-02-05T22:21:54.000Z"
+        },
+        {
+            "id": 2013043,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4380791.d.html",
+            "title": "  美国两年期国债收益率跌至纪录新低的0.1013％。",
+            "date_modified": "2021-02-05T21:59:07.000Z"
+        },
+        {
+            "id": 2013041,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5366209.d.html",
+            "title": "  澳元兑美元AUD/USD日内涨幅扩大至1%，现报0.7676。",
+            "date_modified": "2021-02-05T21:54:22.000Z"
+        },
+        {
+            "id": 2013016,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4380187.d.html",
+            "title": "  清洁燃料公司Westport Fuel Systems(WPRT.O)盘后大涨40%，此前报道称亚马逊(AMZN.O)已经订购了该公司和康明斯的合资企业提供的卡车发动机。",
+            "date_modified": "2021-02-05T21:40:35.000Z"
+        },
+        {
+            "id": 2013011,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4380042.d.html",
+            "title": "  【苹果与现代、起亚就电动汽车的谈判最近暂停】据外媒援引知情人士报道，苹果已与现代和起亚汽车就生产电动汽车进行了谈判，不过谈判最近暂停了。知情人士说，苹果也一直在与其他汽车制造商讨论类似的计划。苹果方面拒绝置评。根据报道，目前尚不清楚苹果和现代是否会重启谈判，以及何时重启谈判。一位知情人士称，还存在其他的问题，其中一个是现代集团内部的纠纷，即现代和起亚这两个品牌中，哪一个可能会为苹果生产汽车。这位知情人士说，如果谈判最终恢复，起亚被认为可能性更大，目前正寻求在其位于佐治亚州的工厂生产一款苹果汽车。",
+            "date_modified": "2021-02-05T21:37:20.000Z"
+        },
+        {
+            "id": 2013002,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4379448.d.html",
+            "title": "  惠誉：由于拜登政府需要时间来调整政策，预计美国不会马上实施新的制裁。",
+            "date_modified": "2021-02-05T21:27:28.000Z"
+        },
+        {
+            "id": 2013001,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4379445.d.html",
+            "title": "  惠誉：纳瓦尔尼被捕并被定罪，这在一定程度上增加了欧盟有针对性制裁的可能性。",
+            "date_modified": "2021-02-05T21:27:22.000Z"
+        },
+        {
+            "id": 2012998,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4379394.d.html",
+            "title": "  惠誉：确认俄罗斯主权评级为BBB，前景展望稳定。",
+            "date_modified": "2021-02-05T21:25:30.000Z"
+        },
+        {
+            "id": 2012990,
+            "content_html": "",
+            "title": "  标普500指数11大板块中，10大板块收涨，1大板块收跌；材料板块领涨，其次是电信业务板块；信息技术板块是唯一下跌板块。",
+            "date_modified": "2021-02-05T21:21:55.000Z"
+        },
+        {
+            "id": 2012988,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5364753.d.html",
+            "title": "【美国转变态度：支持尼日利亚候选人出任世贸组织总干事】美国贸易代表署（USTR）公告称，美国支持尼日利亚前财长Okonjo-Iweala担任世贸组织（WTO）总干事。这意味着，世贸组织将迎来首位女性总干事。2020年10月份，美国政府宣称，不会支持尼日利亚候选人出任WTO下一任总干事。",
+            "date_modified": "2021-02-05T21:20:34.000Z"
+        },
+        {
             "id": 2012987,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4379144.d.html",
@@ -490,97 +565,6 @@
             "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5352986.d.html",
             "title": "  美国总统拜登：美国正经历巨大的痛苦。",
             "date_modified": "2021-02-05T17:25:58.000Z"
-        },
-        {
-            "id": 2012832,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5352979.d.html",
-            "title": "  美国总统拜登：“很明显”，美国经济仍处于困境。",
-            "date_modified": "2021-02-05T17:25:50.000Z"
-        },
-        {
-            "id": 2012831,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4366640.d.html",
-            "title": "  美国2年期国债收益率触及日低0.105%，为去年5月8日以来新低。",
-            "date_modified": "2021-02-05T17:16:25.000Z"
-        },
-        {
-            "id": 2012829,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4366362.d.html",
-            "title": "  现货白银触及27美元/盎司关口，现涨2.5%。",
-            "date_modified": "2021-02-05T17:13:52.000Z"
-        },
-        {
-            "id": 2012828,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5351686.d.html",
-            "title": "  美股3D打印股涨幅居前，Voxeljet(VJET.O)涨17.77%，ExOne(XONE.O)涨超12%，3D系统(DDD.N)、Stratasys(SSYS.O)涨近9%，Materialise(MTLS.O)涨4.37%，Nano Dimension(NNDM.O)涨近3%。",
-            "date_modified": "2021-02-05T17:13:42.000Z"
-        },
-        {
-            "id": 2012827,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4366306.d.html",
-            "title": "【GME美股盘初一度飙升约80%，券商Robinhood取消所有交易限制】在券商Robinhood Markets Inc.取消交易限制后，一直是近期散户与空头交锋中心的游戏驿站和AMC院线股价再度反弹。周五（2月5日），这两家公司股票双双上涨，GME一度飙升78%。根据Robinhood Markets Inc.支持页面的最新信息，针对GameStop和AMC的交易限制已经解除。生物科技股Cassava Sciences Inc.取代GME，成为今年表现最好的小型股，涨幅接近680%。GME早盘走势动荡，开盘后前20分钟成交量暴增，超过1400万股易手，开盘之初买卖速度明显高于过去两周的水平。",
-            "date_modified": "2021-02-05T17:13:25.000Z"
-        },
-        {
-            "id": 2012825,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4364939.d.html",
-            "title": "  国际铜夜盘收涨0.79%，沪铜收涨0.76%，沪铝收涨1.65%，沪锌收涨0.43%，沪铅收跌0.46%，沪镍收涨1.48%，沪锡收涨1.24%。",
-            "date_modified": "2021-02-05T17:02:11.000Z"
-        },
-        {
-            "id": 2012823,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5349417.d.html",
-            "title": "  现货黄金走高，日内涨1%，较日低反弹近20美元，现报1811.56美元/盎司。",
-            "date_modified": "2021-02-05T16:56:33.000Z"
-        },
-        {
-            "id": 2012822,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5349065.d.html",
-            "title": "  美元指数日内跌0.5%，现报91.07。",
-            "date_modified": "2021-02-05T16:53:09.000Z"
-        },
-        {
-            "id": 2012821,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5348930.d.html",
-            "title": "【大赚33倍，杉杉股份清仓宁波银行】2月5日晚间，杉杉股份公告称，1月6日至今，公司通过深交所集中竞价交易方式出售了所持有的宁波银行870.88万股，成交金额约3.4亿元。本次出售后，杉杉股份不再持有宁波银行股份。结合杉杉股份历年财报及减持公告，公司对宁波银行的入股成本不到1.82亿元，却通过减持合计取得交易收入超过56亿元，折合税前投资收益约54亿元，同时取得历年现金分红收益（税前）超过6.5亿元，投资收益率超过33倍。（券商中国）",
-            "date_modified": "2021-02-05T16:51:17.000Z"
-        },
-        {
-            "id": 2012820,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5348587.d.html",
-            "title": "  2月5日晚间，资产规模超过1.2万亿的博时基金发布公告，原鹏华基金副总经理高阳新任博时基金总经理。",
-            "date_modified": "2021-02-05T16:47:46.000Z"
-        },
-        {
-            "id": 2012819,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4363137.d.html",
-            "title": "  COMEX期银突破27美元/盎司，日内涨3%。",
-            "date_modified": "2021-02-05T16:45:50.000Z"
-        },
-        {
-            "id": 2012818,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4363053.d.html",
-            "title": "  【欧洲主要股指涨跌不一 德国DAX30指数跌0.02%】欧洲主要股指涨跌不一，德国DAX30指数收跌0.02%，英国富时100指数收跌0.19%，法国CAC40指数收涨0.90%，欧洲斯托克50指数收涨0.34%。",
-            "date_modified": "2021-02-05T16:44:28.000Z"
-        },
-        {
-            "id": 2012817,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5348245.d.html",
-            "title": "  美元兑瑞郎USD/CHF日内下挫0.5%，现报0.8997。",
-            "date_modified": "2021-02-05T16:43:11.000Z"
         }
     ]
 }
