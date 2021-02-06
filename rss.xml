@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 06 Feb 2021 14:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2021 15:22:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【国家防办、应急管理部调度部署南方地区抗旱保供水工作】国家防办、应急管理部召开会商调度会，与水利部、中国气象局会商研判，视频连线相关省（自治区）防指，部署抗旱保供水工作。会议强调，切实抓好当前抗旱保供水工作。要密切关注旱情发展变化，加强会商研判，及时发布干旱预警信息，抓住有利时机实施人工增雨；要组织协调水利部门加强抗旱水源统筹管理，切实做好江河湖库和各类抗旱工程联合调度、湖库联调等综合性措施，科学调度水源；要制定完善人饮解困方案，落实应急调水、打井取水等各种措施，及时组织国家综合性消防救援队伍拉水、送水，千方百计确保旱区群众基本生活用水；要加强旱情旱灾统计分析和报送工作，实时掌握当前旱情发展情况，及时采取抗旱措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4507828.d.html</link>
+            <guid>2014332</guid>
+            <pubDate>Sat, 06 Feb 2021 14:55:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【市调机构公布今年1月国内手机市场份额：OPPO排名第一】市场调研机构BCI公布了今年1月份国内手机市场份额。数据显示，OPPO手机市场份额占比超20%，连续五周排名第一。Vivo占比19.9%，紧随其后，排名第二。华为、小米、苹果分列三到五位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5491684.d.html</link>
+            <guid>2014315</guid>
+            <pubDate>Sat, 06 Feb 2021 14:35:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【与德拉基会晤后，意大利联盟党主席暗示不反对与五星运动党联合执政】意大利联盟党主席萨尔维尼表示，右翼政党将于下周决定是否支持由欧洲央行前行长德拉基领导的政府，但在周六与德拉基的讨论中已就部分问题达成共识。自德拉基获得授权以来，这位激进的右翼领导人反复改变策略，先是呼吁提前选举，然后又称不会与议会最大政党——五星运动党一起执政。目前萨尔维尼的最新表态是没有为（加入）德拉基政府设定任何条件。德拉基目前正在与五星运动党会面，这是他与各政党第一轮正式谈判中的最后一次会议，下周德拉基还将举行第二轮谈判。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4501158.d.html</link>
@@ -329,24 +341,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5430451.d.html</link>
             <guid>2013678</guid>
             <pubDate>Sat, 06 Feb 2021 05:25:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【500ETF融券激增多次被暂停，机构一边“抱团”一边做空？真相在此】近期市场震荡加剧，500ETF融券激增，华夏中证500ETF更是反复提示融券交易风险，引起广泛关注。甚至有猜测认为，500ETF触及暂停交易阀值，是因为机构一边“抱团”一边做空。对此，业内人士明确表示，上述猜测并不准确。首先，500ETF融券投资者主要为个人投资者和量化私募。其次，融券不完全是做空行为，也是多空平衡的表现形式。据悉，500ETF融券卖出需求旺盛的一个主要原因，是中证500股指期货长期贴水，通过股指期货做空成本高于融券卖出成本。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4442574.d.html</link>
-            <guid>2013676</guid>
-            <pubDate>Sat, 06 Feb 2021 05:15:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[狗狗币一度走高，日内涨近10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4440361.d.html</link>
-            <guid>2013675</guid>
-            <pubDate>Sat, 06 Feb 2021 05:01:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉CEO埃隆·马斯克在推特发起一项调查，未来地球上的货币是狗狗币还是所有其他加密货币？]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5425412.d.html</link>
-            <guid>2013672</guid>
-            <pubDate>Sat, 06 Feb 2021 04:57:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
