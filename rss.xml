@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 06 Feb 2021 21:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2021 22:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【阿联酋“希望号”火星探测器即将进入火星轨道】当地时间2月6日，阿联酋“希望号”火星任务团队召开新闻发布会宣布，“希望号”即将接近火星，开启入轨任务。一切顺利的话，预计“希望号”将在迪拜时间2月9日19:42左右（北京时间23:42）进入环火星轨道。阿联酋“希望号”火星任务团队科学家奥曼·艾哈迈德·哈马迪（Orman Ahmed Al Hammadi）表示，“希望号”随后将进行一些変轨操作，这大概要8周的时间，之后“希望号”将在一个直径20000公里到43000公里的椭圆形科研轨道上环绕火星飞行，同时对火星的大气进行分析，阿联酋科学家表示，“希望号”团队将通过网站及时公开发布所有获得的数据。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftpnny5517041.d.html</link>
+            <guid>2014649</guid>
+            <pubDate>Sat, 06 Feb 2021 21:29:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【南非购买新车将不再出现车价和维修价格捆绑现象】 据南非媒体当地时间2月6日报道，南非竞争委员会规定，7月1日后，该国新车销售将不再出现车价和维修价格捆绑现象。南非竞争委员会规定7月1日起该国销售的全新机动车价格将与该机动车的服务/维护价格分开。原始设备制造商（OEM）和独立的第三方供应商（4S店 ）必须将服务/维护转让给被保险公司认可的其它企业。该规定虽然不具备法规效力，但是这些指导方针将为汽车销售行业设定新的标准。南非一些保险公司表示，这将让消费者对汽车价格和增值服务价格有进一步的了解，同时让这些产品报价具有比原来更大的竞争力。在此之前，在南非购买新车，通常会把保养等服务价格和新车价格捆绑在一起进行销售。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftssap4525304.d.html</link>
@@ -299,24 +305,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4457754.d.html</link>
             <guid>2013701</guid>
             <pubDate>Sat, 06 Feb 2021 06:54:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  德勤回应内部举报事件：目前合作人正在就此事件进行内部核查，暂不接受采访，一切以公司此前发布的公告为准。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4456969.d.html</link>
-            <guid>2013700</guid>
-            <pubDate>Sat, 06 Feb 2021 06:46:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国科学院院士王朝阳：全固态电池实现量产应该是在2030 年之后】美国国家发明家科学院院士王朝阳认为全固态电池实现量产应该是在 2030 年之后，当然假如有巨大的科学突破，有可能会在 10 年之内发生。按照目前的进展，应该是还需要十年时间，科学上和制造工艺上成熟才能量产。目前液态锂离子电池的能量密度到了 300Wh/kg，这已经达到了一个极限，下一步或下一代电池要发展固态电池，逐渐要过渡到全固态锂电池。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4456503.d.html</link>
-            <guid>2013699</guid>
-            <pubDate>Sat, 06 Feb 2021 06:43:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  塔吉克斯坦央行将再融资利率从10.75%上调至11.0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5441390.d.html</link>
-            <guid>2013692</guid>
-            <pubDate>Sat, 06 Feb 2021 06:39:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
