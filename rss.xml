@@ -4,7 +4,7 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 06 Feb 2021 16:37:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2021 17:28:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -335,12 +335,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4445509.d.html</link>
             <guid>2013681</guid>
             <pubDate>Sat, 06 Feb 2021 05:31:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据央视新闻：当地时间2月6日，缅甸仰光发生大规模示威游行，缅甸军方出动大批军警控制局面。截至记者发稿时，民众与警方正在对峙，现场气氛紧张。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5430501.d.html</link>
-            <guid>2013679</guid>
-            <pubDate>Sat, 06 Feb 2021 05:26:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
