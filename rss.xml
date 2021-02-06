@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 06 Feb 2021 13:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2021 14:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【与德拉基会晤后，意大利联盟党主席暗示不反对与五星运动党联合执政】意大利联盟党主席萨尔维尼表示，右翼政党将于下周决定是否支持由欧洲央行前行长德拉基领导的政府，但在周六与德拉基的讨论中已就部分问题达成共识。自德拉基获得授权以来，这位激进的右翼领导人反复改变策略，先是呼吁提前选举，然后又称不会与议会最大政党——五星运动党一起执政。目前萨尔维尼的最新表态是没有为（加入）德拉基政府设定任何条件。德拉基目前正在与五星运动党会面，这是他与各政党第一轮正式谈判中的最后一次会议，下周德拉基还将举行第二轮谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4501158.d.html</link>
+            <guid>2014258</guid>
+            <pubDate>Sat, 06 Feb 2021 13:42:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【国家统计局回应修订2019年GDP数据：是正常制度化安排 并非为做大2020年增速】 国家统计局日前公布了经最终核实的2019年GDP数据，GDP总量比初步核算数有所减少。国家统计局副局长盛来运表示，调整修订是一种正常的制度化安排，不像有些网友调侃的那样，是为了做大2020年GDP增速。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5484831.d.html</link>
@@ -341,18 +347,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5425412.d.html</link>
             <guid>2013672</guid>
             <pubDate>Sat, 06 Feb 2021 04:57:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【杨洁篪应约同美国国务卿布林肯通电话】杨洁篪表示，中美关系发展给两国人民带来巨大利益，也促进了世界和平和繁荣。当前中美关系正处在关键时刻。中国政府对美政策始终保持高度稳定性和连续性。中方敦促美方纠正一段时期以来的错误，同中方一道，秉持不冲突不对抗、相互尊重、合作共赢的精神，聚焦合作，管控分歧，推动中美关系健康稳定向前发展。布林肯表示，美中关系对两国和世界都非常重要。美方愿同中方发展稳定、建设性的双边关系。布林肯重申，美方将继续奉行一个中国政策，遵守中美三个联合公报，这一政策立场没有变化。（外交部网站）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4437656.d.html</link>
-            <guid>2013669</guid>
-            <pubDate>Sat, 06 Feb 2021 04:39:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【爱优腾联合开启首个网络电影春节档】今日上午，由国家广播电视总局网络视听节目管理司指导，中国电影家协会网络电影工作委员会联合爱奇艺、腾讯视频、优酷联合正式提出网络电影春节档的概念，并倡议以网络电影为互联网电影的统一称谓。现场，中国电影家协会网络电影工作委员会协同云合数据、爱奇艺、腾讯、优酷三大平台共同发布了《2020年中国网络电影行业年度报告》。2021网络春节档电影片包括了《少林寺之得宝传奇》《发财日记》这类以单片付费模式网络发行的新片、《吉祥如意》《紧急救援》《拆弹专家2》等院线热门大片，以及精品网络电影和院线电影纪录片等众多优质内容上新。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5423098.d.html</link>
-            <guid>2013668</guid>
-            <pubDate>Sat, 06 Feb 2021 04:38:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
