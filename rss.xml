@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 06 Feb 2021 18:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2021 19:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【南非购买新车将不再出现车价和维修价格捆绑现象】 据南非媒体当地时间2月6日报道，南非竞争委员会规定，7月1日后，该国新车销售将不再出现车价和维修价格捆绑现象。南非竞争委员会规定7月1日起该国销售的全新机动车价格将与该机动车的服务/维护价格分开。原始设备制造商（OEM）和独立的第三方供应商（4S店 ）必须将服务/维护转让给被保险公司认可的其它企业。该规定虽然不具备法规效力，但是这些指导方针将为汽车销售行业设定新的标准。南非一些保险公司表示，这将让消费者对汽车价格和增值服务价格有进一步的了解，同时让这些产品报价具有比原来更大的竞争力。在此之前，在南非购买新车，通常会把保养等服务价格和新车价格捆绑在一起进行销售。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftssap4525304.d.html</link>
+            <guid>2014625</guid>
+            <pubDate>Sat, 06 Feb 2021 18:49:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  中国地震台网正式测定：02月07日01时36分在台湾宜兰县海域（北纬24.65度，东经122.50度）发生5.2级地震，震源深度70千米。]]></title>
             <guid>2014532</guid>
@@ -328,12 +334,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5432920.d.html</link>
             <guid>2013685</guid>
             <pubDate>Sat, 06 Feb 2021 05:42:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【全球制造业保持稳定态势】中国物流与采购联合会今天（6日）发布了1月份全球制造业采购经理指数。指数较上月略有回落，全球制造业增速较上月有所放缓，但仍保持恢复态势，整体运行较为稳定。1月份，全球制造业采购经理指数为54.4%，较上月回落0.8个百分点，但连续7个月保持在50%以上。分区域看，亚洲、欧洲、美洲制造业采购经理指数较上月均有不同程度下降，非洲制造业采购经理指数则较上月小幅上升。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4447085.d.html</link>
-            <guid>2013684</guid>
-            <pubDate>Sat, 06 Feb 2021 05:41:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
