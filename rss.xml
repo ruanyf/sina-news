@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 06 Feb 2021 15:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2021 16:37:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【青海海西州茫崖市发生4.2级地震】据中国地震台网正式测定，2月6日22时54分在青海海西州茫崖市发生4.2级地震，震源深度10千米，震中位于北纬38.59度，东经93.80度。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5497544.d.html</link>
+            <guid>2014356</guid>
+            <pubDate>Sat, 06 Feb 2021 15:46:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【国家防办、应急管理部调度部署南方地区抗旱保供水工作】国家防办、应急管理部召开会商调度会，与水利部、中国气象局会商研判，视频连线相关省（自治区）防指，部署抗旱保供水工作。会议强调，切实抓好当前抗旱保供水工作。要密切关注旱情发展变化，加强会商研判，及时发布干旱预警信息，抓住有利时机实施人工增雨；要组织协调水利部门加强抗旱水源统筹管理，切实做好江河湖库和各类抗旱工程联合调度、湖库联调等综合性措施，科学调度水源；要制定完善人饮解困方案，落实应急调水、打井取水等各种措施，及时组织国家综合性消防救援队伍拉水、送水，千方百计确保旱区群众基本生活用水；要加强旱情旱灾统计分析和报送工作，实时掌握当前旱情发展情况，及时采取抗旱措施。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4507828.d.html</link>
@@ -335,12 +341,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5430501.d.html</link>
             <guid>2013679</guid>
             <pubDate>Sat, 06 Feb 2021 05:26:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据新华财经：记者从国家管网西部管道公司了解到，今年1月，中亚天然气管道单日输送天然气量峰值达1.53亿立方米，累计向国内输送天然气38.7亿立方米，相当于北京40天的用气量。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5430451.d.html</link>
-            <guid>2013678</guid>
-            <pubDate>Sat, 06 Feb 2021 05:25:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
