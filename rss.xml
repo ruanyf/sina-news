@@ -4,11 +4,16 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 06 Feb 2021 17:28:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2021 18:25:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：02月07日01时36分在台湾宜兰县海域（北纬24.65度，东经122.50度）发生5.2级地震，震源深度70千米。]]></title>
+            <guid>2014532</guid>
+            <pubDate>Sat, 06 Feb 2021 17:53:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【青海海西州茫崖市发生4.2级地震】据中国地震台网正式测定，2月6日22时54分在青海海西州茫崖市发生4.2级地震，震源深度10千米，震中位于北纬38.59度，东经93.80度。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5497544.d.html</link>
@@ -329,12 +334,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4447085.d.html</link>
             <guid>2013684</guid>
             <pubDate>Sat, 06 Feb 2021 05:41:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【克宫回应拜登首次外交政策讲话涉俄内容：“不接受”！】据俄新社5日消息，谈及拜登上任后发表的首次外交政策演讲中涉及俄罗斯的表态，克里姆林宫严词拒绝。俄新社援引俄总统新闻秘书佩斯科夫话说：“某些‘最后通牒’的评论对我们来说通常是不可接受的，我们已经说过我们将不会听取此类声明，（以及）某些指导性声明，我们不会这么做。”当地时间4日早些时候，美国总统拜登在国务院发表了上任后的首次外交政策演讲。俄新社称，拜登表示，美国将迫使俄罗斯为自己的行为“付出代价”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4445509.d.html</link>
-            <guid>2013681</guid>
-            <pubDate>Sat, 06 Feb 2021 05:31:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
