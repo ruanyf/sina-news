@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 07 Feb 2021 20:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2021 21:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【北京共享单车技术规范征求意见，企业平台不得超范围采集承租人信息】为规范“共享单车”行业发展，北京市交通委起草并公示了《互联网租赁自行车系统技术与服务规范》（征求意见稿）。北京市交通委表示，它是国内首个政府牵头起草的关于互联网租赁自行车技术规范，现正在北京市市场监督管理局和北京市交通委员会网站面向社会公开征求意见。有关意见可于3月1日前反馈。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-08/detail-ikftssap4703496.d.html</link>
+            <guid>2016055</guid>
+            <pubDate>Sun, 07 Feb 2021 20:45:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【外汇储备连续两月站稳3.2万亿美元大关】我国官方外汇储备规模连续两个月站稳3.2万亿美元大关。2月7日，国家外汇管理局发布的最新数据显示，截至2021年1月末，我国外汇储备规模为32107亿美元，较2020年12月末下降59亿美元，降幅为0.2%。（证券时报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-08/detail-ikftssap4700130.d.html</link>
@@ -444,12 +450,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftssap4650010.d.html</link>
             <guid>2015648</guid>
             <pubDate>Sun, 07 Feb 2021 10:15:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  反垄断执法机构对平台经济领域开展反垄断监管应当坚持以下原则：（一）保护市场公平竞争。（二）依法科学高效监管。（三）激发创新创造活力。（四）维护各方合法利益。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftssap4649216.d.html</link>
-            <guid>2015647</guid>
-            <pubDate>Sun, 07 Feb 2021 10:09:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
