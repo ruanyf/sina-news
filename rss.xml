@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 07 Feb 2021 16:37:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2021 17:29:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【希望教育：拟以5亿元收购南昌大学共青学院】希望教育公布，公司全资附属公司成都五月阳光教育管理有限公司，拟以代价人民币5亿元向肖学韬、陈寅及赖新见收购南昌大学共青学院100%举办者权益及江西昌振实业有限公司(“目标公司”)100%股权。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-08/detail-ikftpnny5677694.d.html</link>
+            <guid>2016041</guid>
+            <pubDate>Sun, 07 Feb 2021 17:02:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【前海联合基金：继续关注高景气成长板块投资机会】今日，前海联合基金发表市场观点指出，本周市场呈震荡盘整态势，在经济稳步增长、企业盈利继续好转态势下，对市场无需过度悲观，可关注高景气成长、顺周期和低估值行业机会。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftssap4682741.d.html</link>
@@ -456,12 +462,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftssap4648119.d.html</link>
             <guid>2015638</guid>
             <pubDate>Sun, 07 Feb 2021 10:01:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【联创光电：董事长及总裁拟2000万元至3000万元增持】联创光电公告，公司董事长曾智斌，董事、总裁李中煜计划通过集中竞价方式，累计增持公司股票2000万元至3000万元，增持价格不高于25元/股，增持计划实施期限为6个月内。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftpnny5633744.d.html</link>
-            <guid>2015637</guid>
-            <pubDate>Sun, 07 Feb 2021 10:01:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
