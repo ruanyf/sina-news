@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 07 Feb 2021 19:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2021 20:23:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【外汇储备连续两月站稳3.2万亿美元大关】我国官方外汇储备规模连续两个月站稳3.2万亿美元大关。2月7日，国家外汇管理局发布的最新数据显示，截至2021年1月末，我国外汇储备规模为32107亿美元，较2020年12月末下降59亿美元，降幅为0.2%。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-08/detail-ikftssap4700130.d.html</link>
+            <guid>2016045</guid>
+            <pubDate>Sun, 07 Feb 2021 19:23:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【今年以来银行业被罚逾1.63亿元 大额罚单剑指银行理财违规】2021年金融业严监管态势不减。根据银保监会官网公布的信息统计，今年以来（以罚单披露时间统计），银保监会及其派出机构对各类型银行业机构（不含个人）已累计开出罚单170余张，罚金金额逾1.63亿元。值得注意的是，信贷业务违规依然是银行受罚“高发区”，其中，因个人经营性贷款、个人消费贷款等多用途资金违规流入房地产市场仍是监管处罚重点。除此之外，对银行理财业务的监管也毫不手软，其中不乏千万元级罚单。（证券日报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-08/detail-ikftssap4697342.d.html</link>
@@ -444,18 +450,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftssap4649216.d.html</link>
             <guid>2015647</guid>
             <pubDate>Sun, 07 Feb 2021 10:09:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  国务院反垄断委员会：反垄断执法机构鼓励参与横向垄断协议的平台经济领域经营者主动报告横向垄断协议有关情况并提供重要证据，同时停止涉嫌违法行为并配合调查。对符合宽大适用条件的经营者，反垄断执法机构可以减轻或者免除处罚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftssap4649175.d.html</link>
-            <guid>2015646</guid>
-            <pubDate>Sun, 07 Feb 2021 10:09:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国务院反垄断委员会发布关于平台经济领域的反垄断指南】指南明确，对于具有或者可能具有排除、限制竞争效果的经营者集中，国务院反垄断执法机构应当根据《反垄断法》第二十八条规定作出决定。对不予禁止的经营者集中，国务院反垄断执法机构可以决定附加以下类型的限制性条件，包括: 剥离有形资产，剥离知识产权、技术、数据等无形资产或者剥离相关权益等结构性条件等。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftpnny5634450.d.html</link>
-            <guid>2015645</guid>
-            <pubDate>Sun, 07 Feb 2021 10:06:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
