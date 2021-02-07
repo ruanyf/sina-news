@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 07 Feb 2021 17:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2021 18:25:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【今年以来银行业被罚逾1.63亿元 大额罚单剑指银行理财违规】2021年金融业严监管态势不减。根据银保监会官网公布的信息统计，今年以来（以罚单披露时间统计），银保监会及其派出机构对各类型银行业机构（不含个人）已累计开出罚单170余张，罚金金额逾1.63亿元。值得注意的是，信贷业务违规依然是银行受罚“高发区”，其中，因个人经营性贷款、个人消费贷款等多用途资金违规流入房地产市场仍是监管处罚重点。除此之外，对银行理财业务的监管也毫不手软，其中不乏千万元级罚单。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-08/detail-ikftssap4697342.d.html</link>
+            <guid>2016043</guid>
+            <pubDate>Sun, 07 Feb 2021 18:19:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海尔智家：拟增选公司董事及对目前的高管团队进行改组】海尔智家公布，该公司第十届董事会第十五次会议审议通过了公司增选董事及改组高级管理人员的议案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-08/detail-ikftssap4695745.d.html</link>
+            <guid>2016042</guid>
+            <pubDate>Sun, 07 Feb 2021 17:48:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【希望教育：拟以5亿元收购南昌大学共青学院】希望教育公布，公司全资附属公司成都五月阳光教育管理有限公司，拟以代价人民币5亿元向肖学韬、陈寅及赖新见收购南昌大学共青学院100%举办者权益及江西昌振实业有限公司(“目标公司”)100%股权。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-08/detail-ikftpnny5677694.d.html</link>
@@ -450,18 +462,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftpnny5633817.d.html</link>
             <guid>2015640</guid>
             <pubDate>Sun, 07 Feb 2021 10:01:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【市场监管总局：严厉查处囤积居奇、哄抬价格、价格串通等违法行为 稳定价格秩序】近日，市场监管总局办公厅印发《关于做好近期价监竞争重点工作的通知》。通知强调，要着重加强生活必需品等价格监测监管，满足人民群众过年基本生活需要。加强米面油、肉蛋奶、蔬菜、水果等生活必需品价格监测监管，对供应偏紧、价格上涨较快的，严厉查处囤积居奇、哄抬价格、价格串通等违法行为，确保市场供应，稳定价格秩序。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftpnny5633801.d.html</link>
-            <guid>2015639</guid>
-            <pubDate>Sun, 07 Feb 2021 10:01:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【科安达：拟1400万元至2100万元回购】科安达公告，公司拟使用自有资金以集中竞价交易方式回购公司部分A股社会公众股，用于后期实施员工持股计划或股权激励计划。回购资金总额1400万元至2100万元，回购价格不超过25元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftssap4648119.d.html</link>
-            <guid>2015638</guid>
-            <pubDate>Sun, 07 Feb 2021 10:01:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
