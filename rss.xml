@@ -4,7 +4,7 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 07 Feb 2021 18:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2021 19:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -456,12 +456,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftpnny5634450.d.html</link>
             <guid>2015645</guid>
             <pubDate>Sun, 07 Feb 2021 10:06:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【蒙娜丽莎：拟发行可转债募资不超11.69亿元】蒙娜丽莎披露公开发行可转换公司债券预案，发行规模为不超过11.69亿元，用于收购高安市至美善德新材料有限公司58.97%股权并增资项目、数字化管理系统及智能仓库建设项目、补充流动资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftpnny5633817.d.html</link>
-            <guid>2015640</guid>
-            <pubDate>Sun, 07 Feb 2021 10:01:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
