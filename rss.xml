@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 07 Feb 2021 14:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2021 15:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【前海联合基金：继续关注高景气成长板块投资机会】今日，前海联合基金发表市场观点指出，本周市场呈震荡盘整态势，在经济稳步增长、企业盈利继续好转态势下，对市场无需过度悲观，可关注高景气成长、顺周期和低估值行业机会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftssap4682741.d.html</link>
+            <guid>2015965</guid>
+            <pubDate>Sun, 07 Feb 2021 14:39:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【1月广州港完成港口货物吞吐量5672万吨 货物吞吐量创单月历史新高】据广州市港务局，1月，广州港完成港口货物吞吐量5672万吨，同比增长19.29%，货物吞吐量创单月历史新高；完成集装箱吞吐量205.97万TEU，同比增长19.60%；其中内贸集装箱吞吐量130.50万TEU，同比增长29.01%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftssap4680362.d.html</link>
@@ -468,18 +474,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftpnny5633101.d.html</link>
             <guid>2015634</guid>
             <pubDate>Sun, 07 Feb 2021 09:55:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海三部门联合约谈“冰山”系列房地产自媒体 该媒体渲染购房恐慌情绪】近期，根据网民举报和巡查发现的线索，上海市网信办、上海市房管局、上海银保监局联合约谈运营“冰山”系列房地产自媒体账号的上海冰山房地产咨询有限公司负责人。约谈指出，“冰山”系列房地产自媒体账号根据来源不明的房价数据制作、发布所谓房价指数，误导社会公众，渲染购房恐慌情绪；同时宣传违规贷款业务，对房地产市场秩序造成严重不良影响，已违反《互联网信息服务管理办法》《网络信息内容生态治理规定》等法律法规和国家有关规定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftpnny5632948.d.html</link>
-            <guid>2015633</guid>
-            <pubDate>Sun, 07 Feb 2021 09:53:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【厦门信达：承诺处置国贸盈泰和天下达股权】厦门信达公告，为进一步聚焦主营业务，公司承诺自非公开发行股票完成之日起12个月内，将通过股权转让或自行清算等符合相关法律法规的方式处置持有的国贸盈泰和天下达的股权。两公司开展汽车融资租赁业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftssap4646622.d.html</link>
-            <guid>2015632</guid>
-            <pubDate>Sun, 07 Feb 2021 09:50:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
