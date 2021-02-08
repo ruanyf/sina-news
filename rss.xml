@@ -4,11 +4,112 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 08 Feb 2021 19:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2021 20:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国财政部：投资基金购买2028年1月31日到期的393.13亿美元7年期国债，上月为341.55亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny5882380.d.html</link>
+            <guid>2017283</guid>
+            <pubDate>Mon, 08 Feb 2021 20:03:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国财政部：投资基金购买2026年1月31日到期的354.60亿美元5年期国债，上月为349.16亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny5882370.d.html</link>
+            <guid>2017282</guid>
+            <pubDate>Mon, 08 Feb 2021 20:03:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  COMEX 4月黄金期货收涨1.17%，报1834.20美元/盎司。]]></title>
+            <guid>2017281</guid>
+            <pubDate>Mon, 08 Feb 2021 20:03:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国财政部：外国投资者购买2023年1月31日到期的138.89亿美元2年期国债，上月为115.18亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny5882318.d.html</link>
+            <guid>2017280</guid>
+            <pubDate>Mon, 08 Feb 2021 20:02:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国会预算办公室（CBO）：美国财政年度前4个月的预算赤字扩大到7380亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap4896692.d.html</link>
+            <guid>2017279</guid>
+            <pubDate>Mon, 08 Feb 2021 19:57:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国民主党人布林迪西在众议院竞选中输给了共和党人坦尼。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny5881849.d.html</link>
+            <guid>2017277</guid>
+            <pubDate>Mon, 08 Feb 2021 19:51:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  空白支票公司NEXTGEN ACQUISITION CORP熔断。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny5881779.d.html</link>
+            <guid>2017276</guid>
+            <pubDate>Mon, 08 Feb 2021 19:49:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国电动汽车制造商XOS TRUCKS据悉正就上市计划与空白支票公司NEXTGEN ACQUISITION CORP进行合并谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap4896168.d.html</link>
+            <guid>2017274</guid>
+            <pubDate>Mon, 08 Feb 2021 19:46:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际航空运输协会首席执行官：对行业来说，预计未来六个月是“困难的”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap4895804.d.html</link>
+            <guid>2017273</guid>
+            <pubDate>Mon, 08 Feb 2021 19:37:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  国际航空运输协会首席执行官：2021年的航空运输量将保持在低于2019年的水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap4895769.d.html</link>
+            <guid>2017272</guid>
+            <pubDate>Mon, 08 Feb 2021 19:36:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  加密货币交易平台KRAKEN：正在努力提高处理能力，以应对未来更高的预期需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny5881247.d.html</link>
+            <guid>2017271</guid>
+            <pubDate>Mon, 08 Feb 2021 19:36:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  加密货币交易平台KRAKEN：最近的交易量远远超过了预期的需求增长，比之前的历史高点高出5倍以上。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny5881200.d.html</link>
+            <guid>2017270</guid>
+            <pubDate>Mon, 08 Feb 2021 19:34:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  WTI 3月原油期货收涨1.12美元，涨幅1.97%，报57.97美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny5881150.d.html</link>
+            <guid>2017269</guid>
+            <pubDate>Mon, 08 Feb 2021 19:33:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  墨西哥央行：将为那些难以投放美元现金的银行提供融资。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap4895643.d.html</link>
+            <guid>2017268</guid>
+            <pubDate>Mon, 08 Feb 2021 19:33:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  AudioEye熔断，停牌前涨超10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny5881017.d.html</link>
+            <guid>2017266</guid>
+            <pubDate>Mon, 08 Feb 2021 19:30:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股芯片股全线上涨 FAANMG全部下跌】美股芯片股涨幅继续扩大，半导体板块ETF涨2.5%，英伟达涨5.5%，应用材料、凌云半导体涨超4%，AMD、台积电、西部数据涨超3%；与此同时，FAANMG全线下跌，亚马逊领跌，跌超4%，苹果跌0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap4895390.d.html</link>
+            <guid>2017265</guid>
+            <pubDate>Mon, 08 Feb 2021 19:27:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧盟委员会副主席维斯塔格：苹果必须平等对待所有应用程序。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny5880583.d.html</link>
+            <guid>2017264</guid>
+            <pubDate>Mon, 08 Feb 2021 19:19:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  COMEX 4月黄金期货收涨1.17%，报1834.20美元/盎司。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny5880426.d.html</link>
@@ -366,126 +467,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny5869644.d.html</link>
             <guid>2017187</guid>
             <pubDate>Mon, 08 Feb 2021 16:33:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北交所： 去年国企混改项目数同比增14.05%】在助力培育企业上市方面，产权市场正积极发挥各项功能。北交所最新发布的2020年度企业国有资产交易市场运行报告中显示，2020年，北交所共成交企业国有产权转让、国有企业增资、国有企业资产转让、国有企业房屋租赁四大类项目（含非挂牌项目）6356项，成交金额3690.43亿元。其中，国企混改进一步提速，2020年共有211家国企通过北交所实施混改，同比增长14.05%，募集社会资本总额689.4]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny5869616.d.html</link>
-            <guid>2017186</guid>
-            <pubDate>Mon, 08 Feb 2021 16:32:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  加拿大多伦多S&PTSX指数走高，日内涨1.00%，现报18295.37点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny5869423.d.html</link>
-            <guid>2017185</guid>
-            <pubDate>Mon, 08 Feb 2021 16:30:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美股散户逼空事件影响仍将持续】美国股市散户投资者近日以社交媒体为平台对多只遭到做空的小盘股进行逼空操作，引发有关股票多次暴涨，对冲基金出现数十亿美元以上的亏损，大盘也经历了明显调整。进入2月，这一逼空行情产生的影响和心理冲击仍未消除，并可能在多方面带来改变。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap4884114.d.html</link>
-            <guid>2017184</guid>
-            <pubDate>Mon, 08 Feb 2021 16:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【多家车企业绩亮眼 1月车市销量同比料增三成】多家汽车企业日前发布了2021年1月销售数据。数据显示，大部分车企1月份销售呈现增长态势，一些企业销售增长超过30%。中国汽车工业协会预计，2021年1月汽车行业销量将完成254万辆，同比增长31.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap4884073.d.html</link>
-            <guid>2017183</guid>
-            <pubDate>Mon, 08 Feb 2021 16:29:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【多部门密集推进 加快RCEP落地生效】近期以来，中央各部门加快部署，推动《区域全面经济伙伴关系协定》（RCEP）国内相关对接准备工作。其中，商务部、海关总署等部门将推动该协定生效作为2021年重点工作，并从标准对接、规则推广、人员培训等多方面推进，使协定的优惠政策能够尽早惠及企业和地方经济社会发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny5869285.d.html</link>
-            <guid>2017182</guid>
-            <pubDate>Mon, 08 Feb 2021 16:28:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧元兑美元EUR/USD短线走低近10点，现报1.2037。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny5868847.d.html</link>
-            <guid>2017181</guid>
-            <pubDate>Mon, 08 Feb 2021 16:21:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行行长拉加德：货币和财政政策的共同努力至关重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny5868694.d.html</link>
-            <guid>2017180</guid>
-            <pubDate>Mon, 08 Feb 2021 16:20:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行行长拉加德：欧洲央行致力于在其职责范围内尽其所能。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny5868681.d.html</link>
-            <guid>2017179</guid>
-            <pubDate>Mon, 08 Feb 2021 16:20:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行行长拉加德：尽管由于各种因素的综合作用，1月份通胀率大幅上升，但通胀率仍然很低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny5868655.d.html</link>
-            <guid>2017178</guid>
-            <pubDate>Mon, 08 Feb 2021 16:19:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行行长拉加德：尽管我们预计未来几个月整体通胀率将进一步上升，但潜在的价格压力可能仍将保持在较低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap4883354.d.html</link>
-            <guid>2017177</guid>
-            <pubDate>Mon, 08 Feb 2021 16:19:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：如果按计划采取行动，NEXT GENERATION计划可能最早在今年推动经济增长；如果按计划采取行动，NEXT GENERATION计划可能最早在今年推动经济增长；经济复苏更加稳健是围绕大流行前的通胀路径重新锚定通胀的先决条件。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny5868630.d.html</link>
-            <guid>2017176</guid>
-            <pubDate>Mon, 08 Feb 2021 16:19:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行行长拉加德：宽松的货币政策立场仍然至关重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny5868502.d.html</link>
-            <guid>2017175</guid>
-            <pubDate>Mon, 08 Feb 2021 16:17:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[计划文件显示，3月份阿塞拜疆Azeri BTC轻质原油装载量为1740万桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny5868458.d.html</link>
-            <guid>2017173</guid>
-            <pubDate>Mon, 08 Feb 2021 16:16:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  石油交易商托克：即使在竞争对手谨慎的情况下，也仍看好牛市。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny5868381.d.html</link>
-            <guid>2017172</guid>
-            <pubDate>Mon, 08 Feb 2021 16:15:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯天然气公司Gazprom：预计2021年对欧洲的出口前景良好。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny5868371.d.html</link>
-            <guid>2017171</guid>
-            <pubDate>Mon, 08 Feb 2021 16:15:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  诺瓦瓦克斯医药在股价触及新高后，市值突破200亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap4882871.d.html</link>
-            <guid>2017170</guid>
-            <pubDate>Mon, 08 Feb 2021 16:12:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  狗狗币24小时涨幅超28%，盘中一度刷新纪录新高，市值达105亿美元，其市值在加密货币中排名前十。此前，特斯拉CEO马斯克、美国饶舌歌手Snoop Dogg和Kiss乐团贝斯手Gene Simmons都发表了有关该加密货币的推文。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny5868149.d.html</link>
-            <guid>2017169</guid>
-            <pubDate>Mon, 08 Feb 2021 16:12:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特朗普的律师称，那些冲击美国国会大厦的人是出于自愿。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny5867957.d.html</link>
-            <guid>2017167</guid>
-            <pubDate>Mon, 08 Feb 2021 16:10:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普的律师称，联邦调查局证实，1月6日的国会骚乱是在特朗普演讲前几天计划的，因此与演讲无关。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap4882461.d.html</link>
-            <guid>2017166</guid>
-            <pubDate>Mon, 08 Feb 2021 16:09:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国10年期国债收益率跌至日低1.162%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny5867747.d.html</link>
-            <guid>2017164</guid>
-            <pubDate>Mon, 08 Feb 2021 16:08:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
