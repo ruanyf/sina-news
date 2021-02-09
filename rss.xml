@@ -4,11 +4,191 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 09 Feb 2021 19:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2021 21:27:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  Lyft盘后涨幅扩大至超6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6089380.d.html</link>
+            <guid>2019366</guid>
+            <pubDate>Tue, 09 Feb 2021 21:24:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  推特股价美股盘后转而上涨逾2.0%，财报发布后一度下跌6.0%，投资者消化该公司四季度业绩报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6089305.d.html</link>
+            <guid>2019365</guid>
+            <pubDate>Tue, 09 Feb 2021 21:22:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  思科：2021财年第二财季每股盈利0.6美元，市场预期0.6美元，去年同期0.68美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6089284.d.html</link>
+            <guid>2019364</guid>
+            <pubDate>Tue, 09 Feb 2021 21:22:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  思科：2021财年第二财季营收120亿美元，市场预期119.2亿美元，去年同期120.05亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6089278.d.html</link>
+            <guid>2019363</guid>
+            <pubDate>Tue, 09 Feb 2021 21:21:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股各行业ETF中，区域银行ETF领涨，涨超1%，银行业ETF涨幅接近1%；能源业ETF领跌，跌超1%，全球航空业ETF跌0.89%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6089208.d.html</link>
+            <guid>2019362</guid>
+            <pubDate>Tue, 09 Feb 2021 21:20:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Lyft四季度亏损小于预期，营收略大于预期，股价盘后涨超3%】网约车公司Lyft四季度净亏损1.853亿美元，市场预期亏损2.247亿美元。四季度营收5.699亿美元，市场预期5.612亿美元。四季度经调整EBITDA亏损1.5亿美元，市场预期亏损1.827亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5103884.d.html</link>
+            <guid>2019361</guid>
+            <pubDate>Tue, 09 Feb 2021 21:17:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Lyft：第四季度营收5.699亿美元，市场预期5.62亿美元，去年同期10.17亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6089032.d.html</link>
+            <guid>2019360</guid>
+            <pubDate>Tue, 09 Feb 2021 21:16:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  推特四季度营收12.9亿美元，分析师预期11.9亿美元。推特美股盘后跌超5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6088561.d.html</link>
+            <guid>2019358</guid>
+            <pubDate>Tue, 09 Feb 2021 21:06:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  思科第二财季经调整EPS 79美分，市场预期75美分。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6088547.d.html</link>
+            <guid>2019357</guid>
+            <pubDate>Tue, 09 Feb 2021 21:06:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  推特：第四季度可变现每日活跃用户人数（MDAU）为1.92亿人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5103269.d.html</link>
+            <guid>2019356</guid>
+            <pubDate>Tue, 09 Feb 2021 21:05:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国三大股指大致收平，纳指涨约0.1%，收于14000点关口上方。科技股中，推特涨约2.7%，奈飞涨约2.0%，Facebook涨约0.8%，但亚马逊和苹果跌约0.6%，特斯拉跌约1.8%。中概股里，容联美国IPO首日收涨约200%，师董会美国IPO首日收涨约30%。富途证券和极光涨约20%，网易有道涨约12%，百度涨超6.0%，收于294美元上方，蔚来汽车涨超6%。区块链类股普涨，LFIN涨约120%，LBCC涨超33%，MSTR和RIOT均涨超20%。游戏驿站（GME）跌约17%，AMC院线跌约11%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6088307.d.html</link>
+            <guid>2019354</guid>
+            <pubDate>Tue, 09 Feb 2021 21:01:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股收盘，道指初步收跌约8点，航空、能源股走低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5102961.d.html</link>
+            <guid>2019353</guid>
+            <pubDate>Tue, 09 Feb 2021 21:00:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Brown Brothers Harriman全球外汇策略主管Win Thin：通胀构成尾部风险，当劳动力市场存在如此多闲置劳动力时，很难看到核心通胀率上升。不过，市场可能会预期整体通胀率上升，这可能对美联储构成考验。市场相信美联储，但是一旦整体通胀率达到2%或2.5%，预计市场就可能紧张起来，一定程度的减码恐慌就可能出现。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5102908.d.html</link>
+            <guid>2019352</guid>
+            <pubDate>Tue, 09 Feb 2021 20:59:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WALGREENS走高，现涨0.26%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5101833.d.html</link>
+            <guid>2019351</guid>
+            <pubDate>Tue, 09 Feb 2021 20:42:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西知名对冲基金VERDE：紧急援助需求增加了巴西雷亚尔的压力，看到了更清晰的利率上行迹象，巴西股市似乎仍能消化加息周期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5101794.d.html</link>
+            <guid>2019349</guid>
+            <pubDate>Tue, 09 Feb 2021 20:42:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国纽约州的餐厅必须在晚上10点关门，纽约市不准室内用餐。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6086675.d.html</link>
+            <guid>2019348</guid>
+            <pubDate>Tue, 09 Feb 2021 20:35:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：纽约餐饮集团挑战美国纽约州州长科莫防疫命令失败。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6086662.d.html</link>
+            <guid>2019347</guid>
+            <pubDate>Tue, 09 Feb 2021 20:34:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【机构再次强调券商股配置价值，两类品种适宜持股过节】“站在当前时点，券商板块估值与基本面背离严重，在业绩支撑下，再次强调券商板块配置价值。”万联证券、东方证券、兴业证券等机构纷纷乐观表态。从资金面数据看，在距离春节假期仅剩一个交易日之际，仍有大单资金积极入场“抄底”券商股。成恩资本董事长王璇表示，券商板块向来是资本市场方向选择的“风向标”。板块内，建议关注两类品种，即符合政策发展方向（如银行券商混业经营）或有创新重组意向的头部券商。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6085418.d.html</link>
+            <guid>2019346</guid>
+            <pubDate>Tue, 09 Feb 2021 20:11:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【2020年，苹果的自动驾驶汽车道路测试里程增加了一倍多】根据提交给加州机动车管理局的一份报告，随着苹果公司自动驾驶技术的改进，其自动驾驶汽车的道路测试里程在2020年增加了一倍以上。该公司的汽车测试去年行驶了18805英里，高于2019年的7544英里。其中还报告了130次失手，也就是司机不得不接管汽车的次数，从64次上升到了130次。这导致每145英里就有一次失手，而2019年是每118英里一次。这表明苹果的自动驾驶技术在这些测试环境中得到了改进。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5100125.d.html</link>
+            <guid>2019345</guid>
+            <pubDate>Tue, 09 Feb 2021 20:11:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：特朗普辩护团队就弹劾审判的合宪性展开辩论。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5099810.d.html</link>
+            <guid>2019344</guid>
+            <pubDate>Tue, 09 Feb 2021 20:04:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【生猪期货运行满月，1500多家机构客户入场】数据显示，截至2月9日，生猪期货共计运行了23个交易日，期间累计成交42万手，成交额1748亿元，日均持仓量2.2万手。同时，逾1500家单位客户参与了生猪期货交易，包括温氏股份、正邦科技、中粮肉食等部分大型生猪养殖集团。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6084533.d.html</link>
+            <guid>2019342</guid>
+            <pubDate>Tue, 09 Feb 2021 19:55:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【年内116家上市公司发布117份回购计划，超八成为实施股权激励】据数据统计，以董事会预案公告日统计，截至2月9日，今年以来，共有116家上市公司发布了117份回购计划，计划合计最高耗资256亿元实施回购，其中，南极电商已经发起了年内的第二轮回购。而去年同期仅不到30家公司发布回购计划。从回购目的来看，今年的回购计划中，有超八成为实施股权激励，占比进一步提升。从行业来看，今年计算机应用行业的回购计划最多。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5099029.d.html</link>
+            <guid>2019341</guid>
+            <pubDate>Tue, 09 Feb 2021 19:50:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【证券日报头版：A股三大股指全线上扬，资金热涌显露三大新动向】A股三大股指昨日全线上扬，两市合计成交金额8373.6亿元。金百临咨询分析师秦洪表示，目前看，资金在运行过程中出现三个新的动向。一是，资金更为聚焦核心资产股。即存量资金进一步聚焦于核心龙头品种。二是，资金正在寻找新的好赛道。目前看，品牌中药股受到了资金的认可，主要是因为品牌中药股和白酒股有一个共同特征，那就是历史与文化的沉淀。三是，资金关照产业拐点较为明朗的品种。这主要体现在化工板块。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5098953.d.html</link>
+            <guid>2019340</guid>
+            <pubDate>Tue, 09 Feb 2021 19:48:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：同意民主党为经济刺激计划设定的收入7.5万美元的门槛。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6084026.d.html</link>
+            <guid>2019338</guid>
+            <pubDate>Tue, 09 Feb 2021 19:45:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑加元USD/CAD跌破1.27，日内跌0.29%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5098248.d.html</link>
+            <guid>2019337</guid>
+            <pubDate>Tue, 09 Feb 2021 19:35:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  WTI 3月原油期货收涨0.39美元，涨幅0.67%，报58.36美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6083439.d.html</link>
+            <guid>2019335</guid>
+            <pubDate>Tue, 09 Feb 2021 19:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  芝商所（CME）计划修订LIBOR欧元-美元合约后备规则。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5097892.d.html</link>
+            <guid>2019333</guid>
+            <pubDate>Tue, 09 Feb 2021 19:28:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国参议员MANCHIN要求拜登重新考虑KEYSTONE XL输油管道项目的决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5097760.d.html</link>
+            <guid>2019332</guid>
+            <pubDate>Tue, 09 Feb 2021 19:26:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  谷歌：扩大与捍卫数字竞选的合作，包括美国国家竞选安全支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6083012.d.html</link>
+            <guid>2019330</guid>
+            <pubDate>Tue, 09 Feb 2021 19:25:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元指数失守90.5，日内跌0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5097728.d.html</link>
+            <guid>2019329</guid>
+            <pubDate>Tue, 09 Feb 2021 19:25:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  恒指期货夜盘收涨0.50%，报29551点，高水75点。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6082032.d.html</link>
@@ -287,214 +467,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5089003.d.html</link>
             <guid>2019267</guid>
             <pubDate>Tue, 09 Feb 2021 17:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  EIA短期能源展望报告：预计2021年美国原油产量将增长29万桶/日，此前预计为减少19万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5088959.d.html</link>
-            <guid>2019266</guid>
-            <pubDate>Tue, 09 Feb 2021 17:05:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  EIA短期能源展望报告：预计2022年美国原油需求增速为100万桶/日，此前为99万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6074122.d.html</link>
-            <guid>2019265</guid>
-            <pubDate>Tue, 09 Feb 2021 17:05:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国农业部（USDA）：预计美国玉米期末库存为15.02亿蒲式耳，分析师预期13.8388亿蒲式耳，USDA此前预计为15.52亿蒲式耳。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6074110.d.html</link>
-            <guid>2019264</guid>
-            <pubDate>Tue, 09 Feb 2021 17:04:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  EIA短期能源展望报告：预计2021年美国原油需求增速为135万桶/日，此前为145万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6074073.d.html</link>
-            <guid>2019263</guid>
-            <pubDate>Tue, 09 Feb 2021 17:04:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  EIA短期能源展望报告：2022年全球石油需求增速维持在331万桶/日不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6074000.d.html</link>
-            <guid>2019262</guid>
-            <pubDate>Tue, 09 Feb 2021 17:03:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际铜夜盘收涨0.81%，沪铜收涨0.81%，沪铝收跌0.41%，沪锌收涨1%，沪铅收涨0.46%，沪镍收涨0.29%，沪锡收涨1.08%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5088762.d.html</link>
-            <guid>2019261</guid>
-            <pubDate>Tue, 09 Feb 2021 17:03:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  EIA短期能源展望报告：预计2022年布伦特原油价格为55.19美元/桶，此前预期为53.44美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6073907.d.html</link>
-            <guid>2019259</guid>
-            <pubDate>Tue, 09 Feb 2021 17:02:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  EIA短期能源展望报告：预计2022年WTI原油价格为51.56美元/桶，此前预期为49.81美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5088652.d.html</link>
-            <guid>2019258</guid>
-            <pubDate>Tue, 09 Feb 2021 17:02:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  EIA短期能源展望报告：预计2021年布伦特原油价格为53.2美元/桶，此前预期为52.70美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6073864.d.html</link>
-            <guid>2019257</guid>
-            <pubDate>Tue, 09 Feb 2021 17:02:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  EIA短期能源展望报告：预计2021年WTI原油价格为50.21美元/桶，此前预期为49.70美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5088629.d.html</link>
-            <guid>2019255</guid>
-            <pubDate>Tue, 09 Feb 2021 17:01:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  EIA短期能源展望报告：预计2021年全球原油需求增速预期为538万桶/日，此前预计为556万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6073783.d.html</link>
-            <guid>2019254</guid>
-            <pubDate>Tue, 09 Feb 2021 17:00:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：富国银行决定保留其自有品牌信用卡业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6073681.d.html</link>
-            <guid>2019253</guid>
-            <pubDate>Tue, 09 Feb 2021 17:00:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  容联云(RAAS.N)上市首日开盘涨超90%，触及熔断。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5088359.d.html</link>
-            <guid>2019252</guid>
-            <pubDate>Tue, 09 Feb 2021 16:59:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：顺丰控股计划通过非公开发行A股筹集资金220亿元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6073456.d.html</link>
-            <guid>2019251</guid>
-            <pubDate>Tue, 09 Feb 2021 16:58:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  在被问及拜登救助计划引发的经济过热风险时，拜登提名的行政管理和预算局局长表示，美国必须担心通胀压力，但美联储有应对这些风险的工具。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5087971.d.html</link>
-            <guid>2019249</guid>
-            <pubDate>Tue, 09 Feb 2021 16:56:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【欧洲主要股指收盘涨跌不一 德国DAX30指数跌0.34%】欧洲主要股指收盘涨跌不一，德国DAX30指数收跌0.34%，英国富时100指数收涨0.10%，法国CAC40指数收涨0.10%，欧洲斯托克50指数收跌0.12%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6073157.d.html</link>
-            <guid>2019248</guid>
-            <pubDate>Tue, 09 Feb 2021 16:55:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  福特：再次在欧洲销售KUGA插电式混合动力车。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6072997.d.html</link>
-            <guid>2019247</guid>
-            <pubDate>Tue, 09 Feb 2021 16:54:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  波音盘中涨超2%，此前媒体提到其一月份的交付量超过了空客。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6072557.d.html</link>
-            <guid>2019246</guid>
-            <pubDate>Tue, 09 Feb 2021 16:52:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国云通讯公司Cloopen Group美国IPO首日开盘上涨68.75%，报27美元，此前给出的发行价为每股16美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6072255.d.html</link>
-            <guid>2019245</guid>
-            <pubDate>Tue, 09 Feb 2021 16:50:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  可口可乐将在美国使用百分百可回收的塑料瓶，这是其可持续战略的重大转变。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5086944.d.html</link>
-            <guid>2019244</guid>
-            <pubDate>Tue, 09 Feb 2021 16:50:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  花旗债务资本市场主管佐格赫布：市场上存在高风险的低端市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6072117.d.html</link>
-            <guid>2019243</guid>
-            <pubDate>Tue, 09 Feb 2021 16:49:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  富途控股盘中涨幅扩大至25%，现报160美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6071962.d.html</link>
-            <guid>2019242</guid>
-            <pubDate>Tue, 09 Feb 2021 16:48:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【外资加速布局 金融业开放红利持续释放】2021年开年，外资加速布局中国金融市场，保险、支付、证券等业务领域取得多点突破。其中，保险业作为金融业开放“排头兵”动作不断，首家外资独资保险资管公司近日正式进入中国市场。此外，今年以来有10余家外资机构提交了境外机构投资者资格审批，远超去年同期。境外机构投资者的债券托管量大幅增长，境外机构投资者连续26个月增持中国债券。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5086129.d.html</link>
-            <guid>2019240</guid>
-            <pubDate>Tue, 09 Feb 2021 16:41:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：一些众议院民主党人推动美国食品药品监督管理局制定有关堕胎药物的规则。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5085906.d.html</link>
-            <guid>2019239</guid>
-            <pubDate>Tue, 09 Feb 2021 16:38:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：特斯拉(TSLA.O)今年将建成研发中心，设计新的2.5万美元的电动汽车。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6071149.d.html</link>
-            <guid>2019238</guid>
-            <pubDate>Tue, 09 Feb 2021 16:38:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  福特：正在寻求提高野马MACH-E电动汽车的产能。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5085853.d.html</link>
-            <guid>2019237</guid>
-            <pubDate>Tue, 09 Feb 2021 16:37:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欢聚时代盘中涨超5%，此前杰富瑞将其目标价从110美元上调至132美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6071031.d.html</link>
-            <guid>2019236</guid>
-            <pubDate>Tue, 09 Feb 2021 16:36:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：加拿大航空将暂时解雇1500名员工，在4月30日前暂停17条航线的服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6070720.d.html</link>
-            <guid>2019235</guid>
-            <pubDate>Tue, 09 Feb 2021 16:33:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部拍卖42天期现金管理票据，得标利率0.035%；美国财政部拍卖119天期现金管理票据，得标利率0.040%。]]></title>
-            <guid>2019234</guid>
-            <pubDate>Tue, 09 Feb 2021 16:32:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据AXIOS网站：美国参议院多数党领袖舒默表示，在今天开始的对特朗普的第二次弹劾审判中，众议院弹劾负责人将提交一些新证据。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5085301.d.html</link>
-            <guid>2019233</guid>
-            <pubDate>Tue, 09 Feb 2021 16:31:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国DAX 30指数初步收跌0.44%，报13998.07点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6070534.d.html</link>
-            <guid>2019232</guid>
-            <pubDate>Tue, 09 Feb 2021 16:31:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲STOXX 600指数初步收跌0.17%，报410.10点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5085251.d.html</link>
-            <guid>2019231</guid>
-            <pubDate>Tue, 09 Feb 2021 16:30:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Applied Uv停牌，停牌前上涨381%，盘中一度暴涨478%；此前该公司宣布其全资子公司SteriLumen已完成对Akida Holdings全部资产的收购。]]></title>
-            <guid>2019230</guid>
-            <pubDate>Tue, 09 Feb 2021 16:30:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  福特：尽管芯片短缺，F-150皮卡的发布将按计划进行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5084963.d.html</link>
-            <guid>2019229</guid>
-            <pubDate>Tue, 09 Feb 2021 16:27:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉盘中跌超2%，GLJ Research分析师表示维持对特斯拉“卖出”评级及目标价67美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6070229.d.html</link>
-            <guid>2019228</guid>
-            <pubDate>Tue, 09 Feb 2021 16:27:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
