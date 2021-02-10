@@ -4,11 +4,95 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 10 Feb 2021 17:30:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2021 18:25:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  德国联邦金融监管局：工作人员已经完成针对德国支付公司WireCard的评估工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5283528.d.html</link>
+            <guid>2020287</guid>
+            <pubDate>Wed, 10 Feb 2021 18:24:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国住房金融服务的措施包括提供250亿美元的租赁援助。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6268415.d.html</link>
+            <guid>2020286</guid>
+            <pubDate>Wed, 10 Feb 2021 18:23:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：Facebook正在开发与Clubhouse竞争的软件。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5282870.d.html</link>
+            <guid>2020284</guid>
+            <pubDate>Wed, 10 Feb 2021 18:11:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国10年期国债收益率在国债拍卖后变化不大，报1.140%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6267385.d.html</link>
+            <guid>2020283</guid>
+            <pubDate>Wed, 10 Feb 2021 18:05:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  丰田汽车小幅拉升，现涨超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6267303.d.html</link>
+            <guid>2020281</guid>
+            <pubDate>Wed, 10 Feb 2021 18:03:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：法国总统马克龙在和美国总统拜登的通话中谈及空客与波音协定，马克龙提议，美国和法国要找到解决方式；马克龙和拜登在两周前的通话中讨论了相关问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5282351.d.html</link>
+            <guid>2020280</guid>
+            <pubDate>Wed, 10 Feb 2021 18:03:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[丰田汽车将为美国市场推出三款新的电动汽车，将于2022年上市销售。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6267203.d.html</link>
+            <guid>2020279</guid>
+            <pubDate>Wed, 10 Feb 2021 18:02:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  交易平台CITADEL的GRIFFIN预计将在有关GAMESTOP听证会上作证。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5281721.d.html</link>
+            <guid>2020277</guid>
+            <pubDate>Wed, 10 Feb 2021 17:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：利比亚哈里加港重新开放，警卫结束了他们的罢工。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6266407.d.html</link>
+            <guid>2020275</guid>
+            <pubDate>Wed, 10 Feb 2021 17:48:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国央行行长贝利：加密货币在常规支付中没有一席之地。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5281479.d.html</link>
+            <guid>2020274</guid>
+            <pubDate>Wed, 10 Feb 2021 17:48:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  蘑菇街盘中直线拉涨，现涨超11%，报2.82美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5281069.d.html</link>
+            <guid>2020273</guid>
+            <pubDate>Wed, 10 Feb 2021 17:41:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国白宫顾问RICHMOND：白宫认为刺激计划到目前为止进展顺利。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6265875.d.html</link>
+            <guid>2020272</guid>
+            <pubDate>Wed, 10 Feb 2021 17:39:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  哔哩哔哩涨幅扩大至10%，盘初曾一度跌超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5280390.d.html</link>
+            <guid>2020271</guid>
+            <pubDate>Wed, 10 Feb 2021 17:32:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫新闻秘书普萨基：可能会推迟公布预算。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5280383.d.html</link>
+            <guid>2020270</guid>
+            <pubDate>Wed, 10 Feb 2021 17:32:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[高通公司表示，其Snapdragon X65 5G调制解调器的速度可高达10G。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6265101.d.html</link>
@@ -402,84 +486,6 @@
             <title><![CDATA[美国精炼油库存变化值连续3周录得下滑，且创2020年12月25日当周（7周）以来新低。]]></title>
             <guid>2020188</guid>
             <pubDate>Wed, 10 Feb 2021 15:31:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA数据公布后，WTI原油期货短线走高0.2美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6256341.d.html</link>
-            <guid>2020187</guid>
-            <pubDate>Wed, 10 Feb 2021 15:31:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  EIA报告：除却战略储备的商业原油库存减少664.5万桶至4.69亿桶，减少1.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5271380.d.html</link>
-            <guid>2020186</guid>
-            <pubDate>Wed, 10 Feb 2021 15:31:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  EIA报告：美国上周原油出口减少86.6万桶/日至261.7万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6256253.d.html</link>
-            <guid>2020185</guid>
-            <pubDate>Wed, 10 Feb 2021 15:30:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  阿斯利康股价下跌1.1%，刷新日低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5271299.d.html</link>
-            <guid>2020184</guid>
-            <pubDate>Wed, 10 Feb 2021 15:30:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  通用汽车CFO：预计2021年美国汽车行业的销量将在1600万辆左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6256110.d.html</link>
-            <guid>2020183</guid>
-            <pubDate>Wed, 10 Feb 2021 15:28:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股跳水，三大股指悉数转跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5270990.d.html</link>
-            <guid>2020182</guid>
-            <pubDate>Wed, 10 Feb 2021 15:24:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国三大股指悉数转跌，纳指跌超0.4%，苹果目前跌0.7%，特斯拉跌4.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6255844.d.html</link>
-            <guid>2020180</guid>
-            <pubDate>Wed, 10 Feb 2021 15:23:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货白银走低，日内跌幅1.01%，现报26.96美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5270888.d.html</link>
-            <guid>2020179</guid>
-            <pubDate>Wed, 10 Feb 2021 15:23:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SurveyMonkey小企业调查显示，63%的美国小企业主支持1.9万亿美元的抗疫救助计划。小企业主表示相信他们可以在当前条件下继续经营一年以上的比例从四季度的67％下降到55％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6255757.d.html</link>
-            <guid>2020178</guid>
-            <pubDate>Wed, 10 Feb 2021 15:22:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银回落至27美元/盎司下方，日内跌0.88%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5270820.d.html</link>
-            <guid>2020177</guid>
-            <pubDate>Wed, 10 Feb 2021 15:22:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货黄金跌破1840美元/盎司，较稍早高位回落15美元，日涨幅缩窄至0.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6255735.d.html</link>
-            <guid>2020176</guid>
-            <pubDate>Wed, 10 Feb 2021 15:22:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  狗狗币日内涨幅达2.35%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6255303.d.html</link>
-            <guid>2020172</guid>
-            <pubDate>Wed, 10 Feb 2021 15:16:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉CEO埃隆·马斯克：购买了一些狗狗币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6255176.d.html</link>
-            <guid>2020171</guid>
-            <pubDate>Wed, 10 Feb 2021 15:14:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
