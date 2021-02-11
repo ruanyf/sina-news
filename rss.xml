@@ -4,11 +4,64 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 11 Feb 2021 03:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2021 04:28:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：洛亚蒂群岛东南部发生5.6级地震。]]></title>
+            <guid>2021463</guid>
+            <pubDate>Thu, 11 Feb 2021 04:28:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[金华检出1份美国进口奥克兰猪手样品核酸检测阳性，7人直接接触，未流入市场。（杭州新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6323818.d.html</link>
+            <guid>2021461</guid>
+            <pubDate>Thu, 11 Feb 2021 04:20:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【鼠年最后一个交易日 恒指收涨0.45%】恒指低开高走，收涨0.45%，科技股尾盘发力带动指数上扬，餐饮、旅游等节假日概念股造好。平安好医生大涨21%，获ARKF基金新建仓买入49万股。下午起因春节假期休市。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6322183.d.html</link>
+            <guid>2021438</guid>
+            <pubDate>Thu, 11 Feb 2021 04:10:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日产汽车回应：没有与苹果公司谈判 但对探索合作持开放态度】今日（2月11日），日产汽车（NISSAN）回应称：“我们并没有与苹果公司进行谈判。不过，日产汽车始终对探索合作伙伴关系持开放态度，在CASE时代（互联、自动驾驶、共享化、电动化）加速行业转型。”苹果公司正在加速推进Apple Car项目，近日在苹果与现代汽车的谈判未有成果之后，有传闻称，日产汽车正与苹果接触，希望参与合作生产。（e公司）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6321995.d.html</link>
+            <guid>2021433</guid>
+            <pubDate>Thu, 11 Feb 2021 04:10:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马来西亚2020年第四季度GDP同比萎缩3.4%，全年GDP同比萎缩2.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6321157.d.html</link>
+            <guid>2021402</guid>
+            <pubDate>Thu, 11 Feb 2021 04:04:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据日本媒体报道，东京奥组委、东京残奥组委主席森喜朗已经基本决定辞职。日本足球运动员川渊三郎将接替森喜朗担任东京奥组委主席。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5336179.d.html</link>
+            <guid>2021401</guid>
+            <pubDate>Thu, 11 Feb 2021 04:03:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行：将今年底欧元兑美元EUR/USD的预期从1.25下调至1.15。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5333574.d.html</link>
+            <guid>2021311</guid>
+            <pubDate>Thu, 11 Feb 2021 03:43:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【兴业证券张忆东：2021年看多中国 港股将迎双轮驱动牛市】展望2021年的资本市场，兴业证券全球首席策略分析师张忆东旗帜鲜明地提出看多中国、港股牛市！在基本面复苏的大背景下，会看到通胀乃至于滞胀的阴影，但经济复苏所带来的盈利驱动值得期待。在欧美进行财政刺激的大背景下，海外流动性依然会比较宽松，所以张忆东表示，更看好享受到估值洼地、且新经济不断涌现的港股资本市场，港股牛市是价值重估和创新成长双轮驱动的牛市，A股则具有较多值得关注的结构性行情。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5332767.d.html</link>
+            <guid>2021288</guid>
+            <pubDate>Thu, 11 Feb 2021 03:38:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【春节前最后一周新三板成交金额超24亿元】根据全国中小企业股份转让系统（新三板）披露数据，春节前最后一个交易周（2月8日至10日）新三板挂牌公司成交24.71亿元，其中精选层成交7.99亿元。在指数方面，截至10日收盘,三板成指报1018.05点，三板做市指数报1129.60点，各项指数运行平稳。截至2月10日，新三板挂牌公司总计7999家。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5332209.d.html</link>
+            <guid>2021266</guid>
+            <pubDate>Thu, 11 Feb 2021 03:34:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[恒生科技指数低开高走，现涨超1%，续创历史新高。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5330675.d.html</link>
@@ -404,83 +457,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6278546.d.html</link>
             <guid>2020373</guid>
             <pubDate>Wed, 10 Feb 2021 22:32:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  芝商所（CME）将NYMEX铂金期货的初始保证金从4400美元/手上调至4840美元/手，上调幅度为10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5293436.d.html</link>
-            <guid>2020372</guid>
-            <pubDate>Wed, 10 Feb 2021 22:30:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  William O'Neil：首予复星医药买入评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5293280.d.html</link>
-            <guid>2020371</guid>
-            <pubDate>Wed, 10 Feb 2021 22:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美高梅中国：2020年全年营收初步数据51亿港元】美高梅中国在港交所发布公告，2020年全年营收初步数据51亿港元，全年调整后EBITDA亏损初步数据14亿港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5293070.d.html</link>
-            <guid>2020370</guid>
-            <pubDate>Wed, 10 Feb 2021 22:20:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【LG化学在SK Innovation电动汽车电池的美国进口禁令上胜诉】LG化学宣称，竞争对手在汽车电池生产中采用了该公司被窃取的商业秘密。美国国际贸易委员会（ITC）将禁止美国在未来10年进口SK Innovation的电池（产品）和部件。 针对ITC的裁决结果，SK Innovation可以向美国总统拜登申请否决。 福特汽车电动汽车F-150电池供应商被禁止进口部件。 大众汽车ID.4 SUV的美国电池供应商面临进口禁令。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6278077.d.html</link>
-            <guid>2020369</guid>
-            <pubDate>Wed, 10 Feb 2021 22:20:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股大类资产类ETF中，恐慌指数做多ETF收涨逾1.6%，美国国债20+年ETF涨约0.7%，美国房地产ETF也涨超0.5%，大豆基金ETF则跌约2.9%，罗素2000指数ETF跌约0.8%，纳指100ETF跌超0.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6277926.d.html</link>
-            <guid>2020368</guid>
-            <pubDate>Wed, 10 Feb 2021 22:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  New Street Research：将中国电信评级上调至买入，目标价3港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6277782.d.html</link>
-            <guid>2020367</guid>
-            <pubDate>Wed, 10 Feb 2021 22:12:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股行业ETF中，能源业ETF收涨逾1.9%领跑，公用事业ETF和网络股指数ETF均涨约0.4%，可选消费ETF则收跌将近1.0%，生物科技指数ETF也跌超0.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6277744.d.html</link>
-            <guid>2020366</guid>
-            <pubDate>Wed, 10 Feb 2021 22:11:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据CME“美联储观察”：美联储3月维持利率在0%-0.25%区间的概率为100%，加息25个基点至0.25%-0.50%区间的概率为0%；4月维持利率在0%-0.25%区间的概率为97.9%，加息25个基点的概率为2.1%。]]></title>
-            <guid>2020365</guid>
-            <pubDate>Wed, 10 Feb 2021 22:06:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国纽约州州长科莫：大型娱乐和体育场馆可以从2月23日开始重新开放，但容量限制为10%，并有测试要求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5292334.d.html</link>
-            <guid>2020364</guid>
-            <pubDate>Wed, 10 Feb 2021 22:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国白宫顾问将与航空公司CEO们讨论航空旅行问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5291815.d.html</link>
-            <guid>2020363</guid>
-            <pubDate>Wed, 10 Feb 2021 21:47:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【附近海域发生地震 新西兰海啸警报已经解除】当地时间9时30分（北京时间4时30分），据新西兰媒体报道，新西兰当局解除了因新喀里多尼亚附近海域发生地震而发出的海啸警报。当地时间凌晨2时20分，新喀里多尼亚洛亚蒂岛东南方海域发生里氏7.7级地震（中国地震台网测定为7.4级地震）。地震发生后，新西兰当局对新西兰北岛北部地区发布了海啸警报。位于夏威夷的太平洋海啸警报中心也表示，未来几小时内可能会出现地震引发的危险海啸波浪，新西兰、瓦努阿图等国可能面临威胁。据了解，目前瓦努阿图也没有关于海啸袭击的消息，首都维拉港一切正常。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6276858.d.html</link>
-            <guid>2020362</guid>
-            <pubDate>Wed, 10 Feb 2021 21:47:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构分析：铂金飙升至六年高位 投资者押注工业需求反弹】铂金价格涨至六年高位，投资者押注工业需求复苏和更严格的排放规定将令这种用于汽车减排的金属供应吃紧。相比于同样主要用于催化转换器的同族金属钯金，铂金价格一直有较大折价。铂金在2020年大部分时间都落后，而今年表现优于许多同类。根据世界铂金投资协会，南非一个关键冶炼厂生产中断，可能导致市场今年保持供不应求，大大提振了铂金价格的前景。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6276847.d.html</link>
-            <guid>2020361</guid>
-            <pubDate>Wed, 10 Feb 2021 21:46:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：百思买解雇了一些员工。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6276442.d.html</link>
-            <guid>2020359</guid>
-            <pubDate>Wed, 10 Feb 2021 21:35:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
