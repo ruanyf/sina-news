@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 11 Feb 2021 21:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2021 22:25:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  英国央行首席经济学家霍尔丹：一年后，英国经济的年增长率可能会达到两位数。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6417667.d.html</link>
+            <guid>2021925</guid>
+            <pubDate>Thu, 11 Feb 2021 22:24:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国央行首席经济学家霍尔丹：预计当限制措施解除时，将出现消费热潮。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5432512.d.html</link>
+            <guid>2021924</guid>
+            <pubDate>Thu, 11 Feb 2021 22:23:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国众议院提出为大多数美国人发放1400美元支票的法案，法案还将扩大对父母和低收入工人的税收抵免。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5432109.d.html</link>
+            <guid>2021922</guid>
+            <pubDate>Thu, 11 Feb 2021 22:11:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据CME“美联储观察”：美联储3月维持利率在0%-0.25%区间的概率为100%，加息25个基点至0.25%-0.50%区间的概率为0%；4月维持利率在0%-0.25%区间的概率为97.9%，加息25个基点的概率为2.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6416939.d.html</link>
+            <guid>2021920</guid>
+            <pubDate>Thu, 11 Feb 2021 22:02:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储哈克：预期通胀会有所上升，但不会上升至2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6416090.d.html</link>
+            <guid>2021915</guid>
+            <pubDate>Thu, 11 Feb 2021 21:29:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储哈克：通胀动态将影响美联储的政策反应。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5430934.d.html</link>
+            <guid>2021914</guid>
+            <pubDate>Thu, 11 Feb 2021 21:28:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  迪士尼第一财营收162.5亿美元，分析师预期159.1亿美元。迪士尼股价美股盘后涨3.5%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6415532.d.html</link>
@@ -372,72 +408,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5410940.d.html</link>
             <guid>2021828</guid>
             <pubDate>Thu, 11 Feb 2021 15:09:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为65，表明市场处在贪婪状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5410816.d.html</link>
-            <guid>2021825</guid>
-            <pubDate>Thu, 11 Feb 2021 15:05:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  雅乐科技(YALA.N)涨超15%，报37.12美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5410812.d.html</link>
-            <guid>2021824</guid>
-            <pubDate>Thu, 11 Feb 2021 15:05:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全美地产经纪商协会（NAR）季度调查结果显示：美国独栋住房价格同比上涨14.9%，至31.5万美元/套。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6395803.d.html</link>
-            <guid>2021823</guid>
-            <pubDate>Thu, 11 Feb 2021 15:05:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利10年期国债收益率扩大跌幅，日内跌4个基点至0.464%，继续刷新历史新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5410546.d.html</link>
-            <guid>2021820</guid>
-            <pubDate>Thu, 11 Feb 2021 15:00:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道指转跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5410517.d.html</link>
-            <guid>2021819</guid>
-            <pubDate>Thu, 11 Feb 2021 15:00:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美、布两油期货短线下挫0.3美元，布伦特原油期货跌0.33%，报61.27美元/桶，WTI原油期货跌0.22%，报58.47美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5410473.d.html</link>
-            <guid>2021818</guid>
-            <pubDate>Thu, 11 Feb 2021 14:59:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SEC暂停在社交媒体上兜售的非活跃发行人股票的交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5410436.d.html</link>
-            <guid>2021817</guid>
-            <pubDate>Thu, 11 Feb 2021 14:58:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗全球市场策略师Matt King：近期某些资产动能转向交易可能会导致价值驱动型投资者几乎被迫退出市场。资金流动和头寸已成为市场的驱动力，远胜于企业的基本面。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6395391.d.html</link>
-            <guid>2021816</guid>
-            <pubDate>Thu, 11 Feb 2021 14:57:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据DOWNDETECTOR：用户报告E-TRADE电子交易平台出现问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5409811.d.html</link>
-            <guid>2021815</guid>
-            <pubDate>Thu, 11 Feb 2021 14:46:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  拼多多股价再创新高，现涨3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5409760.d.html</link>
-            <guid>2021814</guid>
-            <pubDate>Thu, 11 Feb 2021 14:45:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至2月7日当周彭博消费者信心指数公布44.9，前值44.6。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6394694.d.html</link>
-            <guid>2021813</guid>
-            <pubDate>Thu, 11 Feb 2021 14:45:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
