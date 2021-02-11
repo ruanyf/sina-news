@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 11 Feb 2021 20:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2021 21:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  迪士尼第一财营收162.5亿美元，分析师预期159.1亿美元。迪士尼股价美股盘后涨3.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6415532.d.html</link>
+            <guid>2021911</guid>
+            <pubDate>Thu, 11 Feb 2021 21:06:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股收盘，三大指数涨跌互现，道指初步收跌约23点，半导体板块造好，工业大麻板块下挫。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6415324.d.html</link>
+            <guid>2021910</guid>
+            <pubDate>Thu, 11 Feb 2021 21:00:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  阿根廷布宜诺斯艾利斯粮食交易所：阿根廷在2月份迎来更多降水，这将改善对大豆作物的播种预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6415114.d.html</link>
+            <guid>2021909</guid>
+            <pubDate>Thu, 11 Feb 2021 20:54:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  西南航空正在商谈购买300架150座的客机。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5428432.d.html</link>
@@ -420,54 +438,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6394694.d.html</link>
             <guid>2021813</guid>
             <pubDate>Thu, 11 Feb 2021 14:45:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  瑞银：将芝加哥商品交易所(CME.O)目标价从203美元上调至205美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5409688.d.html</link>
-            <guid>2021812</guid>
-            <pubDate>Thu, 11 Feb 2021 14:44:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道琼斯指数续刷历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5409610.d.html</link>
-            <guid>2021811</guid>
-            <pubDate>Thu, 11 Feb 2021 14:43:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国上周领取失业救济的总人数重新回升到2000万以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6394478.d.html</link>
-            <guid>2021810</guid>
-            <pubDate>Thu, 11 Feb 2021 14:41:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  热门中概股涨跌互现，趣头条(QTT.O)涨超8%，虎牙(HUYA.N)涨超3%，富途控股(FUTU.O)跌超4%，亿航智能(EH.O)跌3.53%，哔哩哔哩(BILI.O)跌2.23%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5409467.d.html</link>
-            <guid>2021809</guid>
-            <pubDate>Thu, 11 Feb 2021 14:41:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股工业大麻股跌幅居前，Tilray(TLRY.O)跌超23%，Aphria(APHA.O)跌14.6%，Veru(VERU.O)、极光大麻(ACB.N)跌超12%，Sundial Grower(SNDL.O)跌6.44%，触及熔断。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5409248.d.html</link>
-            <guid>2021808</guid>
-            <pubDate>Thu, 11 Feb 2021 14:39:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股区块链板块走高，Riot Blockchain(RIOT.O)涨超22%，Bit Digital(BTBT.O)涨超17%，Marathon Patent(MARA.O)、第九城市(NCTY.O)涨超16%，嘉楠科技(CAN.O)涨7.96%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6394234.d.html</link>
-            <guid>2021807</guid>
-            <pubDate>Thu, 11 Feb 2021 14:38:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【道指开盘涨0.1%，标普500涨0.3%，纳指涨0.5%】工业大麻板块涨跌互现，Sundial Grower涨30.5%，Tilray跌超14.3%，Aphria跌6.4%，WallStreetBetS上一篇帖子称大麻股Tilray和Aphria还有更多上涨空间。美国散户有了新目标，这次是大麻股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5408757.d.html</link>
-            <guid>2021806</guid>
-            <pubDate>Thu, 11 Feb 2021 14:30:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Uber(UBER.N)：当出行率回归时，将会获得盈利。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5408305.d.html</link>
-            <guid>2021804</guid>
-            <pubDate>Thu, 11 Feb 2021 14:22:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
