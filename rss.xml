@@ -4,11 +4,71 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 11 Feb 2021 00:55:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2021 01:47:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息，美国总统拜登考虑提名Lisa Cook在美联储任职。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6300292.d.html</link>
+            <guid>2020790</guid>
+            <pubDate>Thu, 11 Feb 2021 01:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒生科技指数跌幅扩大至超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5315064.d.html</link>
+            <guid>2020776</guid>
+            <pubDate>Thu, 11 Feb 2021 01:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金短线走低超3美元，现报1838.87美元/盎司。现货白银短线跳水逾0.2美元，日内跌超1%，现报26.79美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5314965.d.html</link>
+            <guid>2020768</guid>
+            <pubDate>Thu, 11 Feb 2021 01:42:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股区块链板块大幅回调，火币科技跌超20%，欧科云链跌13.7%，雄岸科技跌9.8%，BC科技跌5.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6298406.d.html</link>
+            <guid>2020719</guid>
+            <pubDate>Thu, 11 Feb 2021 01:33:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科技股在香港普遍走低，快手跌超2%，美团跌超1%，腾讯、阿里、小米、网易、京东集体走低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6298177.d.html</link>
+            <guid>2020717</guid>
+            <pubDate>Thu, 11 Feb 2021 01:32:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据最新披露的13F文件显示，领航资本在特斯拉的持股比例达到6.1%，成为特斯拉的第三大股东。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6298146.d.html</link>
+            <guid>2020715</guid>
+            <pubDate>Thu, 11 Feb 2021 01:32:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股恒指低开跌0.14％，国企指数跌0.2％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6296316.d.html</link>
+            <guid>2020667</guid>
+            <pubDate>Thu, 11 Feb 2021 01:21:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【居民部门加杠杆的速度提高】 岁末年初房地产成交较为火热，居民贷款买房的需求随之上升。1月居民中长期贷款同比多增了1957亿。这一增幅是2017年3月以来的最高水平。得益于房地产销售的活跃，居民存款更多地转化为单位活期存款，带动M1同比增速上升。不过，1月M1同比的大幅上升还反映了春节错位（2020年春节在1月，但2021年春节在2月）的影响。（兴业研究）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6295428.d.html</link>
+            <guid>2020658</guid>
+            <pubDate>Thu, 11 Feb 2021 01:15:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时中国A50指数期货开盘跌0.13%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5308352.d.html</link>
+            <guid>2020628</guid>
+            <pubDate>Thu, 11 Feb 2021 01:00:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【春节档预售票房破10亿】据灯塔专业版实时数据，截至2月11日凌晨00：57，春节档上映前1天，档期实时预售总票房正式突破10亿。其中，《唐人街探案3》预售总票房达6.66亿，占档期票房近七成；第二名《你好，李焕英》预售票房超1.5亿，第三名《刺杀小说家》接近6000万。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5308177.d.html</link>
+            <guid>2020621</guid>
+            <pubDate>Thu, 11 Feb 2021 00:59:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[现货黄金回落至1840美元/盎司下方，日内跌0.15%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6292201.d.html</link>
@@ -447,71 +507,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5288971.d.html</link>
             <guid>2020338</guid>
             <pubDate>Wed, 10 Feb 2021 20:25:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国众议院小组推进了每周发放400美元失业救济金的措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6273022.d.html</link>
-            <guid>2020336</guid>
-            <pubDate>Wed, 10 Feb 2021 20:04:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京数字人民币红包中签结果周三公布，共有超过252万市民预约报名 】2月10日21时，“数字王府井 冰雪购物节”数字人民币试点活动的中签结果开始公布。据悉，本次活动共有超过252万市民进行了预约报名。主办方将通过短信形式向预约成功的用户推送中签或未中签信息。同时，客户也可通过自行登录京东APP、京喜APP活动页面查询中签结果。根据活动规则，中签市民可根据中签短信的指引下载数字人民币APP，选择报名时所选运营机构开立数字人民币钱包，获取数字人民币红包，并于2月10日21时至2月17日（正月初六）24时内在指定线上电商或指定线下商户进行无门槛消费。（北京青年报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5288152.d.html</link>
-            <guid>2020335</guid>
-            <pubDate>Wed, 10 Feb 2021 20:04:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国众议院小组提出了关于失业救济金的刺激措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6272910.d.html</link>
-            <guid>2020334</guid>
-            <pubDate>Wed, 10 Feb 2021 20:02:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[天然气期货日内涨幅扩大至5.02%，现报2.9605美元/百万英热。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5287942.d.html</link>
-            <guid>2020333</guid>
-            <pubDate>Wed, 10 Feb 2021 19:59:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉CEO埃隆·马斯克：同意和Kanye West一起在Clubhouse建立聊天室。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6272731.d.html</link>
-            <guid>2020332</guid>
-            <pubDate>Wed, 10 Feb 2021 19:57:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Rivian正为欧洲建厂选址，以便生产电动汽车，并为亚马逊生产（货运）厢车。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5287557.d.html</link>
-            <guid>2020331</guid>
-            <pubDate>Wed, 10 Feb 2021 19:51:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  WTI 3月原油期货收涨0.32美元，涨幅0.55%，连续第八个交易日上涨，报58.68美元/桶。 布伦特4月原油期货收涨0.38美元，涨幅0.62%，报61.47美元/桶，连续九天上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6272307.d.html</link>
-            <guid>2020329</guid>
-            <pubDate>Wed, 10 Feb 2021 19:48:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【鲍威尔：没有考虑缩减资产负债表】美联储主席鲍威尔表示，没有考虑缩减资产负债表。联储资产负债表将继续提供支持。从长期来看，资产负债表不会超过需要的规模。资产负债表的规模将逐渐回归到由公众对负债需求所决定，但不会很快开始。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5287396.d.html</link>
-            <guid>2020328</guid>
-            <pubDate>Wed, 10 Feb 2021 19:46:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股短线小幅走高，道指现涨0.24%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6272224.d.html</link>
-            <guid>2020327</guid>
-            <pubDate>Wed, 10 Feb 2021 19:46:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NYMEX 4月铂金期货收涨4.4%，报1246.90美元/盎司，创2015年2月份以来收盘新高。 纽约铜期货创2013年以来新高，COMEX 3月铜期货收涨1.4%，报3.7725美元/磅。 COMEX 4月黄金期货收涨0.3%，报1842.70美元/盎司。]]></title>
-            <guid>2020326</guid>
-            <pubDate>Wed, 10 Feb 2021 19:35:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  WTI 3月原油期货收涨0.32美元，涨幅0.55%，报58.68美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6271759.d.html</link>
-            <guid>2020325</guid>
-            <pubDate>Wed, 10 Feb 2021 19:34:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
