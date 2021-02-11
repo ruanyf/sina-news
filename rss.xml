@@ -4,11 +4,65 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 11 Feb 2021 18:26:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2021 19:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  拜登政府叫停微信禁用诉讼。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5426785.d.html</link>
+            <guid>2021894</guid>
+            <pubDate>Thu, 11 Feb 2021 19:09:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  墨西哥央行预计墨西哥经济将出现严重疲软。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5426638.d.html</link>
+            <guid>2021893</guid>
+            <pubDate>Thu, 11 Feb 2021 19:07:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国会预算办公室（CBO）：最新的预估包括了前总统特朗普在去年12月份签发的刺激措施，但没有包括拜登已经提出的（1.9万亿美元）救助计划的立法建议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5426489.d.html</link>
+            <guid>2021892</guid>
+            <pubDate>Thu, 11 Feb 2021 19:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  墨西哥央行下调利率至4.00%，符合市场预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6411449.d.html</link>
+            <guid>2021891</guid>
+            <pubDate>Thu, 11 Feb 2021 19:00:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据纽约时报：美国论坛网站Reddit 的CEO表示，公司将出席听证会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6411106.d.html</link>
+            <guid>2021890</guid>
+            <pubDate>Thu, 11 Feb 2021 18:52:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  COMEX 4月黄金期货收跌0.9%，报1826.80美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6410944.d.html</link>
+            <guid>2021889</guid>
+            <pubDate>Thu, 11 Feb 2021 18:49:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股半导体板块造好，联电(UMC.N)涨超6%，美光科技(MU.O)涨4.75%，日月光半导体涨4.28%，台积电(TSM.N)涨3.79%，微芯科技(MCHP.O)涨3.48%，英伟达(NVDA.O)、英特尔(INTC.O)涨超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5425533.d.html</link>
+            <guid>2021887</guid>
+            <pubDate>Thu, 11 Feb 2021 18:43:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国能源部从战略石油储备（SPR）提供最高1010万桶石油用于出售。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6410273.d.html</link>
+            <guid>2021886</guid>
+            <pubDate>Thu, 11 Feb 2021 18:36:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  PayPal：未来数月，将把加密数字货币（支付）服务扩展至英国市场。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5424765.d.html</link>
+            <guid>2021885</guid>
+            <pubDate>Thu, 11 Feb 2021 18:28:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  9个对手方在美联储的固定利率逆回购操作中接纳了1.08亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6409294.d.html</link>
@@ -421,54 +475,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5407271.d.html</link>
             <guid>2021794</guid>
             <pubDate>Thu, 11 Feb 2021 14:06:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所文件：奈雪的茶向港交所递交招股书。摩根大通、招银国际、华泰国际为保荐人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5406992.d.html</link>
-            <guid>2021793</guid>
-            <pubDate>Thu, 11 Feb 2021 14:02:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美、布两油期货短线上扬，WTI原油期货跌幅收窄至不足0.2%，现报58.55美元/桶，布伦特原油期货现跌0.23%，报61.31美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6391936.d.html</link>
-            <guid>2021792</guid>
-            <pubDate>Thu, 11 Feb 2021 14:00:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Riot Blockchain(RIOT.O)：继续接收和部署来自比特大陆的下一代矿工。到2021年第四季度，部署能力将达到目前的三倍以上。还有比特大陆26100台蚂蚁矿机S19 Pro和S19j Antminers的订单，计划在2021年10月之前的每个月发货。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5406444.d.html</link>
-            <guid>2021789</guid>
-            <pubDate>Thu, 11 Feb 2021 13:53:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Uber(UBER.N)CEO：加密货币很快就被换成了现金。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6391517.d.html</link>
-            <guid>2021788</guid>
-            <pubDate>Thu, 11 Feb 2021 13:53:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  KeyBanc：将Uber(UBER.N)目标价从63美元上调至75美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5405798.d.html</link>
-            <guid>2021787</guid>
-            <pubDate>Thu, 11 Feb 2021 13:45:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行管委Makhlouf：资产质量势将恶化。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5405787.d.html</link>
-            <guid>2021786</guid>
-            <pubDate>Thu, 11 Feb 2021 13:44:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行管委Makhlouf：现在还不是放宽财政或货币政策刺激的时候。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5405632.d.html</link>
-            <guid>2021785</guid>
-            <pubDate>Thu, 11 Feb 2021 13:42:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行管委Makhlouf：近期全球经济前景恶化，不确定性加剧。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5405614.d.html</link>
-            <guid>2021784</guid>
-            <pubDate>Thu, 11 Feb 2021 13:42:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
