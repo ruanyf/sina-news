@@ -4,11 +4,112 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 12 Feb 2021 20:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Feb 2021 21:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：Facebook正在打造一款智能手表，希望明年开始销售。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6553426.d.html</link>
+            <guid>2022484</guid>
+            <pubDate>Fri, 12 Feb 2021 21:20:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恐慌指数VIX收于20下方，为2020年2月份以来首次。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6553372.d.html</link>
+            <guid>2022482</guid>
+            <pubDate>Fri, 12 Feb 2021 21:18:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中概股荔枝网和亿邦国际涨超20%，斗鱼涨约9%，跟谁学涨约8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5567388.d.html</link>
+            <guid>2022481</guid>
+            <pubDate>Fri, 12 Feb 2021 21:03:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[大麻股涨跌各异，AGFY涨约12%，Aphria微涨约0.1%，Tilray则跌超9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6552936.d.html</link>
+            <guid>2022480</guid>
+            <pubDate>Fri, 12 Feb 2021 21:03:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[半导体类股中，AMKR和TER均涨超5%。区块链类股多数上涨，LBCC涨超27%，嘉楠科技涨超22%，LFIN和RIOT均涨超10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5567380.d.html</link>
+            <guid>2022479</guid>
+            <pubDate>Fri, 12 Feb 2021 21:03:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PayPal收涨约5%，在标普500指数成分股中表现突出。推特收涨约4.7%，连涨10天，逼近2013年12月收盘历史最高位73.31美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5567366.d.html</link>
+            <guid>2022478</guid>
+            <pubDate>Fri, 12 Feb 2021 21:03:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股三大指数均创历史收盘新高】美股三大指数小幅上涨，均创历史收盘新高，标普500指数收涨0.48%，纳指收涨0.5%，道指收涨0.09%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5567295.d.html</link>
+            <guid>2022477</guid>
+            <pubDate>Fri, 12 Feb 2021 21:00:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  墨西哥央行副行长Esquivel：墨西哥央行可能在今年内降息至少两次，预料本国经济今年增速至少为5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5567230.d.html</link>
+            <guid>2022476</guid>
+            <pubDate>Fri, 12 Feb 2021 20:58:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至2月9日当周，纽约商业交易所（NYMEX）和洲际交易所的天然气期货净多头头寸增加20625手至347747手。]]></title>
+            <guid>2022474</guid>
+            <pubDate>Fri, 12 Feb 2021 20:40:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）数据显示，投机者对美元净空头押注减少至295.30亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6552193.d.html</link>
+            <guid>2022473</guid>
+            <pubDate>Fri, 12 Feb 2021 20:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至2月9日当周，COMEX铜期货投机性净多头头寸增加9939手至87671手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6552185.d.html</link>
+            <guid>2022472</guid>
+            <pubDate>Fri, 12 Feb 2021 20:38:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会(CFTC)：截至2月9日当周，股票基金投机者将标普500指数CME净空头持仓增加3814手至40512手，股票基金经理将标普500指数CME净多头持仓增加10565手至164527手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5566518.d.html</link>
+            <guid>2022471</guid>
+            <pubDate>Fri, 12 Feb 2021 20:35:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：至2月9日当周，投机者将CBOT美国2年期国债期货净空头持仓减少40704手至169516手，美国5年期国债期货净多头持仓增加至2228手，美国10年期国债期货净多头持仓增加20856手至79543手，超长期国债期货净空头持仓增加8591手至220463手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6552030.d.html</link>
+            <guid>2022470</guid>
+            <pubDate>Fri, 12 Feb 2021 20:33:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至2月9日当周，WTI原油期货投机性净多头头寸增加29566手至383715手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6551844.d.html</link>
+            <guid>2022469</guid>
+            <pubDate>Fri, 12 Feb 2021 20:30:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至2月9日当周，COMEX白银期货投机性净多头头寸减少925手至39691手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5566254.d.html</link>
+            <guid>2022468</guid>
+            <pubDate>Fri, 12 Feb 2021 20:30:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至2月9日当周，COMEX黄金期货投机性净多头头寸增加9手至105851手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6551826.d.html</link>
+            <guid>2022467</guid>
+            <pubDate>Fri, 12 Feb 2021 20:30:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IMF预计2021年哥伦比亚经济将逐步复苏。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5566239.d.html</link>
+            <guid>2022466</guid>
+            <pubDate>Fri, 12 Feb 2021 20:29:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ 数字货币交易所Coinbase：正在调查以太币和ERC-20的交易延迟问题。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5565299.d.html</link>
@@ -360,114 +461,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6537824.d.html</link>
             <guid>2022385</guid>
             <pubDate>Fri, 12 Feb 2021 15:56:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【桥水基金四季度清仓特斯拉，增持拼多多】13F报告显示，桥水基金四季度清仓74只股票，包括卖出特斯拉3.565万股。建仓做多169只股票，其中，买入摩根大通41.2775万股，买入美国银行140万股，买入花旗集团36.9670万股，买入富国银行71.4665万股，并买入摩根士丹利和高盛等银行机构，买入嘉信理财，买入微软14.9263万股。增持233只股票，其中沃尔玛持仓增加121%，至308万股，宝洁持仓增加120%，至270万股，拼多多持仓增加30%，至142万份ADS。减持122只股票，其中网易持仓下降39%，至46.1752万股，重仓股包括SPDR S&P 500 ETF Trust（369万股），Vanguard FTSE Emerging Markets ETF（132万股），SPDR Gold Shares（299万股），沃尔玛（308万股），宝洁（270万股）。在四季度，桥水基金披露的持仓规模增长39%，价值达到116亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5552323.d.html</link>
-            <guid>2022384</guid>
-            <pubDate>Fri, 12 Feb 2021 15:55:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  桥水13F报告：2020年第四季度持仓总市值为115.54亿美元，此前为83.15亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6537762.d.html</link>
-            <guid>2022383</guid>
-            <pubDate>Fri, 12 Feb 2021 15:54:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  桥水13F报告：在十大重仓标的中，阿里巴巴获增持，环比增长19%，排名第6位，此前排名第4位。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6537672.d.html</link>
-            <guid>2022382</guid>
-            <pubDate>Fri, 12 Feb 2021 15:52:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【牛年首日电影票房超17亿元 创下中国影史单日总票房、总人次新纪录】数据显示，截至2月12日22时，牛年首日电影票房超过17亿元，总人次3403万，创下中国影史单日总票房、总人次新纪录。其中，《唐人街探案3》票房突破10亿，并刷新中国影史最快破10亿纪录，《你好，李焕英》《刺杀小说家》位列单日票房第二、三名。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6537584.d.html</link>
-            <guid>2022381</guid>
-            <pubDate>Fri, 12 Feb 2021 15:51:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货白银日内涨超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5552004.d.html</link>
-            <guid>2022380</guid>
-            <pubDate>Fri, 12 Feb 2021 15:50:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  热门中概股涨跌互现，蓝城兄弟涨超11%，跟谁学涨5.88%，陌陌科技涨4.77%，哔哩哔哩涨2.69%，趣头条跌超10%，雾芯科技跌3.61%，富途控股跌3.19%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5551958.d.html</link>
-            <guid>2022379</guid>
-            <pubDate>Fri, 12 Feb 2021 15:49:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  标普500指数短线走高，日内转涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6537384.d.html</link>
-            <guid>2022378</guid>
-            <pubDate>Fri, 12 Feb 2021 15:48:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【桥水基金四季度清仓特斯拉】13F报告显示，桥水基金四季度清仓特斯拉，建仓做多摩根大通，减持SPDR Gold Shares，SPDR S&P 500 ETF Trust为其第一大持仓股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5551803.d.html</link>
-            <guid>2022377</guid>
-            <pubDate>Fri, 12 Feb 2021 15:46:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国财政大臣苏纳克：敦促七国集团在数字税收问题上共同努力，争取在2021年年中达成持久的多边解决方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6536689.d.html</link>
-            <guid>2022376</guid>
-            <pubDate>Fri, 12 Feb 2021 15:38:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国财政大臣苏纳克：G7集团同意在达成一项解决数字经济税收挑战的国际解决方案方面取得进展，这被视为一项关键优先事项。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6536666.d.html</link>
-            <guid>2022375</guid>
-            <pubDate>Fri, 12 Feb 2021 15:37:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧盟经济委员真蒂洛尼：G7集团财长会谈很有趣，涉及保持对经济的支持，努力就数字和最低税收达成一致，以及加强国际货币基金组织对低收入国家的支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5551126.d.html</link>
-            <guid>2022374</guid>
-            <pubDate>Fri, 12 Feb 2021 15:36:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉跌超3%，德国汽车管理局宣布由于车身模制问题特斯拉须在全球召回约1.23万辆Model X。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6536376.d.html</link>
-            <guid>2022373</guid>
-            <pubDate>Fri, 12 Feb 2021 15:32:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纽约联储购买了128.1亿美元的国库券。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5550916.d.html</link>
-            <guid>2022372</guid>
-            <pubDate>Fri, 12 Feb 2021 15:32:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据法新社：道达尔的法国GRANDPUITS炼油厂罢工周五结束。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6536345.d.html</link>
-            <guid>2022371</guid>
-            <pubDate>Fri, 12 Feb 2021 15:32:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美股芯片股延续涨势 费城半导体指数现涨1%】美股芯片股延续涨势，费城半导体指数现涨1%，续创历史新高，应用材料涨3.4%，刷新历史新高，高通、英特尔涨逾1%。此前报道称美国政府正在寻求解决半导体芯片日益短缺的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5550880.d.html</link>
-            <guid>2022370</guid>
-            <pubDate>Fri, 12 Feb 2021 15:31:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高通小幅拉涨至1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6536123.d.html</link>
-            <guid>2022369</guid>
-            <pubDate>Fri, 12 Feb 2021 15:28:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日产汽车：未来的小型货车系列将在法国莫伯日生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5550599.d.html</link>
-            <guid>2022368</guid>
-            <pubDate>Fri, 12 Feb 2021 15:26:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：高通反对英伟达400亿美元收购ARM。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5550458.d.html</link>
-            <guid>2022366</guid>
-            <pubDate>Fri, 12 Feb 2021 15:23:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
