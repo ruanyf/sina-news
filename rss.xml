@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 12 Feb 2021 21:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Feb 2021 22:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【高瓴四季度增持拼多多、华住和苹果，减持京东、蔚来汽车、理想汽车、小鹏汽车、爱奇艺、Zoom等】13F报告显示：高瓴资本四季度增持超过20只股票，其中，对拼多多ADR增加2.3916万份ADS，对苹果增持30万股，对华住集团ADR增持42.8316万份ADS，对COGT、KNSA、KOD、MREO、ALGS、ROOT、YQ的增持幅度介于100-464万股。减持大约30只股票的头寸，其中，对逸仙控股ADR减持2713万份ADS，对优步（UBER）减持756万股，对阿里巴巴ADR减持404万份ADS，对京东ADR减持242万份ADS，对蔚来汽车ADR减持241万份ADS，对Zoom减持203万股，对理想汽车ADR减持167万份ADS，对小鹏汽车ADR减持69.0658万份ADS，对爱奇艺ADR减持65.3885万份ADS，对欢聚时代ADR减持23.9476万股，对Snowflake减持8.4万股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6555240.d.html</link>
+            <guid>2022494</guid>
+            <pubDate>Fri, 12 Feb 2021 22:22:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高瓴2020年四季度美股持仓公布：聚焦医药、硬科技、消费三条主线】高瓴在美国证券交易委员会（SEC）公布了2020年四季度末的美股持仓情况。数据显示，高瓴在美股市场持有95家公司的股票，总市值为125亿美元，中概股依然占据强势地位，医药医疗、硬科技、云计算、消费仍旧是重点投资行业。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6554954.d.html</link>
+            <guid>2022493</guid>
+            <pubDate>Fri, 12 Feb 2021 22:13:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际油价12日显著上涨】截至当天收盘，纽约商品交易所3月交货的轻质原油期货价格上涨1.23美元，收于每桶59.47美元，涨幅为2.11%；4月交货的伦敦布伦特原油期货价格上涨1.29美元，收于每桶62.43美元，涨幅为2.11%。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5568980.d.html</link>
+            <guid>2022491</guid>
+            <pubDate>Fri, 12 Feb 2021 22:00:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据英国电讯报：英国财政大臣苏纳克考虑延长暂免征收印花税6周。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6554068.d.html</link>
+            <guid>2022490</guid>
+            <pubDate>Fri, 12 Feb 2021 21:46:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国银行CEO Moynihan的2020年总薪酬降至2450万美元，之前一年为2650万美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5568207.d.html</link>
+            <guid>2022486</guid>
+            <pubDate>Fri, 12 Feb 2021 21:32:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲地中海地震中心：新喀里多尼亚忠诚岛发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6553507.d.html</link>
+            <guid>2022485</guid>
+            <pubDate>Fri, 12 Feb 2021 21:23:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：Facebook正在打造一款智能手表，希望明年开始销售。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6553426.d.html</link>
@@ -419,48 +455,6 @@
             <title><![CDATA[布伦特原油期货涨幅达1%，现报61.81美元/桶；WTI原油期货涨近1%。]]></title>
             <guid>2022395</guid>
             <pubDate>Fri, 12 Feb 2021 16:19:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【牛年春节档单日票房达到17.37亿元，刷新全球单一市场单日票房纪录】2月12日大年初一是春节档电影上映第一天，同步上映的电影包括《唐人街探案3》《你好，李焕英》《刺杀小说家》《人潮汹涌》 《新神榜：哪吒重生》等，据猫眼专业版数据显示，中国电影单日票房就达到了17.37亿元，打破了2019年春节档首日票房14.58亿元的记录，创造中国电影史上最高单日票房纪录。中金公司认为，国内观影需求正稳健复苏，档期影片供给充沛，类型丰富且IP续作数量多，乐观情况下，2021年春节档票房有望达到70.53亿元，较2019年增长28.1%。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5553814.d.html</link>
-            <guid>2022394</guid>
-            <pubDate>Fri, 12 Feb 2021 16:14:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据加拿大广播公司：加拿大将要求航空入境旅客在酒店隔离。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5553499.d.html</link>
-            <guid>2022392</guid>
-            <pubDate>Fri, 12 Feb 2021 16:10:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  《唐探3》进入正式上映第二天，总票房突破15亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5553459.d.html</link>
-            <guid>2022391</guid>
-            <pubDate>Fri, 12 Feb 2021 16:10:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波罗的海干散货运价指数周内录得上涨】因巴拿马型船与超灵便型船运价上涨，抵消了海岬型船运价的下跌，波罗的海干散货指数本周累计上涨0.5%，今日涨26点或2%，至1393点，为2月2日以来新高。海岬型船运价指数跌1点至1242点，为去年12月9日以来新低，日均获利减少8美元至10304美元。巴拿马型船运价指数涨73点或4%，报1944点，创2019年12中月以来最高水平，本周累计涨17%。日均获利增加658美元至17496美元。超灵便型船运价指数涨20点，报1217点，创2019年10月22日以来最高水平，本周累计涨6.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6538340.d.html</link>
-            <guid>2022389</guid>
-            <pubDate>Fri, 12 Feb 2021 16:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COMEX期银攻下27.5美元/盎司，日内涨1.69%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6538042.d.html</link>
-            <guid>2022387</guid>
-            <pubDate>Fri, 12 Feb 2021 16:01:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银短线拉升逾0.30美元，日内整体涨幅扩大至超过1.4%，刷新日高至27.40美元/盎司上方。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5552422.d.html</link>
-            <guid>2022386</guid>
-            <pubDate>Fri, 12 Feb 2021 15:58:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线走高逾10美元，上破1830美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6537824.d.html</link>
-            <guid>2022385</guid>
-            <pubDate>Fri, 12 Feb 2021 15:56:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
