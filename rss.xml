@@ -4,11 +4,143 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 12 Feb 2021 07:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Feb 2021 08:28:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美元指数DXY走高，涨幅0.2%，刷新近三日内高位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5512717.d.html</link>
+            <guid>2022130</guid>
+            <pubDate>Fri, 12 Feb 2021 08:25:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯RTSI指数持续走低，跌幅扩大至2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5510057.d.html</link>
+            <guid>2022127</guid>
+            <pubDate>Fri, 12 Feb 2021 08:13:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[嘉年华欧股跌8.3%，此前遭贝伦伯格下调评级至卖出。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5509441.d.html</link>
+            <guid>2022125</guid>
+            <pubDate>Fri, 12 Feb 2021 08:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中国日报微评：在中国做新闻，就得尊重中国】新年零点，广电总局发布消息不允许BBC继续在中国境内落地，这家造假成性的西方媒体为假新闻付出了代价。这就对了，在新疆假装“采访”，却在作品中明目张胆地造假，如此行事不仅侵害中国利益，更是为全世界基本新闻准则和道德操守所不容。BBC如果将来还想重返中国，就得痛改前非，好好改正自己的行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6495046.d.html</link>
+            <guid>2022124</guid>
+            <pubDate>Fri, 12 Feb 2021 08:09:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  荷兰国际银行欧股涨4.2%，此前公布第四季度业绩。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5509030.d.html</link>
+            <guid>2022123</guid>
+            <pubDate>Fri, 12 Feb 2021 08:05:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧股低开】欧洲股市开盘普遍下行，德国DAX30指数开盘下跌0.58%，报13960.00点；英国富时100指数开盘下跌0.26%，报6511.91点；法国CAC40指数下跌0.30%，报5652.81点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6494602.d.html</link>
+            <guid>2022122</guid>
+            <pubDate>Fri, 12 Feb 2021 08:04:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【明达资产刘明达：好资产进入慢牛长牛时代】明达资产总经理刘明达认为，好资产进入慢牛和长牛的时代。好资产稀缺、流动性环境和资金结构的变化，推动权益市场逐步形成了“二八”结构的定价机制，这种格局会在较长一个时期存在，市场会增加对好公司的估值容忍度，给公司竞争力以高溢价。（中国基金报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5508628.d.html</link>
+            <guid>2022121</guid>
+            <pubDate>Fri, 12 Feb 2021 08:00:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧元兑美元EUR/USD短线下挫十余点，跌幅0.11%，现报1.2114。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6494229.d.html</link>
+            <guid>2022120</guid>
+            <pubDate>Fri, 12 Feb 2021 08:00:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西班牙1月份CPI环比持平，预估为0.1%。西班牙1月份CPI同比上升0.5%，预估为0.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5508531.d.html</link>
+            <guid>2022119</guid>
+            <pubDate>Fri, 12 Feb 2021 08:00:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一大批ETF新品来袭！游戏、化工、"养猪"细分主题全都有】春节前最后3个交易日，包括化工、“养猪”、游戏在内的一大批细分主题ETF获批。据记者梳理，首批化工ETF获批，包括鹏华、富国、华宝、国泰4只主题产品预计牛年首个交易日，即2月18日起陆续发行。包括国泰、鹏华及平安在内的首批畜牧养殖ETF获批待发，还有包括华夏、国泰、华泰柏瑞在内的首批游戏ETF获批，预计2月19日发行。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6494023.d.html</link>
+            <guid>2022118</guid>
+            <pubDate>Fri, 12 Feb 2021 07:58:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国财政大臣苏纳克：需要看到新增确诊病例和住院数字正在下降的情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6493972.d.html</link>
+            <guid>2022117</guid>
+            <pubDate>Fri, 12 Feb 2021 07:58:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国财政大臣苏纳克：冬季经济正显示出韧性的迹象。有理由保持乐观，但需要继续保持谨慎。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5508259.d.html</link>
+            <guid>2022116</guid>
+            <pubDate>Fri, 12 Feb 2021 07:57:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  荷兰银行：预计2021年布伦特原油均价为55美元/桶，2022年为56美元/桶；预计WTI原油2021年及2022年均价为51美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5508016.d.html</link>
+            <guid>2022115</guid>
+            <pubDate>Fri, 12 Feb 2021 07:55:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西班牙借鉴中国设置健康码】当地时间2月11日，西班牙卡斯蒂利亚-拉曼恰大区宣布，当地时间12日起，该大区餐饮场所将重新开放，最大聚集人数限制在6人以下。同时，客人必须在入口处下载健康码才能进入餐饮场所，以详细记录场所中所有人员的行动轨迹，便于开展可能的密切接触者追踪工作。从世界范围来看，中国是最早开始使用这一措施抗疫的国家之一，此番西班牙卡斯蒂利亚-拉曼恰大区也使用了这一防疫措施。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5507975.d.html</link>
+            <guid>2022114</guid>
+            <pubDate>Fri, 12 Feb 2021 07:55:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【芯片企业致信拜登！美国拜登政府回应了！】当地时间11日，包括英特尔、高通、美光和AMD等在内的一批美国芯片制造企业致信总统拜登，要求政府提供资金、资助半导体产业的发展。对此，白宫回应称，拜登政府将着手解决“缺芯”问题。据了解，拜登有望在未来几周签署一项要求政府进行相关行业关键物资供应链评估的行政令。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5507750.d.html</link>
+            <guid>2022113</guid>
+            <pubDate>Fri, 12 Feb 2021 07:53:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯与白俄罗斯据悉将签署港口间原油运输协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5506850.d.html</link>
+            <guid>2022112</guid>
+            <pubDate>Fri, 12 Feb 2021 07:49:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国统计局分析师Anthony：在2020年最后几个月中，制造业和建筑业都出现了强劲增长。去年12月汽车制造业行业等超过了2020年2月的水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5506587.d.html</link>
+            <guid>2022111</guid>
+            <pubDate>Fri, 12 Feb 2021 07:47:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【松下考虑大规模生产新的特斯拉电池】松下考虑大规模生产新的特斯拉电池，将在不久后设立新的特斯拉电池测试生产线，但松下尚未就此做出最终决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5505562.d.html</link>
+            <guid>2022110</guid>
+            <pubDate>Fri, 12 Feb 2021 07:42:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌或领投印度社交平台ShareChat的3亿美元融资。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6490631.d.html</link>
+            <guid>2022109</guid>
+            <pubDate>Fri, 12 Feb 2021 07:39:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【莫斯科直达班列首次开抵“百年口岸”绥芬河】伴随一声长鸣，莫斯科直达绥芬河班列于12日9时10分缓缓驶进绥芬河车站南货场。此趟首发班列横跨欧亚大陆，行程9100余公里，开创绥芬河“百年口岸”历史。绥芬河市处于黑龙江省对外开放的前沿位置，在承接中国东北振兴与俄罗斯远东开发战略对接的过程中发挥纽带作用。此次开行了黑龙江自由贸易试验区绥芬河片区获批以来的首部专列，标志着以莫斯科为中心的俄罗斯欧洲腹地与中国绥芬河实现了互联互通。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5504376.d.html</link>
+            <guid>2022106</guid>
+            <pubDate>Fri, 12 Feb 2021 07:36:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【春运第16天 全国预计发送旅客938万人次】国务院联防联控机制春运工作专班数据显示，2月12日，春运进入第16日，全国预计发送旅客938万人次。其中铁路预计发送旅客140万人次，公路750万人次，水路31万人次，民航17万人次，均较常年大幅下降。全国高速公路预计流量2230万辆，较2020年同期显著上涨，但仍低于2019年同期车流量。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5504147.d.html</link>
+            <guid>2022104</guid>
+            <pubDate>Fri, 12 Feb 2021 07:34:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国政府发言人：不排除东部的摩泽勒地区是否可能需要实施封锁措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6489265.d.html</link>
+            <guid>2022103</guid>
+            <pubDate>Fri, 12 Feb 2021 07:29:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[英国首相约翰逊将于2月22日就退出封锁计划发表声明。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6488390.d.html</link>
@@ -323,126 +455,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6447947.d.html</link>
             <guid>2022021</guid>
             <pubDate>Fri, 12 Feb 2021 02:55:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【地平线完成C轮融资！人工智能有望迎IPO大年】人工智能持续获得资本持续加码。汽车智能芯片公司地平线近日公布新一轮融资结果，战略投资者除了金融机构，还多了比亚迪、舜宇光学等产业龙头。随着资本不断涌入，今年人工智能有望迎来IPO大年。2020年，海天瑞声、云知声、依图科技、云从科技、云天励飞等多家公司披露了招股说明书。2021年初，医疗AI公司医渡科技也完成港股上市。而旷视科技也于2020年9月与中信证券签署科创板上市辅导协议。（上海证券报 ）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6446430.d.html</link>
-            <guid>2022020</guid>
-            <pubDate>Fri, 12 Feb 2021 02:45:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在接受Joe Rogan的采访时，马斯克表示，只要电池供应允许，特斯拉将开始生产小货车。因为Van有平坦的车顶，因此很容易布置太阳能电池板。马斯克认为，在加上可以拉出的车顶后，太阳能大概每天可以给整车提供48km的续航。“那样，即便是世界末日了，车也可以用。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6444905.d.html</link>
-            <guid>2022015</guid>
-            <pubDate>Fri, 12 Feb 2021 02:36:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【有银行暂停直销服务，还关闭购买入口！封堵异地揽存】近期部分中小银行手机银行客户端（APP）上的存款产品也开始进行调整，有银行开始询问“客户来自哪里”；有银行暂停直销银行服务，进行系统整改；还有银行默默关闭了银行存款的购买入口。这些调整源于日前监管部门多次发声，强调银行存款业务的属地管理原则。监管针对银行存款的一系列措施推出后，银行负债端成本压力有望缓解，但中小银行“扩表”难度也大大升级。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6443219.d.html</link>
-            <guid>2022012</guid>
-            <pubDate>Fri, 12 Feb 2021 02:26:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国港口集装箱空箱极度紧缺现状已出现缓解】近日从Container xChange平台得到的数据显示，进入2021年1月以来，中国港口集装箱空箱极度紧缺的现状已出现缓解。上述平台用于追踪全球范围内集装箱流动的“集装箱可用指数”（CAx）显示，目前，20英尺集装箱的CAx指数为0.34，40英尺集装箱的CAx指数为0.37。去年的第47周，也就是11月底、12月初，上述数据一度处于0.07的“赤字状态”。 (第一财经)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5457133.d.html</link>
-            <guid>2022011</guid>
-            <pubDate>Fri, 12 Feb 2021 02:22:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚维多利亚州州长宣布该州实行第四阶段的限制措施。第四阶段限制措施从周五午夜开始，持续五天。必须在州内实行强制的口罩令。维多利亚州的学校将关闭，人们开始在家工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5455953.d.html</link>
-            <guid>2022008</guid>
-            <pubDate>Fri, 12 Feb 2021 02:17:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY升至90.5上方，日内涨0.10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6440606.d.html</link>
-            <guid>2022005</guid>
-            <pubDate>Fri, 12 Feb 2021 02:12:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[机构调查：第一季度欧元区经济将萎缩0.8%，第二季度增长2.1%，第三季度增长1.9%，第四季度增长1.2%。（一月预期分别为增长0.6%、2.3%、1.9%、1.0%）。36位分析师中有28位认为，欧元区的经济增长预期偏向下行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5454025.d.html</link>
-            <guid>2022001</guid>
-            <pubDate>Fri, 12 Feb 2021 02:08:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新西兰基准股指跌1.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5453949.d.html</link>
-            <guid>2022000</guid>
-            <pubDate>Fri, 12 Feb 2021 02:08:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2021春运：2月11日全国发送旅客1191.9万人次】来自国务院联防联控机制春运工作专班数据显示，2月11日，全国发送旅客1191.9万人次。其中，铁路239.3万人次，公路903.0万人次，水路26.3万人次，民航23.3万人次。全国高速公路流量1928.5万辆。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6438682.d.html</link>
-            <guid>2021999</guid>
-            <pubDate>Fri, 12 Feb 2021 02:03:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2020年国开行向实体经济直接让利335亿元】 从国家开发银行获悉，2020年，国开行人民币贷款余额新增1万亿元，有效发挥逆周期调节作用；通过降息减费等多种方式，直接向实体经济让利335亿元。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5452766.d.html</link>
-            <guid>2021998</guid>
-            <pubDate>Fri, 12 Feb 2021 02:01:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【富国银行全球策略师：看好新兴市场的股票】 富国银行投资研究所（Wells Fargo Investment Institute）全球策略师Gary Schlossberg表示对国债持谨慎态度，尤其是该板块市场中较长期限的长线投资，而倾向于更高质量的企业债、高收益的地方债。在股票市场上，我们青睐美国的科技、通信服务和周期性敏感行业，而不是国防和利益敏感的公用事业和消费类大宗商品。由于对收益率的敏感性，房地产投资信托基金（REITS）也被认为是不利的。在海外，我们看好新兴市场的股票，主要是因为对亚洲市场持积极态度，不看好其他发达市场，因为我们对欧洲市场持谨慎态度。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6437693.d.html</link>
-            <guid>2021996</guid>
-            <pubDate>Fri, 12 Feb 2021 01:56:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国纽约州州长科莫与阿肯色州州长Hutchinson将于周五与美国总统拜登会面。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5451978.d.html</link>
-            <guid>2021995</guid>
-            <pubDate>Fri, 12 Feb 2021 01:55:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本东芝计划提高财年净营收预测及派息计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6436508.d.html</link>
-            <guid>2021994</guid>
-            <pubDate>Fri, 12 Feb 2021 01:46:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本政府发言人：政府尚未收到东京奥组委主席森喜朗的正式辞呈。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6435880.d.html</link>
-            <guid>2021992</guid>
-            <pubDate>Fri, 12 Feb 2021 01:42:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微软在推特表示，正在调查用户报告的Microsoft Teams出现的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5449449.d.html</link>
-            <guid>2021991</guid>
-            <pubDate>Fri, 12 Feb 2021 01:39:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国众议院一个小组委员会提出150亿美元航空公司工资援助的刺激法案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5449304.d.html</link>
-            <guid>2021990</guid>
-            <pubDate>Fri, 12 Feb 2021 01:38:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国财长耶伦周五将与美联储主席鲍威尔一起参加G7集团财长会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5447966.d.html</link>
-            <guid>2021989</guid>
-            <pubDate>Fri, 12 Feb 2021 01:28:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[抖音发布2021春晚数据报告，报告显示，春晚期间红包总互动次数达703亿，直播间累计观看人次12.21亿，实时在线最高人数达498.46万。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6433622.d.html</link>
-            <guid>2021988</guid>
-            <pubDate>Fri, 12 Feb 2021 01:28:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿斯利康Q4营收74.1亿美元 净利润同比增长144%】阿斯利康公布的财报显示，公司四季度营收74.1亿美元，同比增长11%；归母净利润为19.34亿美元，同比增长144%；摊薄后每股收益0.78美元，同比增长225%。阿斯利康全年营收为266.17亿美元，同比增长9%；归母净利润为47.52亿美元，去年同期为6.16亿美元；摊薄后每股收益2.44美元，去年同期为1.03美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6432075.d.html</link>
-            <guid>2021987</guid>
-            <pubDate>Fri, 12 Feb 2021 01:18:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国总统拜登将于周五与美国财长耶伦一起听取经济简报。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6431011.d.html</link>
-            <guid>2021986</guid>
-            <pubDate>Fri, 12 Feb 2021 01:10:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
