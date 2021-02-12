@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 12 Feb 2021 22:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Feb 2021 23:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国中长期美债收益率创2021年新高】 周五（2月12日）美国中长期美债收益率创2021年新高，美国10年期基准国债收益率涨4.50个基点，报1.2082%，本周累涨3.78个基点。20年期美债收益率涨6.21个基点，报1.8303%，本周累涨5.16个基点；30年期美债收益率涨5.86个基点，报2.0086%，盘中交投于1.9287%-2.0115%区间，本周累涨3.76个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6557584.d.html</link>
+            <guid>2022503</guid>
+            <pubDate>Fri, 12 Feb 2021 23:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  除夕和初一两日，全国快递处理超1.3亿件，同比增长223%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6556699.d.html</link>
+            <guid>2022499</guid>
+            <pubDate>Fri, 12 Feb 2021 23:05:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[离岸人民币（CNH）兑美元北京时间05:59报6.4205元，较周四纽约尾盘涨29点，盘中整体交投于6.4377-6.4188元区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6556279.d.html</link>
+            <guid>2022496</guid>
+            <pubDate>Fri, 12 Feb 2021 22:53:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【高瓴四季度增持拼多多、华住和苹果，减持京东、蔚来汽车、理想汽车、小鹏汽车、爱奇艺、Zoom等】13F报告显示：高瓴资本四季度增持超过20只股票，其中，对拼多多ADR增加2.3916万份ADS，对苹果增持30万股，对华住集团ADR增持42.8316万份ADS，对COGT、KNSA、KOD、MREO、ALGS、ROOT、YQ的增持幅度介于100-464万股。减持大约30只股票的头寸，其中，对逸仙控股ADR减持2713万份ADS，对优步（UBER）减持756万股，对阿里巴巴ADR减持404万份ADS，对京东ADR减持242万份ADS，对蔚来汽车ADR减持241万份ADS，对Zoom减持203万股，对理想汽车ADR减持167万份ADS，对小鹏汽车ADR减持69.0658万份ADS，对爱奇艺ADR减持65.3885万份ADS，对欢聚时代ADR减持23.9476万股，对Snowflake减持8.4万股。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6555240.d.html</link>
@@ -414,47 +432,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6540499.d.html</link>
             <guid>2022403</guid>
             <pubDate>Fri, 12 Feb 2021 16:30:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲STOXX 600指数初步收涨0.52%，报413.48点。德国DAX 30指数初步收跌0.09%，报14027.96点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5555053.d.html</link>
-            <guid>2022402</guid>
-            <pubDate>Fri, 12 Feb 2021 16:30:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：欧洲央行前行长德拉基将于当地时间晚上7点与意大利总统会面，料将确认德拉基会组建新政府。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6540423.d.html</link>
-            <guid>2022401</guid>
-            <pubDate>Fri, 12 Feb 2021 16:30:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：通用电气在第四季度取消了400架737 MAX喷气发动机的订单。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6540255.d.html</link>
-            <guid>2022400</guid>
-            <pubDate>Fri, 12 Feb 2021 16:27:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特殊目的收购公司(SPAC)Churchill Capital Corp. VII上市首日开涨7%，开盘价报10.71美元，IPO发行价为10美元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5554560.d.html</link>
-            <guid>2022398</guid>
-            <pubDate>Fri, 12 Feb 2021 16:23:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  富途控股短线走高，现转涨，开盘一度跌超10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6539643.d.html</link>
-            <guid>2022397</guid>
-            <pubDate>Fri, 12 Feb 2021 16:20:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油期货涨幅达1%，现报58.82美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5554240.d.html</link>
-            <guid>2022396</guid>
-            <pubDate>Fri, 12 Feb 2021 16:20:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[布伦特原油期货涨幅达1%，现报61.81美元/桶；WTI原油期货涨近1%。]]></title>
-            <guid>2022395</guid>
-            <pubDate>Fri, 12 Feb 2021 16:19:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
