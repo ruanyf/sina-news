@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 13 Feb 2021 06:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2021 07:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  来自国务院联防联控机制春运工作专班数据显示，2月13日大年初二，春运进入第17日，全国预计发送旅客996万人次。其中铁路预计发送旅客210万人次，公路720万人次，水路32万人次，民航34万人次。预计全国高速公路流量3399万辆，各项数据保持低位运行，就地过年成为各地群众欢度新春的首选。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5636745.d.html</link>
+            <guid>2023089</guid>
+            <pubDate>Sat, 13 Feb 2021 06:57:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据俄罗斯卫星网：阿富汗警方表示，阿富汗南部的坎大哈省发生汽车炸弹爆炸事件，造成7名警察受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6620251.d.html</link>
+            <guid>2023088</guid>
+            <pubDate>Sat, 13 Feb 2021 06:44:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  IMF称，完成对乌克兰的评估还需要取得更多的进展。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6616131.d.html</link>
@@ -323,42 +335,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6554068.d.html</link>
             <guid>2022490</guid>
             <pubDate>Fri, 12 Feb 2021 21:46:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国银行CEO Moynihan的2020年总薪酬降至2450万美元，之前一年为2650万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5568207.d.html</link>
-            <guid>2022486</guid>
-            <pubDate>Fri, 12 Feb 2021 21:32:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲地中海地震中心：新喀里多尼亚忠诚岛发生5.2级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6553507.d.html</link>
-            <guid>2022485</guid>
-            <pubDate>Fri, 12 Feb 2021 21:23:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：Facebook正在打造一款智能手表，希望明年开始销售。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6553426.d.html</link>
-            <guid>2022484</guid>
-            <pubDate>Fri, 12 Feb 2021 21:20:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恐慌指数VIX收于20下方，为2020年2月份以来首次。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6553372.d.html</link>
-            <guid>2022482</guid>
-            <pubDate>Fri, 12 Feb 2021 21:18:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中概股荔枝网和亿邦国际涨超20%，斗鱼涨约9%，跟谁学涨约8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5567388.d.html</link>
-            <guid>2022481</guid>
-            <pubDate>Fri, 12 Feb 2021 21:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大麻股涨跌各异，AGFY涨约12%，Aphria微涨约0.1%，Tilray则跌超9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6552936.d.html</link>
-            <guid>2022480</guid>
-            <pubDate>Fri, 12 Feb 2021 21:03:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
