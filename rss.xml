@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 13 Feb 2021 09:24:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2021 10:25:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【国家邮政局：除夕和初一包裹量超1.3亿件 同比增长223%】2月13日，国家邮政局数据显示，除夕和初一两日，全国快递处理量超1.3亿件，同比增长223%。据悉，春节期间，为保广大用户能够顺利收到年货，邮政EMS、顺丰、京东物流、中通、圆通、申通、韵达、百世、德邦和极兔等品牌快递企业春节不打烊，预计全行业在岗人数超百万人。（中证网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5655151.d.html</link>
+            <guid>2023112</guid>
+            <pubDate>Sat, 13 Feb 2021 09:32:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家邮政局：1月份全国快递业务量完成84.9亿件，同比增长124.7%】2月13日，据国家邮政局消息，1月份，全国快递服务企业业务量完成84.9亿件，同比增长124.7%；业务收入完成867.6亿元，同比增长73.3%。其中，同城业务量完成10.5亿件，同比增长58.0%；异地业务量完成72.6亿件，同比增长141.5%；国际/港澳台业务量完成1.9亿件，同比增长69.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6640036.d.html</link>
+            <guid>2023110</guid>
+            <pubDate>Sat, 13 Feb 2021 09:30:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【字节跳动或将TikTok印度业务售予当地竞争对手Glance】媒体援引知情人士称，字节跳动据称正寻求将TikTok的印度业务出售给当地竞争对手Glance。报道援引知情人士的话称，由日本软银集团发起的讨论是私下进行的，目前仍处于早期阶段，并且较为复杂。（界面新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5654825.d.html</link>
+            <guid>2023109</guid>
+            <pubDate>Sat, 13 Feb 2021 09:29:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国前第一夫人宣布办公室“开张” 未透露工作内容】美国前总统特朗普的妻子梅拉尼娅·特朗普在社交媒体上宣布设立“梅拉尼娅·特朗普办公室”，但并没有透露她将在那里做什么。据媒体此前报道，梅拉尼娅·特朗普计划在佛罗里达州棕榈滩县设立自己的办公室，将自己倡议的“成为最好”(Be Best)项目继续下去，该项目聚焦于社交媒体的安全使用以及预防药物成瘾和药物依赖等方面。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6639629.d.html</link>
+            <guid>2023108</guid>
+            <pubDate>Sat, 13 Feb 2021 09:25:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  国家电影局13日下午发布数据显示，2021年2月12日正月初一全国电影票房超过17亿元，刷新了2019年创造的14.43亿元的正月初一单日票房纪录。（新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6635432.d.html</link>
@@ -335,12 +359,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6559885.d.html</link>
             <guid>2022508</guid>
             <pubDate>Fri, 12 Feb 2021 23:49:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国中长期美债收益率创2021年新高】 周五（2月12日）美国中长期美债收益率创2021年新高，美国10年期基准国债收益率涨4.50个基点，报1.2082%，本周累涨3.78个基点。20年期美债收益率涨6.21个基点，报1.8303%，本周累涨5.16个基点；30年期美债收益率涨5.86个基点，报2.0086%，盘中交投于1.9287%-2.0115%区间，本周累涨3.76个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6557584.d.html</link>
-            <guid>2022503</guid>
-            <pubDate>Fri, 12 Feb 2021 23:20:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
