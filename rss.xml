@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 13 Feb 2021 14:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2021 15:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  据日本放送协会NHK：约有19.6万户家庭因地震而面临停电。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6669774.d.html</link>
+            <guid>2023148</guid>
+            <pubDate>Sat, 13 Feb 2021 15:13:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国参议院将听取关于特朗普弹劾审判的结案陈词，预计今天将进行投票。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6669515.d.html</link>
+            <guid>2023147</guid>
+            <pubDate>Sat, 13 Feb 2021 15:09:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本福岛核电站目前未见异常】据日媒，13日晚日本7.1级地震发生后，东京电力公司发布称，福岛第一核电站和福岛第二核电站在可视范围内目前没有观测到异常，相关人员正在确认详细情况。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6666531.d.html</link>
+            <guid>2023146</guid>
+            <pubDate>Sat, 13 Feb 2021 14:32:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NHK：日本的地震没有海啸威胁，茨城县核电厂没有报告异常。发生强震后，日本政府设立工作组。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6666065.d.html</link>
+            <guid>2023145</guid>
+            <pubDate>Sat, 13 Feb 2021 14:25:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[日本当地时间2月13日23时8分，日本东北地区发生里氏7.1级地震。东京有强烈震感，门窗剧烈摇动。（人民日报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5680214.d.html</link>
@@ -336,23 +360,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6578596.d.html</link>
             <guid>2022537</guid>
             <pubDate>Sat, 13 Feb 2021 01:49:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国法官不会阻止亚利桑那州移交矿产土地给力拓】 周五（2月12日），美国联邦法官Steven Logan表示，亚利桑那州圣卡洛斯阿帕奇部落关于美国政府非法占有一地块超过160年的主张缺乏依据，支持政府公诉人关于美国政府通过1848年与墨西哥签订条约获得该地块的说法，即政府有权随心所欲地处置该土地。这意味着，法官Logan不会阻止美国林务局将亚利桑那州一块所有权归政府的土地转让给力拓，用于该公司的Resolution Copper项目。该法官对案件的裁决意味着，亚利桑那州圣卡洛斯阿帕奇部落成员之间的冲突将会加剧。力拓及其合作伙伴必和必拓虽然已经在项目上投资超过10亿美元，却尚未生产出任何的铜。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6576923.d.html</link>
-            <guid>2022535</guid>
-            <pubDate>Sat, 13 Feb 2021 01:39:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据Politico报道，知情人士透露，Facebook和推特的CEO正在与众议院议员们谈判，最早将于下个月在听证会上作证。据悉，Facebook讨论过让CEO马克·扎克伯格出席众议院能源和商务委员会的听证会，推特CEO也在讨论此事，目前听证会的具体焦点还不清楚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6575337.d.html</link>
-            <guid>2022534</guid>
-            <pubDate>Sat, 13 Feb 2021 01:29:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：02月13日09时22分在四川凉山州木里县附近（北纬28.99度，东经100.92度）发生3.1级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>2022533</guid>
-            <pubDate>Sat, 13 Feb 2021 01:25:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
