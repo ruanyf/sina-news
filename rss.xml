@@ -4,13 +4,30 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 13 Feb 2021 16:36:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2021 17:28:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[  市场消息：日本气象厅将地震震级从最初的7.1级上调至7.3级。]]></title>
+            <title><![CDATA[  日本首相菅义伟：地震没有带来海啸威胁，目前也没有报告出现重大损失。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6678510.d.html</link>
+            <guid>2023174</guid>
+            <pubDate>Sat, 13 Feb 2021 17:16:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国参议院休会，针对特朗普的弹劾审判将于美东时间下午12:30（北京时间14日13:30）恢复。]]></title>
+            <guid>2023158</guid>
+            <pubDate>Sat, 13 Feb 2021 16:46:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【日本地震致超90万户居民停电 已有多人受伤】日本官房长官加藤胜信在记者会上表示，据经济产业省收到的报告，截至13日晚11时30分，日本有超过90万户居民停电。截至14日凌晨1时30分，福岛县已有8人受伤，宫城县1人受伤。有职员表示，目前还在迅速收集受灾信息，明确具体受灾情况还需要时间。目前不担心海啸的发生，正在敦促居民撤离。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6675935.d.html</link>
+            <guid>2023157</guid>
+            <pubDate>Sat, 13 Feb 2021 16:42:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本修改震级为7.3级】2月14日，日本气象厅将宫城县和福岛县地震震级从7.1级修改为7.3级，震源深度从约60公里修改为55公里。超90万户居民停电。截至14日凌晨1时30分，此次地震造成多人受伤。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6675058.d.html</link>
             <guid>2023156</guid>
             <pubDate>Sat, 13 Feb 2021 16:33:32 GMT</pubDate>
@@ -324,24 +341,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5603750.d.html</link>
             <guid>2022731</guid>
             <pubDate>Sat, 13 Feb 2021 02:54:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拼多多升至高瓴、景林第一大重仓股 阿里遭高瓴清仓】当地时间周五，多家机构向美国SEC提交了截至四季度末的美股持仓情况，中概股拼多多成为了众多知名机构的新宠。高瓴资本增持拼多多2.3万股（季度末总持仓1023万股），但由于公司股价本身的优异表现上升至基金第一大重仓的位置，前一季度拼多多仓位占基金总市值比重仅为5.73%；景林资产增仓拼多多311.5万股，持仓达到640万股，持仓市值占总仓位比重高达26.13%；桥水基金增持拼多多32.72万股，持仓达到142万股，进入前十大持仓股。与此同时，阿里却遭高瓴资本清仓，并退出景林资产前十大持仓。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6589227.d.html</link>
-            <guid>2022728</guid>
-            <pubDate>Sat, 13 Feb 2021 02:53:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【《唐人街探案3》创单市场单片首日和单日全球最高票房纪录】2月12日，2021年中国电影春节档取得开门红。春节档上映的7部作品中，万达电影出品的《唐人街探案3》一骑绝尘，首日狂收票房10.5亿元（1.626亿美元），不仅打破《复仇者联盟4：终局之战》保持的内地首日票房7.28亿元的纪录，成为内地影史首部单日破10亿票房的影片，而且超过《复联4》在北美首日1.5746亿美元票房，创单市场单片首日和单日全球最高票房纪录！猫眼专业版数据显示，《唐人街探案3》上映首日票房占比60.3%，播放18万场次，排片占比38.3%，提前锁定今年春节档最大赢家。（中国经济网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6589047.d.html</link>
-            <guid>2022716</guid>
-            <pubDate>Sat, 13 Feb 2021 02:52:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2月12日全国发送旅客755.7万人次】来自国务院联防联控机制春运工作专班数据显示，2月12日，全国发送旅客755.7万人次。其中，铁路111.3万人次，公路601.0万人次，水路27.2万人次，民航16.2万人次。全国高速公路流量1994.1万辆。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6586611.d.html</link>
-            <guid>2022658</guid>
-            <pubDate>Sat, 13 Feb 2021 02:38:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
