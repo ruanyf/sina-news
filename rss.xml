@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 13 Feb 2021 12:30:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2021 13:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国地质勘探局：美国阿拉斯加州西海岸阿克希奥克发生5.4级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6659171.d.html</link>
+            <guid>2023139</guid>
+            <pubDate>Sat, 13 Feb 2021 13:14:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【山东：核酸检测不再收挂号费和门诊诊察费】记者从山东省卫健委了解到，根据山东省医疗保障局、山东省卫生健康委联合印发的《关于明确公立医疗机构新型冠状病毒核酸检测收费政策有关问题的通知》，自2月11日起，各级公立医疗机构要设置专门的窗口和区域，为单纯进行核酸检测采样提供服务，不收取挂号费和门诊诊察费（一般诊疗费）。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5670997.d.html</link>
+            <guid>2023136</guid>
+            <pubDate>Sat, 13 Feb 2021 12:46:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【春节假期前3天北京接待游客275.8万人次 同比增长1.2倍】北京市文化和旅游局13日通报称，春节假期前3天，北京市重点监测147家景区，累计接待游客275.8万人次，与去年同期相比增长1.2倍；营业收入2.2亿元(人民币，下同)，与去年同期相比增长1.8倍。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5669591.d.html</link>
@@ -330,18 +342,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5585257.d.html</link>
             <guid>2022530</guid>
             <pubDate>Sat, 13 Feb 2021 01:05:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国总统拜登和第一夫人发表春节祝福】当地时间2月12日（农历大年初一），美国总统乔·拜登与第一夫人吉尔·拜登在社交媒体上发表视频，送上春节祝福。他们祝愿每一位庆祝春节的人节日快乐，并表示这是一个辞旧迎新的时刻，也是一个庆祝的时刻，对很多美国人来说，从来没有像这样现在这样需要一个新的开始。针对种族主义、骚扰和仇恨，美国总统乔·拜登表示，“这是完全错误的。每一个人，无论他们的种族、背景、宗教或者他们所说的语言是什么，都应得到平等的待遇和应有的尊严。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6566932.d.html</link>
-            <guid>2022524</guid>
-            <pubDate>Sat, 13 Feb 2021 00:41:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲央行前行长德拉吉将出任意大利总理】欧洲央行前行长马里奥·德拉吉12日晚宣布，他已正式接受意大利总统马塔雷拉的任命，作为总理领导意大利新一届政府。德拉吉当晚在与马塔雷拉会晤后对媒体说，意大利央行高级副行长达尼埃莱·佛朗哥将担任经济和财政部长，来自联盟党的贾恩卡洛·吉奥吉耶蒂将担任经济发展部长。上届政府的外交部长、内政部长、国防部长和卫生部长将留任原职。据报道，预计新政府将于13日宣誓就职，议会将于下周对新政府进行信任投票。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6565598.d.html</link>
-            <guid>2022523</guid>
-            <pubDate>Sat, 13 Feb 2021 00:33:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
