@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 13 Feb 2021 08:28:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2021 09:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  国家电影局13日下午发布数据显示，2021年2月12日正月初一全国电影票房超过17亿元，刷新了2019年创造的14.43亿元的正月初一单日票房纪录。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6635432.d.html</link>
+            <guid>2023105</guid>
+            <pubDate>Sat, 13 Feb 2021 08:55:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2021年总台春晚：海内外受众总规模再创新高】来自中央广播电视总台的消息，2021年春晚海内外受众总规模再创新高，超越去年的12.32亿人，达12.72亿人，且连续第三年刷新跨媒体传播纪录，其中新媒体直点播用户规模7.34亿人，同比增加1.28亿人，用户直点播累计观看次数达49.75亿次。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5648990.d.html</link>
+            <guid>2023102</guid>
+            <pubDate>Sat, 13 Feb 2021 08:39:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  当地时间2月13日，索马里首都摩加迪沙的议会总部附近的一个安全检查站发生汽车炸弹爆炸。一辆载有爆炸物的车辆通过了一处安全检查站，并与安全部队发生交火，之后在另一个检查站附近爆炸。目前，伤亡人数不详，尚无任何组织声称对这次袭击负责。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6633183.d.html</link>
@@ -329,18 +341,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6557584.d.html</link>
             <guid>2022503</guid>
             <pubDate>Fri, 12 Feb 2021 23:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  除夕和初一两日，全国快递处理超1.3亿件，同比增长223%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6556699.d.html</link>
-            <guid>2022499</guid>
-            <pubDate>Fri, 12 Feb 2021 23:05:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[离岸人民币（CNH）兑美元北京时间05:59报6.4205元，较周四纽约尾盘涨29点，盘中整体交投于6.4377-6.4188元区间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6556279.d.html</link>
-            <guid>2022496</guid>
-            <pubDate>Fri, 12 Feb 2021 22:53:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
