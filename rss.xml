@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 13 Feb 2021 20:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2021 21:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国国会参议院否决针对特朗普的弹劾条款】当地时间2月13日，负责审理美国前总统特朗普弹劾案的美国国会参议院投票否决了针对特朗普“煽动叛乱”的弹劾条款，特朗普未被定罪。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5703828.d.html</link>
+            <guid>2023356</guid>
+            <pubDate>Sat, 13 Feb 2021 21:15:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国参议院同意跳过特朗普弹劾案传召证人环节，开始结案辩论。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5697378.d.html</link>
@@ -324,12 +330,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6602182.d.html</link>
             <guid>2022927</guid>
             <pubDate>Sat, 13 Feb 2021 04:00:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【BitPay与Apple Pay合作3.8亿用户提供加密支付】据国外媒体报道，支持加密功能的主要支付公司仍在继续推出加密支付服务，BitPay宣布其万事达预付卡用户现在可以连接到Apple Wallet，用Apple Pay进行支付。Bitpay目前支持BTC、ETH、BCH和多种稳定币进行支付。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6598177.d.html</link>
-            <guid>2022877</guid>
-            <pubDate>Sat, 13 Feb 2021 03:44:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
