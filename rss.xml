@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 13 Feb 2021 10:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2021 11:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  前欧洲央行行长德拉基宣誓就任新一届意大利总理。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5661900.d.html</link>
+            <guid>2023120</guid>
+            <pubDate>Sat, 13 Feb 2021 10:59:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：伊朗与阿富汗边境处发生一起油气罐爆炸事件。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5661642.d.html</link>
+            <guid>2023118</guid>
+            <pubDate>Sat, 13 Feb 2021 10:54:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【国家邮政局：除夕和初一包裹量超1.3亿件 同比增长223%】2月13日，国家邮政局数据显示，除夕和初一两日，全国快递处理量超1.3亿件，同比增长223%。据悉，春节期间，为保广大用户能够顺利收到年货，邮政EMS、顺丰、京东物流、中通、圆通、申通、韵达、百世、德邦和极兔等品牌快递企业春节不打烊，预计全行业在岗人数超百万人。（中证网）]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5655151.d.html</link>
@@ -336,29 +348,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6561016.d.html</link>
             <guid>2022513</guid>
             <pubDate>Sat, 13 Feb 2021 00:01:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京连续14天本地零新增】2月12日0时至24时，北京无新增本地确诊病例、疑似病例和无症状感染者；无新增境外输入确诊病例、疑似病例和无症状感染者。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5574896.d.html</link>
-            <guid>2022511</guid>
-            <pubDate>Fri, 12 Feb 2021 23:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：1、形式不断丰富，渠道不断拓宽，民主更加健全，彰显制度优势（大数据观察·数说全面小康）；2、中央广播电视总台春晚观众规模逾十二亿，刷新多项传播纪录；3、在我国测绘史上创造多个“首次”——登顶珠峰测高程（我们的2020）；4、中方决不接受假新闻（钟声）；5、热闹红火、健康环保——文明新风助年味更浓；6、确保民生物资充足，加强节日商品保障，物流不打烊，购销更顺畅；7、国家航天局发布“天问一号”探测器火星捕获过程影像。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6560005.d.html</link>
-            <guid>2022510</guid>
-            <pubDate>Fri, 12 Feb 2021 23:50:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[今天《人民日报》头版的主要内容有：1、各族人民幸福吉祥 伟大祖国繁荣富强；2、消费变化折射消费结构升级轨迹——新春购物车 越来越丰富（“十三五”，我们这样走过）；3、长洛乡——山里致富路更宽（新春走基层）；4、卡路村——村里开心事更多（新春走基层）；5、家国从来是同心（今日谈）。]]></title>
-            <guid>2022509</guid>
-            <pubDate>Fri, 12 Feb 2021 23:50:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Robinhood，Melvin，Citadel，Reddit的高管们都将（于下周）出席美国国会关于游戏驿站（GME）股票交易的听证会。可能会就GME股票交易问题传唤其他目击者。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6559885.d.html</link>
-            <guid>2022508</guid>
-            <pubDate>Fri, 12 Feb 2021 23:49:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
