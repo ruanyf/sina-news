@@ -4,13 +4,31 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 14 Feb 2021 01:48:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2021 02:29:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【特斯拉回应推出16万元更便宜车型：谣言，从来没说过】特斯拉中国相关人士今日向记者回应称，谣言，从来没有说过。据此前有媒体消息称，特斯拉中国总裁朱晓彤在接受采访时证实，该公司正在研发一款面向大众市场的更便宜的特斯拉，预计零售价为16万元人民币（2.5万美元）。“车辆设计、车辆工程、车辆开发和车辆测试，都将在新工厂进行”，特斯拉将在2021年11月的广州车展上展示这款车，该车有望取代Model 3。]]></title>
+            <title><![CDATA[【2月13日全国发送旅客1079.7万人次】来自国务院联防联控机制春运工作专班数据显示，2月13日，全国发送旅客1079.7万人次。其中，铁路226.3万人次，公路786.0万人次，水路34.9万人次，民航32.5万人次。全国高速公路流量3107.3万辆。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6718195.d.html</link>
+            <guid>2023441</guid>
+            <pubDate>Sun, 14 Feb 2021 02:21:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国务院称应对朝核问题是拜登政府当务之急】路透社援引美国国务院当地时间12日消息声称，应对朝鲜的核武器和弹道导弹项目是美国的当务之急，华盛顿仍致力于朝鲜无核化。美国务院发言人内德·普赖斯表示，拜登政府还没有和朝鲜进行直接接触，但这不意味着朝鲜武器项目构成的挑战不是美国的优先问题。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6716011.d.html</link>
+            <guid>2023440</guid>
+            <pubDate>Sun, 14 Feb 2021 02:07:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【《唐人街探案3》票房破22亿 刷新国产片单周票房纪录】猫眼电影专业版统计，《唐人街探案3》首周票房达22.33亿，创造中国电影市场单片首周票房纪录，单片单周票房纪录。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5728821.d.html</link>
+            <guid>2023437</guid>
+            <pubDate>Sun, 14 Feb 2021 01:55:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特斯拉回应推出16万元更便宜车型：谣言，从来没说过】特斯拉中国相关人士今日向记者回应称，谣言，从来没有说过。据此前有媒体消息称，特斯拉中国总裁朱晓彤在接受采访时证实，该公司正在研发一款面向大众市场的更便宜的特斯拉，预计零售价为16万元人民币（2.5万美元）。“车辆设计、车辆工程、车辆开发和车辆测试，都将在新工厂进行”，特斯拉将在2021年11月的广州车展上展示这款车，该车有望取代Model 3。 （科创板日报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5727886.d.html</link>
             <guid>2023436</guid>
             <pubDate>Sun, 14 Feb 2021 01:48:20 GMT</pubDate>
@@ -345,12 +363,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5636745.d.html</link>
             <guid>2023089</guid>
             <pubDate>Sat, 13 Feb 2021 06:57:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据俄罗斯卫星网：阿富汗警方表示，阿富汗南部的坎大哈省发生汽车炸弹爆炸事件，造成7名警察受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6620251.d.html</link>
-            <guid>2023088</guid>
-            <pubDate>Sat, 13 Feb 2021 06:44:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
