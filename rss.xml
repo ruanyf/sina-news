@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 14 Feb 2021 15:22:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2021 16:37:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【阿根廷前总统梅内姆去世 享年90岁】当地时间2月14日上午，阿根廷前总统卡洛斯·梅内姆在首都布宜诺斯艾利斯帕勒莫区的一家医院因病去世，享年90岁。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-15/detail-ikftssap5819047.d.html</link>
+            <guid>2023739</guid>
+            <pubDate>Sun, 14 Feb 2021 16:15:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【洛亚蒂群岛发生5.7级地震 震源深度10千米】据中国地震台网正式测定，北京时间2月14日23时1分（当地时间2月15日2时1分）在洛亚蒂群岛发生5.7级地震，震源深度10千米，震中位于南纬23.15度，东经171.65度。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5816896.d.html</link>
+            <guid>2023706</guid>
+            <pubDate>Sun, 14 Feb 2021 15:41:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【互联网金融监管政策频出，行业马太效应或将凸显】互联网金融风险整治以来，具备实力的互联网金融公司结束野蛮生长的P2P网贷业务模式，依托自身经营优势寻求转型金融科技，主营业务逐渐演进为助贷业务、消费金融业务和财富管理业务等。而在2020年，互金行业不仅迎来曾经的第一大网贷平台陆金所控股的上市，也迎来了金融科技相关监管政策的频频出台。“业内预计，助贷行业在规范快速发展的同时，行业马太效应也会更加显著。”乐信CEO肖文杰表示。（澎湃）]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6792110.d.html</link>
@@ -365,18 +377,6 @@
             <title><![CDATA[据日本放送协会NHK：需要大约10天才能修复地震中受损的日本东北新干线“子弹头列车”线路。]]></title>
             <guid>2023498</guid>
             <pubDate>Sun, 14 Feb 2021 07:28:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国强流高功率质子加速器研制再创世界纪录】14日，记者从中国科学院近代物理研究所获悉，该所独立自主研制的加速器驱动次临界系统（ADS）超导直线加速器样机在国际上首次实现束流强度10毫安连续波质子束176千瓦运行指标，并于12日凌晨2：20，实现10毫安束流稳定运行。事实上，采用全超导直线加速器加速5毫安以上连续波质子束此前从未在国际上被验证或实现。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6756002.d.html</link>
-            <guid>2023497</guid>
-            <pubDate>Sun, 14 Feb 2021 07:19:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国泰君安：特斯拉会继续降价，10-20万价格带造车新势力受冲击】国泰君安证券研究认为，特斯拉未来的盈利模式已经非常确定，把硬件价格做得很低，基本上能以成本价卖，更多通过后端软件市场来收费，实现盈利，所以从就可以理解，为什么特斯拉价格一直在往下打。从竞争格局看，特斯拉降价短期更多影响的是新造车势力的中端市场，包括国内做到10-20万这个价格带的某些新造车势力，可能接下来一段时间日子会过得相对难受。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6755775.d.html</link>
-            <guid>2023495</guid>
-            <pubDate>Sun, 14 Feb 2021 07:16:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
