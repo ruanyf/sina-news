@@ -4,7 +4,7 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 14 Feb 2021 19:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2021 20:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -336,18 +336,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6765482.d.html</link>
             <guid>2023515</guid>
             <pubDate>Sun, 14 Feb 2021 08:35:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【数字人民币试点“多地开花”：没有手续费，不用绑银行卡】在北京开展的“数字王府井 冰雪购物节”数字人民币试点活动，围绕冰雪运动、食、住、行、游、购、娱等方面打造冬奥消费的全场景，以此拉动内需，鼓励“就地过年”。此次北京数字人民币试点共面向在京个人消费者通过抽签形式发放了5万个数字人民币红包，每个数字人民币红包金额为200元。中签后，消费者下载“数字人民币App”并开通个人数字钱包后，无需绑定任何银行卡，就可以直接领取和使用红包。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6761325.d.html</link>
-            <guid>2023511</guid>
-            <pubDate>Sun, 14 Feb 2021 08:12:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国地质勘探局：日本福岛东部44公里处发生5.1级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5774638.d.html</link>
-            <guid>2023508</guid>
-            <pubDate>Sun, 14 Feb 2021 07:52:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
