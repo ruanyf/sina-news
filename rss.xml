@@ -4,7 +4,7 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 14 Feb 2021 20:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2021 21:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -324,18 +324,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6766436.d.html</link>
             <guid>2023518</guid>
             <pubDate>Sun, 14 Feb 2021 08:41:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国外交大臣拉布：目标是在3月8日以负责任的方式重新开放学校。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6766400.d.html</link>
-            <guid>2023517</guid>
-            <pubDate>Sun, 14 Feb 2021 08:40:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯总统普京：不排除在面对敌对行动时切断外国互联网服务】俄罗斯总统普京表示，不排除在外国针对俄罗斯采取敌对行动时切断外国互联网服务，同时他指出，“没有人会给俄罗斯用户人为地制造问题，但俄方会对赤裸裸的攻击做出反应”。（界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6765482.d.html</link>
-            <guid>2023515</guid>
-            <pubDate>Sun, 14 Feb 2021 08:35:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
