@@ -4,11 +4,130 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 15 Feb 2021 18:26:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2021 19:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国休斯顿市长：所有进出休斯顿的航班都已暂停。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny6946311.d.html</link>
+            <guid>2025061</guid>
+            <pubDate>Mon, 15 Feb 2021 19:11:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国休斯顿市长：休斯顿的一些紧急避难所已经断电。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny6946221.d.html</link>
+            <guid>2025058</guid>
+            <pubDate>Mon, 15 Feb 2021 19:09:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国休斯顿市长：预计未来几小时内，停电地区将会增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap5961769.d.html</link>
+            <guid>2025057</guid>
+            <pubDate>Mon, 15 Feb 2021 19:09:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：伊拉克库尔德斯坦地区的埃尔比勒机场被三枚炮弹击中。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap5961665.d.html</link>
+            <guid>2025055</guid>
+            <pubDate>Mon, 15 Feb 2021 19:06:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国西南电网运营商下令在寒冷天气下实行轮流停电】控制着北达科他州到俄克拉荷马州等14个州的电网的西南电力公司已经宣布进入能源紧急状态，并命令公用事业公司在令电网瘫痪的极端寒流中开始轮流停电。该公司在一份声明中说，这是公司有史以来第一次不得不下令实施轮流停电，已经用尽了保护电网的所有其他选择，这是最后的办法。公司有意识地采取该行动，以防止情况变得更糟，因为这可能会导致更大规模的不受控制的电力中断。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny6945770.d.html</link>
+            <guid>2025054</guid>
+            <pubDate>Mon, 15 Feb 2021 18:56:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：雪佛龙公司报告，位于德州帕萨迪纳的炼油厂发生燃烧事故后，一切恢复正常。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap5961123.d.html</link>
+            <guid>2025050</guid>
+            <pubDate>Mon, 15 Feb 2021 18:51:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国西南电力公司表示已经用尽了所有其他选择。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap5960947.d.html</link>
+            <guid>2025048</guid>
+            <pubDate>Mon, 15 Feb 2021 18:46:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国电信运营商T-MOBILE：看到得州和俄勒冈州的部分网络受到天气影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny6945378.d.html</link>
+            <guid>2025046</guid>
+            <pubDate>Mon, 15 Feb 2021 18:45:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国西南电网之前从未处理过轮流停电问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap5960908.d.html</link>
+            <guid>2025043</guid>
+            <pubDate>Mon, 15 Feb 2021 18:45:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国西南电网运营商下令在寒冷天气下实行轮流停电。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny6945342.d.html</link>
+            <guid>2025041</guid>
+            <pubDate>Mon, 15 Feb 2021 18:44:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  知情人士称，道达尔位于得克萨斯州亚瑟港的炼油厂关闭焦化装置，其产能为22.55万桶/日，知情人士表示，道达尔还准备关闭炼油厂的原油蒸馏装置（CDU），该装置将原油分解成烃类原料，供炼油厂所有生产设备使用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap5960723.d.html</link>
+            <guid>2025036</guid>
+            <pubDate>Mon, 15 Feb 2021 18:39:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  墨西哥方面表示，58%的电力供应在中断后得以恢复。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap5960511.d.html</link>
+            <guid>2025031</guid>
+            <pubDate>Mon, 15 Feb 2021 18:35:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世贸组织新任总干事伊韦阿拉：预计电子商务和上诉委员会是优先事项之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap5960433.d.html</link>
+            <guid>2025026</guid>
+            <pubDate>Mon, 15 Feb 2021 18:33:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧盟经济委员真蒂洛尼：谨慎处理取消对企业的支持措施将至关重要。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap5960409.d.html</link>
+            <guid>2025023</guid>
+            <pubDate>Mon, 15 Feb 2021 18:32:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：道达尔位于得克萨斯州亚瑟港的炼油厂关闭焦化装置，准备关闭原油装置。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny6944835.d.html</link>
+            <guid>2025020</guid>
+            <pubDate>Mon, 15 Feb 2021 18:31:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  由于冬季风暴，埃克森美孚公司在路易斯安那州巴吞鲁日的设施运作出现问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap5960357.d.html</link>
+            <guid>2025017</guid>
+            <pubDate>Mon, 15 Feb 2021 18:30:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧盟经济委员真蒂洛尼：欧盟委员会将在春季告诉欧元区国家，欧盟预算规定是否应在2022年继续暂停。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny6944798.d.html</link>
+            <guid>2025016</guid>
+            <pubDate>Mon, 15 Feb 2021 18:30:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世贸组织新任总干事伊韦阿拉：拜登政府和美国前一届政府一样对上诉机构感到担忧，但采取的工作方式将有所不同。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny6944787.d.html</link>
+            <guid>2025015</guid>
+            <pubDate>Mon, 15 Feb 2021 18:30:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世贸组织新任总干事伊韦阿拉：和美国贸易代表办公室的顾问们进行了“非常好的对话”,认为双方的利益和优先事项是一致的。]]></title>
+            <guid>2025014</guid>
+            <pubDate>Mon, 15 Feb 2021 18:28:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世贸组织新任总干事伊韦阿拉：世贸组织应该加快在卫生和贸易方面的努力，努力取消出口限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny6944692.d.html</link>
+            <guid>2025013</guid>
+            <pubDate>Mon, 15 Feb 2021 18:28:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  ICE布伦特原油期货4月合约收报63.30美元/桶。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap5959901.d.html</link>
@@ -264,132 +383,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny6937616.d.html</link>
             <guid>2024915</guid>
             <pubDate>Mon, 15 Feb 2021 16:36:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美无铅汽油期货主力刚刚刺穿1.7500美元/加仑关口，最新报1.7498美元/加仑，日图涨3.39%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap5953047.d.html</link>
-            <guid>2024913</guid>
-            <pubDate>Mon, 15 Feb 2021 16:34:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  希戈（CITGO）石油公司：位于美国得州的CHRISTI炼油厂的运营受到恶劣天气的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap5952957.d.html</link>
-            <guid>2024911</guid>
-            <pubDate>Mon, 15 Feb 2021 16:33:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据巴西当地医院：巴西圣保罗州州长若昂·多利亚住院接受实验室检查和影像学检查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap5952694.d.html</link>
-            <guid>2024910</guid>
-            <pubDate>Mon, 15 Feb 2021 16:30:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  汉莎航空首席执行官预计今年夏天的乘客数量将为2019年的40%至60%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap5952598.d.html</link>
-            <guid>2024909</guid>
-            <pubDate>Mon, 15 Feb 2021 16:29:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【壳牌关闭Deer Park炼油厂】知情人士透露，由于故障，壳牌已经关闭了Deer Park炼油厂的原油蒸馏装置。这两个原油蒸馏装置的日产量合计为31万桶/日。由于向其他设备输送原油的泵的密封失效，这些设备被关闭。原油蒸馏装置是炼油过程第一阶段发生的地方，原油被送入炼油厂，在那里被蒸馏成各种馏分，然后被送往炼油厂的其他设备进行进一步加工。因此，关闭原油蒸馏装置意味着炼油厂的大部分被关闭。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap5952420.d.html</link>
-            <guid>2024907</guid>
-            <pubDate>Mon, 15 Feb 2021 16:26:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【埃及代表团抵达利比亚 商讨重开埃及驻利比亚大使馆和领事馆事宜】据当地媒体报道，埃及代表团已抵达利比亚首都的黎波里，将与利比亚官员商讨重新开放位于的黎波里的大使馆和位于班加西领事馆的相关程序和安排。2014年1月，埃及关闭了驻利比亚的大使馆和领事馆。此前，利比亚政治对话论坛在瑞士日内瓦召开会议并选举产生新的临时最高权力机构，埃方对此表示欢迎，并表示愿意与新成立的权力机构保持合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny6936780.d.html</link>
-            <guid>2024906</guid>
-            <pubDate>Mon, 15 Feb 2021 16:26:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  智利将把封锁措施影响的人口比例从17.7%减少到9.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap5951739.d.html</link>
-            <guid>2024904</guid>
-            <pubDate>Mon, 15 Feb 2021 16:20:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：壳牌Deer Park精炼厂在寒冷天气工作中起火。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny6936116.d.html</link>
-            <guid>2024903</guid>
-            <pubDate>Mon, 15 Feb 2021 16:20:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息： 美国法院暂停康菲石油阿拉斯加项目钻井工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap5951410.d.html</link>
-            <guid>2024902</guid>
-            <pubDate>Mon, 15 Feb 2021 16:15:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  布伦特原油期货短线走高近逾0.3美元，现报63.6美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny6935645.d.html</link>
-            <guid>2024901</guid>
-            <pubDate>Mon, 15 Feb 2021 16:13:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油期货短线走高逾0.2美元，现报60.5美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap5951232.d.html</link>
-            <guid>2024900</guid>
-            <pubDate>Mon, 15 Feb 2021 16:13:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  挪威国家石油公司考虑在美国出售更多资产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap5951080.d.html</link>
-            <guid>2024899</guid>
-            <pubDate>Mon, 15 Feb 2021 16:11:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国西南电力公司宣布二级能源紧急警报，原因是极端寒冷的天气造成了能源不足。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap5951020.d.html</link>
-            <guid>2024898</guid>
-            <pubDate>Mon, 15 Feb 2021 16:10:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据捷克媒体：捷克财政部提议将2021年赤字提高到5000亿捷克克朗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap5950939.d.html</link>
-            <guid>2024897</guid>
-            <pubDate>Mon, 15 Feb 2021 16:09:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  截至2月16日零时，电影《你好，李焕英》总票房连破16亿、17亿，目前累计票房17.84亿，排名中国影史第26位。在刚刚过去的大年初四，《李焕英》单日票房逆袭《唐探3》，首夺单日票房冠军。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny6935310.d.html</link>
-            <guid>2024896</guid>
-            <pubDate>Mon, 15 Feb 2021 16:09:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【集合信托平均收益率三连涨，1月份发行规模下滑11%，标品信托数量大增】据公开资料不完全统计，截至2月7日，1月累计发行集合信托产品2260款，与上月同时点增加16.49%，发行规模2180.00亿元，与上月同时点相比减少11.02%。记者注意到，1月集合信托产品的平均预期收益率继续维持上行的走势。从产品收益来看，1月集合信托产品的平均收益率为6.87%，环比增加0.14个百分点。而这已经是集合信托产品的平均预期收益率连续三个月上行。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny6935223.d.html</link>
-            <guid>2024894</guid>
-            <pubDate>Mon, 15 Feb 2021 16:07:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国富时100日内涨幅达2.5%，报6754.41。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap5950538.d.html</link>
-            <guid>2024891</guid>
-            <pubDate>Mon, 15 Feb 2021 16:04:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  国际货币基金组织与肯尼亚就24亿美元贷款项目达成员工级协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap5950473.d.html</link>
-            <guid>2024890</guid>
-            <pubDate>Mon, 15 Feb 2021 16:03:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国得州电价达到上限，部分地区“十年来首次”发布冬季风暴警报】美国得克萨斯州平均现货电价达到9000美元上限。此前美国国家气象局天气预报中心称，当地时间14日早上全美各地有1.5亿人处于冬季风暴天气警告之下。预报中心说，14日进入该地区的冬季风暴使得州南部的部分地区“十年来首次”发布冬季风暴警报。墨西哥总统也确认北部四州出现停电。由于冰冻天气，有炼油厂关闭了得州的炼油设备。美无铅汽油期货主力触及1.7500美元/加仑关口，日内涨3.40%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny6934787.d.html</link>
-            <guid>2024889</guid>
-            <pubDate>Mon, 15 Feb 2021 16:02:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳元兑日元刚刚触及82.00关口，最新报82.00，日图涨0.70%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-15/detail-ikftpnny6934512.d.html</link>
-            <guid>2024886</guid>
-            <pubDate>Mon, 15 Feb 2021 15:59:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西班牙IBEX35指数日内走高2.01%，现报8217.00点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-15/detail-ikftssap5950060.d.html</link>
-            <guid>2024885</guid>
-            <pubDate>Mon, 15 Feb 2021 15:57:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
