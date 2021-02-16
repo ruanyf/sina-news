@@ -4,11 +4,286 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 16 Feb 2021 09:24:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2021 10:25:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[欧洲央行管委Makhlouf：住宅地产的需求仍然很高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6056409.d.html</link>
+            <guid>2026362</guid>
+            <pubDate>Tue, 16 Feb 2021 10:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【武汉：自动驾驶出租车本月底面向大众开放试乘体验】 自动驾驶项目“东风领航”技术人员15日对车辆开始了上线前最后阶段的调试，项目计划2月25日面向大众推出自动驾驶出租车试乘体验。届时，市民可通过手机APP免费预约，在武汉经济技术开发区核心区域进行体验。（新华网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6056402.d.html</link>
+            <guid>2026361</guid>
+            <pubDate>Tue, 16 Feb 2021 10:24:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加通贝祥：首次覆盖Crowdstrike(CRWD.O)，给予买入评级和280美元目标价。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7040306.d.html</link>
+            <guid>2026359</guid>
+            <pubDate>Tue, 16 Feb 2021 10:20:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加通贝祥：将黑莓(BB.N)目标价从8美元升至10美元，评级从持有降至卖出。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7040297.d.html</link>
+            <guid>2026358</guid>
+            <pubDate>Tue, 16 Feb 2021 10:20:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗银行经济学家：英国有可能出现负利率。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6056126.d.html</link>
+            <guid>2026357</guid>
+            <pubDate>Tue, 16 Feb 2021 10:20:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞银：预计2021年期间包括加元在内的大宗商品货币将进一步上涨，建议投资者增加多头头寸。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6056022.d.html</link>
+            <guid>2026356</guid>
+            <pubDate>Tue, 16 Feb 2021 10:19:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟"外长"表示，希望在2月24日前解决北爱尔兰问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7040178.d.html</link>
+            <guid>2026355</guid>
+            <pubDate>Tue, 16 Feb 2021 10:18:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会副主席SEFCOVIC：爱尔兰协议必须在“实地”发挥良好作用
+。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6055902.d.html</link>
+            <guid>2026351</guid>
+            <pubDate>Tue, 16 Feb 2021 10:15:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委马克鲁夫：最大的问题是零售习惯会发生什么变化。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6055888.d.html</link>
+            <guid>2026350</guid>
+            <pubDate>Tue, 16 Feb 2021 10:15:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世界卫生组织发言人：正在对刚果和几内亚爆发的埃博拉病毒进行测序，以确定它们是否是新的毒株。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7040029.d.html</link>
+            <guid>2026349</guid>
+            <pubDate>Tue, 16 Feb 2021 10:14:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞银集团(UBS)：在欧佩克+之外，我们预计今年(石油)产量同比增长近100万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6055832.d.html</link>
+            <guid>2026348</guid>
+            <pubDate>Tue, 16 Feb 2021 10:14:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞银集团(UBS)：预计今年晚些时候石油需求将接近1亿桶/日，在22年下半年达到2019年创纪录的1.02亿桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7039987.d.html</link>
+            <guid>2026347</guid>
+            <pubDate>Tue, 16 Feb 2021 10:13:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞银集团(UBS)：石油库存的大幅下降表明，石油市场的再平衡比预期要早。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7039970.d.html</link>
+            <guid>2026346</guid>
+            <pubDate>Tue, 16 Feb 2021 10:13:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞银集团(UBS)：一旦天气回暖，德州的石油生产将迅速恢复，而供应减少将有助于减少石油库存。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7039951.d.html</link>
+            <guid>2026345</guid>
+            <pubDate>Tue, 16 Feb 2021 10:13:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞银集团(UBS)：预计WTI的交易价格将比布伦特低3美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7039850.d.html</link>
+            <guid>2026343</guid>
+            <pubDate>Tue, 16 Feb 2021 10:11:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞银集团(UBS)将油价预测上调5美元/桶，现在预计布伦特原油将在年中达到65美元/桶，2021年下半年达到68美元/桶，2022年3月达到70美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6055655.d.html</link>
+            <guid>2026342</guid>
+            <pubDate>Tue, 16 Feb 2021 10:11:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会副主席SEFCOVIC：爱尔兰协议是英国脱欧讨论的核心。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7039799.d.html</link>
+            <guid>2026341</guid>
+            <pubDate>Tue, 16 Feb 2021 10:11:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：俄罗斯勘察加半岛发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6055317.d.html</link>
+            <guid>2026340</guid>
+            <pubDate>Tue, 16 Feb 2021 10:07:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【信阳毛尖：拟更名为中国国龙茅台集团】信阳毛尖(0362.HK)发布公告，建议将公司英文名称由“XinyangMaojianGroupLimited”更改为“ChinaDragonMoutaiGroupLimited”，并采纳“中国国龙茅台集团有限公司”为公司的中文第二名称，以取代现有名称”信阳毛尖集团有限公司“。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6055280.d.html</link>
+            <guid>2026339</guid>
+            <pubDate>Tue, 16 Feb 2021 10:07:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【香港将于2月18日起放宽限聚令、堂食令】据香港电台网站、《香港经济日报》等港媒报道，香港特区政府将于初七（2月18日）起有条件放宽部分社交距离措施，包括放宽限聚令至4人一桌，此外，堂食时间延长至22:00，美容、健身中心等处所可重新开放。5类处所仍须维持停业，包括派对房间、夜总会或夜店、浴室、泳池、麻雀天九耍乐场所。（界面新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6054996.d.html</link>
+            <guid>2026328</guid>
+            <pubDate>Tue, 16 Feb 2021 10:04:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国智库ZEW：消费和零售贸易预计将显著复苏，伴随的是更高的通胀预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7038992.d.html</link>
+            <guid>2026327</guid>
+            <pubDate>Tue, 16 Feb 2021 10:01:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国智库ZEW：金融市场专家对未来持乐观态度，他们相信，德国经济将在未来六个月内重回增长轨道。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6054787.d.html</link>
+            <guid>2026326</guid>
+            <pubDate>Tue, 16 Feb 2021 10:01:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[必和必拓(BHP.N)盘前涨6%，上半年业绩为7年来最佳水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6054722.d.html</link>
+            <guid>2026324</guid>
+            <pubDate>Tue, 16 Feb 2021 10:00:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元区第四季度GDP同比-5.0%；预期为-5.1%。欧元区第四季度GDP环比-0.6%；预期为-0.7%。]]></title>
+            <guid>2026323</guid>
+            <pubDate>Tue, 16 Feb 2021 10:00:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国2月份ZEW投资者预期指数报71.2；预估为59.5。]]></title>
+            <guid>2026321</guid>
+            <pubDate>Tue, 16 Feb 2021 10:00:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【港股短线可看31000点 旧经济股或接力开车】港股受外围气氛影响，牛年首日“开门红”，其中科技股及石油股造好，股市交投活跃，令投资者信心大增。恒指今日裂口高开，14日RSI升至71，而MACD亦都出现买入“交叉”，反映港股新一轮升浪可能已经开始，而推动港股向上可能需要由重磅股带动。港股短线可能可以看31000点，科指中短线可看15000点，而接住落来可能会由旧经济开车，例如饮食、银行、房地产等，投资者可多加留意。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7038582.d.html</link>
+            <guid>2026320</guid>
+            <pubDate>Tue, 16 Feb 2021 09:57:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑离岸人民币在周一逼近6.40关口后暂时小幅反弹，但业内机构大华银行指出，基于中国经济强势的基本面状况，人民币汇价仍不排除相对美元进一步上行的空间。预计在本周四中国内盘市场恢复交易后，进一波的行情动能就将萌发，可能会在短线将美元兑离岸人民币汇价进一步打压至6.38一线。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6054056.d.html</link>
+            <guid>2026318</guid>
+            <pubDate>Tue, 16 Feb 2021 09:51:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[500彩票网美股盘前股价飙升逾80%，此前宣布以约10%的股份收购吴忌寒从比特大陆拆分出的BTC.COM矿池，包括BTC.COM的全部矿池业务、BTC.COM域名和BTC.COM加密货币钱包。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7037904.d.html</link>
+            <guid>2026317</guid>
+            <pubDate>Tue, 16 Feb 2021 09:47:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2020年人民币普惠金融领域贷款余额同比增长24.2%】 中国人民银行近期发布数据显示，2020年末，人民币普惠金融领域贷款余额21.53万亿元，同比增长24.2%；全年增加4.24万亿元，同比多增1.75万亿元。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6053393.d.html</link>
+            <guid>2026315</guid>
+            <pubDate>Tue, 16 Feb 2021 09:42:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美油刷新两日低位至59.58美元/桶，日内跌幅扩大到0.90%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7037162.d.html</link>
+            <guid>2026314</guid>
+            <pubDate>Tue, 16 Feb 2021 09:38:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据销售文件披露，华虹半导体遭NEC沽售9900万股，每股配售价56.35港元至58.55港元，较今日收市价折让8%至11.5%，套现最多约58亿港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7037153.d.html</link>
+            <guid>2026313</guid>
+            <pubDate>Tue, 16 Feb 2021 09:38:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[布伦特原油期货主力刚刚刺穿63.00美元/桶关口，最新报62.99美元/桶，日图跌0.49%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6052820.d.html</link>
+            <guid>2026311</guid>
+            <pubDate>Tue, 16 Feb 2021 09:36:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马纳黄金公司(Yamana gold)执行董事长Peter Marrone：在当前的经济环境下，贵金属涨势并未结束，在下一轮牛市中，白银的表现可能会超过黄金。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7037060.d.html</link>
+            <guid>2026310</guid>
+            <pubDate>Tue, 16 Feb 2021 09:36:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[布油刷新两日低位至63.02美元/桶，日内跌幅扩大到0.44%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7037041.d.html</link>
+            <guid>2026309</guid>
+            <pubDate>Tue, 16 Feb 2021 09:36:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国商业银行：欧元兑日元目标上看129.55】德国商业银行技术分析指出，欧元兑日元已突破关键阻力位127.50/60进入两年高点，目标依然是自2014年以来整个跌势的50%斐波那契回撤位129.55和55月移动均线130.35，预计仍将受到55日移动均线和上行趋势线126.45/43的支撑，短期关键支撑位依然是10月高点125.13和11月高点125.09。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7037031.d.html</link>
+            <guid>2026308</guid>
+            <pubDate>Tue, 16 Feb 2021 09:36:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[荷兰政府：必须研究法院的判决，禁止晚间宵禁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7037003.d.html</link>
+            <guid>2026307</guid>
+            <pubDate>Tue, 16 Feb 2021 09:35:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据港交所文件：2月9日，贝莱德(BLK.N)以平均7.67港元/股的价格购入487万股广汽集团(02238.HK)股份，自此，贝莱德对该公司的多头头寸从4.88%升至5.04%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6052725.d.html</link>
+            <guid>2026306</guid>
+            <pubDate>Tue, 16 Feb 2021 09:35:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：将房主止赎延期至2021年6月30日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7036972.d.html</link>
+            <guid>2026305</guid>
+            <pubDate>Tue, 16 Feb 2021 09:34:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国经济部长阿尔特迈尔：德国正与俄罗斯就“绿色”氢生产和运输的潜力进行密切沟通。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7036951.d.html</link>
+            <guid>2026303</guid>
+            <pubDate>Tue, 16 Feb 2021 09:34:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行：我们预计新西兰联储将在2月24日决议上将利率维持在0.25%，同时通过量化宽松和定期贷款来支持经济。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7036870.d.html</link>
+            <guid>2026302</guid>
+            <pubDate>Tue, 16 Feb 2021 09:32:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国经济部长：德国与俄罗斯就“绿色”氢生产和运输的潜力进行密切沟通。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7036588.d.html</link>
+            <guid>2026300</guid>
+            <pubDate>Tue, 16 Feb 2021 09:29:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据文件披露：2月8日至2月9日，摩根大通对药明生物(02269.HK)的多头头寸从6.71%升至10.03%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6052252.d.html</link>
+            <guid>2026297</guid>
+            <pubDate>Tue, 16 Feb 2021 09:29:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德国经济部长阿尔特迈尔：不断质疑北溪2号天然气管道是不好的，市场需要可靠性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7036506.d.html</link>
+            <guid>2026296</guid>
+            <pubDate>Tue, 16 Feb 2021 09:27:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据文件披露：华虹半导体(01347.HK)股东华虹NEC将以56.35-58.55港元/股的价格出售该公司股份，拟筹资最多7.48亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6052160.d.html</link>
+            <guid>2026295</guid>
+            <pubDate>Tue, 16 Feb 2021 09:27:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美无铅汽油期货主力刚刚刺穿1.7700美元/加仑关口，最新报1.7699美元/加仑，日图涨4.57%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7036392.d.html</link>
+            <guid>2026293</guid>
+            <pubDate>Tue, 16 Feb 2021 09:24:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货铂金刚刚刺穿1310.00美元/盎司关口，最新报1309.64美元/盎司，日图涨0.33%；Nymex铂金期货主力最新报1318.2美元/盎司，日图涨4.70%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7036380.d.html</link>
+            <guid>2026292</guid>
+            <pubDate>Tue, 16 Feb 2021 09:24:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  据港交所文件：2月9日，摩根大通对李宁的多头头寸从5.06%降至4.95%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7036243.d.html</link>
@@ -212,286 +487,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7034129.d.html</link>
             <guid>2026249</guid>
             <pubDate>Tue, 16 Feb 2021 08:53:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  新加坡财政部长：从2023年1月1日起，将对进口的低价值商品征收商品和服务税。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6049760.d.html</link>
-            <guid>2026248</guid>
-            <pubDate>Tue, 16 Feb 2021 08:52:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【首架国产大型水陆两栖飞机AG600已完成多次飞行试验】我国自主研制的大型水陆两栖飞机AG600多架试验机正在进行研制生产。AG600是当前世界在研的最大水陆两栖飞机，研制难度大、测试项目多，目前首架AG600已完成多次飞行试验，多架AG600试验机正在全国各地紧张地研制生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6049741.d.html</link>
-            <guid>2026247</guid>
-            <pubDate>Tue, 16 Feb 2021 08:52:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日前，中国疾病预防控制中心成功研发了两种含氯低温消毒剂配方，均可运用在-18°和-40°的环境中，对低温环境的物品和冷链产品进行消毒。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7034030.d.html</link>
-            <guid>2026246</guid>
-            <pubDate>Tue, 16 Feb 2021 08:51:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货铂金刚刚刺穿1320.00美元/盎司关口，最新报1320.17美元/盎司，日图涨1.14%；Nymex铂金期货主力最新报1329.5美元/盎司，日图涨5.60%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6049457.d.html</link>
-            <guid>2026245</guid>
-            <pubDate>Tue, 16 Feb 2021 08:48:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新加坡财政部长：将拨出60亿新元来缓冲消费税利率上调对新加坡人的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6049446.d.html</link>
-            <guid>2026244</guid>
-            <pubDate>Tue, 16 Feb 2021 08:48:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新加坡财政部长：将在2022年到2025年期间提高商品和服务税，越早越好。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6049372.d.html</link>
-            <guid>2026243</guid>
-            <pubDate>Tue, 16 Feb 2021 08:47:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲地中海地震中心：加拉帕戈斯地区发生5级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7033686.d.html</link>
-            <guid>2026241</guid>
-            <pubDate>Tue, 16 Feb 2021 08:46:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货黄金短线上扬3美元，现报1823.93美元/盎司，现货白银短线上扬0.14美元，现报27.74美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6049219.d.html</link>
-            <guid>2026238</guid>
-            <pubDate>Tue, 16 Feb 2021 08:44:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  法国财长勒梅尔：2023年后将评估碳税的水平和轨迹。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6048622.d.html</link>
-            <guid>2026236</guid>
-            <pubDate>Tue, 16 Feb 2021 08:38:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  新加坡财政部长：将在2023年后重新审查碳税。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6048505.d.html</link>
-            <guid>2026235</guid>
-            <pubDate>Tue, 16 Feb 2021 08:36:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元兑美元刷新1月29日以来高位至1.2151，日内涨幅扩大到0.17%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6048468.d.html</link>
-            <guid>2026234</guid>
-            <pubDate>Tue, 16 Feb 2021 08:35:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货铂金刚刚刺穿1310.00美元/盎司关口，最新报1310.01美元/盎司，日图涨0.36%；Nymex铂金期货主力最新报1318.6美元/盎司，日图涨4.73%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7032816.d.html</link>
-            <guid>2026233</guid>
-            <pubDate>Tue, 16 Feb 2021 08:33:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  新加坡财政部长：已经确定了190亿新元的公共部门绿色项目作为起步。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7032750.d.html</link>
-            <guid>2026232</guid>
-            <pubDate>Tue, 16 Feb 2021 08:33:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新加坡财政部长：债券发行将加深绿色债券市场的流动性，使新加坡成为绿色金融中心。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6048301.d.html</link>
-            <guid>2026231</guid>
-            <pubDate>Tue, 16 Feb 2021 08:32:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  新加坡财政部长：政府将为一些公共部门的基础设施项目发行绿色债券。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6048284.d.html</link>
-            <guid>2026230</guid>
-            <pubDate>Tue, 16 Feb 2021 08:32:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美油刷新两日低位至59.76美元/桶，日内跌幅扩大到0.60%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7032717.d.html</link>
-            <guid>2026229</guid>
-            <pubDate>Tue, 16 Feb 2021 08:32:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  新加坡财政部长：将提高汽油税。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7032662.d.html</link>
-            <guid>2026228</guid>
-            <pubDate>Tue, 16 Feb 2021 08:31:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯石油运输公司：波罗的海港口UST-LUGA港口和PRIMORSK港口发出风暴警报。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6048112.d.html</link>
-            <guid>2026227</guid>
-            <pubDate>Tue, 16 Feb 2021 08:30:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华侨银行：美元兑加元恐跌向1.26整数关口】华侨银行外汇策略师Terence Wu表示，周一美元兑加元果断跌破1.2700的支撑位，密切关注汇价走势，可能逼近1.2600整数关口，该点位和1月低点重合，若跌破1.2600，将打开进一步下跌大门，油价上涨令该货币承受下行压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7032474.d.html</link>
-            <guid>2026226</guid>
-            <pubDate>Tue, 16 Feb 2021 08:29:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  缅甸军方发言人：军方不会长期掌权。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7032392.d.html</link>
-            <guid>2026225</guid>
-            <pubDate>Tue, 16 Feb 2021 08:27:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日媒：日本预警近期或再发强震】据日本媒体2月15日报道，关于福岛县等地13日夜晚测得震度6强（日本标准）的地震，日本政府的地震调查委员会14日召开临时会议，汇总见解称震源为长40公里朝南北方向延伸的断层。震源断层向东倾斜，据分析是垂直方向错位的逆断层。分析称，这是2011年东日本大地震的余震；调查委称，一周左右需要注意最大震度6强左右的地震。分析表示，也有可能板块边界和内部都发生强烈摇晃，引发海啸。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7032361.d.html</link>
-            <guid>2026224</guid>
-            <pubDate>Tue, 16 Feb 2021 08:27:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德西尼布能源在巴黎泛欧交易所上市首日股价为12.00欧元，而技术参考IPO价格为9.00欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6047471.d.html</link>
-            <guid>2026223</guid>
-            <pubDate>Tue, 16 Feb 2021 08:22:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美油短线快速下挫逾0.3美元，刷新两日低位至59.83美元/桶，日内跌幅扩大到0.48%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7031764.d.html</link>
-            <guid>2026221</guid>
-            <pubDate>Tue, 16 Feb 2021 08:20:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  布油刷新日低至63.24美元/桶，日内转跌0.09%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6046860.d.html</link>
-            <guid>2026220</guid>
-            <pubDate>Tue, 16 Feb 2021 08:17:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Nymex美原油期货主力刚刚刺穿60.00美元/桶关口，最新报59.99美元/桶，日图涨0.87%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7030627.d.html</link>
-            <guid>2026219</guid>
-            <pubDate>Tue, 16 Feb 2021 08:12:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  截至今日收盘，恒指大市成交额报2197.82亿港元（上一交易日成交额为920.87亿港元）。]]></title>
-            <guid>2026218</guid>
-            <pubDate>Tue, 16 Feb 2021 08:10:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据阿拉伯卫星电视台：沙特领导的联盟表示，被拦截的无人机是由也门胡塞武装向阿巴机场发射的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6045699.d.html</link>
-            <guid>2026217</guid>
-            <pubDate>Tue, 16 Feb 2021 08:09:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  恒指今日高开高收，收涨1.9%，为2018年6月以来最高收盘价，影视娱乐、有色金属、稀土概念、石油等板块涨幅居前。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6045650.d.html</link>
-            <guid>2026216</guid>
-            <pubDate>Tue, 16 Feb 2021 08:09:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：亚马逊(AMZN.O)将与富士康子公司合作，在金奈生产设备。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7029841.d.html</link>
-            <guid>2026215</guid>
-            <pubDate>Tue, 16 Feb 2021 08:07:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：亚马逊(AMZN.O)计划在印度建立第一条生产线。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7029742.d.html</link>
-            <guid>2026214</guid>
-            <pubDate>Tue, 16 Feb 2021 08:06:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧股开盘涨跌不一，德国DAX30指数跌0.03%报14104.85点；英国富时100指数涨0.48%报6788.61点；法国CAC40指数涨0.10%报5792.19点。]]></title>
-            <guid>2026213</guid>
-            <pubDate>Tue, 16 Feb 2021 08:06:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗拟限制联合国核查权】①据外媒2月15日报道，伊朗外交部发言人赛义德·哈提卜扎德当地时间周一表示，如果伊朗核协议的其他缔约方不履行自身义务的话，伊朗将进一步收回根据协议所作的承诺。哈提卜扎德说，我们除了遵守法律别无选择。但这并不意味着终止联合国核监督机构的所有核查活动；②哈提卜扎德指的是一项迫使伊朗政府强化核问题立场的国内法律。2月21日，这项法律会迫使伊朗政府终止根据2015年核协议赋予联合国核监督机构的全面核查权，核查范围将仅限于已声明的核设施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6044712.d.html</link>
-            <guid>2026211</guid>
-            <pubDate>Tue, 16 Feb 2021 08:02:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲斯托克50指数开盘涨0.05%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7029128.d.html</link>
-            <guid>2026210</guid>
-            <pubDate>Tue, 16 Feb 2021 08:02:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股区块链板块尾盘持续发力，欧科云链(01499.HK)涨超40%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7028538.d.html</link>
-            <guid>2026207</guid>
-            <pubDate>Tue, 16 Feb 2021 07:56:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国银行2月基金经理调查显示，53%的投资者认为美国股市处于牛市后期，27%认为处于牛市早期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6044109.d.html</link>
-            <guid>2026206</guid>
-            <pubDate>Tue, 16 Feb 2021 07:56:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国银行2月基金经理调查显示，只有13%的投资者认为美国股市存在泡沫。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7028420.d.html</link>
-            <guid>2026205</guid>
-            <pubDate>Tue, 16 Feb 2021 07:55:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国银行2月基金经理调查显示，基金经理的现金持有量降至3.8%，为2013年3月“缩减恐慌”爆发前以来的最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6043914.d.html</link>
-            <guid>2026203</guid>
-            <pubDate>Tue, 16 Feb 2021 07:54:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国银行2月基金经理调查显示，股票和大宗商品的配置达到2011年2月以来的最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7028084.d.html</link>
-            <guid>2026202</guid>
-            <pubDate>Tue, 16 Feb 2021 07:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：没有计划持续下调ETF购买规模。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7027519.d.html</link>
-            <guid>2026200</guid>
-            <pubDate>Tue, 16 Feb 2021 07:50:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：日本央行即将进行的评估将探讨如何解决ETF购买的副作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7027323.d.html</link>
-            <guid>2026199</guid>
-            <pubDate>Tue, 16 Feb 2021 07:49:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：ETF的购买对经济产生了积极影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6042241.d.html</link>
-            <guid>2026197</guid>
-            <pubDate>Tue, 16 Feb 2021 07:47:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：瓦努阿图索拉西北95公里处发生5.1级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6042155.d.html</link>
-            <guid>2026196</guid>
-            <pubDate>Tue, 16 Feb 2021 07:46:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[汇丰研究：上调美团(03690.HK)目标价至550港元，评级买入。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6041971.d.html</link>
-            <guid>2026194</guid>
-            <pubDate>Tue, 16 Feb 2021 07:45:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：正关注长期宽松政策给银行带来的风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6041867.d.html</link>
-            <guid>2026193</guid>
-            <pubDate>Tue, 16 Feb 2021 07:45:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：日本央行的负利率政策有效地将短期利率稳定在-0.1%左右，并将长期利率维持在低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6041753.d.html</link>
-            <guid>2026192</guid>
-            <pubDate>Tue, 16 Feb 2021 07:45:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[缅甸军方发言人：将继续推进全国停火协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6041541.d.html</link>
-            <guid>2026191</guid>
-            <pubDate>Tue, 16 Feb 2021 07:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：日本的银行现在有足够的资本。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7025935.d.html</link>
-            <guid>2026190</guid>
-            <pubDate>Tue, 16 Feb 2021 07:43:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
