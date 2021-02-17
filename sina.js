@@ -13,7 +13,7 @@
  * - dpc: number。含义未知，设为1。
  * - type: number。含义未知，设为0。
  * - zhibo_id：number。固定为 152。
- * - tag_id：number。分类，0 表示全部。
+ * - tag_id：number。分类，0 表示全部，1 宏观，2 行业，3 公司，4 数据，5 市场, 6 观点, 7 央行, 8 其他，9 焦点，10 A 股，102 国际。
  * - id: number，optional。当前的新闻条目 id，无效果。
  * - _：number，optional。当前时间戳，`Date.now()`，无效果。
  *

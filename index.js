@@ -57,8 +57,22 @@ async function main() {
     items.forEach(item => {
       if (!item.rich_text) return;
 
+      // text filter
       for (let i = 0; i < filterArr.length; i++) {
         if (item.rich_text.includes(filterArr[i])) return;
+      }
+
+      // tag filter
+      if (item.tag && Array.isArray(item.tag) && item.tag.length) {
+        const tags = item.tag;
+        const tagFilterArr = ['5', '6', '7', '9'];
+        for (let i = 0; i < tags.length; i++) {
+          const tag = tags[i].id;
+          if (tagFilterArr.includes(tag)) {
+            // console.log(item.rich_text);
+            return;
+          }
+        }
       }
 
       feed.addItem({
