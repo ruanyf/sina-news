@@ -4,11 +4,142 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 17 Feb 2021 16:37:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2021 17:32:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国得州电网：停电将至少持续至本周四。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7217934.d.html</link>
+            <guid>2029063</guid>
+            <pubDate>Wed, 17 Feb 2021 17:26:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国二叠纪盆地原油物流公司Oryx Midstream表示，由于严寒天气，已经向客户发布了不可抗力通知。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6234577.d.html</link>
+            <guid>2029062</guid>
+            <pubDate>Wed, 17 Feb 2021 17:22:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Coindesk报道，加密货币交易所Coinbase计划在未来几个月内上市，根据二级市场私人股本交易情况，Coinbase的估值达到770亿美元，将超过洲际交易所（ICE）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7217479.d.html</link>
+            <guid>2029061</guid>
+            <pubDate>Wed, 17 Feb 2021 17:18:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[风险资本公司Lakestar创始人Klaus Hommels在欧洲推出规模最高2.75亿欧元（折合3.32亿美元）的特殊目的收购公司（SPAC），预计下周一（2月22日）按代码“LRSW”在德国法兰克福上市交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6234339.d.html</link>
+            <guid>2029060</guid>
+            <pubDate>Wed, 17 Feb 2021 17:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：谷歌旗下的Waymo自动驾驶公司已经开始在旧金山进行有限的乘客测试。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6234115.d.html</link>
+            <guid>2029059</guid>
+            <pubDate>Wed, 17 Feb 2021 17:13:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特斯拉正在韩国推出Model Y】据Electrek，特斯拉正在韩国推出Model Y，对特斯拉来说，韩国正成为一个越来越重要的市场。Model Y在韩国有三种价位，标准系列车型的起价为5999万韩元(合54191美元)。长程版和性能版的起价分别为6999万韩元和7999万韩元。在推出Model Y的同时，特斯拉宣布将扩大其在韩国的基础设施，以支持其不断增长的车型数量。特斯拉韩国表示，到今年年底，它将在韩国部署27个新的超级充电站和8个服务中心。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7217149.d.html</link>
+            <guid>2029058</guid>
+            <pubDate>Wed, 17 Feb 2021 17:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ercot公司CEO Bill Magness：美国得克萨斯州延长停电状态，因为当地无法平衡电网的电力供应，寒冬天气也妨碍到得州结束停电困境的努力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6233857.d.html</link>
+            <guid>2029056</guid>
+            <pubDate>Wed, 17 Feb 2021 17:09:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德国政府发言人：默克尔总理对伊朗不遵守核协议的情况感到担忧。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6233592.d.html</link>
+            <guid>2029053</guid>
+            <pubDate>Wed, 17 Feb 2021 17:04:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国参议院多数党领袖舒默、民主党参议员沃伦：拜登政府有权注销学生债务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6233538.d.html</link>
+            <guid>2029051</guid>
+            <pubDate>Wed, 17 Feb 2021 17:04:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国参议院多数党领袖舒默、民主党参议员沃伦就注销学生债务发表声明。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6233528.d.html</link>
+            <guid>2029050</guid>
+            <pubDate>Wed, 17 Feb 2021 17:04:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际原子能机构（IAEA）报告显示，伊朗计划用两台IR-2m型离心机提高浓缩铀丰度至5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7216595.d.html</link>
+            <guid>2029049</guid>
+            <pubDate>Wed, 17 Feb 2021 17:03:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国央行副行长拉姆斯登：英国房价上涨很大程度上是因为供应不足等结构性因素。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6233271.d.html</link>
+            <guid>2029045</guid>
+            <pubDate>Wed, 17 Feb 2021 17:00:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其总统埃尔多安：土耳其将从3月份开始在省级行政区基础上逐步实施正常化措施；根据感染病例数据，将在各省逐步解除周末封锁措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6233263.d.html</link>
+            <guid>2029044</guid>
+            <pubDate>Wed, 17 Feb 2021 17:00:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  现货白银再度拉升0.2美元，收复日内跌幅转涨，现报27.28美元/盎司，涨0.15%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7216172.d.html</link>
+            <guid>2029040</guid>
+            <pubDate>Wed, 17 Feb 2021 16:57:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  3M CFO：2021年下半年将花费1.1亿至1.6亿美元用于重组计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7216105.d.html</link>
+            <guid>2029038</guid>
+            <pubDate>Wed, 17 Feb 2021 16:56:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股氢能源板块走低，Bloom Energy(BE.N)跌超10%，燃料电池能源跌9.42%，普拉格能源跌5.68%。]]></title>
+            <guid>2029037</guid>
+            <pubDate>Wed, 17 Feb 2021 16:55:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  3M CEO：预计将从2020年宣布的重组计划获益。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7216049.d.html</link>
+            <guid>2029036</guid>
+            <pubDate>Wed, 17 Feb 2021 16:55:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Nikola盘中跌超5%，报20.8美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6232910.d.html</link>
+            <guid>2029035</guid>
+            <pubDate>Wed, 17 Feb 2021 16:55:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国航空公司：本公司一架波音公司787飞机（917航班）在飞往牙买加途中出现挡风玻璃破裂。该班机已于周二深夜在纽约金斯顿（Kingston）安全着陆，之前已经从迈阿密飞往秘鲁首都利马。飞机上67名乘客和10名机组人员都没有受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7215966.d.html</link>
+            <guid>2029034</guid>
+            <pubDate>Wed, 17 Feb 2021 16:54:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3M CEO：密切关注芯片短缺对汽车行业的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6232837.d.html</link>
+            <guid>2029033</guid>
+            <pubDate>Wed, 17 Feb 2021 16:53:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国航空集团：917航班的67名乘客和10名机组人员中无人员伤亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftssap6232825.d.html</link>
+            <guid>2029032</guid>
+            <pubDate>Wed, 17 Feb 2021 16:53:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股氢能源板块走低，Bloom Energy(BE.N)跌超10%，燃料电池能源(FCEL.O)跌9.42%，普拉格能源(PLUG.O)跌5.68%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7215913.d.html</link>
+            <guid>2029031</guid>
+            <pubDate>Wed, 17 Feb 2021 16:53:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[欧洲STOXX 600指数初步收跌0.84%，报415.62点。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-18/detail-ikftpnny7214554.d.html</link>
@@ -163,149 +294,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7210930.d.html</link>
             <guid>2028967</guid>
             <pubDate>Wed, 17 Feb 2021 15:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞幸咖啡盘中涨超20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6227744.d.html</link>
-            <guid>2028966</guid>
-            <pubDate>Wed, 17 Feb 2021 15:43:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[对冲基金（行业）四季度对公用设施类股持仓市值为312亿美元，在其总体股票持仓中占比为1.5%；三季度公用设施类股的仓位占比为2.2%。其中，对Evergy增持68%，至2640万股，市值14.7亿美元，对太平洋瓦电减持24%，至46980万股，市值58.6亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6227693.d.html</link>
-            <guid>2028965</guid>
-            <pubDate>Wed, 17 Feb 2021 15:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[对冲基金（行业）四季度对通信/交通类股持仓市值为2637亿美元，在其总体股票持仓中占比为12.0%；三季度通信类股的仓位占比为9.6%。其中，对优步（Uber）增持36%，至18730万股，市值95.5亿美元，对Sirius XM控股减持44%，至5260万股，市值3.362亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6227673.d.html</link>
-            <guid>2028964</guid>
-            <pubDate>Wed, 17 Feb 2021 15:42:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[对冲基金（行业）四季度对医疗保健类股持仓市值为3100亿美元，在其总体股票持仓中占比15.0%；三季度医疗保健类股的仓位占比为13.0%。其中，对Elanco Animal Health增持341%，至5290万股，市值16.2亿美元，对Clover Health Investments减持72%，至949万股，市值1.713亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7210847.d.html</link>
-            <guid>2028963</guid>
-            <pubDate>Wed, 17 Feb 2021 15:42:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[对冲基金（行业）四季度对可选消费类股持仓市值为2787亿美元，在其总体股票持仓中占比13.0%；三季度可选消费类股的仓位占比为11.0%。其中，对邮轮公司嘉年华增持273%，至5510万股，市值12.0亿美元，对蔚来汽车减持32%，至4040万股，市值19.7亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7210826.d.html</link>
-            <guid>2028962</guid>
-            <pubDate>Wed, 17 Feb 2021 15:42:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[对冲基金（行业）四季度对必需消费类股持仓市值为840亿美元，在其总体股票持仓中占比3.9%；三季度必需消费类股的仓位占比为5.1%。其中，对Albertsons Cos增持1528%，至21850万股，市值38.4亿美元，对Ambev减持48%，至3990万股，市值1.222亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7210804.d.html</link>
-            <guid>2028961</guid>
-            <pubDate>Wed, 17 Feb 2021 15:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[对冲基金（行业）四季度对工业类股持仓市值为1396亿美元，在其总体股票持仓中占比6.5%；三季度工业类股的仓位占比为7.8%。其中，对通用电气增持59%，至2367万股，市值25.6亿美元，对雷神科技减持27%，至3500万股，市值25.0亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7210766.d.html</link>
-            <guid>2028960</guid>
-            <pubDate>Wed, 17 Feb 2021 15:41:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[对冲基金（行业）四季度对原材料类股持仓市值为711亿美元，在其总体股票持仓中占比3.3%；三季度原材料类股的仓位占比为3.0%。其中，对MP Materials增持573%，至8330万股，市值26.8亿美元，对淡水河谷减持17%，至8060万股，市值13.5亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7210745.d.html</link>
-            <guid>2028959</guid>
-            <pubDate>Wed, 17 Feb 2021 15:41:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[对冲基金（行业）四季度对能源类股持仓市值为487亿美元，在其总体股票持仓中占比2.3%；三季度能源股的仓位占比为2.4%。其中，对NexTier Oilfield增持154%，至6170万股，市值2.123亿美元，对Southwestern Energy减持66%，至2120万股，市值0.668亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6227523.d.html</link>
-            <guid>2028958</guid>
-            <pubDate>Wed, 17 Feb 2021 15:41:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[对冲基金（行业）四季度对科技类股持股4838亿美元，在其总体股票持仓中占比23%；三季度科技股头寸占比为21%。其中，对Slack Technologies增持889%，至9980万股，市值42.2亿美元，对Palantir减持41%，至4420万股，市值10.4亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6227495.d.html</link>
-            <guid>2028957</guid>
-            <pubDate>Wed, 17 Feb 2021 15:40:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富国银行短线拉升，现涨超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7210579.d.html</link>
-            <guid>2028956</guid>
-            <pubDate>Wed, 17 Feb 2021 15:40:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[音频社交应用Clubhouse被马斯克带火之后，代码为“CMGR”的一家同名公司ClubHouse Media Group Inc.股价意外飙涨，今年以来股价已飙升1000％以上。据报道，该公司是一家“针对社交媒体网红的营销和媒体公司”，市值从1月初的2.25亿美元激增至25亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6227393.d.html</link>
-            <guid>2028955</guid>
-            <pubDate>Wed, 17 Feb 2021 15:39:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[亿航智能逐条回应做空机构Wolfpack的做空报告，盘中一度拉升60%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7210551.d.html</link>
-            <guid>2028954</guid>
-            <pubDate>Wed, 17 Feb 2021 15:39:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美联储接受了富国银行关于资产上限的改革计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6227329.d.html</link>
-            <guid>2028953</guid>
-            <pubDate>Wed, 17 Feb 2021 15:39:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通美债客户调查显示空头比例减少，中性增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7210385.d.html</link>
-            <guid>2028950</guid>
-            <pubDate>Wed, 17 Feb 2021 15:36:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股科技股普遍下跌，FAANMG中只有亚马逊勉强维持涨幅，Zoom跌超4%，推特跌超3%，苹果、特斯拉跌超2%；芯片股集体下跌，英伟达、AMD跌超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7210318.d.html</link>
-            <guid>2028948</guid>
-            <pubDate>Wed, 17 Feb 2021 15:35:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富国银行盘中拉升，现涨近3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6227114.d.html</link>
-            <guid>2028947</guid>
-            <pubDate>Wed, 17 Feb 2021 15:34:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[对冲基金四季度增持ETF、科技股、原材料、可选消费、医疗保健、通信类股，减持能源、工业、必需消费品、公用设施类股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftpnny7210045.d.html</link>
-            <guid>2028946</guid>
-            <pubDate>Wed, 17 Feb 2021 15:31:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国民主党参议员曼钦不会支持违反预算规则的援助条款。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6226765.d.html</link>
-            <guid>2028945</guid>
-            <pubDate>Wed, 17 Feb 2021 15:29:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储罗森格伦：市场的某些部分确实存在“泡沫”，但在经济接近充分就业之前，人们对金融稳定性的担忧较少。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6226656.d.html</link>
-            <guid>2028943</guid>
-            <pubDate>Wed, 17 Feb 2021 15:27:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储罗森格伦：提高最低工资会影响一些小企业，但也会帮助很多员工。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6226625.d.html</link>
-            <guid>2028941</guid>
-            <pubDate>Wed, 17 Feb 2021 15:26:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国会议员寻求从电子烟企业获得电子烟销售数据。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6226614.d.html</link>
-            <guid>2028940</guid>
-            <pubDate>Wed, 17 Feb 2021 15:26:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新能源车持续下挫，小鹏汽车盘中跌超5%，百度跌超4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-17/detail-ikftssap6226590.d.html</link>
-            <guid>2028939</guid>
-            <pubDate>Wed, 17 Feb 2021 15:26:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储罗森格伦：目前的担忧是劳动力市场；当美国恢复充分就业时，财政支出可能会减少。]]></title>
-            <guid>2028936</guid>
-            <pubDate>Wed, 17 Feb 2021 15:23:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
