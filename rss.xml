@@ -4,11 +4,77 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 18 Feb 2021 19:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2021 20:24:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  市场消息：微软(MSFT.O)今年将发布面向个人和小型企业的Office 2021版。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-19/detail-ikftpnny7712825.d.html</link>
+            <guid>2030740</guid>
+            <pubDate>Thu, 18 Feb 2021 20:22:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【年内北上资金累计净流入达791亿元，专家称外资趋势性流入逻辑不变】据同花顺iFinD数据显示，截至2月18日收盘，当日北上资金净买入额约50.73亿元。其中，沪股通净买入26.72亿元，深股通净买入24.02亿元。今年以来仅29个交易日，北上资金资金累计净流入达791.29亿元，约占去年全年2089.32亿元的37.87%。太平洋证券策略分析师金达莱表示，尽管短期来看，美元指数有所反弹，但从中长期考虑，得益于非美经济体复苏弹性更强，预计美元仍将维持一定的弱势，而这无疑继续“助攻”外资继续配置A股市场。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-19/detail-ikftpnny7711260.d.html</link>
+            <guid>2030736</guid>
+            <pubDate>Thu, 18 Feb 2021 20:19:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【叮咚买菜考虑最快今年赴美上市】知情人士透露，成立于2017年的中资食杂应用叮咚买菜正在考虑最快今年在美国首次公开募股（IPO），以为其在竞争激烈的生鲜食品配送市场进行扩张提供资金。知情人士说，拥有红杉中国支持的这家公司正在就发行股份与顾问机构磋商，可能融资至少3亿美元，但规模和时间线等细节仍未确定。叮咚买菜的一位代表没有立即回应寻求评论的请求。该公司投资者包括泛大西洋投资、贝斯塔曼亚洲投资基金、启明创投和高榕资本。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-19/detail-ikftssap6719686.d.html</link>
+            <guid>2030722</guid>
+            <pubDate>Thu, 18 Feb 2021 19:58:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国财政大臣苏纳克将商业税率审查推迟至秋季。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-19/detail-ikftssap6719072.d.html</link>
+            <guid>2030721</guid>
+            <pubDate>Thu, 18 Feb 2021 19:57:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国参议院能源委员会计划就电网可靠性问题举行听证会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-19/detail-ikftpnny7697621.d.html</link>
+            <guid>2030718</guid>
+            <pubDate>Thu, 18 Feb 2021 19:48:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：富国银行(WFC.N)与菲律宾电力公司Aboitiz Power签订零售电力协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-19/detail-ikftssap6710284.d.html</link>
+            <guid>2030715</guid>
+            <pubDate>Thu, 18 Feb 2021 19:37:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  香港持牌经纪公司玖富(JFU.O)盘中大涨超50%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-19/detail-ikftpnny7689065.d.html</link>
+            <guid>2030710</guid>
+            <pubDate>Thu, 18 Feb 2021 19:29:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士：墨西哥政府将向国家石油公司注资130-160亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-19/detail-ikftssap6706650.d.html</link>
+            <guid>2030708</guid>
+            <pubDate>Thu, 18 Feb 2021 19:28:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士：墨西哥政府将在2021年给予国家石油公司相当于36.8亿美元的税收优惠。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-19/detail-ikftssap6706608.d.html</link>
+            <guid>2030707</guid>
+            <pubDate>Thu, 18 Feb 2021 19:28:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士：墨西哥国家石油公司2021年可能不会发行国际债券。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-19/detail-ikftssap6706567.d.html</link>
+            <guid>2030706</guid>
+            <pubDate>Thu, 18 Feb 2021 19:28:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯经济部：俄罗斯1月GDP年率为-2.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-19/detail-ikftpnny7687608.d.html</link>
+            <guid>2030705</guid>
+            <pubDate>Thu, 18 Feb 2021 19:25:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  得州副州长：风能、太阳能因电力中断遭到不公平的谴责。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-19/detail-ikftpnny7680649.d.html</link>
@@ -193,54 +259,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-19/detail-ikftpnny7624449.d.html</link>
             <guid>2030627</guid>
             <pubDate>Thu, 18 Feb 2021 17:08:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  游戏驿站股价跌4.8%，美国众议院开始召开听证会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-19/detail-ikftpnny7622849.d.html</link>
-            <guid>2030626</guid>
-            <pubDate>Thu, 18 Feb 2021 17:05:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国众议院预算委员会将于2月22日就拜登的救助计划举行会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-19/detail-ikftssap6633198.d.html</link>
-            <guid>2030622</guid>
-            <pubDate>Thu, 18 Feb 2021 16:51:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京：城镇调查失业率今年拟控制在5%以内】昨日，2021年北京市就业工作视频会召开。从会上了解到，今年，市人力社保局将与全市31个部门联手，共同发力，落实经济发展就业导向，扩大就业容量、提升就业质量；更加注重缓解结构性就业矛盾，促进劳动技能型就业；深化重点群体就业帮扶，兜牢就业底线等。预计2021年，本市城镇调查失业率将控制在5%以内，帮助农村劳动力实现转移就业3万人。（北京青年报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-19/detail-ikftssap6632899.d.html</link>
-            <guid>2030621</guid>
-            <pubDate>Thu, 18 Feb 2021 16:50:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  得克萨斯州电力可靠性委员会（ERCOT）：已经告诉公用事业公司为尽可能多的客户恢复供应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-19/detail-ikftssap6632803.d.html</link>
-            <guid>2030620</guid>
-            <pubDate>Thu, 18 Feb 2021 16:50:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  蛋壳公寓(DNK.N)盘中涨幅扩大至20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-19/detail-ikftpnny7614621.d.html</link>
-            <guid>2030619</guid>
-            <pubDate>Thu, 18 Feb 2021 16:48:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  得州油气监管机构致信产油商，称州长授权该部门将天然气保留在得州。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-19/detail-ikftssap6629799.d.html</link>
-            <guid>2030613</guid>
-            <pubDate>Thu, 18 Feb 2021 16:43:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【政策红包密集派发，央地全力推进科技创新】从科技部门获悉，为激发企业创新活力、提升企业创新能力，国家正全面强化载体建设。“年前国家加快布局建设高速列车、新能源汽车、合成生物等领域的3家国家技术创新中心，依托企业组建175家国家重点实验室和189家国家工程技术研究中心。发挥高新区核心载体作用，更加注重培育高新技术企业和发展高新技术产业。”有科技部门主管人士表示。（经参）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-19/detail-ikftpnny7609032.d.html</link>
-            <guid>2030605</guid>
-            <pubDate>Thu, 18 Feb 2021 16:36:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  得克萨斯州电力可靠性委员会（ERCOT）：无法提供有关断电的预估成本。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-19/detail-ikftpnny7607311.d.html</link>
-            <guid>2030602</guid>
-            <pubDate>Thu, 18 Feb 2021 16:32:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
