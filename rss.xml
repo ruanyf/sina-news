@@ -4,11 +4,34 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 19 Feb 2021 21:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2021 22:25:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【拜登计划签署得克萨斯州联邦救灾援助协议】当地时间2月19日，美国总统拜登表示，他计划在收到得克萨斯州长的联邦援助请求文件后，立刻签署得克萨斯州联邦救灾援助协议，以帮助该州应对极端天气、停电和公用事业中断等问题，尽快展开救灾行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-20/detail-ikftssap7513063.d.html</link>
+            <guid>2032364</guid>
+            <pubDate>Fri, 19 Feb 2021 22:11:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国环保新材集团有限公司（China Eco-Materials Group）：现在，本公司预计将按每份ADS 4.00美元的价格在美国IPO时发行430万股。]]></title>
+            <guid>2032363</guid>
+            <pubDate>Fri, 19 Feb 2021 21:59:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  墨西哥政府：美墨边境限制延长至3月21日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-20/detail-ikftssap7502727.d.html</link>
+            <guid>2032353</guid>
+            <pubDate>Fri, 19 Feb 2021 21:47:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  大众汽车墨西哥捷达（Jetta）公司下周一至下周二（2月22-23日）将继续停工。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-20/detail-ikftssap7495588.d.html</link>
+            <guid>2032318</guid>
+            <pubDate>Fri, 19 Feb 2021 21:30:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  得州州长：得州大约有16.5万户家庭未恢复供电。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-20/detail-ikftpnny8474156.d.html</link>
@@ -162,30 +185,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-20/detail-ikftssap7405248.d.html</link>
             <guid>2032151</guid>
             <pubDate>Fri, 19 Feb 2021 18:02:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国参议院多数党领袖舒默：参议院有望在3月14日之前通过刺激法案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-20/detail-ikftpnny8387654.d.html</link>
-            <guid>2032149</guid>
-            <pubDate>Fri, 19 Feb 2021 17:59:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯天然气公司Gazprom：“尽一切努力”完成北溪2号管道项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-20/detail-ikftpnny8379050.d.html</link>
-            <guid>2032141</guid>
-            <pubDate>Fri, 19 Feb 2021 17:41:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯天然气公司Gazprom：按计划维持2021年投资项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-20/detail-ikftssap7395558.d.html</link>
-            <guid>2032140</guid>
-            <pubDate>Fri, 19 Feb 2021 17:41:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  得克萨斯州电力可靠性委员会（ERCOT）CEO：希望（电力供应）保持在正常状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-20/detail-ikftpnny8378451.d.html</link>
-            <guid>2032139</guid>
-            <pubDate>Fri, 19 Feb 2021 17:39:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
