@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 20 Feb 2021 18:26:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2021 19:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【冬季风暴导致美国得州奥斯汀市储水量严重不足】据美国有线电视新闻网（CNN）当地时间2月20日报道，美国得克萨斯州奥斯汀市的自来水储水量仅为5043万加仑，而该自来水系统需要至少1亿加仑的存储量才能维持系统的正常运行。报道指出，由于冬季风暴导致大量用户的水管破裂，奥斯汀市水务公司总共损失了3.25亿加仑的水。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8791835.d.html</link>
+            <guid>2033191</guid>
+            <pubDate>Sat, 20 Feb 2021 18:44:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【埃及总统塞西：非洲国家应加强司法合作 共同应对挑战】当地时间20日，埃及总统塞西在第五次非洲高级别司法大会预备会议上发言时表示，非洲国家应共同努力制定统一的法律法规，以应对非洲面临的挑战，为实现非洲的愿景提供保障。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8789804.d.html</link>
+            <guid>2033190</guid>
+            <pubDate>Sat, 20 Feb 2021 18:37:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  欧洲地中海地震中心：太平洋岛国瓦努阿图发生5.1级地震。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8786423.d.html</link>
@@ -299,23 +311,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-20/detail-ikftpnny8629107.d.html</link>
             <guid>2033092</guid>
             <pubDate>Sat, 20 Feb 2021 10:06:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【青桔单车确认即将完成新一轮融资】针对此前“滴滴青桔即将完成一笔6亿美元B轮融资，同时获得银行超4亿美元的授信额度”的传闻，青桔方面今日向记者确认了即将完成融资的消息，但对于融资金额及投资方等细节未予透露。数据显示，青桔2020年4月完成一轮由君联资本、软银投资的10亿美元融资。这意味着，青桔一年内已融资2次。（每经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-20/detail-ikftssap7636673.d.html</link>
-            <guid>2033081</guid>
-            <pubDate>Sat, 20 Feb 2021 09:33:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【浙江政府采购优先支持中小企业】据新华社，为进一步支持中小企业发展，优化政策供给和政策落实，浙江省政府办公厅近日公布的《关于继续实施惠企政策促进经济稳中求进的若干意见》要求，加大促进中小企业发展的政府采购支持力度，持续实施部分减费举措。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-20/detail-ikftssap7636402.d.html</link>
-            <guid>2033080</guid>
-            <pubDate>Sat, 20 Feb 2021 09:31:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  银保监会：为统一监管标准、避免监管套利，《关于进一步规范商业银行互联网贷款业务的通知》此次明确信托公司参照执行《通知》和《商业银行互联网贷款管理暂行办法》的相关规定。]]></title>
-            <guid>2033078</guid>
-            <pubDate>Sat, 20 Feb 2021 09:20:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
