@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 20 Feb 2021 16:38:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2021 17:31:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  据俄罗斯卫星网：三枚火箭弹击中伊拉克首都巴格达附近的美国巴拉德空军基地，造成一人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8770883.d.html</link>
+            <guid>2033183</guid>
+            <pubDate>Sat, 20 Feb 2021 17:30:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  加拿大总理特鲁多和美国总统拜登将于2月23日进行视讯会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftssap7781953.d.html</link>
+            <guid>2033180</guid>
+            <pubDate>Sat, 20 Feb 2021 17:14:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  国家卫健委：关于互联网上“东北地区将试点放开生育限制”“生育政策将全面放开”等推测，不是答复的本意。我们认为，东北地区人口长期减少的原因是多方面的，不是简单放开生育政策就能解决的。]]></title>
             <guid>2033174</guid>
@@ -286,18 +298,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-20/detail-ikftssap7632443.d.html</link>
             <guid>2033075</guid>
             <pubDate>Sat, 20 Feb 2021 09:06:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  国家外汇管理局副局长王春英：展望未来，外部环境依然错综复杂，世界经济复苏过程中的不稳定、不确定性因素依然较多，我国建设更高水平开放型经济新体制，经济持续健康发展基础没有改变，外汇市场有望保持平稳运行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-20/detail-ikftpnny8610684.d.html</link>
-            <guid>2033065</guid>
-            <pubDate>Sat, 20 Feb 2021 08:35:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  国家外汇管理局副局长王春英：总的来看，在国内经济持续稳定恢复、金融市场双向开放的基本面支撑下，当前我国跨境资金双向流动更趋活跃，有助于进一步提升外汇市场的深度和广度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-20/detail-ikftpnny8610460.d.html</link>
-            <guid>2033064</guid>
-            <pubDate>Sat, 20 Feb 2021 08:34:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
