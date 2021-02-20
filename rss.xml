@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 20 Feb 2021 17:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2021 18:26:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  欧洲地中海地震中心：太平洋岛国瓦努阿图发生5.1级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8786423.d.html</link>
+            <guid>2033189</guid>
+            <pubDate>Sat, 20 Feb 2021 18:25:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国得克萨斯州又一市长称对州政府表示失望】当地时间2月20日，美国得克萨斯州马诺市（Manor）市长拉里·华莱士（Larry Wallace）称，在该市仍有数千人的家中或企业没有电力和水源供应，他表示对州政府和电力公司十分失望。此前一天，得州休斯顿市市长西尔维斯特·特纳（Sylvester Turner）在接受采访时表示，得州暴风雪断电现象究其根因，是因为该州民选官员缺乏领导力。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8782485.d.html</link>
+            <guid>2033187</guid>
+            <pubDate>Sat, 20 Feb 2021 18:10:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【13日地震造成日本福岛核电站机组安全壳内水位下降】据日本广播协会电视台20日报道，可能受本月13日地震的影响，东京电力公司福岛第一核电站1号和3号机组安全壳内水位分别下降了几十厘米。东京电力和日本政府监管部门称，这并未影响到两个机组核燃料残渣的冷却，也未对外界造成影响。（新华网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8781058.d.html</link>
+            <guid>2033186</guid>
+            <pubDate>Sat, 20 Feb 2021 18:06:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国南方各州将在周末短暂回暖】据美国气象部门当地时间2月20日预测，美国南方各州将在周末经历短暂的气温快速回暖，让饱受暴风雪和严寒之苦的部分地区得到缓解。但是南方各州在经历短暂回暖后，会在下周中期再次受到冷空气影响。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftssap7793814.d.html</link>
+            <guid>2033185</guid>
+            <pubDate>Sat, 20 Feb 2021 17:53:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多家能源公司表示不会暂停在缅甸能源项目】近日，澳大利亚伍德赛德石油公司表示尽管目前缅甸政局动荡，但该公司在缅甸的能源勘探和开采工作将如期进行；法国道达尔石油公司称对目前的缅甸局势表示关注，将努力保证公司员工与合作商员工的人身安全，并希望重新看到和平与繁荣的缅甸；韩国浦项国际发言人崔有涵称，缅甸政局动荡并未影响在缅甸的天然气生产。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8773374.d.html</link>
+            <guid>2033184</guid>
+            <pubDate>Sat, 20 Feb 2021 17:39:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  据俄罗斯卫星网：三枚火箭弹击中伊拉克首都巴格达附近的美国巴拉德空军基地，造成一人受伤。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8770883.d.html</link>
@@ -286,18 +316,6 @@
             <title><![CDATA[  银保监会：为统一监管标准、避免监管套利，《关于进一步规范商业银行互联网贷款业务的通知》此次明确信托公司参照执行《通知》和《商业银行互联网贷款管理暂行办法》的相关规定。]]></title>
             <guid>2033078</guid>
             <pubDate>Sat, 20 Feb 2021 09:20:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  空客公司首席执行官呼吁在与波音的跨大西洋飞机补贴争端中“停火”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-20/detail-ikftpnny8618263.d.html</link>
-            <guid>2033077</guid>
-            <pubDate>Sat, 20 Feb 2021 09:17:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  保监会有关部门负责人就《关于进一步规范商业银行互联网贷款业务的通知》答记者问：《通知》进一步明确严控互联网贷款跨地域经营，强调地方法人银行开展互联网贷款业务的，应当服务于当地客户，不得跨注册地辖区开展互联网贷款业务。同时，《通知》也充分考虑部分机构的实际情况，对无实体经营网点、业务主要在线上开展，且符合监管机构其他规定条件的机构，豁免适用上述规定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-20/detail-ikftssap7632443.d.html</link>
-            <guid>2033075</guid>
-            <pubDate>Sat, 20 Feb 2021 09:06:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
