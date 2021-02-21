@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 21 Feb 2021 20:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2021 21:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  据法新社：国际原子能机构（IAEA）表示，在伊朗核问题最后期限前找到临时解决方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-22/detail-ikftpnny8961881.d.html</link>
+            <guid>2034315</guid>
+            <pubDate>Sun, 21 Feb 2021 20:53:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据俄罗斯卫星网：墨西哥韦拉克鲁斯州一军用飞机发生事故，造成6人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-22/detail-ikftssap7977439.d.html</link>
+            <guid>2034299</guid>
+            <pubDate>Sun, 21 Feb 2021 20:31:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  巴西巴伊亚州州长宣布收紧防疫限制措施。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-22/detail-ikftpnny8960263.d.html</link>
@@ -277,12 +289,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8923971.d.html</link>
             <guid>2033490</guid>
             <pubDate>Sun, 21 Feb 2021 12:01:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国务院新闻办公室定于2月22日（星期一）10时举行新闻发布会，请中央农办主任、农业农村部部长唐仁健介绍全面推进乡村振兴加快农业农村现代化有关情况并答记者问。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8919759.d.html</link>
-            <guid>2033482</guid>
-            <pubDate>Sun, 21 Feb 2021 11:39:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
