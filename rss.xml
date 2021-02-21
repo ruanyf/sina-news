@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 21 Feb 2021 17:30:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2021 18:25:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  市场消息：在发生火灾后，巴西国家石油公司暂停Caratinga油田的生产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-22/detail-ikftssap7971569.d.html</link>
+            <guid>2034231</guid>
+            <pubDate>Sun, 21 Feb 2021 18:16:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国政府一位高级部长称，英国政府将采取“谨慎”的方式来放松封锁，逐步取消限制措施以判断效果。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-22/detail-ikftssap7971220.d.html</link>
+            <guid>2034208</guid>
+            <pubDate>Sun, 21 Feb 2021 18:09:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：阿尔及利亚在政府改组中任命新的能源部长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-22/detail-ikftssap7970001.d.html</link>
+            <guid>2034124</guid>
+            <pubDate>Sun, 21 Feb 2021 17:47:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【利比亚民族团结政府内政部长车队遇袭】据法新社消息，当地时间2月22日，利比亚民族团结政府内政部长法西·巴沙贾的车队在利比亚首都的黎波里附近的公路上遇袭，袭击者从一辆装甲车上向巴沙贾的车队开火。巴沙贾本人在袭击事件中幸免于难。袭击者中有2人被捕，另有一名袭击者被送往医院。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-22/detail-ikftssap7965931.d.html</link>
@@ -312,30 +330,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8913359.d.html</link>
             <guid>2033465</guid>
             <pubDate>Sun, 21 Feb 2021 11:06:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【年后鸡蛋降价15%】在华北有名的禽蛋交易市场河北馆陶，年前鸡蛋价格出现冲高回落的过程，价格回落到了每斤4.17元。在馆陶金凤禽蛋交易市场了解到，年后鸡蛋的价格持续回落，比年前的价格又下滑了15%左右。据了解，蛋价持续回落的主要原因是学校、工厂等需求市场备货阶段结束，加上春节鱼肉消费的影响，鸡蛋有价格回落的现象。 (央视财经)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftssap7927456.d.html</link>
-            <guid>2033459</guid>
-            <pubDate>Sun, 21 Feb 2021 10:53:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  苏丹财政部长说，来自国外的资金正输入苏丹，如果需要，央行可以进行干预。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8911320.d.html</link>
-            <guid>2033458</guid>
-            <pubDate>Sun, 21 Feb 2021 10:52:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳：民营企业、中小企业境内上市最高可奖150万元】深圳市政府决定组织实施2022年民营及中小企业创新发展培育扶持计划。其中，改制上市培育资助项目的奖励方式包括，对拟在境内证券交易所首次公开发行股票，并已经完成上市辅导的，给予最高不超过150万元的奖励；对直接在境外证券交易所首次公开发行股票的，给予最高不超过80万元的奖励；对已在“新三板”成功挂牌的，给予最高不超过50万元的奖励。（e公司）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftssap7927157.d.html</link>
-            <guid>2033457</guid>
-            <pubDate>Sun, 21 Feb 2021 10:50:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  苏丹财政部长：关税税率不包括在贬值范围内，关税税率改革正在研究中。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8910990.d.html</link>
-            <guid>2033456</guid>
-            <pubDate>Sun, 21 Feb 2021 10:49:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
