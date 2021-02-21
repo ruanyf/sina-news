@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 21 Feb 2021 16:37:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2021 17:30:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【利比亚民族团结政府内政部长车队遇袭】据法新社消息，当地时间2月22日，利比亚民族团结政府内政部长法西·巴沙贾的车队在利比亚首都的黎波里附近的公路上遇袭，袭击者从一辆装甲车上向巴沙贾的车队开火。巴沙贾本人在袭击事件中幸免于难。袭击者中有2人被捕，另有一名袭击者被送往医院。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-22/detail-ikftssap7965931.d.html</link>
+            <guid>2033944</guid>
+            <pubDate>Sun, 21 Feb 2021 16:51:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【“仿冒银行”多地闪现 以“解债”为名吞噬巨额资金】贵州省贵阳市花溪区有人借出去70万收不回来，找一家名为“权行普惠”的机构帮忙“解债”，向该机构交了21万，然而，直到现在，也没有按协议收回“解债”资金。据了解，2019年下半年以来，这个宣称具有央企背景的“权行普惠”庞大组织就已出现。据运营方披露数据，截至2020年6月，其已发展出370余家“支行”，获客数千人。仅从调查掌握的情况看，“权行普惠”业务金额已达2.1亿元。按分12期由“权行普惠”关联方代偿资金的模式来计算，这2.1亿元业务金额，解债人需向“权行普惠”及其关联方合计交纳超过1亿元服务费及履约保证金等。但解债人具体交纳了多少，目前尚未获得更多确实的数据。（每经）]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-22/detail-ikftssap7964240.d.html</link>
@@ -330,18 +336,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8910990.d.html</link>
             <guid>2033456</guid>
             <pubDate>Sun, 21 Feb 2021 10:49:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  兴业矿业在互动平台表示，银漫矿业目前具备年生产锡金属7500吨的生产能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8910336.d.html</link>
-            <guid>2033453</guid>
-            <pubDate>Sun, 21 Feb 2021 10:42:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  苏丹央行行长：政府和央行都不会干预汇率的设定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8910035.d.html</link>
-            <guid>2033452</guid>
-            <pubDate>Sun, 21 Feb 2021 10:39:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

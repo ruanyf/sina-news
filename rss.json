@@ -6,6 +6,13 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 2033944,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-22/detail-ikftssap7965931.d.html",
+            "title": "【利比亚民族团结政府内政部长车队遇袭】据法新社消息，当地时间2月22日，利比亚民族团结政府内政部长法西·巴沙贾的车队在利比亚首都的黎波里附近的公路上遇袭，袭击者从一辆装甲车上向巴沙贾的车队开火。巴沙贾本人在袭击事件中幸免于难。袭击者中有2人被捕，另有一名袭击者被送往医院。（央视）",
+            "date_modified": "2021-02-21T16:51:55.000Z"
+        },
+        {
             "id": 2033844,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-02-22/detail-ikftssap7964240.d.html",
@@ -380,20 +387,6 @@
             "url": "https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8910990.d.html",
             "title": "  苏丹财政部长：关税税率不包括在贬值范围内，关税税率改革正在研究中。",
             "date_modified": "2021-02-21T10:49:45.000Z"
-        },
-        {
-            "id": 2033453,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8910336.d.html",
-            "title": "  兴业矿业在互动平台表示，银漫矿业目前具备年生产锡金属7500吨的生产能力。",
-            "date_modified": "2021-02-21T10:42:31.000Z"
-        },
-        {
-            "id": 2033452,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8910035.d.html",
-            "title": "  苏丹央行行长：政府和央行都不会干预汇率的设定。",
-            "date_modified": "2021-02-21T10:39:52.000Z"
         }
     ]
 }
