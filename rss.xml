@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 21 Feb 2021 01:50:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2021 02:30:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【韩1月进口车销售业绩向好】韩国汽车产业协会和韩国进口车协会21日发布的数据显示，今年1月国内乘用车销量同比增加21.0%，为11.9590万辆，其中韩国5家整车厂商销量为9.7368万辆，同比增加19.7%，进口车2.2222万辆，同比增加27.4%。（韩联社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftssap7849594.d.html</link>
+            <guid>2033289</guid>
+            <pubDate>Sun, 21 Feb 2021 02:28:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【三部门：医学科研人员发表论文 无实质学术贡献者不得“挂名”】据国家卫健委网站消息，日前，国家卫生健康委、科技部、国家中医药管理局结合相关法律法规修订了《医学科研诚信和相关行为规范》。《行为规范》明确提出，医学科研人员在发表论文或出版学术著作过程中，要遵守《发表学术论文“五不准”》和学术论文投稿、著作出版有关规定。论文、著作、专利等成果署名应当按照对科研成果的贡献大小据实署名和排序，无实质学术贡献者不得“挂名”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8832340.d.html</link>
+            <guid>2033287</guid>
+            <pubDate>Sun, 21 Feb 2021 02:20:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质勘探局：俄罗斯托拉赫姆以东85千米处发生5.1级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8828460.d.html</link>
+            <guid>2033278</guid>
+            <pubDate>Sun, 21 Feb 2021 02:03:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海医疗科研团队新突破：国际首个CAR-T细胞联合疗法治疗实体肿瘤成效明显。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8826637.d.html</link>
+            <guid>2033272</guid>
+            <pubDate>Sun, 21 Feb 2021 01:53:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[欧洲地中海地震中心：俄罗斯西伯利亚西南部发生5.0级地震。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8825610.d.html</link>
@@ -262,17 +286,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftssap7781953.d.html</link>
             <guid>2033180</guid>
             <pubDate>Sat, 20 Feb 2021 17:14:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  国家卫健委：关于互联网上“东北地区将试点放开生育限制”“生育政策将全面放开”等推测，不是答复的本意。我们认为，东北地区人口长期减少的原因是多方面的，不是简单放开生育政策就能解决的。]]></title>
-            <guid>2033174</guid>
-            <pubDate>Sat, 20 Feb 2021 16:06:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯首次发现人感染H5N8型禽流感病毒】俄罗斯联邦消费者权益保护和公益监督局局长波波娃20日说，俄发现7人感染了H5N8型禽流感病毒，这是全球首次发现人感染该型禽流感病毒。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-20/detail-ikftpnny8740681.d.html</link>
-            <guid>2033171</guid>
-            <pubDate>Sat, 20 Feb 2021 15:56:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
