@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 21 Feb 2021 02:30:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2021 03:24:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据媒体报道，Facebook删除了关于缅甸军方的相关页面，因其违反规定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftssap7863541.d.html</link>
+            <guid>2033305</guid>
+            <pubDate>Sun, 21 Feb 2021 03:21:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国电动汽车制造商Arrival计划通过SPAC交易在美上市】据外媒报道，英国电动汽车制造商Arrival计划通过SPAC交易在美国上市。据悉，Arrival正在与特殊目的收购公司CIIG Merger Corp(CIIC.US)进行合并，交易预计将于本季度完成。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8844123.d.html</link>
+            <guid>2033302</guid>
+            <pubDate>Sun, 21 Feb 2021 03:05:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【云端过节，春节假期移动数据流量较去年增加23.4%】据工信微报2月21日消息，春节假期7天，移动互联网流量达到357.3万TB（1TB=1024GB），与2020年春节7天相比增长23.4%；其中，除夕和初一两天的移动数据流量同比分别增长28.7%和26.1%。云上互动、娱乐、购物等“云上生活”方式备受青睐。（澎湃新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftssap7857545.d.html</link>
+            <guid>2033299</guid>
+            <pubDate>Sun, 21 Feb 2021 02:58:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄总统新闻秘书表示欧盟改善俄欧关系的意愿不足】当地时间2月20日，俄罗斯总统新闻秘书佩斯科夫表示，欧盟改善俄欧关系的意愿不足。佩斯科夫表示，涉及到俄欧关系，我们做了很多尝试。敦促欧盟展现让俄欧关系正常化的意愿，但并未得到欧盟方面的回应，甚至最近完全没有看到欧洲在相向而行。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftssap7851677.d.html</link>
+            <guid>2033296</guid>
+            <pubDate>Sun, 21 Feb 2021 02:39:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国司法部长提名人Garland在书面证词中表示，他将监督对1月6日国会袭击者的起诉。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8836015.d.html</link>
+            <guid>2033295</guid>
+            <pubDate>Sun, 21 Feb 2021 02:39:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【20日全国发送旅客2322.9万人次】来自国务院联防联控机制春运工作专班数据显示，昨日（20日），全国发送旅客2322.9万人次。其中，铁路661.6万人次，公路1509.0万人次，水路46.2万人次，民航106.1万人次，全国高速公路流量3033.6万辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8835598.d.html</link>
+            <guid>2033293</guid>
+            <pubDate>Sun, 21 Feb 2021 02:36:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【韩1月进口车销售业绩向好】韩国汽车产业协会和韩国进口车协会21日发布的数据显示，今年1月国内乘用车销量同比增加21.0%，为11.9590万辆，其中韩国5家整车厂商销量为9.7368万辆，同比增加19.7%，进口车2.2222万辆，同比增加27.4%。（韩联社）]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftssap7849594.d.html</link>
@@ -238,54 +274,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8791835.d.html</link>
             <guid>2033191</guid>
             <pubDate>Sat, 20 Feb 2021 18:44:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【埃及总统塞西：非洲国家应加强司法合作 共同应对挑战】当地时间20日，埃及总统塞西在第五次非洲高级别司法大会预备会议上发言时表示，非洲国家应共同努力制定统一的法律法规，以应对非洲面临的挑战，为实现非洲的愿景提供保障。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8789804.d.html</link>
-            <guid>2033190</guid>
-            <pubDate>Sat, 20 Feb 2021 18:37:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲地中海地震中心：太平洋岛国瓦努阿图发生5.1级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8786423.d.html</link>
-            <guid>2033189</guid>
-            <pubDate>Sat, 20 Feb 2021 18:25:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国得克萨斯州又一市长称对州政府表示失望】当地时间2月20日，美国得克萨斯州马诺市（Manor）市长拉里·华莱士（Larry Wallace）称，在该市仍有数千人的家中或企业没有电力和水源供应，他表示对州政府和电力公司十分失望。此前一天，得州休斯顿市市长西尔维斯特·特纳（Sylvester Turner）在接受采访时表示，得州暴风雪断电现象究其根因，是因为该州民选官员缺乏领导力。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8782485.d.html</link>
-            <guid>2033187</guid>
-            <pubDate>Sat, 20 Feb 2021 18:10:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【13日地震造成日本福岛核电站机组安全壳内水位下降】据日本广播协会电视台20日报道，可能受本月13日地震的影响，东京电力公司福岛第一核电站1号和3号机组安全壳内水位分别下降了几十厘米。东京电力和日本政府监管部门称，这并未影响到两个机组核燃料残渣的冷却，也未对外界造成影响。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8781058.d.html</link>
-            <guid>2033186</guid>
-            <pubDate>Sat, 20 Feb 2021 18:06:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国南方各州将在周末短暂回暖】据美国气象部门当地时间2月20日预测，美国南方各州将在周末经历短暂的气温快速回暖，让饱受暴风雪和严寒之苦的部分地区得到缓解。但是南方各州在经历短暂回暖后，会在下周中期再次受到冷空气影响。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftssap7793814.d.html</link>
-            <guid>2033185</guid>
-            <pubDate>Sat, 20 Feb 2021 17:53:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多家能源公司表示不会暂停在缅甸能源项目】近日，澳大利亚伍德赛德石油公司表示尽管目前缅甸政局动荡，但该公司在缅甸的能源勘探和开采工作将如期进行；法国道达尔石油公司称对目前的缅甸局势表示关注，将努力保证公司员工与合作商员工的人身安全，并希望重新看到和平与繁荣的缅甸；韩国浦项国际发言人崔有涵称，缅甸政局动荡并未影响在缅甸的天然气生产。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8773374.d.html</link>
-            <guid>2033184</guid>
-            <pubDate>Sat, 20 Feb 2021 17:39:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据俄罗斯卫星网：三枚火箭弹击中伊拉克首都巴格达附近的美国巴拉德空军基地，造成一人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8770883.d.html</link>
-            <guid>2033183</guid>
-            <pubDate>Sat, 20 Feb 2021 17:30:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  加拿大总理特鲁多和美国总统拜登将于2月23日进行视讯会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftssap7781953.d.html</link>
-            <guid>2033180</guid>
-            <pubDate>Sat, 20 Feb 2021 17:14:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
