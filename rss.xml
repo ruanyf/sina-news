@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 23 Feb 2021 18:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2021 19:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  电动车初创公司Lordstown Motors.(RIDE.O)：我们预售了10万辆电动皮卡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftpnny9353361.d.html</link>
+            <guid>2038513</guid>
+            <pubDate>Tue, 23 Feb 2021 18:38:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：黑石集团(BX.N)寻求150亿美元用于新的二级市场基金。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftpnny9353355.d.html</link>
+            <guid>2038512</guid>
+            <pubDate>Tue, 23 Feb 2021 18:38:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Snap：虚拟增强现实体验正在成为品牌简介的特色。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftpnny9352892.d.html</link>
+            <guid>2038506</guid>
+            <pubDate>Tue, 23 Feb 2021 18:25:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Snap涨幅扩大至5.8%，股价刷新历史高位，报67.5美元，摩根士丹利将其目标价提高到80美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftpnny9352853.d.html</link>
@@ -286,12 +304,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftpnny9348541.d.html</link>
             <guid>2038416</guid>
             <pubDate>Tue, 23 Feb 2021 17:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[电动汽车公司Lucid Motors CEO：对Churchill Capital IV的股票波动不感到担忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftpnny9347918.d.html</link>
-            <guid>2038407</guid>
-            <pubDate>Tue, 23 Feb 2021 16:52:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
