@@ -4,11 +4,161 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 24 Feb 2021 22:23:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2021 23:24:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  墨西哥航空公司收到第三笔也是最后一次DIP融资付款。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8585261.d.html</link>
+            <guid>2041032</guid>
+            <pubDate>Wed, 24 Feb 2021 23:20:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[昭衍新药将在香港上市，发售价定位为每股151港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9568457.d.html</link>
+            <guid>2041027</guid>
+            <pubDate>Wed, 24 Feb 2021 23:14:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[百威亚太：每股未期股息2.83美分。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9568271.d.html</link>
+            <guid>2041025</guid>
+            <pubDate>Wed, 24 Feb 2021 23:11:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[哔哩哔哩盘后涨幅扩大至3.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8584344.d.html</link>
+            <guid>2041024</guid>
+            <pubDate>Wed, 24 Feb 2021 23:10:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[哔哩哔哩：预计第一季度营收为37亿至38亿元人民币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8584260.d.html</link>
+            <guid>2041021</guid>
+            <pubDate>Wed, 24 Feb 2021 23:09:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：澳大利亚通过法律强制FACEBOOK、谷歌为新闻付费。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8584244.d.html</link>
+            <guid>2041019</guid>
+            <pubDate>Wed, 24 Feb 2021 23:09:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[哔哩哔哩：平均月活跃用户(MAU)达到2.02亿，其中移动端用户达到1.865亿，分别比2019年同期增长55%和61%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9567982.d.html</link>
+            <guid>2041017</guid>
+            <pubDate>Wed, 24 Feb 2021 23:08:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[拜登取消特朗普有关限制一些类型外国人入境美国的法令。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8584069.d.html</link>
+            <guid>2041015</guid>
+            <pubDate>Wed, 24 Feb 2021 23:06:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  哔哩哔哩：第四季度平均月活数达1790万人，同比增长103%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8584020.d.html</link>
+            <guid>2041014</guid>
+            <pubDate>Wed, 24 Feb 2021 23:06:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[哔哩哔哩：第四季度平均每日活跃用户人数（DAU）达5400万人，同比增长42%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9567766.d.html</link>
+            <guid>2041013</guid>
+            <pubDate>Wed, 24 Feb 2021 23:05:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国贸易代表提名人凯瑟琳·泰：如果提名得到确认，将集中精力执行美墨加贸易协定的条款。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8583890.d.html</link>
+            <guid>2041009</guid>
+            <pubDate>Wed, 24 Feb 2021 23:04:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[公布财报后，哔哩哔哩盘后涨1.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9567670.d.html</link>
+            <guid>2041008</guid>
+            <pubDate>Wed, 24 Feb 2021 23:04:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[哔哩哔哩：第四季度每股亏损2.34元，市场预期亏损2.5元，去年同期亏损1.17元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9567645.d.html</link>
+            <guid>2041007</guid>
+            <pubDate>Wed, 24 Feb 2021 23:04:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【保险金信托井喷期来临，私行业务财富传承诉求凸显】2021年，平安私人银行迎来开门红，过去约2个月时间其代销的保险金信托业务新增规模突破100亿元，而在2020年，同样规模的增长花了10个月时间。一家国有大型银行私人银行负责人称，不到2个月，他们的保险金信托业务增速同比超过100%。越来越多高净值人士希望能根据自己财富传承意愿的改变，随时增加信托财产，变更受益人数量，以及调整财富传承安排方案等。（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9567474.d.html</link>
+            <guid>2041005</guid>
+            <pubDate>Wed, 24 Feb 2021 23:02:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新三板多项改革举措渐次落地 有效提升市场活跃度】今年以来，新三板一系列改革渐次落地，这些举措既是夯实新三板发展基础的重要内容，又是深化资本市场改革的重要部分。中国国际经济交流中心经济研究部副部长刘向东表示，新三板改革制度相继落地意味着将会进一步完善新三板的上市及其管理制度，让市场各方在清晰明确的制度规则下开展相关业务，进一步完善相关规则将会对资本市场带来有益的补充，一些中小微企业可以通过在新三板挂牌实现直接融资，从而有效提升直接融资比重。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9566677.d.html</link>
+            <guid>2041000</guid>
+            <pubDate>Wed, 24 Feb 2021 22:53:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【生猪市场延续弱势，饲料价格开启年内首降】春节长假已过，生猪行业一年一度的节前销售旺季也宣告结束。近期国内生猪价格延续下滑态势，此前价格急速上涨的饲料价格，也出现了年内首降。搜猪网消息显示，近期东北沈阳扬翔饲料厂通知，2月18日饲料价格下调60~150元/吨。预计近期各地也将出现饲料降价通知，掀起今年第一轮饲料降价潮。近期，国内玉米价格并未有明显回落迹象，上游贸易商及农户仍保持挺价意愿，不过玉米价格也确实暂停了上涨。而豆粕价格在年前就开始有明显的回落行情。1月中旬触及近年来历史高点后，持续回落。目前，豆粕价格已经大幅下调近400元/吨；因此，豆粕暴跌才是本轮饲料降价的主要原因。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8582658.d.html</link>
+            <guid>2040998</guid>
+            <pubDate>Wed, 24 Feb 2021 22:51:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今年以来39家上市公司要易主】2021年以来已有39家A股公司首次发布控制权变更信息，其中博世科、光库科技等10多家公司的接盘方为国资平台，易主原因除了市场化交易外，还包括内部股权调整、遗产继承、重整、拍卖等情形，其中复星集团、新希望、美的集团等产业资本大鳄的“进击”尤为亮眼。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9566315.d.html</link>
+            <guid>2040994</guid>
+            <pubDate>Wed, 24 Feb 2021 22:46:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深圳部分银行跟进二手房成交参考价】从建行深圳分行客户经理处获悉，该行已经于2月23日起开始按此施行，但具体如何操作，还要再等相关细则。据了解，目前有光大银行深圳分行、建行深圳分行、农行深圳分行开始“挂钩”二手房成交参考价，深圳地区其他商业银行还在观望中。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9566195.d.html</link>
+            <guid>2040992</guid>
+            <pubDate>Wed, 24 Feb 2021 22:44:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波音公司称将完全配合检察长的审查，承诺进行持续改进。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8582050.d.html</link>
+            <guid>2040986</guid>
+            <pubDate>Wed, 24 Feb 2021 22:39:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国众多航空公司的CEO们将与白宫开会，讨论碳排放问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9565834.d.html</link>
+            <guid>2040985</guid>
+            <pubDate>Wed, 24 Feb 2021 22:36:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMC院线盘后涨幅收窄至10%以内，此前一度涨超20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9565744.d.html</link>
+            <guid>2040984</guid>
+            <pubDate>Wed, 24 Feb 2021 22:34:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【农商行或掀起上市热潮】数据显示，截至2月23日，我国农商行数量超1500家。而在A股上市的农商行却寥寥无几，仅有8家。一直以来，资本不足始终是制约中小银行发展的瓶颈，农商行谋求上市也是为了“补血”。零壹研究院院长于百程指出，农商行是支持“三农”、小微和县域经济的主力军，部分农商行业务发展稳健，在资本市场上理应获得相应的支持。业内人士认为，今年有望成为银行IPO大年，其中农商行将成为主角。 (中国证券报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9565421.d.html</link>
+            <guid>2040977</guid>
+            <pubDate>Wed, 24 Feb 2021 22:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【生猪市场延续弱势 饲料价格开启年内首降】春节长假已过，生猪行业一年一度的节前销售旺季也宣告结束。近期国内生猪价格延续下滑态势，此前价格急速上涨的饲料价格，也出现了年内首降。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8581542.d.html</link>
+            <guid>2040976</guid>
+            <pubDate>Wed, 24 Feb 2021 22:27:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[游戏驿站盘后涨幅缩窄至不足50%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9565377.d.html</link>
+            <guid>2040974</guid>
+            <pubDate>Wed, 24 Feb 2021 22:26:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒大汽车：于2021年2月24日根据日期为2021年1月24日的认购协议发行股份，该公司发行约1.099亿股，每股发行价27.30港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9565370.d.html</link>
+            <guid>2040973</guid>
+            <pubDate>Wed, 24 Feb 2021 22:26:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【抄底买盘无阻美债下跌，鲍威尔讲话缓解跌势，10年和30年期收益率一度创逾一年新高，收益率曲线急剧趋陡】周三（2月24日）纽约尾盘，美国10年期基准国债收益率上涨3.41个基点，美市早盘一度冲高至1.4337%，创逾一年高位；期货大宗卖盘和针对新公司债发行的对冲增添了下行动力。收益率伴随着鲍威尔讲话涨幅收窄，盘中在现货市场出现抄底买盘，包括央行买入中期和短期品种，以及海外长线大型豆子这买入10年期债券。20年期美债收益率上涨5.24个基点，报2.0620%。30年期美债收益率上涨5.24个基点，报2.2325%。五年期美债收益率上涨3.41个基点，报0.6004%。2年期美债收益率上涨1.22个基点，报0.1230%。10年和2年期美债收益率利差上涨2.20个基点，报124.857个基点，盘中一度涨超130个基点上方，为2016年末以来最高水平；30年和5年期美债收益率利差上涨1.908个基点，报163.116个基点，盘中一度触及166.984个基点。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8581262.d.html</link>
@@ -157,179 +307,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9562738.d.html</link>
             <guid>2040933</guid>
             <pubDate>Wed, 24 Feb 2021 21:26:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英伟达(NVDA.O)：第四季度调整后每股盈利3.1美元；第四季度数据中心营收19亿美元，市场预估18.8亿美元；汽车部门第四季度营收为1.45亿美元，环比增长16%，同比下降11%。]]></title>
-            <guid>2040932</guid>
-            <pubDate>Wed, 24 Feb 2021 21:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储副主席克拉里达：现在谈论缩减量化宽松还为时过早。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8578691.d.html</link>
-            <guid>2040931</guid>
-            <pubDate>Wed, 24 Feb 2021 21:24:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储副主席克拉里达：市场定价反映了美国经济前景的好转。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8578684.d.html</link>
-            <guid>2040930</guid>
-            <pubDate>Wed, 24 Feb 2021 21:24:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[公布财报后，英伟达(NVDA.O)盘后涨超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9562572.d.html</link>
-            <guid>2040926</guid>
-            <pubDate>Wed, 24 Feb 2021 21:22:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英伟达(NVDA.O)：第四季度每股盈利2.31美元，市场预期1.97美元，去年同期1.53美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9562557.d.html</link>
-            <guid>2040925</guid>
-            <pubDate>Wed, 24 Feb 2021 21:21:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英伟达(NVDA.O)：第四季度营收50亿美元，市场预期48.21亿美元，去年同期31.05亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8578547.d.html</link>
-            <guid>2040924</guid>
-            <pubDate>Wed, 24 Feb 2021 21:21:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[公布财报后，L Brands(LB.N)盘后涨2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9562520.d.html</link>
-            <guid>2040920</guid>
-            <pubDate>Wed, 24 Feb 2021 21:19:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[L Brands(LB.N)：第四季度每股盈利3.03美元，市场预期2.73美元，去年同期亏损0.7美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8578483.d.html</link>
-            <guid>2040919</guid>
-            <pubDate>Wed, 24 Feb 2021 21:19:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Facebook承诺：将在未来3年向新闻行业投资至少10亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9562513.d.html</link>
-            <guid>2040918</guid>
-            <pubDate>Wed, 24 Feb 2021 21:19:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储副主席克拉里达：不担心会看到今年的通胀反应与目标不一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8578419.d.html</link>
-            <guid>2040913</guid>
-            <pubDate>Wed, 24 Feb 2021 21:16:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Viacomcbs(VIAC.O)：2020年每股盈利3.93美元，市场预期3.65美元，去年同期5.38美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8578137.d.html</link>
-            <guid>2040903</guid>
-            <pubDate>Wed, 24 Feb 2021 21:06:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Viacomcbs(VIAC.O)：2020年营收为252.85亿美元，市场预期259.06亿美元，去年同期278.12亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8578134.d.html</link>
-            <guid>2040902</guid>
-            <pubDate>Wed, 24 Feb 2021 21:06:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大型科技股仍然疲软，亚马逊跌超1%，苹果跌0.3%。特斯拉涨超6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8577962.d.html</link>
-            <guid>2040900</guid>
-            <pubDate>Wed, 24 Feb 2021 21:03:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[热门中概多数下跌，百度跌超5%，拼多多跌超4%，京东跌超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9562013.d.html</link>
-            <guid>2040899</guid>
-            <pubDate>Wed, 24 Feb 2021 21:02:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[区块链类股普涨，MSTR和MARA涨超16%。大麻股Tilray涨超13%。理想汽车涨超6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9562004.d.html</link>
-            <guid>2040898</guid>
-            <pubDate>Wed, 24 Feb 2021 21:02:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[散户抱团类股中，游戏驿站（GME）涨约100%。半导体类股普涨，LSCC和BRKS涨超7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9561992.d.html</link>
-            <guid>2040897</guid>
-            <pubDate>Wed, 24 Feb 2021 21:02:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音涨约8%领跑其成分股，雪佛龙、高盛、英特尔均涨超3%，家得宝仍跌超2%。特斯拉涨约6%，收复2月18日以来跌幅的大约一半。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9561974.d.html</link>
-            <guid>2040896</guid>
-            <pubDate>Wed, 24 Feb 2021 21:02:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：美国主要航空公司的首席执行官们星期五将会晤白宫官员，讨论航空业减少排放的努力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9561845.d.html</link>
-            <guid>2040892</guid>
-            <pubDate>Wed, 24 Feb 2021 20:57:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【散户抱团卷土重来？游戏驿站飙涨翻倍触发停牌】美股散户抱团股集体上涨，游戏驿站涨超100%，再次触发停牌；高斯电子涨超60%，Express涨超44%，AMC院线涨26%；Naked Brand Group涨近20%，黑莓涨超6%。此前伯克希尔哈撒韦副董事长查理·芒格抨击经纪商引诱赌徒的做法，制造交易狂潮，称这是一种肮脏的赚钱方式。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8577761.d.html</link>
-            <guid>2040891</guid>
-            <pubDate>Wed, 24 Feb 2021 20:57:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新西兰联储主席奥尔：政府的指示与最近的建议一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9561790.d.html</link>
-            <guid>2040889</guid>
-            <pubDate>Wed, 24 Feb 2021 20:55:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Reddit网友热议游戏驿站CFO离职一事，推动股价飙升】游戏驿站GameStop股价飙升70%后触发盘中停牌机制，恢复交易后迅速扩大涨幅至100%。此前游戏驿站宣布首席财务官Jim Bell将要辞职，预计在下个月生效。知情人士透露称，董事会和管理层促使Bell下台，以便为一位新的首席财务官让路，计划将游戏驿站从一家实体零售商转型为一家电子商务公司。此消息引发Reddit上网友们的热议，引发投机者们大举买入游戏驿站股票刺激，刺激股价飙升。杰富瑞集团分析师Wissink分析认为，此次行情更多是受到对冲基金RC Ventures与该公司进行了会谈的刺激。对冲基金RC Ventures持有游戏驿站9.9%的股份，曾表示希望更多地参与游戏驿站的业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8577719.d.html</link>
-            <guid>2040888</guid>
-            <pubDate>Wed, 24 Feb 2021 20:55:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[游戏驿站再度触发停牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8577601.d.html</link>
-            <guid>2040886</guid>
-            <pubDate>Wed, 24 Feb 2021 20:50:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新西兰联储：欢迎今天从财政部长那里收到的关于住房的指示。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9561553.d.html</link>
-            <guid>2040883</guid>
-            <pubDate>Wed, 24 Feb 2021 20:46:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[游戏驿站(GME.N)涨势不止，现涨超100%，报91.65美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8577490.d.html</link>
-            <guid>2040882</guid>
-            <pubDate>Wed, 24 Feb 2021 20:46:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[游戏驿站恢复交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8577450.d.html</link>
-            <guid>2040879</guid>
-            <pubDate>Wed, 24 Feb 2021 20:45:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用汽车CFO：全球性的芯片供应短缺问题可能已经结束。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8577407.d.html</link>
-            <guid>2040878</guid>
-            <pubDate>Wed, 24 Feb 2021 20:43:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽元兑美元NZD/USD短线上扬20点，涨幅扩大至1.38%，报0.7442。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8577391.d.html</link>
-            <guid>2040877</guid>
-            <pubDate>Wed, 24 Feb 2021 20:42:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[游戏驿站涨幅扩大至70%，目前市值超50亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8577292.d.html</link>
-            <guid>2040874</guid>
-            <pubDate>Wed, 24 Feb 2021 20:39:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用汽车(GM.N)尾盘涨幅扩大至4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9561308.d.html</link>
-            <guid>2040873</guid>
-            <pubDate>Wed, 24 Feb 2021 20:39:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
