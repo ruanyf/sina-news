@@ -4,11 +4,71 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 25 Feb 2021 16:50:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2021 18:27:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[游戏驿站逆势走强，涨幅一度超90%，现报169美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftpnny9761883.d.html</link>
+            <guid>2042875</guid>
+            <pubDate>Thu, 25 Feb 2021 18:18:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  百度(BIDU.O)跌超5%，报288.8美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8776989.d.html</link>
+            <guid>2042857</guid>
+            <pubDate>Thu, 25 Feb 2021 18:00:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫新闻秘书珍·普萨基：总统拜登周五大部分时间将随同得州州长出行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftpnny9760301.d.html</link>
+            <guid>2042846</guid>
+            <pubDate>Thu, 25 Feb 2021 17:49:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  推特：印度的平均可货币化日活跃用户数量（MDAU）在第四季度同比增长了74%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftpnny9759827.d.html</link>
+            <guid>2042843</guid>
+            <pubDate>Thu, 25 Feb 2021 17:42:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储博斯蒂克：美国的目标应该是“以某种速度”实现充分就业。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftpnny9759671.d.html</link>
+            <guid>2042841</guid>
+            <pubDate>Thu, 25 Feb 2021 17:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  特斯拉(TSLA.O)小幅下挫，现跌7.34%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8775342.d.html</link>
+            <guid>2042833</guid>
+            <pubDate>Thu, 25 Feb 2021 17:31:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国银行(BAC.N)在投资银行部和交易部门进行了有限的裁员。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftpnny9758823.d.html</link>
+            <guid>2042830</guid>
+            <pubDate>Thu, 25 Feb 2021 17:26:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【游戏驿站为何又突然放量飙升？ 据说与一则推文、一份报告有关】Markets.com首席市场分析师Neil Wilson表示，周三尾盘的突然上涨可能是由积极派投资人和GameStop董事会成员Ryan Cohen的一条推文引起的，他于纽约时间13:57发布了一张麦当劳冰淇淋的图片，距离美国现金股票市场收盘大约2小时。“这是否意味着Cohen会像麦当劳修好冰淇淋机一样修复GameStop？”Wilson在报告中写道。“还是有着更加神秘的含义，暗指一个可以实时反映附近麦当劳的冰淇淋机是否好用的新网站？无论如何，Reddit散户似乎又回来了。”另外，香橼在一份报告中建议GameStop收购电子竞技娱乐公司从而缩减持续下滑的零售业务，此份报告成为了又一个催化剂。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftpnny9758480.d.html</link>
+            <guid>2042827</guid>
+            <pubDate>Thu, 25 Feb 2021 17:21:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：蓝色起源的巨型火箭“新格伦”的交付期限为2021年。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8773685.d.html</link>
+            <guid>2042821</guid>
+            <pubDate>Thu, 25 Feb 2021 17:06:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储布拉德：预计到今年年底，美国失业率将达到4.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8772788.d.html</link>
+            <guid>2042810</guid>
+            <pubDate>Thu, 25 Feb 2021 16:53:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  特斯拉盘中跌幅扩大至5%，报704美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8772425.d.html</link>
@@ -56,78 +116,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8768141.d.html</link>
             <guid>2042770</guid>
             <pubDate>Thu, 25 Feb 2021 15:52:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  拜登的美国贸易代表提名人KATHERINE：将致力于在经合组织开展多边合作，处理数字税问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8767662.d.html</link>
-            <guid>2042763</guid>
-            <pubDate>Thu, 25 Feb 2021 15:45:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  万事达(MA.N)官方宣布其已成为2023年法国橄榄球世界杯合作方。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9751284.d.html</link>
-            <guid>2042759</guid>
-            <pubDate>Thu, 25 Feb 2021 15:42:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至2月19日当周EIA天然气库存(亿立方英尺)前值：-2370，预期：-3330，公布：-3380。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8766586.d.html</link>
-            <guid>2042743</guid>
-            <pubDate>Thu, 25 Feb 2021 15:30:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据研究机构Ortex数据：游戏驿站(GME.N)空头在周三交易日损失了8.18亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8765563.d.html</link>
-            <guid>2042735</guid>
-            <pubDate>Thu, 25 Feb 2021 15:19:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法国部长表示欧盟可能给予英国有限的对等】法国欧盟事务部长Clement Beaune说，他认为欧盟可能会同意某种形式的对等，使英国金融行业可以在欧洲大陆开展业务。但他也警告说，这种对等是有限的。他还警告说，这不意味着伦敦金融城回到脱欧前享有的那种市场准入。对等待遇将是可撤销的、临时的、单方面的。尽管如此，有限对等也是最近出现的较好消息。Beaune和欧盟首席谈判代表巴尼耶此前都警告称，不要急于让英国金融机构自由进入欧盟单一市场，英国央行行长贝利批评了欧盟的做法。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9749397.d.html</link>
-            <guid>2042734</guid>
-            <pubDate>Thu, 25 Feb 2021 15:19:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国联合航空跌近5%，公司宣布增发3700万股股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9749169.d.html</link>
-            <guid>2042731</guid>
-            <pubDate>Thu, 25 Feb 2021 15:15:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行副行长金多斯：货币政策和财政政策的平衡是（经济）援助的关键。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8765023.d.html</link>
-            <guid>2042726</guid>
-            <pubDate>Thu, 25 Feb 2021 15:10:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2020年韩国出生人数减少了10％，降至272400，而死亡人数为305100，这证明该国人口首次出现负增长。政府登记数据显示，年轻人甚至是工作年龄人口一直在下降。虽然在2011年该国仍然有将近1500万25岁以下的年轻人，但这一数字到2020年已降至1200万，而55岁及以上的老年人口从2011年的1100万增加到2020年的1670万。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8764994.d.html</link>
-            <guid>2042725</guid>
-            <pubDate>Thu, 25 Feb 2021 15:10:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外媒：字节跳动在新加坡加大招聘力度，支持TikTok全球发展】财经新闻网站Quartz 23日发布报道，称字节跳动计划将新加坡作为亚太地区业务中心，正在大规模招聘人才。报道援引咨询机构GlobalData的数据称，自2020年8月以来，字节跳动发布的岗位中有四分之一位于新加坡。其中部分岗位涉及产品与数据管理、电子商务和云安全等领域。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9747750.d.html</link>
-            <guid>2042710</guid>
-            <pubDate>Thu, 25 Feb 2021 14:57:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  游戏驿站短线拉升，涨幅回至30%上方，现报119.43美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftssap8763843.d.html</link>
-            <guid>2042709</guid>
-            <pubDate>Thu, 25 Feb 2021 14:57:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为69，表明市场处在贪婪状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9747448.d.html</link>
-            <guid>2042708</guid>
-            <pubDate>Thu, 25 Feb 2021 14:53:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【80只中国股票被全球最大主权基金重仓，市值3205亿】2021年2月25日，规模超过8万亿元人民币的挪威主权基金——挪威政府全球养老基金持仓全面曝光。截至2020年底，该基金持仓中含742家中国公司，其中第一大重仓股为阿里巴巴。A股的第一大重仓股是贵州茅台，第二是中国平安。此外，2020年挪威政府全球养老基金加仓诸多中国公司，包括蔚来汽车、贵州茅台等。与2019年年底相比，该基金持有中国股票的市值从2361亿元人民币升至3205亿元。以人民币计算，中国权益投资平均回报为29.7%，对中国投资市值增加了35.74%。业内人士估算，挪威政府全球养老基金在2020年对中国股票资产进行了加仓。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-25/detail-ikftpnny9747372.d.html</link>
-            <guid>2042707</guid>
-            <pubDate>Thu, 25 Feb 2021 14:52:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
