@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 25 Feb 2021 19:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2021 20:24:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美联储威廉姆斯：联邦最低工资没有跟上物价上涨的步伐。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8783019.d.html</link>
+            <guid>2043008</guid>
+            <pubDate>Thu, 25 Feb 2021 20:21:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  特斯拉(TSLA.O)尾盘跌幅扩大至8%，刷新日低，报680.51美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8782915.d.html</link>
+            <guid>2043003</guid>
+            <pubDate>Thu, 25 Feb 2021 20:18:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  惠普(HPQ.N)直线拉涨，触及熔断，熔断前涨3.91%，将于今日美股盘后公布财报。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8781703.d.html</link>
+            <guid>2042974</guid>
+            <pubDate>Thu, 25 Feb 2021 19:49:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【南非将大力扶持中小微企业、合作社】据南非总统府当地时间2月25日通告称，南非总统拉马福萨在当日与中小微企业、合作社的视频会议中表示南非将大力扶持中小微企业、合作社。拉马福萨表示南非98%的正规企业是中小微企业，虽然目前它们对就业和GDP的贡献比较小，但是未来可扩展空间无限。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftpnny9765103.d.html</link>
+            <guid>2042953</guid>
+            <pubDate>Thu, 25 Feb 2021 19:35:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  游戏驿站日内涨幅缩窄至50%，此前一度涨超90%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftpnny9764098.d.html</link>
@@ -80,36 +104,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftpnny9758480.d.html</link>
             <guid>2042827</guid>
             <pubDate>Thu, 25 Feb 2021 17:21:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：蓝色起源的巨型火箭“新格伦”的交付期限为2021年。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8773685.d.html</link>
-            <guid>2042821</guid>
-            <pubDate>Thu, 25 Feb 2021 17:06:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储布拉德：预计到今年年底，美国失业率将达到4.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8772788.d.html</link>
-            <guid>2042810</guid>
-            <pubDate>Thu, 25 Feb 2021 16:53:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉盘中跌幅扩大至5%，报704美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8772425.d.html</link>
-            <guid>2042804</guid>
-            <pubDate>Thu, 25 Feb 2021 16:48:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉盘中一度跌4.8%，此前报道称特斯拉Model 3加州生产线暂时停产。Wedbush Securities分析师Dan Ives称，生产线时间关闭的时间看起来是从2月22日到3月7日。我们认为，这次关闭更多是因为芯片短缺，尽管这一情况正在改善。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8771612.d.html</link>
-            <guid>2042797</guid>
-            <pubDate>Thu, 25 Feb 2021 16:36:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股Twitter涨超10%，盘中创新高，此前推特在分析师会议上宣布2023年底达成至少3.15亿用户的目标；以及2023年达成至少75亿美元的营收，与现在相比翻倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8771481.d.html</link>
-            <guid>2042795</guid>
-            <pubDate>Thu, 25 Feb 2021 16:34:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
