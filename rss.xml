@@ -4,11 +4,64 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 25 Feb 2021 20:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2021 21:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【Beyond Meat宣布与百胜及麦当劳合作，财报不及预期，股价先跌6%后转涨10%】人造肉公司Beyond Meat四季度经调整每股亏损34美分，市场预期亏损14美分。 四季度净营收1.019亿美元，市场预期1.036亿美元。 该公司将不会提供2021年指引。 该公司宣布与百胜集团达成全球性合作伙伴关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftpnny9768529.d.html</link>
+            <guid>2043063</guid>
+            <pubDate>Thu, 25 Feb 2021 21:11:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  爱彼迎（Airbnb）四季度营收8.59亿美元，分析师预期7.397亿美元。爱彼迎美股盘后涨4.0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8784614.d.html</link>
+            <guid>2043062</guid>
+            <pubDate>Thu, 25 Feb 2021 21:07:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  科技股中，特斯拉跌超8%，苹果跌超3%，为连续第四日连跌；芯片股集体下跌。]]></title>
+            <guid>2043053</guid>
+            <pubDate>Thu, 25 Feb 2021 21:03:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中概股中，哔哩哔哩涨超3%，理想汽车、蔚来汽车跌近10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8784434.d.html</link>
+            <guid>2043052</guid>
+            <pubDate>Thu, 25 Feb 2021 21:02:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  全球性另类资产管理公司AREs支付13.5亿美元持有AMP私人市场业务60%股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8784045.d.html</link>
+            <guid>2043044</guid>
+            <pubDate>Thu, 25 Feb 2021 20:51:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储威廉姆斯：有一些证据表明，低利率会使富裕家庭持有的资产的价格不成比例地上升。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftpnny9767682.d.html</link>
+            <guid>2043041</guid>
+            <pubDate>Thu, 25 Feb 2021 20:46:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  波音面临美国联邦航空管理局（FAA）针对安全监测的罚款，FAA称，波音未能履行2015年条约规定的义务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftpnny9767352.d.html</link>
+            <guid>2043027</guid>
+            <pubDate>Thu, 25 Feb 2021 20:35:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  波音跌幅扩大至5.59%，据报道，波音面临美国联邦航空管理局的罚款和更大数额的787飞机维修账单。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8783263.d.html</link>
+            <guid>2043021</guid>
+            <pubDate>Thu, 25 Feb 2021 20:30:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Workhorse(WKHS.O)尾盘直线拉涨至15.66%，据悉众议院民主党人要阻止其竞争对手与美国邮政的交易协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8783192.d.html</link>
+            <guid>2043020</guid>
+            <pubDate>Thu, 25 Feb 2021 20:27:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美联储威廉姆斯：联邦最低工资没有跟上物价上涨的步伐。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8783019.d.html</link>
@@ -68,42 +121,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8776989.d.html</link>
             <guid>2042857</guid>
             <pubDate>Thu, 25 Feb 2021 18:00:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫新闻秘书珍·普萨基：总统拜登周五大部分时间将随同得州州长出行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftpnny9760301.d.html</link>
-            <guid>2042846</guid>
-            <pubDate>Thu, 25 Feb 2021 17:49:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  推特：印度的平均可货币化日活跃用户数量（MDAU）在第四季度同比增长了74%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftpnny9759827.d.html</link>
-            <guid>2042843</guid>
-            <pubDate>Thu, 25 Feb 2021 17:42:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储博斯蒂克：美国的目标应该是“以某种速度”实现充分就业。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftpnny9759671.d.html</link>
-            <guid>2042841</guid>
-            <pubDate>Thu, 25 Feb 2021 17:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉(TSLA.O)小幅下挫，现跌7.34%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8775342.d.html</link>
-            <guid>2042833</guid>
-            <pubDate>Thu, 25 Feb 2021 17:31:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国银行(BAC.N)在投资银行部和交易部门进行了有限的裁员。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftpnny9758823.d.html</link>
-            <guid>2042830</guid>
-            <pubDate>Thu, 25 Feb 2021 17:26:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【游戏驿站为何又突然放量飙升？ 据说与一则推文、一份报告有关】Markets.com首席市场分析师Neil Wilson表示，周三尾盘的突然上涨可能是由积极派投资人和GameStop董事会成员Ryan Cohen的一条推文引起的，他于纽约时间13:57发布了一张麦当劳冰淇淋的图片，距离美国现金股票市场收盘大约2小时。“这是否意味着Cohen会像麦当劳修好冰淇淋机一样修复GameStop？”Wilson在报告中写道。“还是有着更加神秘的含义，暗指一个可以实时反映附近麦当劳的冰淇淋机是否好用的新网站？无论如何，Reddit散户似乎又回来了。”另外，香橼在一份报告中建议GameStop收购电子竞技娱乐公司从而缩减持续下滑的零售业务，此份报告成为了又一个催化剂。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftpnny9758480.d.html</link>
-            <guid>2042827</guid>
-            <pubDate>Thu, 25 Feb 2021 17:21:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
