@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 26 Feb 2021 18:26:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2021 19:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  市场消息：南卡罗来纳州将于周一结束对大型集会的限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8982152.d.html</link>
+            <guid>2044982</guid>
+            <pubDate>Fri, 26 Feb 2021 19:17:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国政府公布调查报告：沙特王储批准杀害记者卡舒吉行动】据美国当地媒体报道，当地时间2月26日，美国国家情报总监办公室发布了一份解密的评估报告，显示沙特王储穆罕默德·本·萨勒曼（MBS）批准了2018年10月“俘获或杀死”《华盛顿邮报》记者贾迈勒·卡舒吉（Jamal Khashoggi ）的行动。报告称，其调查结果基于王储“绝对控制”的沙特阿拉伯的安全和情报机构,“使得沙特官员在没有王储授权的情况下进行这种性质的行动的可能性很小”。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9965569.d.html</link>
+            <guid>2044978</guid>
+            <pubDate>Fri, 26 Feb 2021 19:01:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国联邦调查局（FBI）：正防范总统拜登对国会演讲时可能发生的袭击。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8981181.d.html</link>
+            <guid>2044974</guid>
+            <pubDate>Fri, 26 Feb 2021 18:52:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国白宫：一份关于卡舒吉谋杀案的非机密情报报告将被公布】当地时间2月26日，美国白宫方面表示，一份可能将沙特记者贾迈勒·卡舒吉（Jamal Khashoggi）谋杀案归咎于沙特王储的非机密情报报告将于当天公布。白宫新闻发言人珍·普萨基（Jen Psaki）称：“我们预计报告将于今天晚些时候发布。”]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9964775.d.html</link>
+            <guid>2044972</guid>
+            <pubDate>Fri, 26 Feb 2021 18:37:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  捷克政府宣布进入新的紧急状态，直到3月28日。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8980170.d.html</link>
@@ -128,41 +152,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8970011.d.html</link>
             <guid>2044894</guid>
             <pubDate>Fri, 26 Feb 2021 15:50:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【东盟将在3月2日就缅甸局势举行外长特别会议】据《雅加达邮报》报道，来自东盟外交方面的消息透露，东盟将在3月2日召开外长特别会议，就缅甸局势进行讨论。这是东盟在缅甸发生政治危机后将首次召开的特别会议。据悉，缅甸军方新任命的外交部长温纳貌伦将出席会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftpnny9953268.d.html</link>
-            <guid>2044881</guid>
-            <pubDate>Fri, 26 Feb 2021 15:38:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纽约联储购买了128.01亿美元的国库券。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8968887.d.html</link>
-            <guid>2044876</guid>
-            <pubDate>Fri, 26 Feb 2021 15:33:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国能源信息署：美国去年11月石油产量下调3000桶/天至1112.1万桶/天。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8968507.d.html</link>
-            <guid>2044873</guid>
-            <pubDate>Fri, 26 Feb 2021 15:29:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国能源信息署：美国去年12月原油产量下降5.8万桶/天，至1106.3万桶/天，11月为1112.1万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftpnny9952601.d.html</link>
-            <guid>2044872</guid>
-            <pubDate>Fri, 26 Feb 2021 15:29:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  淡水河谷：本公司对2021年上半年铁矿石产量将超过之前一年同期水平“拥有真实的信心”。]]></title>
-            <guid>2044869</guid>
-            <pubDate>Fri, 26 Feb 2021 15:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国汽车制造商和贸易商协会数据显示，英国1月份汽车产量为86052辆，为2009年以来同期表现最差，较2019年同期下降了27.3％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8968221.d.html</link>
-            <guid>2044868</guid>
-            <pubDate>Fri, 26 Feb 2021 15:24:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
