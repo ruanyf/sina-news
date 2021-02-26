@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 26 Feb 2021 17:35:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2021 18:26:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  捷克政府宣布进入新的紧急状态，直到3月28日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8980170.d.html</link>
+            <guid>2044967</guid>
+            <pubDate>Fri, 26 Feb 2021 18:25:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  星巴克(SBUX.O)盘中涨近5%，股价创历史新高，报108.48美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9964272.d.html</link>
+            <guid>2044966</guid>
+            <pubDate>Fri, 26 Feb 2021 18:24:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国方面称，沙特王储本·萨勒曼批准了杀害沙特记者卡舒吉的行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9963544.d.html</link>
+            <guid>2044965</guid>
+            <pubDate>Fri, 26 Feb 2021 18:11:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  SOS(SOS.N)盘中下挫，跌幅扩大至21%，报4.77美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8979410.d.html</link>
+            <guid>2044964</guid>
+            <pubDate>Fri, 26 Feb 2021 18:10:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至2月26日当周石油钻井总数(口)前值 305，预期 303，公布 309。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9963117.d.html</link>
+            <guid>2044961</guid>
+            <pubDate>Fri, 26 Feb 2021 18:00:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【北上资金2月份净买入逾400亿元，加仓银行股】受国际市场剧烈震荡及A股本周连续回调影响，本周北上资金净卖出75亿元。但从整个2月份来看，剔除春节长假，仅3个交易周，北上资金合计大幅净买入逾412亿元，今年以来两个月累计净买入812亿元，而去年全年才净买入2089亿元。银行股成为北上资金重点加仓对象，连续数周成为净买入最多的行业，本周北上资金再度逆市净买入银行股逾35亿元，今年以来累计净买入银行股151亿元。兴业银行成为本周北上资金净买入最多的个股，合计净买入12.61亿元，加仓逾4830万股，持股总数再次突破6亿股，持股市值则创历史新高。（证券时报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9961759.d.html</link>
@@ -133,24 +163,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8968221.d.html</link>
             <guid>2044868</guid>
             <pubDate>Fri, 26 Feb 2021 15:24:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国能源信息署：去年12月，美国和加拿大通过铁路向东海岸输送的原油量上升至6.2万桶/天。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8967270.d.html</link>
-            <guid>2044856</guid>
-            <pubDate>Fri, 26 Feb 2021 15:12:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国能源信息署：去年12月，美国/加拿大铁路运输至墨西哥湾沿岸原油总量上升至10万桶/天。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftpnny9951243.d.html</link>
-            <guid>2044855</guid>
-            <pubDate>Fri, 26 Feb 2021 15:11:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国能源信息署：去年12月，美国和加拿大通过铁路向西海岸运输的原油总量上升至17.4万桶/天。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftpnny9951239.d.html</link>
-            <guid>2044854</guid>
-            <pubDate>Fri, 26 Feb 2021 15:11:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
