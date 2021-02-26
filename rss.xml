@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 26 Feb 2021 21:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2021 22:25:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【尼日利亚317名学生遭绑架】尼日利亚警方26日证实，尼西北部扎姆法拉州一女子中学当天遭到一伙不明身份武装分子袭击，共有317名学生被绑架。警方和其他多个安全机构组成的联合搜救队伍正在事发学校周边区域展开搜救行动。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9972143.d.html</link>
+            <guid>2045031</guid>
+            <pubDate>Fri, 26 Feb 2021 22:21:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  据沙特通讯社：沙特方面表示，美国关于卡舒吉的情报报告是错误的。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8985472.d.html</link>
@@ -200,18 +206,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9959706.d.html</link>
             <guid>2044939</guid>
             <pubDate>Fri, 26 Feb 2021 16:57:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国电动汽车制造商Fisker(FSR.N)盘中直线拉涨，现涨超20%，此前公布财报显示第四季度亏损缩窄，有望在2022年生产首款SUV。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9958706.d.html</link>
-            <guid>2044930</guid>
-            <pubDate>Fri, 26 Feb 2021 16:43:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国疾控中心主管Walensky：基于还存在大量感染病例，疾控中心将鼓励各州不要放松限制措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8974466.d.html</link>
-            <guid>2044927</guid>
-            <pubDate>Fri, 26 Feb 2021 16:40:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
