@@ -4,11 +4,89 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 26 Feb 2021 20:24:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2021 21:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  据沙特通讯社：沙特方面表示，美国关于卡舒吉的情报报告是错误的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8985472.d.html</link>
+            <guid>2045014</guid>
+            <pubDate>Fri, 26 Feb 2021 21:01:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据沙特通讯社：沙特希望继续保持与美国的战略伙伴关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8985471.d.html</link>
+            <guid>2045013</guid>
+            <pubDate>Fri, 26 Feb 2021 21:01:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国白宫表示将为推进航空公司的气候目标提供支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8985225.d.html</link>
+            <guid>2045010</guid>
+            <pubDate>Fri, 26 Feb 2021 20:53:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据沙特通讯社：沙特政府否认美国关于卡舒吉被杀事件的报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9969193.d.html</link>
+            <guid>2045009</guid>
+            <pubDate>Fri, 26 Feb 2021 20:50:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  机构测算：截至2月23日当周，美国商品期货交易委员会（CFTC）投机者的美元空头押注增加至293.3亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9968910.d.html</link>
+            <guid>2045007</guid>
+            <pubDate>Fri, 26 Feb 2021 20:40:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至2月23日当周，NYMEX和ICE的天然气期货净多头头寸减少12811手至343487手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8984603.d.html</link>
+            <guid>2045006</guid>
+            <pubDate>Fri, 26 Feb 2021 20:35:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至2月23日当周，COMEX铜期货投机性净多头头寸减少16781手至70531手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9968640.d.html</link>
+            <guid>2045005</guid>
+            <pubDate>Fri, 26 Feb 2021 20:34:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至2月23日当周，COMEX白银期货投机性净多头头寸减少1569手至39421手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9968637.d.html</link>
+            <guid>2045004</guid>
+            <pubDate>Fri, 26 Feb 2021 20:34:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至2月23日当周，COMEX黄金期货投机性净多头头寸减少186手至83395手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8984536.d.html</link>
+            <guid>2045003</guid>
+            <pubDate>Fri, 26 Feb 2021 20:33:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：至2月23日当周，CBOT美国2年期国债期货投机性净空头持仓减少102618手至39871手，美国5年期国债期货转向净多头，持仓规模95406手，美国10年期国债期货净多头持仓减少100624手至2789手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9968509.d.html</link>
+            <guid>2045001</guid>
+            <pubDate>Fri, 26 Feb 2021 20:30:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会(CFTC)：截至2月23日当周，股票基金投机者将标普500指数CME净空头持仓减少12751手至34052手，股票基金经理将标普500指数CME净多头持仓减少3177手至162111手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9968500.d.html</link>
+            <guid>2045000</guid>
+            <pubDate>Fri, 26 Feb 2021 20:30:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世卫组织：H5N8型禽流感人传人风险较低】当地时间26日，世卫组织通报H5N8型禽流感相关信息。世卫组织于18日收到俄罗斯在人类临床样本中发现了7例H5N8型禽流感病例的报告，病例年龄介于29-60岁之间，其中5例为女性，均为无症状感染者，其密切接触者也没有出现任何明显的临床症状。 世卫组织通报指出，需要更多的遗传学和血清相关信息以全面评估风险，目前信息显示，H5N8型禽流感出现人传人的风险较低，不建议对进出俄罗斯的旅行者进行相关检查或采取贸易及旅行限制。世卫组织建议继续加强全球范围内的监测，并分享病毒信息。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9968434.d.html</link>
+            <guid>2044998</guid>
+            <pubDate>Fri, 26 Feb 2021 20:26:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国众议院民主党人将于当地时间17:00（北京时间6:00）在经济刺激方案投票前举行简报会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9968424.d.html</link>
+            <guid>2044997</guid>
+            <pubDate>Fri, 26 Feb 2021 20:26:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国农业部（USDA）：1月农业价格支付同比增长2%。1月农业价格收取同比增长1.2%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8983808.d.html</link>
@@ -134,42 +212,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8974466.d.html</link>
             <guid>2044927</guid>
             <pubDate>Fri, 26 Feb 2021 16:40:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国两党参议员寻求限制总统的紧急权力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9957652.d.html</link>
-            <guid>2044920</guid>
-            <pubDate>Fri, 26 Feb 2021 16:30:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  G20金融领导人一致认为，多边主义比以往任何时候都重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9956737.d.html</link>
-            <guid>2044915</guid>
-            <pubDate>Fri, 26 Feb 2021 16:22:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  大和证券SMBC株式会社首次覆盖晶盛机电，并给予其买入评级，目标价为45元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8972625.d.html</link>
-            <guid>2044913</guid>
-            <pubDate>Fri, 26 Feb 2021 16:21:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦在G20金融领导人会议上收回了美国反对向谷歌、亚马逊和脸书等数字巨头征税的意见。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8971320.d.html</link>
-            <guid>2044904</guid>
-            <pubDate>Fri, 26 Feb 2021 16:06:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  淡水河谷洽谈在欧洲参与电池供应链。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8970853.d.html</link>
-            <guid>2044900</guid>
-            <pubDate>Fri, 26 Feb 2021 16:01:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【英国金融时报：美国消除了数字税全球协议的绊脚石】美国财政部长耶伦告诉G20集团财长，华盛顿将放弃其全球数字税收规则改革提议中有争议的部分，那些提议是达成协议的主要障碍。此举可能开启经合组织长期停滞的多边谈判。特朗普政府于2019年底坚持“安全港”措施，令谈判难以取得进展。知情官员表示，美国将积极参与解决经合组织项目的两大问题，包括应对数字化带来的税收挑战和建立强有力的全球最低税收。另一位接近国际税收谈判的官员表示，美国“希望在7月前就提案达成协议，未来几周将至关重要，但形势从未如此积极。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8970568.d.html</link>
-            <guid>2044898</guid>
-            <pubDate>Fri, 26 Feb 2021 15:58:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
