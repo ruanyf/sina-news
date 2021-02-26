@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 26 Feb 2021 19:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2021 20:24:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国农业部（USDA）：1月农业价格支付同比增长2%。1月农业价格收取同比增长1.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8983808.d.html</link>
+            <guid>2044994</guid>
+            <pubDate>Fri, 26 Feb 2021 20:09:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  海银金控（Hywin）提交在美国发行ADS的申请，寻求在纳斯达克交易所上市。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8983777.d.html</link>
+            <guid>2044993</guid>
+            <pubDate>Fri, 26 Feb 2021 20:07:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据纽约时报：美国官员表示，拜登总统不会因为卡舒吉遇害案而惩罚沙特阿拉伯王储，因为他担心会与一个重要盟友发生冲突。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8983542.d.html</link>
+            <guid>2044990</guid>
+            <pubDate>Fri, 26 Feb 2021 20:01:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士：埃克森美孚得州BEAUMONT炼油厂重新启动原油设备。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8982868.d.html</link>
+            <guid>2044987</guid>
+            <pubDate>Fri, 26 Feb 2021 19:38:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  市场消息：南卡罗来纳州将于周一结束对大型集会的限制。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8982152.d.html</link>
@@ -146,12 +170,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8970568.d.html</link>
             <guid>2044898</guid>
             <pubDate>Fri, 26 Feb 2021 15:58:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国券商ROBINHOOD首席执行官表：正在解决接收登录码的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-26/detail-ikftssap8970011.d.html</link>
-            <guid>2044894</guid>
-            <pubDate>Fri, 26 Feb 2021 15:50:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
