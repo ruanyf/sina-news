@@ -4,11 +4,40 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 27 Feb 2021 19:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2021 20:24:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国300余人因关联暴力冲击国会遭指控】美国司法部26日证实，已经起诉超过300名关联国会大厦今年初遭暴力冲击的嫌疑人，执法人员逮捕其中至少280人。司法部代理副部长约翰·卡林当天告诉媒体记者，司法部正以“从未有过的速度和规模”推进调查，“必须追究那些人的责任”。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9139836.d.html</link>
+            <guid>2046082</guid>
+            <pubDate>Sat, 27 Feb 2021 20:15:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登表示，将于周一发布有关沙特的声明；此前美国情报部门发布的报告认为是沙特王储于2018年下令杀死记者卡舒吉。]]></title>
+            <guid>2046081</guid>
+            <pubDate>Sat, 27 Feb 2021 20:12:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普考虑组建超级政治行动委员会】市场消息，特朗普寻求维护其在共和党内的权力，并扩张政治运作。特朗普的发言人在当地时间周六证实，特朗普正在考虑组建一个超级政治行动委员会（PAC），这种委员会可以从几乎所有渠道筹集无限制的资金，且支出也不受限制。该委员会可能是“全新的实体”或者是“美国优先政策”的改版。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0123040.d.html</link>
+            <guid>2046079</guid>
+            <pubDate>Sat, 27 Feb 2021 19:49:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国驻加纳大使馆暂停为自加纳始发经埃及中转回国旅客发放健康码】中国驻加纳大使馆于当地时间2月27日发布消息，因政策调整，自加纳始发、经埃及中转回国旅客自3月6日（含）起将无法在开罗办理登机手续。为避免出现人员滞留，给回国旅客带来不必要的损失，中国驻加纳大使馆将不再为自加纳出发、经埃及中转乘3月6日（含）以后航班的回国旅客发放健康码。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0122329.d.html</link>
+            <guid>2046077</guid>
+            <pubDate>Sat, 27 Feb 2021 19:32:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【肯尼亚总统当选东非共同体新任轮值主席】当地时间2月27日，东非共同体首脑峰会以线上形式召开，这也是东共体首次以虚拟模式举办峰会。肯尼亚总统肯雅塔接替卢旺达总统卡加梅当选为东共体新任轮值主席。他表示将专注于加强与周边国家的伙伴关系，以增强东非共同体内部联系，并确保可持续地执行区域内的项目和计划。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0121952.d.html</link>
+            <guid>2046076</guid>
+            <pubDate>Sat, 27 Feb 2021 19:24:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国地质勘探局：阿拉斯加麦肯齐点西南偏南3公里处发生5.3级地震。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9137024.d.html</link>
@@ -235,42 +264,6 @@
             <title><![CDATA[  乌克兰切尔诺夫策州副州长称，切尔诺夫策市的一家医院发生爆炸，有人受伤。（卫星新闻）]]></title>
             <guid>2045901</guid>
             <pubDate>Sat, 27 Feb 2021 12:20:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网正式测定：02月27日19时37分在云南保山市腾冲市发生3.1级地震，震源深度8千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9102086.d.html</link>
-            <guid>2045869</guid>
-            <pubDate>Sat, 27 Feb 2021 11:43:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据英国电讯报：英国财政大臣苏纳克将承诺为英国基础设施银行提供220亿英镑。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0085660.d.html</link>
-            <guid>2045868</guid>
-            <pubDate>Sat, 27 Feb 2021 11:40:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国得州零售电力供应商Griddy Energy因违约被禁止进入电力市场，在上周严寒天气引发的电力危机期间，该公司客户收到高额电费账单。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9101326.d.html</link>
-            <guid>2045867</guid>
-            <pubDate>Sat, 27 Feb 2021 11:37:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【民航局：进一步扩大无人机物流配送试点范围】 民航局局长冯正霖近日在通用航空工作领导小组第六次全体会议上表示，要发挥通航产业融合功能，特别是加快无人机规章标准制定，进一步扩大无人机物流配送试点范围，服务乡村振兴战略。“‘十三五’期间，传统通航稳中有进，新兴业态快速发展。”据冯正霖介绍，截至2020年底，全国传统通航企业增加到523家，机队规模达到2844架；实名登记无人机52.36万架，年飞行量达到159.4万小时；全国累计开通低空旅游航线百余条，涉及5A级景点50余个，参与空中游览和跳伞服务的游客分别达到75.6万人和13.2万人。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9100669.d.html</link>
-            <guid>2045864</guid>
-            <pubDate>Sat, 27 Feb 2021 11:30:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯国防部：俄罗斯和亚美尼亚国防部长讨论了纳卡地区局势。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9098952.d.html</link>
-            <guid>2045862</guid>
-            <pubDate>Sat, 27 Feb 2021 11:08:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海浦东：“十四五”加快“一站一楼”建设，构建“102030”综合交通网络】 浦东新区建设和交通委员会近日表示，“十四五”期间浦东将加快“一站一楼”建设（铁路上海东站、浦东国际机场四期工程T3航站楼），到2025年基本建成与国际化大都市相适应的综合交通体系。浦东新区建交委党组副书记、副主任李树逊表示，到2025年，浦东将形成“102030”综合交通网络：10分钟内重点区域及街镇中心可以进入高快速路，20分钟内区域行政中心、重点区域、城市副中心互达，30分钟内各镇中心可达越江通道或主要交通枢纽。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0082782.d.html</link>
-            <guid>2045861</guid>
-            <pubDate>Sat, 27 Feb 2021 11:04:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
