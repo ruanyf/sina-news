@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 27 Feb 2021 17:34:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2021 18:26:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  巴基斯坦总理伊姆兰·汗：欢迎与印度达成停火协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9134600.d.html</link>
+            <guid>2046064</guid>
+            <pubDate>Sat, 27 Feb 2021 18:12:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国五角大楼发言人：并未将伊拉克数据用于美军制定叙利亚境内的空袭目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9133672.d.html</link>
+            <guid>2046062</guid>
+            <pubDate>Sat, 27 Feb 2021 17:52:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【去年12月希腊零售业营业额总体下降11%】据当地媒体2月27日报道，希腊统计局前一天发布的最新数据显示，2020年12月份希腊零售业营业额总体下降11%，仅有超市和药店有所增长。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0117685.d.html</link>
+            <guid>2046061</guid>
+            <pubDate>Sat, 27 Feb 2021 17:48:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥总统洛佩斯：将在周一与美国总统拜登讨论在美移民工人问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9132813.d.html</link>
+            <guid>2046060</guid>
+            <pubDate>Sat, 27 Feb 2021 17:35:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【被马来西亚遣返的1086名缅甸公民抵达仰光】当地时间2月27日，被马来西亚遣返的1086名缅甸公民乘坐三艘海军舰艇抵达缅甸仰光。缅甸海军称他们为遣返人员提供了医疗服务，缅甸社会福利与救济安置部负责安置这些遣返人员，将安排他们和家人团聚，还将为他们提供技能培训和工作机会。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0116728.d.html</link>
@@ -253,24 +277,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9094113.d.html</link>
             <guid>2045851</guid>
             <pubDate>Sat, 27 Feb 2021 10:32:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  2月27日，国务院联防联控机制春运工作专班数据显示，春运进入第31日，全国预计发送旅客3023万人次。其中铁路预计发送旅客935万人次，公路1910万人次，水路40万人次，民航138万人次。全国高速公路预计流量3624万辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9089149.d.html</link>
-            <guid>2045842</guid>
-            <pubDate>Sat, 27 Feb 2021 09:52:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：德国寻求延长交通领域的禁止措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9088749.d.html</link>
-            <guid>2045841</guid>
-            <pubDate>Sat, 27 Feb 2021 09:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中通客车：获浙江金华市批量氢燃料客车订单】记者从中通客车获悉，近日，中通氢燃料客车迎来2021年首季“开门红”，赢获浙江金华市批量氢燃料客车订单，助力“金华氢谷”建设。公司介绍，此次中通客车中标的氢燃料公交客车，是金华氢能产业发展的重要组成部分。待交付后，将承担婺城区氢燃料公交示范线路的运营任务，成为金华市市区的首批氢燃料客车。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9088145.d.html</link>
-            <guid>2045840</guid>
-            <pubDate>Sat, 27 Feb 2021 09:45:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
