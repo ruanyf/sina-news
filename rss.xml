@@ -4,11 +4,40 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 27 Feb 2021 11:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2021 12:31:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  乌克兰切尔诺夫策州副州长称，切尔诺夫策市的一家医院发生爆炸，有人受伤。（卫星新闻）]]></title>
+            <guid>2045901</guid>
+            <pubDate>Sat, 27 Feb 2021 12:20:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：02月27日19时37分在云南保山市腾冲市发生3.1级地震，震源深度8千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9102086.d.html</link>
+            <guid>2045869</guid>
+            <pubDate>Sat, 27 Feb 2021 11:43:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据英国电讯报：英国财政大臣苏纳克将承诺为英国基础设施银行提供220亿英镑。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0085660.d.html</link>
+            <guid>2045868</guid>
+            <pubDate>Sat, 27 Feb 2021 11:40:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国得州零售电力供应商Griddy Energy因违约被禁止进入电力市场，在上周严寒天气引发的电力危机期间，该公司客户收到高额电费账单。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9101326.d.html</link>
+            <guid>2045867</guid>
+            <pubDate>Sat, 27 Feb 2021 11:37:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【民航局：进一步扩大无人机物流配送试点范围】 民航局局长冯正霖近日在通用航空工作领导小组第六次全体会议上表示，要发挥通航产业融合功能，特别是加快无人机规章标准制定，进一步扩大无人机物流配送试点范围，服务乡村振兴战略。“‘十三五’期间，传统通航稳中有进，新兴业态快速发展。”据冯正霖介绍，截至2020年底，全国传统通航企业增加到523家，机队规模达到2844架；实名登记无人机52.36万架，年飞行量达到159.4万小时；全国累计开通低空旅游航线百余条，涉及5A级景点50余个，参与空中游览和跳伞服务的游客分别达到75.6万人和13.2万人。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9100669.d.html</link>
+            <guid>2045864</guid>
+            <pubDate>Sat, 27 Feb 2021 11:30:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  俄罗斯国防部：俄罗斯和亚美尼亚国防部长讨论了纳卡地区局势。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9098952.d.html</link>
@@ -266,42 +295,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0023203.d.html</link>
             <guid>2045401</guid>
             <pubDate>Sat, 27 Feb 2021 04:01:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【怕关系破裂？美官员爆料：由于外交成本过高，拜登不会直接制裁沙特王储】“担心关系破裂，拜登不会因卡舒吉被杀而惩罚沙特王储。”美国解密沙特王储批准杀死《华盛顿邮报》记者一事仍在发酵，当地时间26日，《纽约时报》发表上述标题的报道说，据美政府高级官员透露，拜登认为，直接惩罚沙特王储的外交成本太高。报道称，美官员透露，白宫内部目前已达成共识——破坏美沙在反恐和对抗伊朗方面的合作而付出的代价实在太高。为此《纽约时报》称，拜登不会因为卡舒吉被杀而惩罚沙特王储。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0021007.d.html</link>
-            <guid>2045354</guid>
-            <pubDate>Sat, 27 Feb 2021 03:52:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国人首度掌局 谈浩被任命为海沃集团全球CEO】2021年2月24日，海沃集团宣布任命Alex Tan（谈浩）为全球CEO，该任命从2021年3月1日起正式生效。海沃集团拥有超过20000个客户和40％以上的全球自卸车液压系统份额，业务涉及110多个国家。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0019995.d.html</link>
-            <guid>2045337</guid>
-            <pubDate>Sat, 27 Feb 2021 03:48:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2月份沪牌拍卖中标率5.1% 平均成交价为91719元】2月沪牌拍卖结果刚刚出炉：个人额度投放11500辆，个人在用车有效额度委托拍卖944辆，合计拍卖总数12444辆，参加拍卖人数242366人，比上月增加8605人，中标率5.1%。最低成交价91700元，平均成交价为91719元，比上个月的91863元减少了144元。最低成交价的截止时间是11:29:58第3926位。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0018965.d.html</link>
-            <guid>2045308</guid>
-            <pubDate>Sat, 27 Feb 2021 03:43:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【麦当劳考虑部分出售数字初创企业Dynamic Yield 两年前以逾3亿美元收购】据报道，麦当劳表示，正在考虑部分出售数字初创企业Dynamic Yield。麦当劳在2019年以逾3亿美元收购Dynamic Yield，以期推动汽车餐厅和自助售货亭的销售。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9033237.d.html</link>
-            <guid>2045285</guid>
-            <pubDate>Sat, 27 Feb 2021 03:38:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴西每年向海洋倾倒32.5万吨废塑料】据路透社报道，有一些环保人士注意到，巴西里约热内卢的一些海滩遭到垃圾侵袭，大量塑料垃圾堆积在海边，甚至完全遮住了部分海滩。据了解，在距离里约热内卢的标志性景点科帕卡巴纳仅20公里的海滩上，有超过70%的垃圾是一次性塑料制品。有报告显示，巴西每年向海洋中倾倒的塑料废弃物达到32.5万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9031196.d.html</link>
-            <guid>2045216</guid>
-            <pubDate>Sat, 27 Feb 2021 03:26:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【涨73.1%！青岛二手房成交节后暴增】近期，青岛楼市成交量上演了“过山车”般的起伏。继春节假期青岛二手房成交量“挂零”后，青岛二手房成交502套，环比前一周上涨73.1%，成交二手房总面积44738.43平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9028408.d.html</link>
-            <guid>2045151</guid>
-            <pubDate>Sat, 27 Feb 2021 03:11:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
