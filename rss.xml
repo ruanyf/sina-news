@@ -4,11 +4,40 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 27 Feb 2021 21:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2021 22:25:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【再度“封城” 奥克兰进入为期7天三级警戒级别】据新西兰《信报》报道，当地时间2月27日晚上9点，新西兰总理阿德恩宣布，奥克兰进入3级警戒级别，其余地方进入2级警戒级别。本次警戒级别时长为期7天。(中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0128297.d.html</link>
+            <guid>2046097</guid>
+            <pubDate>Sat, 27 Feb 2021 22:24:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际需求旺盛 新春航空货运表现“亮眼”】今年新春，航空货运表现亮眼。中国民用航空局发布数据显示，今年春节期间，货运航班数量较前两年有较大幅度增长，国际及港澳台货运航班2553班，较2020年春节假期同期增长212.48%。春节期间货运航班数量大幅增长，与民航业主动调整货运运力结构、畅通国内国际双循环直接相关。专业人士认为，全球各个国家和地区组织自有航空运力和租用我国航企运力开展运输，是今年春节期间航空货运数量猛增的根本原因。（经济日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9143851.d.html</link>
+            <guid>2046096</guid>
+            <pubDate>Sat, 27 Feb 2021 22:22:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【生猪养殖业发展进入高门槛阶段 头部企业站上风口】最近，国内生猪养殖龙头企业牧原股份股价再度飙涨，2月19日以126.9元的历史新高报收。过去两年来，国内生猪养殖行业调整加快，头部企业凭借技术和规模优势，实现了高增长。在行业经受严峻考验之际，生猪养殖头部企业凭借技术和规模优势，渡过难关，实现新发展。生猪养殖业已整体进入高门槛、高成本的瓶颈期，促进生猪饲养、屠宰、加工和销售全产业链一体化发展，是突破国内生猪产业发展瓶颈的核心。（经济日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0128136.d.html</link>
+            <guid>2046095</guid>
+            <pubDate>Sat, 27 Feb 2021 22:19:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国阿拉斯加州发生5.3级地震】当地时间2月27日上午9时59分，美国阿拉斯加州麦肯齐角（Point MacKenzie）发生5.3级地震，震感明显，目前尚不清楚是否有人员伤亡。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9142737.d.html</link>
+            <guid>2046093</guid>
+            <pubDate>Sat, 27 Feb 2021 21:41:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿拉伯国家联盟秘书长表示支持沙特方面关于卡舒吉记者一案的立场，拒绝美国情报机构控告沙特的做法。]]></title>
+            <guid>2046092</guid>
+            <pubDate>Sat, 27 Feb 2021 21:28:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【一架小型飞机于美国佛罗里达州上空失踪】当地时间2月27日，美国海岸警卫队表示，一架小型飞机于26日在佛罗里达州波卡拉顿（Boca Raton）海岸东南方向约27公里处上空失踪，飞机载有一名飞行员。根据美国海岸警卫队的信息，失踪的飞机为1991年生产的Lancair320小型飞机。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0126472.d.html</link>
@@ -265,29 +294,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9109678.d.html</link>
             <guid>2045933</guid>
             <pubDate>Sat, 27 Feb 2021 12:49:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  乌克兰国家紧急情况局称，切尔诺夫策市医院的事故原因是氧气设备爆炸，事故中1死1伤。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9109157.d.html</link>
-            <guid>2045928</guid>
-            <pubDate>Sat, 27 Feb 2021 12:45:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华大基因业绩快报：2020年净利润20.8亿元，同比增653%】①华大基因(300676)2月26日晚间发布业绩快报，2020年营业收入为84.32亿元，同比增长201.09%；②归母净利润20.80亿元，同比增长652.78%；基本每股收益5.23元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0092660.d.html</link>
-            <guid>2045920</guid>
-            <pubDate>Sat, 27 Feb 2021 12:39:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【再度封城，奥克兰进入为期7天三级警戒级别】①据报道，当地时间2月27日晚上9点，新西兰总理阿德恩宣布，奥克兰进入3级警戒级别，其余地方进入2级警戒级别。本次警戒级别时长为期7天。阿德恩表示，这一结果“令人沮丧”；②新西兰27日新增1例社区确诊病例，该病例与本次奥克兰集群感染有关。据报道，该病例是Papatoetoe学校确诊学生家庭中的21岁男性，于23日出现症状。新西兰卫生部正进行基因组测序，以确定最新的社区病例是如何感染的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9108325.d.html</link>
-            <guid>2045917</guid>
-            <pubDate>Sat, 27 Feb 2021 12:37:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  乌克兰切尔诺夫策州副州长称，切尔诺夫策市的一家医院发生爆炸，有人受伤。（卫星新闻）]]></title>
-            <guid>2045901</guid>
-            <pubDate>Sat, 27 Feb 2021 12:20:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
