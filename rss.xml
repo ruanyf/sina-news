@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 28 Feb 2021 19:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2021 20:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【多地房贷集中度管理细则出台】《关于建立银行业金融机构房地产贷款集中度管理制度的通知》实施后，多地监管层针对各自辖区内地方法人银行的房地产贷款集中度管理细则也陆续出台。其中，部分地区在政策允许的前提下，调整了相应档次的地方法人银行业金融机构房地产贷款集中度管理要求。易居研究院智库中心研究总监严跃进表示，各地对不同档位的银行机构明确了房地产贷款集中度管理上限，有助于银行灵活执行中央房贷政策。（证券日报）]]></title>
+            <guid>2046850</guid>
+            <pubDate>Sun, 28 Feb 2021 20:18:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【退市新规满两个月 9家公司触及退市指标】退市新规落地已满2个月。今年以来，已有9家公司被交易所终止上市或进入交易所退市审查流程。其中7家触及强制退市指标，1家因吸收合并退市，1家申请主动退市。市场人士认为，随着退市新规的落地实施，今年退市公司的数量将明显上升，业绩持续亏损公司以及壳公司将通过面值退市出清。（证券日报）]]></title>
+            <guid>2046849</guid>
+            <pubDate>Sun, 28 Feb 2021 20:13:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：将与伊朗核问题六国就伊核谈判的未来方向进行磋商。]]></title>
+            <guid>2046848</guid>
+            <pubDate>Sun, 28 Feb 2021 19:56:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：仍准备重新进行有意义的外交活动。]]></title>
+            <guid>2046847</guid>
+            <pubDate>Sun, 28 Feb 2021 19:51:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：对伊朗拒绝与美国及欧洲国家就核协议进行对话感到失望。]]></title>
+            <guid>2046846</guid>
+            <pubDate>Sun, 28 Feb 2021 19:51:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯发射首颗北极气候监测卫星】俄罗斯国家航天集团公司网站发布消息称，俄当天成功发射首颗用于监测北极地区气候和环境的卫星“北极—M”。]]></title>
+            <guid>2046843</guid>
+            <pubDate>Sun, 28 Feb 2021 19:19:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：基于Robinhood游戏驿站疯狂交易，美国证券交易委员会或将审查低价股的上市标准。]]></title>
             <guid>2046842</guid>
@@ -260,18 +290,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0237205.d.html</link>
             <guid>2046356</guid>
             <pubDate>Sun, 28 Feb 2021 10:58:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【苏宁将在深圳设立华南地区总部】苏宁易购发布复牌公告，宣布引入国有战略投资。公告内容表示，苏宁将在深圳设立华南地区总部，充分依托产业投资人的本地资源优势，全面提升公司在华南地区尤其是在大湾区的经营能力及企业品牌知名度，有效提升市场占有率。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9251394.d.html</link>
-            <guid>2046354</guid>
-            <pubDate>Sun, 28 Feb 2021 10:46:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[黑龙江哈尔滨在院确诊病例、无症状感染者全部清零。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9248400.d.html</link>
-            <guid>2046346</guid>
-            <pubDate>Sun, 28 Feb 2021 10:17:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
