@@ -4,11 +4,16 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 28 Feb 2021 16:39:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2021 17:34:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：达能计划在2021年出售蒙牛股份。]]></title>
+            <guid>2046790</guid>
+            <pubDate>Sun, 28 Feb 2021 16:40:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[消息人士：伊朗此举可能让其与美国、欧洲的紧张局势再度升级。]]></title>
             <guid>2046780</guid>
@@ -260,30 +265,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0223208.d.html</link>
             <guid>2046327</guid>
             <pubDate>Sun, 28 Feb 2021 09:03:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【紫天科技业绩快报：2020年度净利润3.11亿元 同比增长83.72%】紫天科技公告，公司2020年度实现总营收14.22亿元，同比增长65.06%；实现归母净利润3.12亿元，同比增长83.71%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0222476.d.html</link>
-            <guid>2046326</guid>
-            <pubDate>Sun, 28 Feb 2021 08:56:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【君实生物：与阿斯利康制药签署拓益独家推广协议】君实生物公告，公司与阿斯利康制药签署《独家推广协议》，公司将授予阿斯利康制药特瑞普利单抗注射液在中国大陆地区后续获批上市的泌尿肿瘤领域适应症的独家推广权，以及所有获批适应症在非核心城市区域的独家推广权。公司将继续负责核心城市区域除泌尿肿瘤领域适应症之外的其他获批适应症的推广。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9237290.d.html</link>
-            <guid>2046325</guid>
-            <pubDate>Sun, 28 Feb 2021 08:54:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国财政大臣苏纳克：想保持低税率。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9237190.d.html</link>
-            <guid>2046324</guid>
-            <pubDate>Sun, 28 Feb 2021 08:52:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【吉林化纤：公司发生安全生产事故 不会对公司经营业绩造成较大影响】吉林化纤公告，2月27日21时30分，公司生产过程中高压电缆短路停电，造成一生产车间部分排风设备停止运行。23时10分恢复供电，相关岗位工人在准备恢复生产过程中，吸入有毒气体，被迅速送往专业医院进行救治，5人经抢救无效死亡，8名伤者目前生命体征平稳，没有生命危险。目前，事故现场已处理完毕，通风系统全面恢复，次生灾害因素全部排除。经生态环境部门对厂区及周边环境进行监测，未检出有害气体。事故原因调查正在进行。当前，公司生产经营正常。本次事故发生在公司一个生产车间的局部区域，不会对公司整体生产经营造成重大影响，不会对公司经营业绩造成较大影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9237089.d.html</link>
-            <guid>2046323</guid>
-            <pubDate>Sun, 28 Feb 2021 08:52:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
