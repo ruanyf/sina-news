@@ -4,11 +4,63 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 28 Feb 2021 01:53:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2021 02:34:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：秘鲁南部海岸附近发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0157346.d.html</link>
+            <guid>2046196</guid>
+            <pubDate>Sun, 28 Feb 2021 02:24:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国堪萨斯州威奇托市发生爆炸事件 已致3名警员受伤】当地时间27日16时，美国堪萨斯州威奇托市警局接到命令，对市内一间闲置空房进行检查。当警员赶到现场进行检查时，发生爆炸事件，并导致3名警员受伤，其中一人伤势严重，另外两人均属轻伤。目前该案件还在调查当中，警方并未透露更多详情。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0153597.d.html</link>
+            <guid>2046192</guid>
+            <pubDate>Sun, 28 Feb 2021 02:09:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[越南2月进口年率：10.50%；预期：-1%；前值：41%。越南2月出口年率：-4.70%；预期：-5%；前值：50.50% 。]]></title>
+            <guid>2046191</guid>
+            <pubDate>Sun, 28 Feb 2021 02:04:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[越南2月CPI年率：0.70%；预期：0.10%；前值：-0.97%。]]></title>
+            <guid>2046190</guid>
+            <pubDate>Sun, 28 Feb 2021 02:02:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国家统计局副局长盛来运：截至年末，全国共有8177家医疗卫生机构提供新型冠状病毒核酸检测服务，总检测能力达到1153万份/天。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0151934.d.html</link>
+            <guid>2046188</guid>
+            <pubDate>Sun, 28 Feb 2021 02:00:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国家统计局副局长盛来运：贸易格局更趋多元化，东盟跃升为我国最大货物贸易伙伴，对东盟的进出口比重达14.7%，比上年提高0.7个百分点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9166786.d.html</link>
+            <guid>2046180</guid>
+            <pubDate>Sun, 28 Feb 2021 01:56:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国家统计局副局长盛来运：一般贸易占比继续提升。一般贸易进出口占货物进出口总额的59.9%，比上年提高0.9个百分点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9166746.d.html</link>
+            <guid>2046179</guid>
+            <pubDate>Sun, 28 Feb 2021 01:56:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国家统计局副局长盛来运：贸易大国地位更加巩固。货物贸易规模再创新高。全年货物进出口总额321557亿元，比上年增长1.9%，其中出口增长4.0%。进出口、出口总值双双创历史新高，继续稳居全球货物贸易第一。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0151095.d.html</link>
+            <guid>2046178</guid>
+            <pubDate>Sun, 28 Feb 2021 01:55:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国家统计局：全年水资源总量30963亿立方米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9166258.d.html</link>
+            <guid>2046177</guid>
+            <pubDate>Sun, 28 Feb 2021 01:53:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[国家统计局：全年平均气温为10.25℃，比上年下降0.09℃。共有5个台风登陆。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9165794.d.html</link>
@@ -260,48 +312,6 @@
             <title><![CDATA[中国地震台网正式测定：02月28日04时03分在西藏日喀则市定日县（北纬29.07度，东经86.75度）发生3.1级地震，震源深度10千米。（央视）]]></title>
             <guid>2046086</guid>
             <pubDate>Sat, 27 Feb 2021 20:30:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国300余人因关联暴力冲击国会遭指控】美国司法部26日证实，已经起诉超过300名关联国会大厦今年初遭暴力冲击的嫌疑人，执法人员逮捕其中至少280人。司法部代理副部长约翰·卡林当天告诉媒体记者，司法部正以“从未有过的速度和规模”推进调查，“必须追究那些人的责任”。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9139836.d.html</link>
-            <guid>2046082</guid>
-            <pubDate>Sat, 27 Feb 2021 20:15:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普考虑组建超级政治行动委员会】市场消息，特朗普寻求维护其在共和党内的权力，并扩张政治运作。特朗普的发言人在当地时间周六证实，特朗普正在考虑组建一个超级政治行动委员会（PAC），这种委员会可以从几乎所有渠道筹集无限制的资金，且支出也不受限制。该委员会可能是“全新的实体”或者是“美国优先政策”的改版。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0123040.d.html</link>
-            <guid>2046079</guid>
-            <pubDate>Sat, 27 Feb 2021 19:49:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国驻加纳大使馆暂停为自加纳始发经埃及中转回国旅客发放健康码】中国驻加纳大使馆于当地时间2月27日发布消息，因政策调整，自加纳始发、经埃及中转回国旅客自3月6日（含）起将无法在开罗办理登机手续。为避免出现人员滞留，给回国旅客带来不必要的损失，中国驻加纳大使馆将不再为自加纳出发、经埃及中转乘3月6日（含）以后航班的回国旅客发放健康码。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0122329.d.html</link>
-            <guid>2046077</guid>
-            <pubDate>Sat, 27 Feb 2021 19:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【肯尼亚总统当选东非共同体新任轮值主席】当地时间2月27日，东非共同体首脑峰会以线上形式召开，这也是东共体首次以虚拟模式举办峰会。肯尼亚总统肯雅塔接替卢旺达总统卡加梅当选为东共体新任轮值主席。他表示将专注于加强与周边国家的伙伴关系，以增强东非共同体内部联系，并确保可持续地执行区域内的项目和计划。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0121952.d.html</link>
-            <guid>2046076</guid>
-            <pubDate>Sat, 27 Feb 2021 19:24:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：阿拉斯加麦肯齐点西南偏南3公里处发生5.3级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9137024.d.html</link>
-            <guid>2046074</guid>
-            <pubDate>Sat, 27 Feb 2021 19:08:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美媒：美国证交会可能重新评估低价股的上市标准】据媒体消息，美国证交会可能很快会重新评估主要交易所的上市标准，或阻止纳斯达克和纽交所上市投机性的便士股票（股价低于5美元的股票）。根据证交会的说法，“这些（便士股票）公司的收益很小甚至没有，且具有高度投机性。”在纽交所和纳斯达克合并后的清单上，有多达1000只股票符合证交会对便士股票的定义。在Robinhood的散户交易狂潮后，证交会便注意到这类股票的上市政策问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9136244.d.html</link>
-            <guid>2046072</guid>
-            <pubDate>Sat, 27 Feb 2021 18:50:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国共和党参议院委员会主席称共和党将在2022年至少夺回4个州的参议院席位】美国共和党参议院委员会主席、参议员里克·斯科特（Rick Scott）当地时间2月26日称，共和党将在2022年至少重夺4个州的民主党参议院席位。斯科特表示，目前共和党内部的分歧已经结束，将立志全力夺回参议院更多席位。斯科特认为，到2020年中期选举时，共有14个可以争取的参议院席位中，共和党有信心能够争取到其中不少席位，其中包括重夺佐治亚州、亚利桑那州、新罕布什尔州、和内华达州的参议院席位。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9136109.d.html</link>
-            <guid>2046071</guid>
-            <pubDate>Sat, 27 Feb 2021 18:47:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
