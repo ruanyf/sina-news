@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 28 Feb 2021 06:26:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2021 07:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【佳华科技：明确公司发展战略及优化公司组织架构】佳华科技公告，公司董事会审议通过《关于明确公司发展战略及优化公司组织架构的议案》。公司进一步明确在物联网技术研发和应用的过程中，强调基于数据视角，围绕“物联网大数据平台”的战略，以数据为核心、以平台为载体和中枢，打造核心功能架构以及在垂直行业应用的实施路线，并构建“数据工厂”的体系架构作为技术支撑和组织保障。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0205881.d.html</link>
+            <guid>2046266</guid>
+            <pubDate>Sun, 28 Feb 2021 06:52:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【香港特区财政司司长：财政预算案让整体经济最大程度受惠】28日，香港特区政府财政司司长陈茂波发表文章称，考虑到香港经济连续两年衰退，失业率不断上升，特区政府决定维持逆周期的财政政策，通过维持较大的财政投入，提升支持经济的力度，进而支援市民、惠及企业，让整体经济最大程度地受惠，并尽可能以多角度、多渠道方式纾缓就业市场压力。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0200300.d.html</link>
+            <guid>2046261</guid>
+            <pubDate>Sun, 28 Feb 2021 06:30:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【福然德年度报告：2020年度净利润同比增长9.95% 拟每10派2.2元】福然德公告，公司2020年度实现总营收68.89亿元，同比增长22.04%，归母净利润3.07亿元，同比增长9.95%。向全体股东每10股派发现金红利2.2元（含税）。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9211269.d.html</link>
@@ -289,42 +301,6 @@
             <title><![CDATA[国家统计局：金融业增加值84070亿元，增长7.0%；房地产业增加值74553亿元，增长2.9%；信息传输、软件和信息技术服务业增加值37951亿元，增长16.9%。]]></title>
             <guid>2046158</guid>
             <pubDate>Sun, 28 Feb 2021 01:36:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家统计局：黑色金属冶炼和压延加工业增长6.7%，通用设备制造业增长5.1%，专用设备制造业增长6.3%，汽车制造业增长6.6%，电气机械和器材制造业增长8.9%，计算机、通信和其他电子设备制造业增长7.7%，电力、热力生产和供应业增长1.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9163442.d.html</link>
-            <guid>2046157</guid>
-            <pubDate>Sun, 28 Feb 2021 01:36:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家统计局：全年居民消费价格比上年上涨2.5%。工业生产者出厂价格下降1.8%。工业生产者购进价格下降2.3%。农产品生产者价格上涨15.0%。12月份，70个大中城市新建商品住宅销售价格同比上涨的城市个数为60个，下降的为10个。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0147700.d.html</link>
-            <guid>2046156</guid>
-            <pubDate>Sun, 28 Feb 2021 01:35:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江苏食品抽检6批次样品不合格，涉虾蛄、鲫鱼】近期，江苏省市场监督管理局完成省级食品安全监督抽检任务669批次，涉及食用油、油脂及其制品、肉制品、食糖、糖果制品、豆制品和食用农产品。根据食品安全国家标准检验和判定，其中抽样检验项目合格样品663批次、不合格样品6批次。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0146256.d.html</link>
-            <guid>2046150</guid>
-            <pubDate>Sun, 28 Feb 2021 01:25:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：02月28日09时12分在青海果洛州班玛县发生3.3级地震，震源深度10千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0145845.d.html</link>
-            <guid>2046148</guid>
-            <pubDate>Sun, 28 Feb 2021 01:23:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华为Mate 40E或将在3、4月发布：搭载麒麟990E】消息人士称华为 Mate 40E 可能会在 3-4 月份发布，搭载麒麟 990E 或其他 5G 处理器。（IT之家）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0143211.d.html</link>
-            <guid>2046144</guid>
-            <pubDate>Sun, 28 Feb 2021 01:06:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中石油长庆油田与华为签署战略合作协议】 2月26日，中国石油长庆油田分公司（简称“长庆油田”）与华为技术有限公司在西安签署战略合作协议。双方在会谈中表示将以数字化转型为契机，保持长效沟通机制，持续在统一数字平台、人才赋能、5G、全光联接、生产物联网、智能视频云等领域展开更深层次的合作，全面推进长庆油田的数字化转型与智能化发展。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0141559.d.html</link>
-            <guid>2046142</guid>
-            <pubDate>Sun, 28 Feb 2021 00:56:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
