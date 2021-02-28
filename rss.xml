@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 28 Feb 2021 14:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2021 15:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：与针对沙特王储本·萨勒曼实施制裁相比，美国还有更有效的方法，因为他是沙特领导人之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9278319.d.html</link>
+            <guid>2046669</guid>
+            <pubDate>Sun, 28 Feb 2021 15:17:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【栗战书主持十三届全国人大常委会第二十六次会议闭幕会并作讲话强调，以高度的政治责任感和使命感履职尽责，全力以赴开好十三届全国人大四次会议】 栗战书指出，会议初次审议了印花税法草案，要认真研究常委会组成人员的审议意见和各方面的意见建议，把草案进一步修改好。会议听取审议了国务院关于研究处理“一决定一法”执法检查报告及审议意见情况的报告，最高人民法院关于民事诉讼程序繁简分流改革试点情况的中期报告。安排听取审议这两个报告是对此前相关工作的跟踪问效。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9276678.d.html</link>
+            <guid>2046655</guid>
+            <pubDate>Sun, 28 Feb 2021 14:52:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：高盛消费者事务负责人Ismail即将离职，加盟沃尔玛，负责后者的金融事务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0259978.d.html</link>
+            <guid>2046633</guid>
+            <pubDate>Sun, 28 Feb 2021 14:33:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据外媒，沙特阿美寻求100亿美元贷款延期一年。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9273621.d.html</link>
@@ -296,48 +314,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9235168.d.html</link>
             <guid>2046308</guid>
             <pubDate>Sun, 28 Feb 2021 08:36:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国财政大臣苏纳克：英国已经提议征收数字服务税。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9235153.d.html</link>
-            <guid>2046307</guid>
-            <pubDate>Sun, 28 Feb 2021 08:36:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【*ST中新：实控人被批准逮捕】*ST中新公告，公司于2021年2月27日收到台州市椒江区府办转发的台州海关缉私分局的函。函中提到，公司实控人江珍慧于2020年12月24日被台州海关缉私分局采取刑事拘留强制措施，2021年1月29日经台州市人民检察院批准被执行逮捕。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0218711.d.html</link>
-            <guid>2046304</guid>
-            <pubDate>Sun, 28 Feb 2021 08:27:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【前两月新成立基金发行份额达7868.21亿份，创历史新高】Wind数据显示，截至2月28日，今年以来新成立基金242只；总发行份额达7868.21亿份，创历史同期新高。其中，新成立股票型基金69只，发行份额达1129.03亿份；混合型基金145只，发行份额达6028.85亿份；债券型基金26只，发行份额达623.63亿份；此外，还有2只QDII基金，发行份额达86.70亿份。不过，2月基金发行显著降温，新成立基金发行份额达2966.80亿份，显著低于1月4901.40亿份的发行份额。（中证网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0218383.d.html</link>
-            <guid>2046302</guid>
-            <pubDate>Sun, 28 Feb 2021 08:25:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Facebook赔偿160万用户6.5亿美元】 据报道，周五，美国加州地方法官已经同意他所称的“有史以来最大规模的隐私诉讼和解”，同意Facebook向约160万名用户支付共6.5亿美元的赔偿，这些用户指控该公司未经许可创建和存储他们的面部扫描图像。这起集体诉讼于2015年在伊利诺伊州发起，涉及Facebook在其照片标记功能中使用面部识别技术。照片标记功能允许用户在他们上传到Facebook的照片中标记好友，创建指向好友个人资料的链接。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0218153.d.html</link>
-            <guid>2046301</guid>
-            <pubDate>Sun, 28 Feb 2021 08:23:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【ST双环：主导产品纯碱和氯化铵价格近期出现较大幅度上涨】ST双环发布股价异动公告，公司主导产品纯碱和氯化铵价格近期出现较大幅度上涨。经核查，公司、控股股东和实际控制人不存在关于公司的应披露而未披露的重大事项，或处于筹划阶段的重大事项。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9232686.d.html</link>
-            <guid>2046300</guid>
-            <pubDate>Sun, 28 Feb 2021 08:20:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美邦服饰：拟计提2020年度各项资产减值准备3.66亿元】美邦服饰公告，经过公司及下属子公司对2020年末存在可能发生减值迹象的资产，范围包括存货、应收账款、其他应收款、一年内到期的非流动资产、长期应收款、投资性房地产等，进行全面清查和资产减值测试后，拟计提2020年度各项资产减值准备3.66亿元，考虑所得税影响后，将减少2020年度归属于母公司所有者的净利润3.66亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9232340.d.html</link>
-            <guid>2046299</guid>
-            <pubDate>Sun, 28 Feb 2021 08:18:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【维信诺：筹划控制权变更事项 股票停牌】维信诺公告，公司收到控股股东西藏知合的通知，获悉西藏知合拟向交易对方转让其持有的1.6亿股公司股票，约占公司股份总数的11.70%，且交易对方正在与公司第二大股东昆山经济技术开发区集体资产经营有限公司筹划签署《一致行动协议》，前述事项可能导致公司控制权发生变更。本次交易对方为国资公司，主要从事股权投资。公司股票自2021年3月1日开市起停牌，预计停牌时间不超过5个交易日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0217123.d.html</link>
-            <guid>2046298</guid>
-            <pubDate>Sun, 28 Feb 2021 08:16:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
