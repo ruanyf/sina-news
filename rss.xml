@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 28 Feb 2021 04:29:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2021 05:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[瑞穗银行：部分ATM、网银交易不可用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0191003.d.html</link>
+            <guid>2046236</guid>
+            <pubDate>Sun, 28 Feb 2021 05:23:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2020年，美国豪宅销量上涨40%，均价在86万美元的住宅挂到市场上平均58天就能成交。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0190597.d.html</link>
+            <guid>2046235</guid>
+            <pubDate>Sun, 28 Feb 2021 05:21:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[根据公司财报，伯克希尔2020年全年回购了近250亿美元的股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9201651.d.html</link>
+            <guid>2046230</guid>
+            <pubDate>Sun, 28 Feb 2021 04:49:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马来西亚2月棕榈油出口100.144万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0185230.d.html</link>
+            <guid>2046229</guid>
+            <pubDate>Sun, 28 Feb 2021 04:40:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海关总署：RCEP经核准出口商管理办法将启动征求意见程序】海关总署28日称，目前RCEP原产地管理信息化系统正在抓紧完成系统调整准备，“经核准出口商管理办法”计划于近期启动征求意见程序。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9199462.d.html</link>
+            <guid>2046228</guid>
+            <pubDate>Sun, 28 Feb 2021 04:35:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[吉林化纤：目前事故正在调查中，后续周内会发布公告，一切以公告披露内容为准。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0183306.d.html</link>
+            <guid>2046226</guid>
+            <pubDate>Sun, 28 Feb 2021 04:31:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【习水县称全力支持和推动习酒上市】习水县代表团近日在出席遵义市第五届人大五次会议时表示，要坚持围绕产业优势，着眼实体经济，大力发展具有比较优势的白酒、绿色食品加工、能矿、旅游等产业，全力支持和推动习酒上市，推动白酒产业全链条发展，发挥好习酒对全县白酒产业、经济发展的引领和拉动作用。习水将围绕世界酱香优质核心产区，抓好白酒产业酒质提升、扩容扩能、市场营销，同时树立系统化思维，统筹抓好煤电生产、红粮产业、生态畜牧等工作。（界面）]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9197626.d.html</link>
@@ -270,30 +306,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9149243.d.html</link>
             <guid>2046122</guid>
             <pubDate>Sun, 28 Feb 2021 00:00:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽约州州长库莫要求外界对助手的指控进行审查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9149189.d.html</link>
-            <guid>2046121</guid>
-            <pubDate>Sun, 28 Feb 2021 00:00:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京连续29天本地无新增】2月27日0时至24时，北京无新增本地确诊病例、疑似病例和无症状感染者；无新增境外输入确诊病例、疑似病例和无症状感染者。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9149121.d.html</link>
-            <guid>2046120</guid>
-            <pubDate>Sat, 27 Feb 2021 23:59:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广东新增境外输入确诊病例1例 无症状感染者4例】据广东省卫健委通报，2月27日0-24时，广东省新增境外输入确诊病例1例，广州报告，来自伊拉克。新增境外输入无症状感染者4例，广州报告，3例来自伊拉克，1例来自卡塔尔。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9149044.d.html</link>
-            <guid>2046119</guid>
-            <pubDate>Sat, 27 Feb 2021 23:57:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【5G产业链全面爆发 企业扩产能保供应】从2020年下半年开始，下游手机厂商订单量逐月攀升。深圳市某电子科技企业LTCC滤波器事业部负责人表示，2021年市场集中爆发，特别是5G方面，今年的库存相比于2020年会下降40%左右，是近三年来最低的库存。 (央视)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9147794.d.html</link>
-            <guid>2046112</guid>
-            <pubDate>Sat, 27 Feb 2021 23:40:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
