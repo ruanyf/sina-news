@@ -4,11 +4,239 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 02 Mar 2021 05:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Mar 2021 06:26:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【北清环能：芯片业务尚在研发，无收入确认】北清环能在深交所互动易平台表示，控股子公司“四川北控能芯微信息技术有限公司”经营涉及芯片业务，涉及的领域主要为时钟芯片，电源管理芯片，产品主要应用于工业控制、新能源等方面，该业务尚处于研发，市场拓展阶段，截止目前，该业务尚无收入确认。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9596121.d.html</link>
+            <guid>2049979</guid>
+            <pubDate>Tue, 02 Mar 2021 06:25:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西藏珠峰：公司旗下锂盐湖暂未进入正式投产并实现大规模销售阶段。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0579335.d.html</link>
+            <guid>2049977</guid>
+            <pubDate>Tue, 02 Mar 2021 06:24:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度总理莫迪：采取措施促进城市水运系统。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0578835.d.html</link>
+            <guid>2049975</guid>
+            <pubDate>Tue, 02 Mar 2021 06:21:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度总理莫迪：目标是到2030年启用23条内河航道。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0578560.d.html</link>
+            <guid>2049974</guid>
+            <pubDate>Tue, 02 Mar 2021 06:20:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度总理莫迪：将鼓励私人投资港口业。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9594904.d.html</link>
+            <guid>2049973</guid>
+            <pubDate>Tue, 02 Mar 2021 06:19:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度总理莫迪: 非常重视海洋部门的发展，寻求成为领先的蓝色经济体。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9594882.d.html</link>
+            <guid>2049972</guid>
+            <pubDate>Tue, 02 Mar 2021 06:18:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄罗斯卫星网：俄罗斯上议院议长表示，俄罗斯准备重返《开放天空条约》，但美国尚未就此作出决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9594644.d.html</link>
+            <guid>2049970</guid>
+            <pubDate>Tue, 02 Mar 2021 06:17:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利与欧盟接近就意大利航空达成初步协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0577992.d.html</link>
+            <guid>2049969</guid>
+            <pubDate>Tue, 02 Mar 2021 06:16:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“‘十四五’川渝特高压交流网架咨询评估意见”已报送至国家能源局】据知情人士透露，“评估意见”提出：川渝特高压交流网架“十四五”期间建设方案整体可行，根据工程需要分步推行实施，工程整体建设进度应与川西水电开发建设及负荷发展等时序相协调。2023年可先期建设甘孜-天府南-成都东、天府南-铜梁特高压交流工程，形成“Y”字形网架。在此基础上，2025年建设阿坝～成都东特高压交流工程，至“十四五”末形成川渝特高压“之”字形网架。（中国能源报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0577928.d.html</link>
+            <guid>2049968</guid>
+            <pubDate>Tue, 02 Mar 2021 06:16:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中兴最新5G标准必要专利声明量位列全球前三】中兴通讯消息，2月，国际知名专利数据公司IPLytics发布《5G专利竞赛的领跑者》报告，报告显示中兴通讯向ETSI（欧洲电信标准化协会）披露5G标准必要专利声明族位居全球第三。报告指出，在下一次工业革命将看到越来越多的技术融合，通信技术将越来越多地集成到传统行业产品中。例如智能工厂、智能家居、智能抄表、智慧医疗设备等都将依赖5G通信技术。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9594327.d.html</link>
+            <guid>2049966</guid>
+            <pubDate>Tue, 02 Mar 2021 06:15:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新一轮芯片涨价潮来袭 驱动IC首当其冲】据台媒工商时报报道，供应链消息称，由于晶圆代工、封测厂在2021年仍在陆续调涨驱动IC生产及封装测试报价，因此驱动IC为了反映成本持续上升问题，目前正在陆续与客户协调产品涨价议题，客户也相继同意调升报价，最快有机会在第二季开始上调，调幅在一成左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9593969.d.html</link>
+            <guid>2049965</guid>
+            <pubDate>Tue, 02 Mar 2021 06:13:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华为、北汽蓝谷合作首款车将4月亮相 搭载3颗激光雷达、算力352Tops】北汽蓝谷公众号发布文章称与华为合作的首款车型ARCFOX极狐 αS HBT将于今年4月上海车展亮相。据了解，华为目前有单颗、2颗、3颗等三种激光雷达上车配置方案，北汽蓝谷ARCFOX极狐αS HBT车型将采用为最为先进的三颗激光雷达搭载方案。HBT还将同步搭载6个毫米波雷达，12个摄像头，13个超声波雷达，同时搭载算力可达352Tops的华为芯片，形成L3级以上的自动驾驶解决方案，可以说是实力强劲了。（TechWeb）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0576826.d.html</link>
+            <guid>2049964</guid>
+            <pubDate>Tue, 02 Mar 2021 06:10:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[注册制新股异动，C冠中拉升涨超20%，药易购、南大环境、秋田微、华琪环保等涨幅居前。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9593166.d.html</link>
+            <guid>2049963</guid>
+            <pubDate>Tue, 02 Mar 2021 06:09:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[万华化学、药明康德、紫金矿业、分众传媒、康希诺等明星股下挫逾6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0576507.d.html</link>
+            <guid>2049962</guid>
+            <pubDate>Tue, 02 Mar 2021 06:08:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南向资金由早盘净买入逾30亿港元转为净卖出。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0575985.d.html</link>
+            <guid>2049960</guid>
+            <pubDate>Tue, 02 Mar 2021 06:05:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全国推进乡村产业高质量发展会：建设好农业产业强镇等平台，破解发展用地难、贷款难】3月1日，农业农村部召开全国推进乡村产业高质量发展视频会。会议强调，构建现代乡村产业体系，要以一二三产业融合发展为路径。一要抓规划。各地要编制好“十四五”乡村产业发展规划。二要抓平台。建设好“一村一品”示范村镇、农业产业强镇、现代农业产业园、优势特色产业集群以及农产品加工园和返乡入乡创业园等平台。三要抓企业。发展壮大龙头企业，培育农业产业化联合体。四要抓要素。破解乡村产业发展用地难、贷款难问题。五要抓机制。推广契约式、分红式、股权式利益联结方式，让农民有活干、有钱赚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0575838.d.html</link>
+            <guid>2049959</guid>
+            <pubDate>Tue, 02 Mar 2021 06:04:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【腾讯关联公司公开一项“一种自动驾驶控制方法及装置”的专利】天眼查App显示，今日，腾讯科技（深圳）有限公司公开一项名称为“一种自动驾驶控制方法及装置”的专利，公开号为CN112429016A，申请时间为2020年8月31日，申请人为腾讯科技（深圳）有限公司。专利摘要显示，本申请实施例提供一种自动驾驶控制方法及装置，涉及自动驾驶技术领域，能够使得被控自动驾驶车辆找到安全变换车道的机会，并实现了安全变道。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0575461.d.html</link>
+            <guid>2049958</guid>
+            <pubDate>Tue, 02 Mar 2021 06:02:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  沙特阿拉伯民防机构表示，也门军队发射的一枚导弹击中了沙特吉赞地区，五人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0574326.d.html</link>
+            <guid>2049945</guid>
+            <pubDate>Tue, 02 Mar 2021 05:53:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【农夫山泉跌破50港元】港股农夫山泉跌5.5%，跌破50港元， 为去年12月底以来新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9590792.d.html</link>
+            <guid>2049944</guid>
+            <pubDate>Tue, 02 Mar 2021 05:53:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【松井股份：今年将大力布局汽车涂料领域】松井股份昨日接受机构调研时表示，在汽车涂料领域方面，公司目前已有车灯防雾涂料、UV硅手感涂料、高光黑涂料等系列产品。2021年公司将加大产品研发力度和市场开拓力度，大力布局汽车涂料领域，借鉴3C市场经验，以汽车零部件涂料为切入口，进入更多供应商AVL认证资质名单，获取市场份额并逐步迈入汽车涂料市场更广阔空间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0574163.d.html</link>
+            <guid>2049943</guid>
+            <pubDate>Tue, 02 Mar 2021 05:52:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  磷化工板块午后持续走弱，鲁西化工封跌停，云天化、洛阳钼业、兴发集团、金诚信等跟跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0574076.d.html</link>
+            <guid>2049942</guid>
+            <pubDate>Tue, 02 Mar 2021 05:52:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广东广州南沙推动智能网联汽车道路测试先行试点区建设】3月1日，广州市智能网联汽车与智慧城市协同发展成果推广活动上，南沙区与广州小马智行科技有限公司、中科智城（广州）信息科技有限公司三方共同签订框架合作协议，共同推动自动驾驶车端感知与“城市大脑”融合应用。据悉，南沙区计划全域开放智能网联汽车测试道路，并在庆盛区块打造占地475亩的自动驾驶测试基地，积极推动智能网联汽车道路测试先行试点区建设。（金羊网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0573591.d.html</link>
+            <guid>2049940</guid>
+            <pubDate>Tue, 02 Mar 2021 05:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  北向资金净流出达60亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0573505.d.html</link>
+            <guid>2049939</guid>
+            <pubDate>Tue, 02 Mar 2021 05:48:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广东省：明确各市场主体最低可再生能源电力消纳责任权重，并对完成情况进行考核 】广东省印发可再生能源电力消纳保障实施方案（试行）。通知中称，省能源局按照国家明确的消纳责任权重，对我省范围内承担消纳责任的各市场主体，明确最低可再生能源电力消纳责任权重，包括可再生能源电力总量消纳责任权重和非水电可再生能源电力消纳责任权重，并按责任权重对市场主体完成情况进行考核，对未完成消纳责任权重的市场主体进行督促落实，并依法依规予以处理。（广东省发改委）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9590097.d.html</link>
+            <guid>2049938</guid>
+            <pubDate>Tue, 02 Mar 2021 05:48:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  哈萨克斯坦2月份PPI环比上涨3.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0573177.d.html</link>
+            <guid>2049936</guid>
+            <pubDate>Tue, 02 Mar 2021 05:46:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印尼电商Bukalapak据悉将通过SPAC在美国上市】 Bukalapak正在与SPAC（特殊目的收购公司）谈判，交易价值40亿至50亿美元；另外在美国SPAC交易之前，其将考虑在雅加达上市。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9589633.d.html</link>
+            <guid>2049935</guid>
+            <pubDate>Tue, 02 Mar 2021 05:45:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【平安银行落地股份行首单个人不良贷款债权批量转让业务】3月1日，平安银行在银行业信贷资产登记流转中心以公开竞价方式，实现了2021年第1期个人不良贷款债权的批量成功转让，成为全国首家个人不良贷款债权批量转让首批试点、首单招商、首单落地的股份制商业银行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0572760.d.html</link>
+            <guid>2049934</guid>
+            <pubDate>Tue, 02 Mar 2021 05:43:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ST宜化在投资者互动平台表示，公司二铵产能130万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0572371.d.html</link>
+            <guid>2049932</guid>
+            <pubDate>Tue, 02 Mar 2021 05:41:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华为时隔1个月再次发债40亿，国内总规模将达230亿】据中国货币网披露显示，3月1日，华为投资控股有限公司将发行今年第二期中期票据，计划发行40亿元，期限为3年，发行日期3月3日至4日。2019年10月，华为首次在国内发行30亿元中期票据融资，2019年和2020年相继发行2次和4次中期票据，期限3年或5年，年度规模分别为60亿元、90亿元。加上今年1月和此次拟发行的40亿元中票，预计国内融资将达到230亿元。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0572113.d.html</link>
+            <guid>2049930</guid>
+            <pubDate>Tue, 02 Mar 2021 05:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  瑞信：上调信义玻璃目标价至29港元，评级跑赢大市。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9588510.d.html</link>
+            <guid>2049929</guid>
+            <pubDate>Tue, 02 Mar 2021 05:40:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【日媒：中国籍船只冲绳石垣岛北部倾覆，日方正救助】据日本《产经新闻》2日报道，当地时间2日上午，中国籍船只在日本冲绳石垣岛北部倾覆，7人落水，日本海上保安本部巡视船正在展开救助。报道称，日本海上保安本部透露说，当日上午，该部收到遇难警报。事发地点位于石垣岛北部约330公里处，船上共有10人。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9588053.d.html</link>
+            <guid>2049927</guid>
+            <pubDate>Tue, 02 Mar 2021 05:38:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华为公开三项“一种电驱动系统、动力总成以及电动汽车”相关专利】华为技术有限公司日前新增多条专利信息，其中三条名称为“一种电驱动系统、动力总成以及电动汽车”，公开号CN112436747A、CN112436779A和CN112436780A。据悉，CN112436747A号专利技术可提升三电平逆变电路的母线中点电位均衡的调节能力；CN112436779A号专利的电驱动系统可降低体积和成本；CN112436780A号专利可提升对母线中点电位的调节能力。（集微网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0571365.d.html</link>
+            <guid>2049925</guid>
+            <pubDate>Tue, 02 Mar 2021 05:37:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯2月天然气产量620.43亿立方米，同比增长2.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0571228.d.html</link>
+            <guid>2049923</guid>
+            <pubDate>Tue, 02 Mar 2021 05:36:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  日本炼油公司ENEOS：2月因地震关闭的SHENDAI炼油厂将于4月重新开工。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9587472.d.html</link>
+            <guid>2049920</guid>
+            <pubDate>Tue, 02 Mar 2021 05:34:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯2月石油产量1009.5万桶/日，同比下降10.7%，环比下降0.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9587443.d.html</link>
+            <guid>2049919</guid>
+            <pubDate>Tue, 02 Mar 2021 05:34:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  沪深300指数跌超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0570501.d.html</link>
+            <guid>2049918</guid>
+            <pubDate>Tue, 02 Mar 2021 05:31:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沪深300指数跌幅扩大至2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0570265.d.html</link>
+            <guid>2049916</guid>
+            <pubDate>Tue, 02 Mar 2021 05:30:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【沪指跌破3500点】指继续走低跌近1.45%，跌破3500点关口。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0569418.d.html</link>
+            <guid>2049912</guid>
+            <pubDate>Tue, 02 Mar 2021 05:24:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【小米关联公司公开手机外观专利 背面四个角部各有一个摄像头】天眼查App显示，近日，北京小米移动软件有限公司公开一项“手机”外观专利，公开号CN306350869S。该专利摘要显示，本外观设计产品用于移动通信、拍照摄像、游戏、网络或多媒体应用，且通过布置在产品背面四个角部的四个摄像头可以实现3D拍照或3D录像的功能。本外观设计产品的设计要点在于产品的形状，尤其是配置四个摄像头的产品背部形状。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9585237.d.html</link>
@@ -116,161 +344,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9578667.d.html</link>
             <guid>2049878</guid>
             <pubDate>Tue, 02 Mar 2021 04:33:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【巴西今年2月实现外贸顺差11.52亿美元 为7年来同期新低】巴西经济部当地时间1日公布的数据显示，今年2月，巴西外贸实现顺差11.52亿美元，比去年同期下降50.4%，为2014年以来同期新低。数据显示，巴西2月出口额为161.82亿美元，同比增长3.9%。其中，矿产品出口同比增长13.8%，而铁矿石出口增幅最大，同比增长达94.7%。工业产品出口同比增长3.5%。不过，农产品出口同比下降10.8%，其中大豆出口同比下降33.1%。（中新社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9576646.d.html</link>
-            <guid>2049873</guid>
-            <pubDate>Tue, 02 Mar 2021 04:21:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【高盛：上调腾讯控股目标价32%至929港元 评级“买入”】高盛发表研究报告，将腾讯控股(00700)目标价由705港元上调32%至929港元，评级“买入”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9576326.d.html</link>
-            <guid>2049872</guid>
-            <pubDate>Tue, 02 Mar 2021 04:19:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【银保监会主席郭树清讲话要点汇总】银保监会主席郭树清在国新办发布会上表示：①金融杠杆率明显下降，金融资产盲目扩张得到根本扭转；②把防范风险作为金融业的永恒主题，强化反垄断和防止资本无序扩张；③房地产金融化、泡沫化倾向还比较强；④去年银行业处置不良贷款超3万亿 今明两年规模或还会加大；⑤今年估计贷款利率会有回升和调整，但总体利率还是较低；⑥2020年处罚违法违规银保机构3178家次，罚没金额22.8亿元；⑦欧美发达国家金融市场与实体经济严重背道而驰；⑧鼓励互联网银行发展，但必须按照金融的规律和规则实行统一管理；⑨外国资本流入的规模和速度还在可控范围内； ⑩ “鼓励出生也没有提高出生率” 这是很大挑战。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9576121.d.html</link>
-            <guid>2049871</guid>
-            <pubDate>Tue, 02 Mar 2021 04:19:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家开发银行：今年计划安排战略新兴产业和先进制造业贷款投放4000亿元以上】国家开发银行董事长赵欢表示，计划今年安排发放重大科技项目的专项贷款500亿元以上。准备从今年开始，开展“百链千企”专项金融活动，我们在科技创新领域选择百家龙头企业，沿着这个龙头企业的上下游产业链选择一千家重点企业进行专项金融服务，今年计划安排战略新兴产业和先进制造业贷款投放4000亿元以上。继续加大对集成电路、先进制造业以及科技创新方面的股权投资力度，今年我们准备新增股权投资500亿元以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9575425.d.html</link>
-            <guid>2049870</guid>
-            <pubDate>Tue, 02 Mar 2021 04:16:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【58同城、安居客：三四线城市新房找房热度上涨2.8%】58安居客房产研究院监测数据显示，从用户行为指数来看，2月正值春节假期，全国找房热度环比下行3.8%，一线、二线城市找房热度环比下降，三四线城市找房热度逆势上涨2.8%。随着返城人群的回归，预计3月份找房热度会有所回升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9573486.d.html</link>
-            <guid>2049866</guid>
-            <pubDate>Tue, 02 Mar 2021 04:09:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[理文造纸全年营收258.7亿港元，市场预估267.4亿港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9572969.d.html</link>
-            <guid>2049864</guid>
-            <pubDate>Tue, 02 Mar 2021 04:07:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【因得州大面积停电 NASA再度推迟波音“星际客机”不载人试飞】据法新社报道，当地时间3月1日，美国国家航空航天局（NASA）表示，再度推迟波音公司研制的“星际客机”（Starliner）太空飞船的不载人试飞任务。 据悉，“星际客机”将担负运送宇航员往返国际空间站的任务。此前，该飞船的试飞已经被推迟到4月初，而此次再度推迟是受到得克萨斯州极端天气导致大面积停电的影响。（中国日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9572901.d.html</link>
-            <guid>2049863</guid>
-            <pubDate>Tue, 02 Mar 2021 04:07:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【郭树清：对中小银行全面评估 对履职不太好、从银行套取资金的严厉惩处】中国银保监会主席郭树清在国务院新闻办新闻发布会后，针对有关中小银行公司治理的问题作出回应。“（中小银行公司治理监管）我们这几年一直都在推进，”郭树清称，要进行评估，同时还要对股东进行穿透式监控、监管、识别，对一些履职不太好，甚至从银行违规套取资金的，要进行严厉的惩处。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0555835.d.html</link>
-            <guid>2049861</guid>
-            <pubDate>Tue, 02 Mar 2021 04:05:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【机构半日净流出42亿元 领头买入贵州茅台】机构半日净流出42亿元，主力资金净流出105亿元，大户资金、散户资金分别净流出119亿元、70亿元。数据显示，机构早间领头买入贵州茅台20.5亿元，主力领头买入北方稀土9.18亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9572357.d.html</link>
-            <guid>2049860</guid>
-            <pubDate>Tue, 02 Mar 2021 04:05:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【刘昆出席二十国集团财长和央行行长视频会议】2021年2月26日，二十国集团（G20）主席国意大利以视频方式主持召开其接任主席国后的首次G20财长和央行行长会议。财政部部长刘昆出席会议并发言。刘昆表示，推动数字经济和绿色转型。要为数字经济营造开放、公平、公正、非歧视的发展环境，中方支持在2021年中达成数字经济征税的多边共识方案并消除单边措施。（财政部）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9571314.d.html</link>
-            <guid>2049857</guid>
-            <pubDate>Tue, 02 Mar 2021 04:02:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【百度关联公司佰兴投资管理发生多项工商变更 李彦宏退出董事长职务】据天眼查App显示，3月1日，宁波梅山保税港区佰兴投资管理有限公司发生多项工商变更，李彦宏退出董事长，任旭阳接任。此外，韦方退出监事，新增梁志祥为监事，贾栋由经理变更为董事。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9571209.d.html</link>
-            <guid>2049856</guid>
-            <pubDate>Tue, 02 Mar 2021 04:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多家厂商纷纷调涨电阻价格 涨幅最高达20%】继旺诠调涨电阻价格之后，上周多家电阻厂跟上脚步，华新科调涨电阻产品10%～15％，全球第二大电阻厂厚声也针对代理商发出涨价通知，调涨幅度达20％，仅次于龙头厂国巨的15～25％，新价格均于3月1日生效。此外，电阻上游陶瓷基板厂、电感上游铜线厂自3月1日开始，因原材料价格的调涨，亦全面调涨报价并适用新价格，涨幅大约5～15％。日本第三大铝电厂Rubycon亦向直销客户发出涨价通知，新价格已于3月1日生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0554598.d.html</link>
-            <guid>2049855</guid>
-            <pubDate>Tue, 02 Mar 2021 04:01:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【午间公告：维康药业获得药品补充申请批准 洁美科技累计回购266万股】英飞特：聘任姚永华为公司副总经理、财务负责人。维康药业获得金钱草胶囊和肝苏胶囊补充申请批准通知书。洁美科技：截至2月28日，公司回购股份数量约为266万股，约占公司目前总股本的0.6458%，成交总金额为7101万元。爱美客：公司高管勾丽娜收到北京证监局出具的警示函。正业科技：控股股东正业实业所持9.39%股份终止司法拍卖。凯龙股份：控股股东中荆投资及一致行动人邵兴祥已增持公司股份达到1.07%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0554176.d.html</link>
-            <guid>2049852</guid>
-            <pubDate>Tue, 02 Mar 2021 04:00:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【郭树清：通过支持财务重组、债务重组、债转股等降低企业负担 未来将有举措出台】郭树清表示，支持实体经济的很多政策今年肯定要延续下去。通过支持财务重组、债务重组、企业重组，包括债转股，还有很多举措出台，这也会降低企业负担。将以多种形式继续支持企业发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0550999.d.html</link>
-            <guid>2049848</guid>
-            <pubDate>Tue, 02 Mar 2021 03:48:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【澳洲联储利率决议要点提炼】① 利率水平：维持现金利率目标在0.10%不变，维持澳大利亚3年期收益率目标0.1%不变；② 购债规模：初始1000亿澳元计划结束后，再购买1000亿澳元，额外的1000亿澳元的购买将以每周约50亿澳元的速度进行；③ 经济预期：2021年底失业率约为6％，到2022年底将为5.5％；④ CPI预期：预计将在2021年达到1.25％，在2022年之前达到1.5％；⑤ 货币政策：如果需要，准备扩大量化宽松措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9567384.d.html</link>
-            <guid>2049846</guid>
-            <pubDate>Tue, 02 Mar 2021 03:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【郭树清： 互联网平台在中国参与金融的规模和范围在全世界是最大 】人民银行党委书记、中国银保监会主席郭树清3月2日在国新办举行的推动银行业保险业高质量发展新闻发布会上表示，互联网平台在中国参与金融的规模和范围在全世界是最大的，也取得了积极效果，特别是对中小微企业提供数字信贷、数字保险和其他方面的服务，做得很好，在世界领先，也有很多创新，对小微企业服务走到世界最前列也有很大帮助。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0548465.d.html</link>
-            <guid>2049835</guid>
-            <pubDate>Tue, 02 Mar 2021 03:37:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  港股“三桶油”跌幅进一步扩大，中国海洋石油跌超5%，中国石油化工股份跌3.5%，中国石油股份跌2.8%。据媒体报道，OPEC在本周会议后可能会增加全球供应，增加油价下行压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0548325.d.html</link>
-            <guid>2049834</guid>
-            <pubDate>Tue, 02 Mar 2021 03:36:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【李书福：建议修订行业标准 适应电动汽车铁路运输】2021年全国两会召开前夕，李书福代表公布《关于修订行业标准适应电动汽车铁路运输的建议》及《关于解决货车电动化法规障碍的建议》提案。李书福建议，对现有标准进行适应性修订，使电动汽车、锂电池散件能够依法合规，通过铁路进行高效、安全、经济的运输。适时开通新能源汽车运输专用班列，满足中国车企“走出去”以及欧洲地区日益增长新能源汽车市场的需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9564205.d.html</link>
-            <guid>2049828</guid>
-            <pubDate>Tue, 02 Mar 2021 03:33:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上证综指午盘收跌0.99%，报3516.29点。 贵州茅台对指数下跌拖累最大，下跌3.6%。 沧州大化跌幅最大，下跌10.0%。午盘交易中，1,552支股票中1,047支下跌，446支上涨；所有类股均走低，以工业股为首。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0547060.d.html</link>
-            <guid>2049822</guid>
-            <pubDate>Tue, 02 Mar 2021 03:31:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【李彦宏人民日报刊文：以融通创新助力高质量发展】百度董事长兼首席执行官李彦宏在人民日报发表署名文章《以融通创新助力高质量发展》，表示在新一轮科技革命和产业变革加速演进的背景下，融通创新已经成为创新主体的一种自觉，百度将持续开源开放，并加大对人才培养的投入力度，推动越来越多的行业实现产业智能化升级，为高质量发展注入更多活力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9563052.d.html</link>
-            <guid>2049820</guid>
-            <pubDate>Tue, 02 Mar 2021 03:29:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南方稀土集团氧化铽挂牌价较上周上涨90万元/吨】南方稀土集团公布的稀土氧化物挂牌指导价显示，氧化铽为970万元/吨-980万元/吨，氧化镝为300万元/吨-305万元/吨；较前一周的挂牌价分别上涨90万元/吨、50万元/吨-53万元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0546281.d.html</link>
-            <guid>2049816</guid>
-            <pubDate>Tue, 02 Mar 2021 03:28:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  阿里巴巴短线下挫，现跌近2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9562792.d.html</link>
-            <guid>2049815</guid>
-            <pubDate>Tue, 02 Mar 2021 03:28:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[天眼查APP显示，3月2日，华为技术有限公司公开两项名为“一种电驱动系统、动力总成以及电动汽车”的发明专利，公开号CN112436747A、CN112436779A，申请日期均为2020年10月21日。公开号为CN112436747A的专利摘要显示，本申请提供了一种电驱动系统、动力总成及电动汽车，涉及电子电路技术领域。]]></title>
-            <guid>2049800</guid>
-            <pubDate>Tue, 02 Mar 2021 03:23:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【格力公开磁悬浮床垫专利】企查查APP显示，3月2日，珠海格力电器股份有限公司公开“磁悬浮床垫、磁悬浮床垫的控制方法和床”专利，公开号为CN112425952A，专利摘要显示，本发明涉及一种磁悬浮床垫、磁悬浮床垫的控制方法和床,其中，磁悬浮床垫包括床垫主体、多个变动感应模块、左侧人体感应模块，以及右侧人体感应模块。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9561344.d.html</link>
-            <guid>2049778</guid>
-            <pubDate>Tue, 02 Mar 2021 03:20:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【消息称台积电将量产3nm芯片：性能、功耗大幅优于5nm】据外媒最新消息称，台积电有望在2022年下半年开始启用3nm制造工艺，届时该晶圆厂将有能力处理3万片使用更先进技术打造的晶圆。据报道，得益于苹果的订单承诺，台积电计划在2022年将3nm工艺的月产能扩大到5.5万片，并将在2023年进一步扩大产量至10.5万片。3nm工艺比5nm工艺的功耗和性能分别提升30%和15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0543994.d.html</link>
-            <guid>2049765</guid>
-            <pubDate>Tue, 02 Mar 2021 03:17:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 稀土永磁板块异动，广晟有色拉升封板，五矿稀土、正海磁材、英洛华、金力永磁等拉升翻红。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9560066.d.html</link>
-            <guid>2049747</guid>
-            <pubDate>Tue, 02 Mar 2021 03:14:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
