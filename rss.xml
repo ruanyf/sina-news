@@ -4,11 +4,165 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 02 Mar 2021 20:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Mar 2021 21:26:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[fuboTV(FUBO.N)：第四季度广告业务营收0.29亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftssap9958292.d.html</link>
+            <guid>2050929</guid>
+            <pubDate>Tue, 02 Mar 2021 21:22:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[fuboTV(FUBO.N)：第四季度每股亏损2.47美元，市场预期亏损0.72美元；2020年营收为2.18亿美元，市场预期2.51亿美元；2020年每股亏损12.82美元，市场预期亏损9.33美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftpnnz0942353.d.html</link>
+            <guid>2050928</guid>
+            <pubDate>Tue, 02 Mar 2021 21:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[fuboTV(FUBO.N)：预计2021年营收为4.6亿美元，市场预期4.7亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftpnnz0940880.d.html</link>
+            <guid>2050925</guid>
+            <pubDate>Tue, 02 Mar 2021 21:18:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股各行业ETF中，半导体板块ETF领跌，其次是网络股指数ETF；银行业ETF上涨，全球航空业ETF略微下跌。]]></title>
+            <guid>2050924</guid>
+            <pubDate>Tue, 02 Mar 2021 21:16:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[fuboTV(FUBO.N)盘后转跌，现跌2.71%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftssap9955278.d.html</link>
+            <guid>2050922</guid>
+            <pubDate>Tue, 02 Mar 2021 21:15:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[fuboTV(FUBO.N)：截至2020年，公司拥有547880名付费用户，其中第四季度新增用户92800人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftssap9955204.d.html</link>
+            <guid>2050921</guid>
+            <pubDate>Tue, 02 Mar 2021 21:15:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽约州立法机构达成协议，废除美国纽约州州长科莫的紧急权力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftpnnz0939368.d.html</link>
+            <guid>2050920</guid>
+            <pubDate>Tue, 02 Mar 2021 21:15:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lyft(LYFT.O)：今年2月，平均每日拼车量比2021年1月平均每日拼车量月环比增长4.0%；继续预计2021年第一季度的日均拼车量将超过2020年第4季度的日均拼车量；继续为新举措的战略投资提供资金，以逐步扩大总目标市场并推动长期增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftpnnz0939312.d.html</link>
+            <guid>2050919</guid>
+            <pubDate>Tue, 02 Mar 2021 21:15:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lyft(LYFT.O)：预计第一季度息税前利润亏损1.35亿美元，市场预期预计亏损1.463亿美元。Lyft盘后涨超7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftpnnz0938962.d.html</link>
+            <guid>2050918</guid>
+            <pubDate>Tue, 02 Mar 2021 21:14:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储戴利：随着通胀开始上升，今年夏天将需要“极大的耐心”，通胀的上升将是短暂的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftssap9954582.d.html</link>
+            <guid>2050917</guid>
+            <pubDate>Tue, 02 Mar 2021 21:14:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱彼迎(ABNB.O)：打算用剩余的净收入和现有现金来偿还债务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftpnnz0938698.d.html</link>
+            <guid>2050916</guid>
+            <pubDate>Tue, 02 Mar 2021 21:13:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【热门中概股多数下跌 阿里跌近3%】热门中概股多数下跌，1药网跌10.8%，小赢科技跌10.6%，触宝跌9.8%，阿里巴巴跌2.98%。灿谷涨20.8%，开心汽车涨9.4%，格林酒店涨5%，金山云涨4.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftssap9952801.d.html</link>
+            <guid>2050915</guid>
+            <pubDate>Tue, 02 Mar 2021 21:10:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[公布财报后，fuboTV(FUBO.N)盘后涨超6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftssap9951541.d.html</link>
+            <guid>2050914</guid>
+            <pubDate>Tue, 02 Mar 2021 21:07:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[fuboTV(FUBO.N)：第四季度营收1.05亿美元，市场预期0.94亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftssap9951156.d.html</link>
+            <guid>2050913</guid>
+            <pubDate>Tue, 02 Mar 2021 21:06:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储戴利：认为QE和扭曲操作是“第一工具”，但并不忽视收益率曲线控制的使用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftssap9950812.d.html</link>
+            <guid>2050912</guid>
+            <pubDate>Tue, 02 Mar 2021 21:05:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科技股中，Zoom跌近9%，特斯拉跌超4%。Facebook跌超2%，苹果跌近2%。芯片股全线下跌，美光科技、英伟达跌超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftpnnz0934817.d.html</link>
+            <guid>2050911</guid>
+            <pubDate>Tue, 02 Mar 2021 21:05:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中概股中，蔚来跌近12%，小鹏汽车跌超11%，拼多多跌超5%，哔哩哔哩跌超4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftpnnz0934727.d.html</link>
+            <guid>2050910</guid>
+            <pubDate>Tue, 02 Mar 2021 21:05:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱彼迎(ABNB.O)：将发行20亿美元的可转换债券。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftssap9950341.d.html</link>
+            <guid>2050908</guid>
+            <pubDate>Tue, 02 Mar 2021 21:04:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储戴利：如果货币政策变得不够宽松，可以通过改变债券购买期限等工具来解决。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftpnnz0934355.d.html</link>
+            <guid>2050907</guid>
+            <pubDate>Tue, 02 Mar 2021 21:04:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富国银行(WFC.N)分析师：Rocket Companies(RKT.O)的暴涨并非受业绩影响。]]></title>
+            <guid>2050902</guid>
+            <pubDate>Tue, 02 Mar 2021 20:51:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[第一城市公司(UONEK.O)尾盘拉涨至28%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftssap9944405.d.html</link>
+            <guid>2050901</guid>
+            <pubDate>Tue, 02 Mar 2021 20:51:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国参议院投票通过拜登政府商务部长任命】当地时间3月2日，美国参议院投票通过拜登政府的商务部长任命，前罗得州州长吉娜·雷蒙多（Gina Raimondo）正式成为新一任美国商务部长。吉娜·雷蒙多现年49岁，是美国罗得州历史上首个女性州长。上任后，她将处理目前摆在美国面前的一系列问题，包括全球贸易伙伴的钢铁和铝关税，以及执行白宫应对气候变化的计划等问题。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftssap9942494.d.html</link>
+            <guid>2050900</guid>
+            <pubDate>Tue, 02 Mar 2021 20:47:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克指数刚刚刺穿13400.00关口，最新报13398.73。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftssap9940265.d.html</link>
+            <guid>2050899</guid>
+            <pubDate>Tue, 02 Mar 2021 20:42:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务卿布林肯今日与卡塔尔副总理进行了通话，讨论了卡塔尔在阿富汗和平中的角色问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftpnnz0922306.d.html</link>
+            <guid>2050898</guid>
+            <pubDate>Tue, 02 Mar 2021 20:37:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rocket Companies(RKT.O)恢复交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftpnnz0919604.d.html</link>
+            <guid>2050894</guid>
+            <pubDate>Tue, 02 Mar 2021 20:32:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：本田汽车(HMC.N)2月美国汽车销量同比下降11.4％，去年同期增长4.20％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftpnnz0919495.d.html</link>
+            <guid>2050893</guid>
+            <pubDate>Tue, 02 Mar 2021 20:31:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【26家公司率先发布一季报业绩预告，逾七成公司净利同比增超100%】据数据统计发现，截至3月2日，沪深两市共有26家上市公司披露了2021年一季报业绩预告，值得一提的是，上述公司今年一季报业绩全部预喜，其中，业绩预增公司有15家。从申万一级行业来看，上述公司主要集中在化工、电子、机械设备、医药生物等四行业。上述26家公司中有20家公司预计一季度净利润同比增长超100%，占比超七成。其中，奥雅设计、正业科技、昇兴股份、银禧科技、湘潭电化、金固股份等6家公司预计一季度净利润同比增长超300%。（证券日报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftssap9933283.d.html</link>
@@ -185,125 +339,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftssap9896277.d.html</link>
             <guid>2050831</guid>
             <pubDate>Tue, 02 Mar 2021 19:04:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：失业率、薪资和物价之间的微弱联系在未来几年可能还会持续。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftpnnz0880119.d.html</link>
-            <guid>2050830</guid>
-            <pubDate>Tue, 02 Mar 2021 19:04:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：现在通胀对就业和产出变化的影响较小，不认为将通胀飙升要列为迫在眉睫的风险；可通过避免先发制人的政策紧缩来支持复苏。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftssap9895118.d.html</link>
-            <guid>2050826</guid>
-            <pubDate>Tue, 02 Mar 2021 19:02:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rocket Companies(RKT.O)持续飙升，现涨63%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftssap9894840.d.html</link>
-            <guid>2050825</guid>
-            <pubDate>Tue, 02 Mar 2021 19:01:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小鹏汽车盘中跌幅扩大至10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftssap9894592.d.html</link>
-            <guid>2050823</guid>
-            <pubDate>Tue, 02 Mar 2021 19:00:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Square目前上涨6%，此前该公司正式成立自己的银行业务。其新全资银行Square Financial Services将向过去使用该公司进行支付处理的小企业提供美国联邦存款保险公司（FDIC）承保的存款账户和贷款。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftssap9892596.d.html</link>
-            <guid>2050822</guid>
-            <pubDate>Tue, 02 Mar 2021 18:56:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国纽约州首府奥尔巴尼方面接近达成协议，废除美国纽约州州长科莫的紧急权力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftssap9891960.d.html</link>
-            <guid>2050820</guid>
-            <pubDate>Tue, 02 Mar 2021 18:55:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事布雷纳德：美联储既有工具，也有任务来确保长期通胀预期不会超过2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftpnnz0874678.d.html</link>
-            <guid>2050819</guid>
-            <pubDate>Tue, 02 Mar 2021 18:51:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事布雷纳德：美国的强劲需求对国外产生了积极的溢出效应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftpnnz0874094.d.html</link>
-            <guid>2050817</guid>
-            <pubDate>Tue, 02 Mar 2021 18:50:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【索尼宣布月底将关闭巴西工厂】日本科技企业索尼巴西公司3月1日发布公报称，将于本月底关闭其位于巴西马瑙斯的工厂，停止生产电视机、摄像机、照相机和音响等电子产品，预计从今年年中开始全面停止销售此类产品。该工厂是索尼在巴西唯一的一家工厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftpnnz0872873.d.html</link>
-            <guid>2050816</guid>
-            <pubDate>Tue, 02 Mar 2021 18:47:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事布雷纳德：美联储关注政策组合的潜在溢出效应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftpnnz0872732.d.html</link>
-            <guid>2050815</guid>
-            <pubDate>Tue, 02 Mar 2021 18:47:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国联邦陪审团裁定英特尔侵犯了两家公司的专利，需要赔偿21.8亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftpnnz0872641.d.html</link>
-            <guid>2050814</guid>
-            <pubDate>Tue, 02 Mar 2021 18:47:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事布雷纳德：有理由乐观地认为劳动力市场的创伤可以避免。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftpnnz0871558.d.html</link>
-            <guid>2050813</guid>
-            <pubDate>Tue, 02 Mar 2021 18:44:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽元/美元站上0.73，日内涨0.49%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftpnnz0871253.d.html</link>
-            <guid>2050811</guid>
-            <pubDate>Tue, 02 Mar 2021 18:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事布雷纳德在被问及市场预期加息时间可能提早时候，称就业和通胀方面还有很多问题需要解决。]]></title>
-            <guid>2050808</guid>
-            <pubDate>Tue, 02 Mar 2021 18:42:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事布雷纳德：现在远没有达到美联储指导方针中规定的目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftssap9884189.d.html</link>
-            <guid>2050806</guid>
-            <pubDate>Tue, 02 Mar 2021 18:37:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【经参头版评论：加快绿色低碳循环发展，推动经济社会绿色转型】国务院前不久印发了《关于加快建立健全绿色低碳循环发展经济体系的指导意见》。《意见》从生产、流通、消费等环节的绿色转型以及组织实施等七个方面，系统、清晰地勾勒了建立健全绿色低碳循环发展经济体系的总体思路，并明确了工作原则和主要目标。生产体系的绿色低碳循环化对建立健全绿色低碳循环发展经济体系具有主导作用。《意见》从工业、农业和服务业的绿色转型，绿色环保产业发展，产业园区循环化及绿色产业链构建出发，全方位、多维度地提出了健全绿色低碳循环发展生产体系的思路和举措，具有较强的针对性和可操作性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftssap9883882.d.html</link>
-            <guid>2050805</guid>
-            <pubDate>Tue, 02 Mar 2021 18:36:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国总统拜登将任命CHANNING PHILLIPS为代理检察官。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftssap9880025.d.html</link>
-            <guid>2050798</guid>
-            <pubDate>Tue, 02 Mar 2021 18:28:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事布雷纳德：在评估何时加息可能是合适的时，通胀需要在“一段时间内”适度超过美联储目标的标准是非常重要的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftssap9879719.d.html</link>
-            <guid>2050797</guid>
-            <pubDate>Tue, 02 Mar 2021 18:27:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事布雷纳德：会担心混乱的市场环境。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftssap9879257.d.html</link>
-            <guid>2050796</guid>
-            <pubDate>Tue, 02 Mar 2021 18:26:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事布雷纳德：美联储坚持其使命，最大化就业的使命对社会公平有着重要的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-03/detail-ikftssap9878357.d.html</link>
-            <guid>2050793</guid>
-            <pubDate>Tue, 02 Mar 2021 18:24:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
