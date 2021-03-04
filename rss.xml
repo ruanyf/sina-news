@@ -4,11 +4,71 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 04 Mar 2021 18:32:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Mar 2021 19:24:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国总统拜登：获取援助资金的资格收窄是合适的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2290629.d.html</link>
+            <guid>2055325</guid>
+            <pubDate>Thu, 04 Mar 2021 19:23:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：将与议员们讨论基础设施建设问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1310343.d.html</link>
+            <guid>2055324</guid>
+            <pubDate>Thu, 04 Mar 2021 19:23:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  太平洋海啸预警中心：克马德克群岛地震不再会造成海啸威胁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2289071.d.html</link>
+            <guid>2055322</guid>
+            <pubDate>Thu, 04 Mar 2021 19:17:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国参议院民主党人同意为联邦贸易委员会提供资金以保护消费者。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1306322.d.html</link>
+            <guid>2055319</guid>
+            <pubDate>Thu, 04 Mar 2021 19:08:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【鲍威尔发表讲话后，美国国债收益率继续攀升】美联储主席鲍威尔表示，美联储目前的政策立场是适当的，令一些投资者感到失望，他们原本希望鲍威尔可能会对近期美国国债收益率上升表现出更大的担忧。他没有暗示美联储将像一些投资者此前认为的那样，增加其每月购买的长期国债数量，以控制收益率。FHN Financial利率策略师Jim Vogel表示，市场认为美联储给出的指引显然比美联储现在给的指引更多。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1305185.d.html</link>
+            <guid>2055317</guid>
+            <pubDate>Thu, 04 Mar 2021 19:05:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  加拿大自然资源公司：因炼油设备维护升级，公司削减石油产量25万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1302823.d.html</link>
+            <guid>2055310</guid>
+            <pubDate>Thu, 04 Mar 2021 18:56:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  诺瓦瓦克斯医药(NVAX.O)跌幅扩大至15%，现报155.01美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2279666.d.html</link>
+            <guid>2055301</guid>
+            <pubDate>Thu, 04 Mar 2021 18:45:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲地中海地震中心：希腊发生6.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1298508.d.html</link>
+            <guid>2055298</guid>
+            <pubDate>Thu, 04 Mar 2021 18:44:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  网易有道(DAO.N)盘中直线下挫，跌超10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1295153.d.html</link>
+            <guid>2055292</guid>
+            <pubDate>Thu, 04 Mar 2021 18:35:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国证券交易委员会成立了一个专门关注气候和环境社会治理（ESG）问题的执法工作组。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2274910.d.html</link>
+            <guid>2055291</guid>
+            <pubDate>Thu, 04 Mar 2021 18:32:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  开心汽车(KXIN.O)跌超20%，报2.799美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2271479.d.html</link>
@@ -32,18 +92,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2261248.d.html</link>
             <guid>2055258</guid>
             <pubDate>Thu, 04 Mar 2021 17:49:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  沙特油长：沙特不急于取消100万桶/日的自愿原油减产计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2250455.d.html</link>
-            <guid>2055208</guid>
-            <pubDate>Thu, 04 Mar 2021 17:16:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  沙特油长证实将自愿减产延长至4月。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2248759.d.html</link>
-            <guid>2055197</guid>
-            <pubDate>Thu, 04 Mar 2021 17:12:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
