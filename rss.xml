@@ -4,11 +4,83 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 04 Mar 2021 19:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Mar 2021 20:30:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  市场消息：美国参议院开始讨论美国总统拜登提出的1.9万亿美元的刺激法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1329164.d.html</link>
+            <guid>2055399</guid>
+            <pubDate>Thu, 04 Mar 2021 20:23:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国副总统哈里斯在参议院会议厅就启动刺激政策辩论进行投票。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2307992.d.html</link>
+            <guid>2055376</guid>
+            <pubDate>Thu, 04 Mar 2021 20:18:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【政府区块链招投标市场活跃，“区块链+警务”等多元化领域成方向】进入2021年，已有多个政府单位开始对区块链项目进行招标。根据中国招标与采购网公开信息不完全统计发现，四川省阿坝藏族羌族自治州理县财政局“区块链+财会监管”平台项目、大理州洱海管理局区块链赋能洱海保护治理“洱海卫士”小程序项目、新余市人力资源和社会保障局新余市“区块链+电子社保卡”等项目已开始招标。据不完全统计，自2016年—2020年中标金额超过500万元的项目仅有9个，其中7项在2020年发布并完成评标。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2307951.d.html</link>
+            <guid>2055375</guid>
+            <pubDate>Thu, 04 Mar 2021 20:18:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【九部门披露2021年建设蓝图：资本市场“逢场必到”】从2月22日到3月2日，国新办陆续召开了9场新闻发布会，九部门相关负责人先后出席，这9场发布会涉及养老保险基金投资运营、支持中小企业融资、撬动金融资本参与乡村振兴等主题。而资本市场则是其中的共同交集，“逢场必到”。随着“十四五”时期我国金融改革持续深化、金融市场不断开放，资本市场的改革进程将加速推进，枢纽功能将进一步得到增强，更好地服务并推动经济高质量发展。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1324944.d.html</link>
+            <guid>2055350</guid>
+            <pubDate>Thu, 04 Mar 2021 20:08:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国务院：美国欢迎欧洲国家撤回让国际原子能机构谴责伊朗的建议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1321066.d.html</link>
+            <guid>2055346</guid>
+            <pubDate>Thu, 04 Mar 2021 19:56:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国海啸预警系统：在克尔马德克群岛发生8.0级地震后，发布海啸预警。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2300555.d.html</link>
+            <guid>2055345</guid>
+            <pubDate>Thu, 04 Mar 2021 19:53:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：波音(BA.N)表示将寻求新的40亿美元的循环信贷工具。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2300434.d.html</link>
+            <guid>2055343</guid>
+            <pubDate>Thu, 04 Mar 2021 19:52:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  太平洋海啸预警中心：地震发生后，新西兰和斐济沿岸地区可能面临海啸。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2299452.d.html</link>
+            <guid>2055341</guid>
+            <pubDate>Thu, 04 Mar 2021 19:48:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国参议院开始就经济刺激法案的辩论进行投票。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1314858.d.html</link>
+            <guid>2055336</guid>
+            <pubDate>Thu, 04 Mar 2021 19:36:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国和英国考虑对俄罗斯实施更多制裁，可能针对债务问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1314386.d.html</link>
+            <guid>2055334</guid>
+            <pubDate>Thu, 04 Mar 2021 19:34:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【环保组织报告显示：日本核辐射仍超标】绿色和平组织4日发布《福岛2011—2020十年核辐射调查》和《福岛第一核电站退役方案评估》两份最新报告。报告显示，日本未来部分居民仍将长期生活在核辐射超出安全值的浓度之中。日本政府制定的现行福岛核电站报废方案存在重大问题，对环境存在安全隐患。报告显示，在福岛核泄漏事故发生后，日本政府设立了840平方公里的“特别去污区”，去污工作多年来进展缓慢，目前仍有85%的面积存在放射性污染。绿色和平日本办公室评估，福岛第一核电站的现行报废方案存在重大问题，日本政府计划为期30年至40年的报废进程将难以达成，亦难以修复成安全绿地。大量核燃料残渣及核电站冷却污水仍在被临时储存，对环境存在安全隐患。（环球时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2293975.d.html</link>
+            <guid>2055332</guid>
+            <pubDate>Thu, 04 Mar 2021 19:31:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【我国首艘甲醇双燃料液货船开始建造】由中国船舶广船国际建造的4.99万吨甲醇双燃料液货船3月4日在广州正式开建，这也标志着我国在系列液货船产品方面实现了新拓展。新开工的4.99万吨甲醇双燃料船是国内环保型系列液货船的第一个项目，采用燃油和甲醇两种模式推进，可自由进行切换。在采用甲醇模式时，该型船可大大降低含硫气体的排放。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1312694.d.html</link>
+            <guid>2055329</guid>
+            <pubDate>Thu, 04 Mar 2021 19:28:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国总统拜登：获取援助资金的资格收窄是合适的。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2290629.d.html</link>
