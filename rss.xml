@@ -4,11 +4,59 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 05 Mar 2021 18:32:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Mar 2021 19:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【欧美达成临时协议：暂停一切波音空客补贴争端而增收的关税】当地时间3月5日，欧盟委员会主席冯德莱恩发表声明称，就波音和空客补贴争端问题，欧盟和美国达成一项为期四个月的临时协议。在协议期间，双方暂停一切由于波音与空客补贴争端而增收的关税。媒体预计，双方将在四个月内就此争端展开谈判。波音和空客的补贴争端由来已久，欧盟和美国双方在16年的时间内不断在世界贸易组织对簿公堂。目前，由于该争端，美国对价值75亿美元的欧盟输美产品增收了关税，欧盟则对40亿美元的美国商品加征了关税。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8414238.d.html</link>
+            <guid>2057298</guid>
+            <pubDate>Fri, 05 Mar 2021 19:14:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：纽约州参议院批准了剥夺州长科莫紧急权力的法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8410899.d.html</link>
+            <guid>2057297</guid>
+            <pubDate>Fri, 05 Mar 2021 19:02:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国向6家公司和澳大利亚出售了1010万桶战略石油储备（SPR）原油。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8410820.d.html</link>
+            <guid>2057296</guid>
+            <pubDate>Fri, 05 Mar 2021 19:01:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据Electrek：特斯拉推出了新的社交媒体平台，名为"Engage Tesla"，目的是为特斯拉所有的工作创建一个数字家庭基地。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8410555.d.html</link>
+            <guid>2057295</guid>
+            <pubDate>Fri, 05 Mar 2021 19:00:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国航空公司：目前还不清楚旅行需求恢复的速度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8407659.d.html</link>
+            <guid>2057291</guid>
+            <pubDate>Fri, 05 Mar 2021 18:48:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西知名对冲基金VERDE增加了外汇对冲，以应对更具挑战性的前景。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5250604.d.html</link>
+            <guid>2057288</guid>
+            <pubDate>Fri, 05 Mar 2021 18:40:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国家运输安全委员会：美联航客机引擎起火造成的损失主要集中在发动机上。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5248353.d.html</link>
+            <guid>2057283</guid>
+            <pubDate>Fri, 05 Mar 2021 18:34:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  一起教育科技(YQ.O)涨超10%，报12.24美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5248180.d.html</link>
+            <guid>2057282</guid>
+            <pubDate>Fri, 05 Mar 2021 18:33:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国共和党参议员罗姆尼寻求修改刺激方案，援助州政府前需要核实需求。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikftssaq1848492.d.html</link>
@@ -98,48 +146,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikftpnnz2792524.d.html</link>
             <guid>2057200</guid>
             <pubDate>Fri, 05 Mar 2021 16:26:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  理想汽车(LI.O)跌幅扩大至10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikftpnnz2787229.d.html</link>
-            <guid>2057194</guid>
-            <pubDate>Fri, 05 Mar 2021 16:11:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Zoom(ZM.O)盘中跌幅扩大至5%，报325.53美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikftssaq1805643.d.html</link>
-            <guid>2057192</guid>
-            <pubDate>Fri, 05 Mar 2021 16:09:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  科技特殊目的收购公司(SPAC)Tribe Capital Growth I(ATVCU.O)上市首日开盘价报10.1美元，IPO价报10美元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikftpnnz2782817.d.html</link>
-            <guid>2057190</guid>
-            <pubDate>Fri, 05 Mar 2021 16:01:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  社交平台推特上有特斯拉车主表示，自己的车58天前在停车道上着火，但到目前为止特斯拉仍没有任何回应，仍然相信特斯拉制造的汽车很棒，但它们的服务真的很糟糕。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2778549.d.html</link>
-            <guid>2057185</guid>
-            <pubDate>Fri, 05 Mar 2021 15:47:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国参议院民主党人就失业保险达成协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2777073.d.html</link>
-            <guid>2057183</guid>
-            <pubDate>Fri, 05 Mar 2021 15:44:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国民主党助手：美国参议院民主党人就延长失业救济金至9月而不是8月29日的提案达成协议，每周救济金为300美元，而不是400美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1796040.d.html</link>
-            <guid>2057182</guid>
-            <pubDate>Fri, 05 Mar 2021 15:44:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  小鹏汽车跌幅扩大至10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2774271.d.html</link>
-            <guid>2057179</guid>
-            <pubDate>Fri, 05 Mar 2021 15:35:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
