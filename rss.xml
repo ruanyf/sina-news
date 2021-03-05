@@ -4,11 +4,40 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 05 Mar 2021 20:30:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Mar 2021 21:26:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国证交会表示其高管们向分析师披露了非公开信息。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5292126.d.html</link>
+            <guid>2057350</guid>
+            <pubDate>Fri, 05 Mar 2021 21:21:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  热门中概股中，荔枝涨超10%，斗鱼涨超7%；哔哩哔哩跌超6%。]]></title>
+            <guid>2057344</guid>
+            <pubDate>Fri, 05 Mar 2021 21:03:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉连续第四周下跌，导致市值蒸发2340亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5287700.d.html</link>
+            <guid>2057343</guid>
+            <pubDate>Fri, 05 Mar 2021 21:03:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【纽约时报：Reddit聘请了首位首席财务官，准备上市】在线论坛Reddit周四表示，公司聘请了Drew Vollero担任首位财务官，以在上市前整理公司的账目。Reddit首席执行官Steve Huffman在接受采访时说，“我们正在考虑上市，正在朝着那一刻努力，但尚未有时间表。”他表示，对Vollero的任命表明，Reddit正在把财务运营发展得更接近推特和Facebook等上市公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8439845.d.html</link>
+            <guid>2057340</guid>
+            <pubDate>Fri, 05 Mar 2021 20:50:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  安达保险（CB）日内涨3.4%，创盘中纪录新高，市值达773亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5283184.d.html</link>
+            <guid>2057338</guid>
+            <pubDate>Fri, 05 Mar 2021 20:46:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  百度尾盘转涨，此前一度跌超10%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8429100.d.html</link>
@@ -116,12 +145,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8391513.d.html</link>
             <guid>2057263</guid>
             <pubDate>Fri, 05 Mar 2021 17:48:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  甲骨文(ORCL.N)盘中涨幅扩大至9%，股价续创新高，此前巴克莱银行将其评级从中性上调至增持，目标价从66美元上调至80美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikftssaq1828447.d.html</link>
-            <guid>2057236</guid>
-            <pubDate>Fri, 05 Mar 2021 17:14:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
