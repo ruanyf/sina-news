@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 05 Mar 2021 16:45:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Mar 2021 17:41:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  甲骨文(ORCL.N)盘中涨幅扩大至9%，股价续创新高，此前巴克莱银行将其评级从中性上调至增持，目标价从66美元上调至80美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikftssaq1828447.d.html</link>
+            <guid>2057236</guid>
+            <pubDate>Fri, 05 Mar 2021 17:14:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  空客在2月交付了32架飞机，其中包括29架A320。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikftssaq1820799.d.html</link>
+            <guid>2057213</guid>
+            <pubDate>Fri, 05 Mar 2021 16:52:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【美国和欧盟同意暂停波音和空客争端中涉及的115亿美元关税】知情人士称，欧盟和美国同意暂停针对各自产品的上百亿美元关税，缓和双方之间在空客和波音非法补贴问题上长达17年的争议。知情人士说，此次关税暂停将持续四个月，最早可能在今天宣布。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikftssaq1816514.d.html</link>
@@ -121,154 +133,6 @@
             <title><![CDATA[  【联发科集团转投资唯捷创芯 引进小米、OPPO入股】联发科今天公告，子公司Gaintech一年内累积出售唯捷创芯6.66%股权，共899.5万股，每股人民币28.99元，总金额人民币2.6亿元，预估处分税后利益约新台币6.3亿元。联发科指出，出售唯捷创芯股权是配合转投资公司引进投资人，交易对象为稳懋、OPPO、vivo、小米及KQCapital，预计第2季完成交易。]]></title>
             <guid>2057155</guid>
             <pubDate>Fri, 05 Mar 2021 15:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  DoorDash(DASH.N)盘中跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2763005.d.html</link>
-            <guid>2057153</guid>
-            <pubDate>Fri, 05 Mar 2021 15:02:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哔哩哔哩(BILI.O)盘中跌超5%，报119.25美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1780041.d.html</link>
-            <guid>2057149</guid>
-            <pubDate>Fri, 05 Mar 2021 14:56:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉(TSLA.O)盘中跌幅扩大至5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1779933.d.html</link>
-            <guid>2057148</guid>
-            <pubDate>Fri, 05 Mar 2021 14:55:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【联发科集团转投资唯捷创芯 引进小米、OPPO入股】联发科今天公告，子公司Gaintech一年内累积出售唯捷创芯6.66%股权，共899.5万股，每股人民币28.99元，总金额人民币2.6亿元，预估处分税后利益约新台币6.3亿元。联发科指出，出售唯捷创芯股权是配合转投资公司引进投资人，交易对象为稳懋、OPPO、vivo、小米及KQCapital，预计第2季完成交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1779089.d.html</link>
-            <guid>2057146</guid>
-            <pubDate>Fri, 05 Mar 2021 14:53:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蔚来汽车(NIO.N)盘中跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1778194.d.html</link>
-            <guid>2057145</guid>
-            <pubDate>Fri, 05 Mar 2021 14:51:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国央行委员哈斯克尔：主要的担忧是英国的通货膨胀低于目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1778034.d.html</link>
-            <guid>2057143</guid>
-            <pubDate>Fri, 05 Mar 2021 14:50:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫经济顾问委员会Boushey：美国就业缺口仍比大衰退时期更大。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2758513.d.html</link>
-            <guid>2057142</guid>
-            <pubDate>Fri, 05 Mar 2021 14:49:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网正式测定：03月05日22时24分在新西兰克马德克群岛发生6.3级地震，震源深度10千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1777416.d.html</link>
-            <guid>2057141</guid>
-            <pubDate>Fri, 05 Mar 2021 14:49:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[甲骨文(ORCL.N)涨超5%，此前获巴克莱上调评级及目标价。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2758412.d.html</link>
-            <guid>2057140</guid>
-            <pubDate>Fri, 05 Mar 2021 14:49:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉盘中持续走弱，现跌超3%，盘中股价跌破600美元关口。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2755530.d.html</link>
-            <guid>2057134</guid>
-            <pubDate>Fri, 05 Mar 2021 14:40:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据外媒，白宫国家经济委员会主任布赖恩·迪斯称，就业危机的不平衡仍然存在。 就业复苏还有很长的路要走。 薪酬保障计划（PPP）的资源将针对最小型公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1774501.d.html</link>
-            <guid>2057133</guid>
-            <pubDate>Fri, 05 Mar 2021 14:39:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国央行委员哈斯克尔：鉴于反弹的基础非常低，谈论英国强劲复苏是有误导性的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2754296.d.html</link>
-            <guid>2057128</guid>
-            <pubDate>Fri, 05 Mar 2021 14:36:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股各行业ETF中，银行业ETF领涨，其次是能源业ETF；可选消费ETF涨幅最小，其次是全球航空业ETF。]]></title>
-            <guid>2057127</guid>
-            <pubDate>Fri, 05 Mar 2021 14:36:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中概股盘中走高，富途控股(FUTU.O)、阿里巴巴(BABA.N)、虎牙(HUYA.N)、易电行(EZGO.O)涨超2%。]]></title>
-            <guid>2057126</guid>
-            <pubDate>Fri, 05 Mar 2021 14:35:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[开心汽车(KXIN.O)涨超10%，公司宣布与海淘车有限公司洽谈合作伙伴关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1772130.d.html</link>
-            <guid>2057125</guid>
-            <pubDate>Fri, 05 Mar 2021 14:34:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2月份美国非农就业状况得到显著改善，增加了37.9万个工作岗位，几乎是19.8万共识预期的两倍。但存在一个工作质量方面的问题：2月份新增的工作中约有75％为侍应生和调酒师（+28.6万）。正如黑石集团总理Jeff Rosenberg所说，“这仅仅是经济重开报告中的一小部分‘首付’”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2752725.d.html</link>
-            <guid>2057122</guid>
-            <pubDate>Fri, 05 Mar 2021 14:33:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[51Talk(COE.N)涨超2%，连续五个季现盈利，四季度营业收入创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1771185.d.html</link>
-            <guid>2057120</guid>
-            <pubDate>Fri, 05 Mar 2021 14:31:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高通(QCOM.O)涨2%，此前宣布将增加一条新的芯片生产线，将帮助安卓手机生产商同苹果公司操作简易的耳机竞争。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1771116.d.html</link>
-            <guid>2057119</guid>
-            <pubDate>Fri, 05 Mar 2021 14:31:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在线餐饮外卖平台Waitr Holdings(WTRH.O)涨超16%，此前公司表示将向工业大麻市场扩张。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1771045.d.html</link>
-            <guid>2057118</guid>
-            <pubDate>Fri, 05 Mar 2021 14:31:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gap(GPS.N)涨近5%，第四季度公司线上总销售额同比增长49%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1770961.d.html</link>
-            <guid>2057117</guid>
-            <pubDate>Fri, 05 Mar 2021 14:31:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[博通(AVGO.O)涨2%，第一财季净利润同比增近260%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1770887.d.html</link>
-            <guid>2057116</guid>
-            <pubDate>Fri, 05 Mar 2021 14:31:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[好市多(COST.O)跌0.67%，第二财季净利润不及市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1770825.d.html</link>
-            <guid>2057114</guid>
-            <pubDate>Fri, 05 Mar 2021 14:30:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[跟谁学(GSX.N)跌超14%，2020年全年由盈转亏，净亏损大于市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1770658.d.html</link>
-            <guid>2057113</guid>
-            <pubDate>Fri, 05 Mar 2021 14:30:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国参议院少数党领袖麦康奈尔：美国将迎来强劲复苏，将会反弹。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2751185.d.html</link>
-            <guid>2057112</guid>
-            <pubDate>Fri, 05 Mar 2021 14:28:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  高盛：维持美光科技(MU.O)买入评级, 目标价由102.00美元调整至118.00美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2749348.d.html</link>
-            <guid>2057111</guid>
-            <pubDate>Fri, 05 Mar 2021 14:23:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
