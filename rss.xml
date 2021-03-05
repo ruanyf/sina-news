@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 05 Mar 2021 21:26:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Mar 2021 22:31:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国联邦航空管理局表示，将调查此前因故障宣布紧急状态的波音737 MAX飞机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8456534.d.html</link>
+            <guid>2057355</guid>
+            <pubDate>Fri, 05 Mar 2021 21:53:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国航空公司一架波音737 MAX客机在安全降落在纽瓦克前宣布进入紧急状态，此前机长因可能的机械故障关闭了一个引擎。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5295790.d.html</link>
+            <guid>2057354</guid>
+            <pubDate>Fri, 05 Mar 2021 21:37:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国证交会表示其高管们向分析师披露了非公开信息。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5292126.d.html</link>
