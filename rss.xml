@@ -4,11 +4,65 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 05 Mar 2021 17:41:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Mar 2021 18:32:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国共和党参议员罗姆尼寻求修改刺激方案，援助州政府前需要核实需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikftssaq1848492.d.html</link>
+            <guid>2057278</guid>
+            <pubDate>Fri, 05 Mar 2021 18:20:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国共和党参议员罗姆尼尼希望修改经济刺激计划，立即推动学校开学。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikftssaq1848415.d.html</link>
+            <guid>2057277</guid>
+            <pubDate>Fri, 05 Mar 2021 18:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  诺瓦瓦克斯医药(NVAX.O)盘中涨超10%，报174美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8399416.d.html</link>
+            <guid>2057274</guid>
+            <pubDate>Fri, 05 Mar 2021 18:17:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  1个对手方在美联储的固定利率逆回购操作中接纳10亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikftssaq1847528.d.html</link>
+            <guid>2057272</guid>
+            <pubDate>Fri, 05 Mar 2021 18:16:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  油服贝克休斯：美国钻井公司连续第二周增加石油和天然气钻井。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikftssaq1844503.d.html</link>
+            <guid>2057270</guid>
+            <pubDate>Fri, 05 Mar 2021 18:07:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至3月5日当周石油钻井总数(口)前值 309，预期 311，公布 310。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikftssaq1843293.d.html</link>
+            <guid>2057269</guid>
+            <pubDate>Fri, 05 Mar 2021 18:01:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  机构测算：俄罗斯4月份的离线初级炼油产能将比3月份增长1.8倍，达到311.5万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikftssaq1840520.d.html</link>
+            <guid>2057265</guid>
+            <pubDate>Fri, 05 Mar 2021 17:51:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  机构测算：3月份，俄罗斯离线初级炼油产能较原计划增加50%，至172.7万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikftssaq1840511.d.html</link>
+            <guid>2057264</guid>
+            <pubDate>Fri, 05 Mar 2021 17:51:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国白宫：拜登在与欧盟委员会主席冯德莱恩通话时表示，他致力于维护美国与欧盟的伙伴关系，同意暂停（对空客加征的）关税，并致力于解决世贸组织争端。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8391513.d.html</link>
+            <guid>2057263</guid>
+            <pubDate>Fri, 05 Mar 2021 17:48:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  甲骨文(ORCL.N)盘中涨幅扩大至9%，股价续创新高，此前巴克莱银行将其评级从中性上调至增持，目标价从66美元上调至80美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikftssaq1828447.d.html</link>
@@ -86,53 +140,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2774271.d.html</link>
             <guid>2057179</guid>
             <pubDate>Fri, 05 Mar 2021 15:35:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国至2月26日当周ECRI领先指标年率录得22.9%，创585周以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1792535.d.html</link>
-            <guid>2057177</guid>
-            <pubDate>Fri, 05 Mar 2021 15:33:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  百度盘中跌超7%，报242.25美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1792299.d.html</link>
-            <guid>2057176</guid>
-            <pubDate>Fri, 05 Mar 2021 15:32:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  哔哩哔哩盘中走弱，现跌幅扩大至8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1790489.d.html</link>
-            <guid>2057173</guid>
-            <pubDate>Fri, 05 Mar 2021 15:26:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  广发证券首次覆盖绿的谐波，并给予其增持评级，目标价为111.35元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2769383.d.html</link>
-            <guid>2057171</guid>
-            <pubDate>Fri, 05 Mar 2021 15:22:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全球食物浪费规模惊人：据联合国环境规划署2021年食物浪费指数，人们每年丢弃的食物为9.31亿吨，人均食物浪费平均每户74千克；其中5.69亿吨属于生活垃圾类别，2.44亿吨在食品服务业，1.18亿吨在零售业。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1786695.d.html</link>
-            <guid>2057167</guid>
-            <pubDate>Fri, 05 Mar 2021 15:16:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国地质勘探局：希腊发生5.8级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1782808.d.html</link>
-            <guid>2057157</guid>
-            <pubDate>Fri, 05 Mar 2021 15:05:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  跟谁学(GSX.N)盘中转涨，现涨超5%，此前一度跌超16%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1782635.d.html</link>
-            <guid>2057156</guid>
-            <pubDate>Fri, 05 Mar 2021 15:05:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【联发科集团转投资唯捷创芯 引进小米、OPPO入股】联发科今天公告，子公司Gaintech一年内累积出售唯捷创芯6.66%股权，共899.5万股，每股人民币28.99元，总金额人民币2.6亿元，预估处分税后利益约新台币6.3亿元。联发科指出，出售唯捷创芯股权是配合转投资公司引进投资人，交易对象为稳懋、OPPO、vivo、小米及KQCapital，预计第2季完成交易。]]></title>
-            <guid>2057155</guid>
-            <pubDate>Fri, 05 Mar 2021 15:04:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
