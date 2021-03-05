@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 05 Mar 2021 19:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Mar 2021 20:30:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  百度尾盘转涨，此前一度跌超10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8429100.d.html</link>
+            <guid>2057314</guid>
+            <pubDate>Fri, 05 Mar 2021 20:09:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【欧美达成临时协议：暂停一切波音空客补贴争端而增收的关税】当地时间3月5日，欧盟委员会主席冯德莱恩发表声明称，就波音和空客补贴争端问题，欧盟和美国达成一项为期四个月的临时协议。在协议期间，双方暂停一切由于波音与空客补贴争端而增收的关税。媒体预计，双方将在四个月内就此争端展开谈判。波音和空客的补贴争端由来已久，欧盟和美国双方在16年的时间内不断在世界贸易组织对簿公堂。目前，由于该争端，美国对价值75亿美元的欧盟输美产品增收了关税，欧盟则对40亿美元的美国商品加征了关税。 (央视新闻)]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8414238.d.html</link>
@@ -116,36 +122,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikftssaq1828447.d.html</link>
             <guid>2057236</guid>
             <pubDate>Fri, 05 Mar 2021 17:14:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  空客在2月交付了32架飞机，其中包括29架A320。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikftssaq1820799.d.html</link>
-            <guid>2057213</guid>
-            <pubDate>Fri, 05 Mar 2021 16:52:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国和欧盟同意暂停波音和空客争端中涉及的115亿美元关税】知情人士称，欧盟和美国同意暂停针对各自产品的上百亿美元关税，缓和双方之间在空客和波音非法补贴问题上长达17年的争议。知情人士说，此次关税暂停将持续四个月，最早可能在今天宣布。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikftssaq1816514.d.html</link>
-            <guid>2057210</guid>
-            <pubDate>Fri, 05 Mar 2021 16:39:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫新闻秘书珍·普萨基：拜登支持将失业津贴发放延长至9月。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikftpnnz2797227.d.html</link>
-            <guid>2057209</guid>
-            <pubDate>Fri, 05 Mar 2021 16:38:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中概股跟谁学短线飙升，目前上涨超13%，盘初一度重挫17%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikftssaq1815852.d.html</link>
-            <guid>2057208</guid>
-            <pubDate>Fri, 05 Mar 2021 16:37:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【知乎申请在美国纽约证交所上市】知乎申请发行美国存托股票(ADS)，该公司寻求在纽约证券交易所上市，股票代码为“ZH”。根据该公司向美国证券交易委员会提交的文件，瑞信、高盛和摩根大通担任承销商。知乎计划在美国上市融资10亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikftpnnz2792524.d.html</link>
-            <guid>2057200</guid>
-            <pubDate>Fri, 05 Mar 2021 16:26:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
