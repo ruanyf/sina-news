@@ -4,11 +4,261 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 05 Mar 2021 10:32:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Mar 2021 11:28:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  市场消息：挪威邮轮(NCLH.N)将增发4760万股股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2685670.d.html</link>
+            <guid>2056925</guid>
+            <pubDate>Fri, 05 Mar 2021 11:25:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【2021年2月中国快递发展指数为189.0，同比提高20.2%】国家邮政局消息，据测算，2021年2月中国快递发展指数为189.0，同比提高20.2%。发展规模指数、发展能力指数和发展趋势指数分别为185.9、150.1和112.5，同比增速分别达62.5%、21%和69.7%，服务质量指数与去年同期基本持平，快递市场在春节期间仍保持良好发展态势，为保民生、畅循环发挥积极作用。（一财）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2685334.d.html</link>
+            <guid>2056924</guid>
+            <pubDate>Fri, 05 Mar 2021 11:25:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[挪威邮轮(NCLH.N)盘前跌近5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2685059.d.html</link>
+            <guid>2056923</guid>
+            <pubDate>Fri, 05 Mar 2021 11:24:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：挪威邮轮(NCLH.N)控股有限公司宣布发售普通股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1704110.d.html</link>
+            <guid>2056922</guid>
+            <pubDate>Fri, 05 Mar 2021 11:24:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  荷兰银行：从基本面角度来看，短期内油价仍有下行风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2683481.d.html</link>
+            <guid>2056921</guid>
+            <pubDate>Fri, 05 Mar 2021 11:20:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：开心汽车(KXIN.O)宣布与海淘车有限公司洽谈合作伙伴关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1701684.d.html</link>
+            <guid>2056919</guid>
+            <pubDate>Fri, 05 Mar 2021 11:17:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  国家邮政局：据测算，2021年2月中国快递发展指数为189.0，同比提高20.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2682530.d.html</link>
+            <guid>2056918</guid>
+            <pubDate>Fri, 05 Mar 2021 11:16:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱尔兰财长：一旦经济复苏势头增强，就有必要调整支出和收入，使其在中期达到收支平衡。 预计第一季度的收缩幅度不会与2020年春季相同。 预计第一季度爱尔兰国内经济将进一步收缩。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2681986.d.html</link>
+            <guid>2056915</guid>
+            <pubDate>Fri, 05 Mar 2021 11:15:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  玉龙股份：拟通过全资子公司蓝景矿业向交易对方天业集团购买其持有的巴拓实业100%股权，并通过巴拓实业控制巴拓澳洲在澳大利亚运营的黄金资产，巴拓实业100%股权的交易对价为12.25亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1700645.d.html</link>
+            <guid>2056913</guid>
+            <pubDate>Fri, 05 Mar 2021 11:13:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【*ST鑫科：拟推8000万股股票期权与限制性股票激励计划】*ST鑫科披露2021年股票期权与限制性股票激励计划(草案)，该激励计划拟向激励对象授予权益总计8000万股，约占公司股本总额的4.52%。公司拟向激励对象授予5000万股股票期权，约占公司股本总额的2.83%，股票期权为一次性授予，无预留权益。公司拟向激励对象授予3000万股公司限制性股票，占公司股本总额的1.7%，限制性股票为一次性授予，无预留权益。此次授予股票期权的行权价格为每股2.38元。授予限制性股票的授予价格为每股1.2元。该激励计划中股票期权拟授予激励对象总人数为147人，限制性股票拟授予激励对象总人数为28人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1699965.d.html</link>
+            <guid>2056912</guid>
+            <pubDate>Fri, 05 Mar 2021 11:11:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  药明康德业绩快报：2020年全年净利润为29.6亿元，同比增长59.62%。下半年随着海外客户订单的较快增长，以及本公司产能利用和经营效率的不断提升，使本公司整体下半年营业收入实现强劲增长，与2019年下半年相比涨幅超过30%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2680770.d.html</link>
+            <guid>2056911</guid>
+            <pubDate>Fri, 05 Mar 2021 11:11:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：空白支票公司G Squared Ascend II向美国证券交易委员会提交IPO申请，拟筹资高达1.25亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2679522.d.html</link>
+            <guid>2056910</guid>
+            <pubDate>Fri, 05 Mar 2021 11:08:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：万事达(MA.N)完成了对Nets公司账户对账户支付业务的收购。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1697892.d.html</link>
+            <guid>2056909</guid>
+            <pubDate>Fri, 05 Mar 2021 11:07:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国结算：2020年1月1日至2021年2月28日，我国证券市场共新增投资者2172.63万个，全市场投资者数量于2020年7月超过1.7亿个、2021年2月超过1.8亿个。截至2021年2月底，全市场投资者数量为18147.87万个，其中自然人数量占比99.77%，机构投资者数量占比0.23%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2678556.d.html</link>
+            <guid>2056908</guid>
+            <pubDate>Fri, 05 Mar 2021 11:06:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【俄总统新闻秘书：美国对俄罗斯拥有化学武器的指控毫无根据】当地时间3月5日，俄罗斯总统新闻秘书佩斯科夫表示，美国正在准备对俄罗斯进行第二步制裁，理由是认为俄罗斯领土上“似乎”存在化学武器。佩斯科夫表示，这种指控毫无根据。俄罗斯早已销毁了所有库存化学武器，所有与制造化学武器相关的计划都已停止，俄罗斯履行着《禁止化学武器公约》规定的所有义务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2678043.d.html</link>
+            <guid>2056907</guid>
+            <pubDate>Fri, 05 Mar 2021 11:05:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  油田服务公司Noble Midstream Partners(NBLX.N)：交易预计将于2021年第二季度完成。]]></title>
+            <guid>2056906</guid>
+            <pubDate>Fri, 05 Mar 2021 11:05:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[开心汽车(KXIN.O)盘前一度涨10%，现回落至6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1696622.d.html</link>
+            <guid>2056905</guid>
+            <pubDate>Fri, 05 Mar 2021 11:04:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Noble Midstream Partners(NBLX.N)盘前涨超7%，雪佛龙(CVX.N)宣布收购该公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1696462.d.html</link>
+            <guid>2056904</guid>
+            <pubDate>Fri, 05 Mar 2021 11:03:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  雪佛龙(CVX.N)：宣布收购油气管道运营商Noble Midstream Partners(NBLX.N)协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2677139.d.html</link>
+            <guid>2056903</guid>
+            <pubDate>Fri, 05 Mar 2021 11:03:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：Reddit为IPO聘请首位首席财务官。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1695943.d.html</link>
+            <guid>2056901</guid>
+            <pubDate>Fri, 05 Mar 2021 11:01:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【*ST大晟：申请撤销股票退市风险警示】*ST大晟公告，经审计，截至2020年12月31日，归属于上市公司股东的净资产为2.68亿元，2020年度实现营业收入2.99亿元，净利润2334.76万元。公司符合申请撤销股票退市风险警示的条件，已向上交所提出撤销对公司股票实施退市风险警示的申请。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2676640.d.html</link>
+            <guid>2056900</guid>
+            <pubDate>Fri, 05 Mar 2021 11:01:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【强化反垄断防止资本无序扩张，政协委员盯上数字“巨无霸”】 全国政协委员赵雯表示，现在已经到了不得不对这些超大型企业加强监管、遏制垄断、趋利避害、规避风险的关键时刻。赵雯在提案中呼吁现阶段借鉴我国金融业“分业经营、分业监管”的成功经验，借鉴美国依据《反托拉斯法》拆分标准石油公司等的实践经验，对超大型数字经济混业经营体，拆分并实施严格的分业经营、分业监管。（一财）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2675451.d.html</link>
+            <guid>2056897</guid>
+            <pubDate>Fri, 05 Mar 2021 10:57:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【巴西对原产自中国的鞋类产品发起反倾销日落复审调查】商务部消息，2021年3月1日，巴西外贸秘书处在《联邦政府公报》上发布公告，决定对原产自中国的鞋类产品发起反倾销日落复审调查。涉案产品为南共市海关编码6402、6405项下产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2675165.d.html</link>
+            <guid>2056896</guid>
+            <pubDate>Fri, 05 Mar 2021 10:56:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[云南祥鹏航空有限责任公司2017年度第一期中期票据未按期足额偿付本息。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1691908.d.html</link>
+            <guid>2056889</guid>
+            <pubDate>Fri, 05 Mar 2021 10:49:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  山西焦化业绩快报：2020年全年净利润为11亿元，同比增长132.6%。自二季度开始，国内经济运行状况持续好转，下游钢厂陆续开工，焦炭市场好转，公司抢抓市场机遇，全面实施精益化管理，大力释放装置产能，经营业绩较2019年度有较大提升。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1691332.d.html</link>
+            <guid>2056888</guid>
+            <pubDate>Fri, 05 Mar 2021 10:48:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  摩根士丹利：将博通(AVGO.O)目标价从521美元提高到538美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2671988.d.html</link>
+            <guid>2056887</guid>
+            <pubDate>Fri, 05 Mar 2021 10:47:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  商务部印发通知部署开展全年消费促进活动，培育节庆假日消费热点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1690858.d.html</link>
+            <guid>2056886</guid>
+            <pubDate>Fri, 05 Mar 2021 10:47:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  伊朗革命卫队：挫败了一次民用飞机劫持事件，该航班将从Ahvaz飞往Mashhad。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2671639.d.html</link>
+            <guid>2056885</guid>
+            <pubDate>Fri, 05 Mar 2021 10:46:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【澳元兑美元连续三日遭抛售至三周低点，但分析师仍看好后市前景】①澳元兑美元在欧洲时段出现大量抛售，并在最后一小时跌至0.7665附近的新的多周低点。下跌标志着连续第三天出现了负面走势，跌势完全由基础广泛的美元走强带来。从技术角度来看，汇价跌破0.7700的整数关口可能会引发更大的抛盘。目前该货币对似乎还会继续延续从0.8000心里关口继续大幅下跌的行情。②不过分析师似乎仍然看好未来澳元兑美元前景。东京三菱银行的经济学家预测，到2021年底，澳元兑美元汇率将达到0.82。③该行分析指出，随着商品价格继续上涨，全球复苏，通货膨胀贸易正在帮助改善澳大利亚的贸易条件。铁矿石价格最近急剧飙升，目前接近近十年来的最高水平。如果外部环境像我们预期的那样继续支持澳元，它将对澳储行施加压力，使其维持宽松政策的时间更长；④分析指出，澳洲联储的最新政策表明，他们计划维持宽松政策，即使事实证明国内复苏势头超出预期。量化宽松购买计划已延长至9月底，澳大利亚央行重申，它预计最早不会在2024年之前开始提高其主要政策利率。不过，我们预计澳元将进一步上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1690540.d.html</link>
+            <guid>2056884</guid>
+            <pubDate>Fri, 05 Mar 2021 10:46:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[安徽建工公告，公司拟变更原福建省南平市延平区“水美城市”小流域综合治理工程PPP项目募集资金及其产生的利息1.62亿元用于绿色建筑产业园一期PC项目。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1690037.d.html</link>
+            <guid>2056883</guid>
+            <pubDate>Fri, 05 Mar 2021 10:45:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rystad能源公司：除俄罗斯外，OPEC+延长减产的最大赢家是美国。目前的价格水平下，即使是在成本高昂项目中，美国也可以轻松增加产量。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1689426.d.html</link>
+            <guid>2056881</guid>
+            <pubDate>Fri, 05 Mar 2021 10:43:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【通威股份：改良西门子法是市场成熟和稳定的工艺路线 并可实现N型料的批量供应】通威股份发布股价异动公告，经公司对市场信息的收集及投资者来电反映，近日，市场传闻颗粒硅技术较改良西门子法有优势，可能影响公司在高纯晶硅领域的行业领先地位。对此，公司认为：公司对硅料生产的技术路线一直高度重视（包括颗粒硅技术），在投建产能时经过充分调研和论证，公司认为改良西门子法是已经经过长期运营，市场成熟和稳定的工艺路线，其具备产品品质稳定、生产效率高、装置稳定性高、运行安全性高等特点，能够兼顾产品品质和生产成本的保障。经过多年发展，公司在高纯晶硅核心技术领域形成了具有自主知识产权的多项成果，技术、成本处于行业领先水平，目前新产能的平均生产成本3.65万元/吨（公司2020年半年度报告披露数据），并可实现N型料的批量供应。截止目前，公司高纯晶硅生产经营一切正常，满产满销，积极保障供应。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2670202.d.html</link>
+            <guid>2056880</guid>
+            <pubDate>Fri, 05 Mar 2021 10:43:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【十三届全国人大四次会议在京开幕 李克强作政府工作报告】李克强在报告中提出，2021年要重点做好八方面工作：保持宏观政策连续性稳定性可持续性，促进经济运行在合理区间；深入推进重点领域改革，更大激发市场主体活力；依靠创新推动实体经济高质量发展，培育壮大新动能；坚持扩大内需这个战略基点，充分挖掘国内市场潜力；全面实施乡村振兴战略，促进农业稳定发展和农民增收；实行高水平对外开放，促进外贸外资稳中提质；加强污染防治和生态建设，持续改善环境质量；切实增进民生福祉，不断提高社会建设水平。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1689220.d.html</link>
+            <guid>2056879</guid>
+            <pubDate>Fri, 05 Mar 2021 10:42:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  摩根士丹利：将微软(MSFT.O)目标价从285美元上调至290美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2669877.d.html</link>
+            <guid>2056878</guid>
+            <pubDate>Fri, 05 Mar 2021 10:42:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【RTX30显卡有多受欢迎？英伟达：开卖首季销量增长40%】自从去年9月发布、上市以来，英伟达的RTX30系列显卡一直很受欢迎，8nm安培GPU架构以及二代光追技术的升级带来更强大的游戏性能，光追游戏可玩性更高。那上市小半年来，RTX30系显卡的销量到底如何呢？前不久英伟达(NVDA.O)CFO Colette Kress参加了摩根斯坦利的技术大会，透露了一些信息。据她所说，RTX30系列显卡首发的一个季度中，销量比上个季度增长了40%，不过她没给出具体数据。此外，她还透露，目前全球已经有2亿GeForce显卡用户，其中只有15%的显卡是支持光追的，未来还会非常大的升级空间。至于笔记本平台，GeForce用户也达到了5000万之多，升级的潜力也不可小觑。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2669647.d.html</link>
+            <guid>2056877</guid>
+            <pubDate>Fri, 05 Mar 2021 10:41:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  加通贝祥：将波音(BA.N)目标价从200美元提高到275美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2668383.d.html</link>
+            <guid>2056876</guid>
+            <pubDate>Fri, 05 Mar 2021 10:38:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【江苏两家地方AMC获批开展不良贷款转让试点工作】 江苏省地方金融监管局已正式批复，同意当地两家地方AMC（资产管理公司）——江苏资产管理有限公司、苏州资产管理有限公司开展不良贷款转让试点工作。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1687457.d.html</link>
+            <guid>2056875</guid>
+            <pubDate>Fri, 05 Mar 2021 10:37:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【51Talk(COE.N)发布Q4财报，成行业首家全年盈利企业】2021年3月5日，51Talk发布2020年第四季度财务业绩报告。数据显示，51Talk四季度保持稳健增长，连续五个季现盈利，营业收入达5.35亿元，创历新高，GAAP净利润3180万元；2020年营业收入20.54亿元，GAAP净利润为人民币1.47亿元，成为行业首家全年盈利企业。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2668007.d.html</link>
+            <guid>2056874</guid>
+            <pubDate>Fri, 05 Mar 2021 10:37:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CoreLogic(CLGX.N)盘前下跌3.9%，商业房地产数据和分析提供商CoStar退出对房产数据分析上市公司CoreLogic的收购。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1686677.d.html</link>
+            <guid>2056873</guid>
+            <pubDate>Fri, 05 Mar 2021 10:35:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【通化东宝：与上海药明康德签署战略合作备忘录并建立创新药项目合作】通化东宝公告，公司与上海药明康德于2021年3月5日签署了《战略合作备忘录》；通化东宝全资子公司东宝紫星与上海药明康德于2021年3月5日签署了《THDBH100/THDBH101一类新药项目技术转让合同书》、《THDBH110/THDBH111一类新药研发项目合作开发合同书》以及《THDBH120/THDBH121一类新药研发项目合作开发合同书》。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2667401.d.html</link>
+            <guid>2056872</guid>
+            <pubDate>Fri, 05 Mar 2021 10:35:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【樊芸喊话科创板：调整门槛，适当扩大投资者数量】 全国人大代表、上海市工商联副主席樊芸连续第三年关注证券市场。她建议，应进一步调整科创板投资者门槛，适当扩大投资者数量，拓展资金来源；对优质的高科技公司募集资金的上限取消。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1686499.d.html</link>
+            <guid>2056871</guid>
+            <pubDate>Fri, 05 Mar 2021 10:35:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  上海市人民政府办公厅发布关于印发《2021年上海市深化“放管服”改革工作要点》的通知：优化外商投资环境。实施外资提质行动计划，建立健全外商投资议事协调、投诉和兜底服务机制，完善重点项目保障机制，用好外商投资促进服务平台，提升项目落地转化效率。]]></title>
+            <guid>2056870</guid>
+            <pubDate>Fri, 05 Mar 2021 10:34:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【贝壳、链家已无法查询北京、成都等地二手房历史成交价格】在贝壳、链家等购房中介平台上，已无法查询北京、成都等地二手房历史成交价格，而上海、广州、重庆等主要城市依然可以使用该功能。据接近相关中介平台人士表示，此举是因产品调整。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1685342.d.html</link>
@@ -183,244 +433,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2651757.d.html</link>
             <guid>2056826</guid>
             <pubDate>Fri, 05 Mar 2021 09:56:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯外交部表示，将很快公布报复性阻止美国公民入境的名单。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2651600.d.html</link>
-            <guid>2056824</guid>
-            <pubDate>Fri, 05 Mar 2021 09:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【鄂尔多斯日内振幅16.43% 机构资金净卖出】鄂尔多斯今日涨0.91%，报收23.40元，全天振幅为16.43%。盘后数据显示，沪股通买入6632.31万元并卖出9926.52万元；两机构席位合计买入5746.49万元，三机构席位合计卖出1.37亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2651206.d.html</link>
-            <guid>2056822</guid>
-            <pubDate>Fri, 05 Mar 2021 09:54:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新天绿能：拟定增募资不超过51.1亿元 用于投资建设唐山LNG等项目】新天绿能公告，公司拟向包括控股股东河北建投在内的不超过35名特定投资者非公开发行A股股票，发行数量不超过本超过11.55亿股，募集资金总额不超过51.1亿元（含本数），扣除发行费用后募集资金将用于投资建设唐山LNG项目（第一阶段、第二阶段）、唐山LNG接收站外输管线项目（曹妃甸—宝坻段）、唐山LNG接收站外输管线项目（宝坻—永清段）、补充流动资金及偿还银行贷款。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1669711.d.html</link>
-            <guid>2056820</guid>
-            <pubDate>Fri, 05 Mar 2021 09:53:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：俄罗斯将很快对美国最新制裁做出回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1669229.d.html</link>
-            <guid>2056818</guid>
-            <pubDate>Fri, 05 Mar 2021 09:52:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度财长：（被问及是否有意监管或禁止数字货币）正在与印度央行进行谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2649909.d.html</link>
-            <guid>2056817</guid>
-            <pubDate>Fri, 05 Mar 2021 09:51:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴克莱银行：将淡水河谷(VALE.N)目标价从20美元上调至24美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1668646.d.html</link>
-            <guid>2056815</guid>
-            <pubDate>Fri, 05 Mar 2021 09:51:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宇新股份：全资子公司主体生产装置周期性停工检修】宇新股份公告，根据化工企业安全可靠运行的要求，为确保生产装置安全有效运行，依据上游装置检修安排和公司经营计划安排，宇新化工主体生产装置近日停工进行检修。本次检修将从3月10日开始，计划检修时间如下：气分-异辛烷单元检修时间约45天；异构化-醚化单元检修时间约14天；其余单元配合进行短停。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1668142.d.html</link>
-            <guid>2056813</guid>
-            <pubDate>Fri, 05 Mar 2021 09:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[海思科：海思科新加坡公司拟获增资2.69亿元，用于购买HSK3486在中国内地以外专有技术所有权。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1667943.d.html</link>
-            <guid>2056812</guid>
-            <pubDate>Fri, 05 Mar 2021 09:50:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[软银首席战略官据悉计划在三年后离职。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2648447.d.html</link>
-            <guid>2056811</guid>
-            <pubDate>Fri, 05 Mar 2021 09:49:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国工商联会(DIHK)：预计今年全球商业状况恶化的德国公司比例超过预计改善的比例。对未来的预期因地区而异，认为中国和欧元区状况改善的企业占比高于预期恶化的企业占比。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2648331.d.html</link>
-            <guid>2056810</guid>
-            <pubDate>Fri, 05 Mar 2021 09:49:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【快手服务号上线“10亿补贴计划”】快手(01024.HK)宣布推出服务号“10亿补贴计划”，包括但不限于企业蓝V、会员（10大权益）免费，直播流量补贴，补贴视频流量券，开放App应用推广能力等。同时，快手还配套提供直播、营销推广等培训课程。该补贴计划将从3月5日持续到4月5日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2648199.d.html</link>
-            <guid>2056809</guid>
-            <pubDate>Fri, 05 Mar 2021 09:49:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国证监会牵头的《中小投资者投诉处理与权益救济》项目文件获国际证监会组织通过。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1667225.d.html</link>
-            <guid>2056808</guid>
-            <pubDate>Fri, 05 Mar 2021 09:48:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[极光(JG.O)盘前涨2.67%，此前与小米生态链成员九号公司达成合作，在消息推送及智能用户运营与分析等方面提供服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2647630.d.html</link>
-            <guid>2056807</guid>
-            <pubDate>Fri, 05 Mar 2021 09:48:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【厦门钨业：子公司拟建设年产4000吨高性能稀土永磁材料项目】厦门钨业公告，公司下属全资子公司金龙稀土拟投资4.23亿元，建设年产4000吨高性能稀土永磁材料项目。本项目的建设符合公司的战略发展规划，通过进一步扩大公司高性能稀土永磁材料的产能，有利于公司巩固和扩张市场份额。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2646210.d.html</link>
-            <guid>2056806</guid>
-            <pubDate>Fri, 05 Mar 2021 09:45:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[冀中能源``20冀中能源PPN002''的部分持有人暂未收到回售和付息资金。]]></title>
-            <guid>2056805</guid>
-            <pubDate>Fri, 05 Mar 2021 09:44:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新钢股份今日跌停，全天成交12.9亿元。盘后数据显示，沪股通卖出1.34亿元并买入4547万元，两家机构席位合计买入1.44亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2644903.d.html</link>
-            <guid>2056803</guid>
-            <pubDate>Fri, 05 Mar 2021 09:42:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【旗天科技：股东上海圳远累计减持5%股份】旗天科技公告，2021年3月5日，公司收到股东上海圳远出具的《简式权益变动报告书》及相关附件。2019年12月18日至2021年3月4日期间，上海圳远通过集中竞价和大宗交易方式合计减持上市公司3294.96万股无限售条件流通股，占上市公司总股本的4.99%，占剔除回购专用账户中的股份后上市公司总股本的5.00%。此次权益变动后，截至公告日，上海圳远及其一致行动人刘涛持有上市公司1.16亿股股份，占上市公司总股本的17.55%，占剔除回购专用账户中的股份后上市公司总股本的17.60%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1664021.d.html</link>
-            <guid>2056802</guid>
-            <pubDate>Fri, 05 Mar 2021 09:42:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【精工钢构业绩快报：2020年度净利润6.53亿元 同比增长61.73%】精工钢构公告，公司2020年度实现总营收115.32亿元，同比增长12.67%；实现归母净利润6.53亿元，同比增长61.73%。公司EPC及装配式业务开展良好，新业务收入占比持续提升，进一步提升了盈利水平，同时公司也在不断提高订单质量、加强项目运作，提高项目利润水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1663985.d.html</link>
-            <guid>2056801</guid>
-            <pubDate>Fri, 05 Mar 2021 09:42:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[证监会：2021年证监会还将继续配合全国人大有关部门做好制定《期货法》等立法工作；配合国务院有关部门做好《证券期货行政执法当事人承诺实施办法》《私募投资基金监督管理条例》《上市公司监督管理条例》《证券公司监督管理条例》等行政法规的制定、修改工作；配合有关司法机关做好相关证券期货领域司法解释立法工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1663930.d.html</link>
-            <guid>2056800</guid>
-            <pubDate>Fri, 05 Mar 2021 09:42:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[证监会：“需要抓紧研究、择机出台的项目”2件，包括：制定《证券市场程序化交易管理暂行办法》；修改《证券市场禁入规定》。]]></title>
-            <guid>2056799</guid>
-            <pubDate>Fri, 05 Mar 2021 09:41:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[扬子江船业签订31艘船的造船合约，总价值17.4亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2644443.d.html</link>
-            <guid>2056798</guid>
-            <pubDate>Fri, 05 Mar 2021 09:41:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度10年期国债收益率上升4个基点至6.25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2643040.d.html</link>
-            <guid>2056791</guid>
-            <pubDate>Fri, 05 Mar 2021 09:37:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国国家统计局：英国伦敦休假的员工比例最高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1662230.d.html</link>
-            <guid>2056790</guid>
-            <pubDate>Fri, 05 Mar 2021 09:37:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国一月份有16.1%的员工休假。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2642878.d.html</link>
-            <guid>2056789</guid>
-            <pubDate>Fri, 05 Mar 2021 09:37:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小米或在今年推出首款可折叠手机】知情人士透露，小米即将发布旗下首款折叠手机。这款折叠屏手机可能是小米 MIX 系列。据悉，这款手机或将采用与华为 Mate XS 类似的外折叠设计，折叠后的封面屏幕将为6.38英寸。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2642560.d.html</link>
-            <guid>2056786</guid>
-            <pubDate>Fri, 05 Mar 2021 09:36:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【遇特殊情况可适当提前或推迟召开全国人代会会议】 全国人大议事规则修正草案明确对全国人民代表大会会议召开前相关准备工作的各项要求。增加规定：会议召开的日期由常委会决定并予以公布，遇有特殊情况，常委会可以决定适当提前或者推迟召开会议；提前或者推迟召开会议的日期，未能在当次会议上决定的，常委会可以另行决定，或者授权委员长会议决定并予以公布。（新华视点）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2642513.d.html</link>
-            <guid>2056785</guid>
-            <pubDate>Fri, 05 Mar 2021 09:36:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国方面表示，1月有五分之二的企业暂时解雇了员工。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1660435.d.html</link>
-            <guid>2056783</guid>
-            <pubDate>Fri, 05 Mar 2021 09:33:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泛海控股：拟回购不超8亿元公司股份】泛海控股公告，拟回购不超过8亿元公司股份，回购价格不超过4.75元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2640896.d.html</link>
-            <guid>2056781</guid>
-            <pubDate>Fri, 05 Mar 2021 09:32:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南下资金今日净流入23.68亿港元】南下资金今日净流入23.68亿港元。港股通（沪）方面，中国移动、腾讯控股净买入居前，分别获净买入7.65亿港元、6.97亿港元。港股通（深）方面，腾讯控股、中国海洋石油净买入居前，分别获净买入13.17亿港元、1.88亿港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1659602.d.html</link>
-            <guid>2056780</guid>
-            <pubDate>Fri, 05 Mar 2021 09:31:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北上资金净流入5.27亿 宁德时代净买入6.06亿】北上资金今日净流入5.27亿。宁德时代净买入6.06亿，招商银行净买入4.93亿，阳光电源净买入3.06亿，五粮液净买入2.64亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2640256.d.html</link>
-            <guid>2056779</guid>
-            <pubDate>Fri, 05 Mar 2021 09:31:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿里巴巴（中国）有限公司公开一项“公交车线路设置方法、路线规划方法及装置”发明专利，公开号为CN107167151B，申请日为2016年3月。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2640081.d.html</link>
-            <guid>2056778</guid>
-            <pubDate>Fri, 05 Mar 2021 09:30:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【沃尔沃汽车：2月在中国销量同比增长736.8%】沃尔沃汽车发布2月销量数据，今年2月，沃尔沃汽车在全球范围内共售出50795辆汽车，同比上涨27.8%，创历史同期新高；2月在中国销量同比增长736.8%，达到10083辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1659143.d.html</link>
-            <guid>2056777</guid>
-            <pubDate>Fri, 05 Mar 2021 09:30:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沃尔沃汽车：今年2月，沃尔沃汽车在全球范围内共售出50795辆汽车，同比上涨27.8%，创历史同期新高；2月在中国销量同比增长736.8%，达到10083辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1658267.d.html</link>
-            <guid>2056776</guid>
-            <pubDate>Fri, 05 Mar 2021 09:29:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  好市多(COST.O)盘前跌近2%，第二财季净利润不及市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1657869.d.html</link>
-            <guid>2056775</guid>
-            <pubDate>Fri, 05 Mar 2021 09:28:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【万邦达：3月5日首次回购2052.744万元股份】万邦达公告，2021年3月5日，公司实施了首次回购，公司通过集中竞价交易方式首次回购股份数量为317万股，此次回购股份占公司总股本的比例为0.3664%，成交的最低价格为6.30元/股，成交的最高价格为6.61元/股，支付的总金额为人民币2052.744万元(不含交易费用)。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1657072.d.html</link>
-            <guid>2056772</guid>
-            <pubDate>Fri, 05 Mar 2021 09:26:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【西菱动力：预计一季度净利润盈利1500万元–2000万元 同比扭亏】西菱动力公告，公司预计2021年一季度归属于上市公司股东的净利润盈利1500万元–2000万元，上年同期亏损350万元。公司军工及航空结构件生产线于2020年第四季度建成投产，军工及航空业务产能释放，本报告期未受其他因素影响且汽车行业景气度回升，销售收入同比大幅增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2637773.d.html</link>
-            <guid>2056771</guid>
-            <pubDate>Fri, 05 Mar 2021 09:26:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中铁京东物流有限公司揭牌成立】该公司由中铁快运股份有限公司与京东物流共同组建。这是双方深化业务合作，实现高质量发展的重要举措，也是国铁企业混合所有制改革的又一成果。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2636903.d.html</link>
-            <guid>2056770</guid>
-            <pubDate>Fri, 05 Mar 2021 09:24:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【粤水电：签订光伏发电项目合作开发框架协议 预计总投资约25亿元】粤水电公告，全资子公司新疆粤水电能源有限公司与新疆生产建设兵团第十二师221团签订《新疆生产建设兵团第十二师221团光伏发电项目合作开发框架协议》。十二师221团同意新疆粤水电在十二师221团水管所及四连辖区内投资建设700MW光伏发电项目，项目总用地约16000亩。根据目前的市场价格，该项目预计总投资约25亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftpnnz2636687.d.html</link>
-            <guid>2056769</guid>
-            <pubDate>Fri, 05 Mar 2021 09:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中物联：2月份中国快递物流指数为99.3%】中国物流与采购联合会发布的数据显示，2021年2月，中国快递物流指数为99.3%，比上月回落1.1个百分点。多重因素带动下，指数虽有季节性回落，但接近100%的水平，为指数发布以来2月份最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1655801.d.html</link>
-            <guid>2056767</guid>
-            <pubDate>Fri, 05 Mar 2021 09:23:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【湖南海利业绩快报：2020年净利升2.89亿元 同比增长186%】湖南海利披露2020年年度业绩快报，报告期内，公司实现营业总收入20.26亿元，同比减少5.70%；营业利润3.38亿元，同比增加97.43%；利润总额3.56亿元，同比增加124.83%；归属于上市公司股东的净利润2.89亿元，同比增加186.20%；归属于上市公司股东的扣除非经常性损益的净利润2.72亿元，同比增加138.39%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-05/detail-ikftssaq1655683.d.html</link>
-            <guid>2056766</guid>
-            <pubDate>Fri, 05 Mar 2021 09:23:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
