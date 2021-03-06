@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 06 Mar 2021 22:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Mar 2021 23:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国地质勘探局：菲律宾东北部马里亚纳群岛(MARIANA ISLANDS)发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikknscsh8837305.d.html</link>
+            <guid>2058257</guid>
+            <pubDate>Sat, 06 Mar 2021 23:15:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗加大了对石油工业的研发力度】①能源网站Oilprice分析师Felicity Bradstock 称，伊朗石油部计划与大学和研究中心合作开发42个主要石油项目。据伊朗负责工程、研究和技术事务的副石油部长Saeed Mohammadi表示，这些项目将覆盖石油部门的各个部门，包括上游、下游和石油相关行业；②他还表示，这些项目和研究合作的目的是让大学和研究机构与石油工业长期合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikknscsh8833743.d.html</link>
+            <guid>2058253</guid>
+            <pubDate>Sat, 06 Mar 2021 22:56:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【代表建议加大网约货运行业乱象整治力度】近日，网约货运行业安全问题引发舆论热议。在今年两会上，全国人大代表、山西省市场监督管理局副局长李志强对这一问题十分关注。他对记者表示，网约货运直接打通了用户端与司机端的联系对接，减少了中间环节，受到了用户的追捧。但近来，网约货运行业乱象频生，饱受广大从业者和消费者诟病。从某种意义上讲，当前的网约货运行业正在重蹈网约客运行业的覆辙。因此，亟待重构网络货运平台经营模式，使得各方利益得到平衡，促使这一行业回归正轨。（工人日报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikkntiak5667585.d.html</link>
@@ -253,17 +265,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8729650.d.html</link>
             <guid>2057801</guid>
             <pubDate>Sat, 06 Mar 2021 13:17:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【雄安新区召开金融机构座谈会】3月4日，雄安新区召开金融机构座谈会，围绕加快推进新区建设发展和金融岛开发建设，听取金融监管机构、国有银行、保险机构、股份制银行、城市商业银行等各方面代表意见建议。]]></title>
-            <guid>2057620</guid>
-            <pubDate>Sat, 06 Mar 2021 12:38:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【丝路视觉：2020年净利同比增117.66%，拟发行可转债募资不超2.4亿元】①丝路视觉3月5日晚间披露年报，公司2020年实现营业收入10.04亿元，同比增长9.58%；②净利润6060.56万元，同比增长117.66%；每股收益0.53元。公司每10股派发红利0.8元（含税）。此外，公司拟发行可转债募资不超过2.4亿元，用于视觉云平台建设项目和补充流动资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5563642.d.html</link>
-            <guid>2057585</guid>
-            <pubDate>Sat, 06 Mar 2021 12:31:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
