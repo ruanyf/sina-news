@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 06 Mar 2021 16:40:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Mar 2021 17:35:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  市场消息：美国参议院以50票赞成，49票反对的表决结果通过了经济刺激法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikknscsh8782166.d.html</link>
+            <guid>2058205</guid>
+            <pubDate>Sat, 06 Mar 2021 17:29:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国地质勘探局：加蓬FOUGAMOU地区西面45公里处发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikkntiak5625386.d.html</link>
+            <guid>2058203</guid>
+            <pubDate>Sat, 06 Mar 2021 17:26:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Kitco Metals全球交易主管Peter Hug：市场曾预期美联储主席鲍威尔将暗示出台一些计划，以阻止美国长期国债收益率进一步上涨，但他并没有这样做。不过，分析师们仍预计美联储最终会介入，最有可能的时机是美国10年期国债收益率升至1.75%以上。当美国10年期国债收益率超过1.75%，美联储将开始更认真地看待问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikkntiak5620402.d.html</link>
+            <guid>2058195</guid>
+            <pubDate>Sat, 06 Mar 2021 16:58:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国共和党参议员Marsha Blackburn：经济刺激法案应当是有针对性、临时的且及时的，而1.9万亿美元的经济刺激法案并不是这样。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikknscsh8771221.d.html</link>
@@ -306,36 +324,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8658516.d.html</link>
             <guid>2057517</guid>
             <pubDate>Sat, 06 Mar 2021 08:16:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国参议院有关美加Keystone输油管道的修正案未能获得足够的支持票数。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5501078.d.html</link>
-            <guid>2057516</guid>
-            <pubDate>Sat, 06 Mar 2021 08:11:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[多部委联合印发规范法院冻结上市公司质押股票工作的意见。专家分析，《意见》找到了涉及股票质押的主要痛点，以及长期以来市场规则和法院规则间的冲突，有效遏制由于司法介入查封引发的股票流动性恐慌，这是多部委合作协同的新案例，对资本市场流动性问题的改善，将有非常好的帮助。（界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5499265.d.html</link>
-            <guid>2057515</guid>
-            <pubDate>Sat, 06 Mar 2021 08:05:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【多部委就法院冻结质押股票《意见》 出台 旨在解决市场规则与法院规则的冲突】多部委联合印发规范法院冻结上市公司质押股票工作的《意见》。权威专家分析，《意见》找到了涉及股票质押的主要痛点，以及长期以来市场规则和法院规则间的冲突。第一，解决了传统上法律冻结的超额查封、对质权人合法权益的损害；第二，有效遏制由于司法介入查封引发的股票流动性恐慌；第三，这是多部委合作协同的新案例，对资本市场流动性问题的改善，将有非常好的帮助。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5495172.d.html</link>
-            <guid>2057511</guid>
-            <pubDate>Sat, 06 Mar 2021 07:48:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[6日下午，中共中央总书记、国家主席、中央军委主席习近平看望参加全国政协十三届四次会议的医药卫生界、教育界委员，并参加联组会，听取意见和建议。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8651189.d.html</link>
-            <guid>2057509</guid>
-            <pubDate>Sat, 06 Mar 2021 07:46:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【李克强：国家要加大对乡村教师的委托和定向培养】李克强总理3月6日上午来到广西代表团参加《政府工作报告》审议。李克强表示，乡村教师直接教育广大农村孩子，事关他们的成长和上升通道，责任重大，工作又十分辛苦。国家将研究出台倾斜政策，加大对乡村教师的委托和定向培养，逐步提高他们的职业水平和收入待遇，让他们在乡村愿意留、留得住。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5492300.d.html</link>
-            <guid>2057506</guid>
-            <pubDate>Sat, 06 Mar 2021 07:37:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
