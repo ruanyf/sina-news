@@ -4,11 +4,22 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 06 Mar 2021 01:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Mar 2021 01:52:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【2月份全球制造业采购经理指数为55.6%】据中国物流与采购联合会发布，2021年2月份全球制造业PMI为55.6%，较上月上升1.2个百分点，连续8个月保持在50%以上。分区域看，欧洲和美洲制造业增速较上月有所加快，PMI均有不同程度上升，亚洲和非洲制造业增速平稳，PMI较上月波动不大。综合指数变化，全球制造业增速较上月加快，全球经济复苏趋势有所增强。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5372804.d.html</link>
+            <guid>2057425</guid>
+            <pubDate>Sat, 06 Mar 2021 01:39:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：新西兰克马德克群岛地区发生5.2级地震。]]></title>
+            <guid>2057423</guid>
+            <pubDate>Sat, 06 Mar 2021 01:31:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国参议院民主党人就失业援助达成协议，美国国会参议院民主党成员Manchin表示，失业救济将延长到8月底。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5358341.d.html</link>
