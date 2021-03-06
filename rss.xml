@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 06 Mar 2021 17:35:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Mar 2021 18:26:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  阿富汗库纳尔省发生爆炸事件，导致1人死亡，18人受伤。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikknscsh8789309.d.html</link>
+            <guid>2058211</guid>
+            <pubDate>Sat, 06 Mar 2021 18:06:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国参议院多数党领袖舒默：预计众议院将通过经济刺激法案，美国总统拜登将在3月14日的最后期限前签署该法案，因已经延长的失业援助措施将在那天到期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikkntiak5632523.d.html</link>
+            <guid>2058209</guid>
+            <pubDate>Sat, 06 Mar 2021 18:03:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【经过马拉松式的审议，美国参议院通过了1.9万亿美元的刺激计划】周六，美国总统拜登提出的1.9万亿美元经济刺激计划在参议院以50-49的票数获得通过。此前，参议院进行了长达25个多小时的马拉松式修正案投票。刺激计划将再次提交给众议院审理，民主党希望下周能使其签署成为法律。这项计划的通过将使拜登在立法工作方面获得首项胜利，并为他希望提出的大规模基础设施和制造业复苏法案奠定了基础。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikknscsh8784066.d.html</link>
+            <guid>2058206</guid>
+            <pubDate>Sat, 06 Mar 2021 17:39:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  市场消息：美国参议院以50票赞成，49票反对的表决结果通过了经济刺激法案。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikknscsh8782166.d.html</link>
@@ -300,30 +318,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8666837.d.html</link>
             <guid>2057524</guid>
             <pubDate>Sat, 06 Mar 2021 08:48:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【全国人大代表、人民银行郑州中心支行行长徐诺金：建议完善金融控股公司宏观审慎管理框架】全国人大代表、中国人民银行郑州中心支行行长徐诺金建议，完善金融控股公司宏观审慎管理框架。徐诺金认为，整体来看，完善的金融控股公司宏观审慎管理框架既要求对金融控股公司这种新的组织形式“管起来”，同时也要“管得好”。目前，“管起来”已经完成，下一步需从“管得好”层面下功夫。对此，他建议结合我国经济金融发展、金融结构及监管现状，从细化外部监管规则和提升内部治理能力两方面着手。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8666243.d.html</link>
-            <guid>2057523</guid>
-            <pubDate>Sat, 06 Mar 2021 08:44:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【全国人大代表、北京证监局局长贾文勤：建议制定资产支持证券发行与交易管理办法】全国人大代表、北京证监局局长贾文勤近日在接受采访时表示，建议制定资产支持证券发行与交易管理办法。具体举措包括明确资产证券化的证券属性，建立公开发行制度，同时参照股票、债券注册制，明确审核程序与备案流程，完善发行监督管理制度等。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8664251.d.html</link>
-            <guid>2057522</guid>
-            <pubDate>Sat, 06 Mar 2021 08:38:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  巴基斯坦总理伊姆兰·汗赢得议会的信任投票，将继续担任总理职务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8658552.d.html</link>
-            <guid>2057518</guid>
-            <pubDate>Sat, 06 Mar 2021 08:16:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【本周机构席位就通过大宗交易买入56.96亿元】本周（3月1日至5日）机构买入力度较1月及2月明显加大，仅本周机构席位就通过大宗交易买入56.96亿元，卖出额仅为11.36亿元，机构买卖比例达到5，为2020年5月以来最高水平。从行业来看，机构通过大宗交易大额买入的股票集中在电子、汽车、化工、机械设备等行业。比如，电子板块的海康威视、京东方A、歌尔股份、光弘科技近期都被机构接盘，化工板块的东华能源、浙江龙盛也受到机构青睐。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8658516.d.html</link>
-            <guid>2057517</guid>
-            <pubDate>Sat, 06 Mar 2021 08:16:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
