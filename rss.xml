@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 06 Mar 2021 19:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Mar 2021 20:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【调整行情21股逆市创新高，6股获北向资金青睐】统计显示，不含近一年上市的次新股，共有21股本周股价创出历史新高，按所属板块看，主板有7只，中小板有6只，创业板有7只，科创板有1只。从行业属性来看，机械设备、电子、银行行业创新高的个股较为集中，分别有5只、3只、2只个股出现名单中。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikknscsh8804673.d.html</link>
+            <guid>2058229</guid>
+            <pubDate>Sat, 06 Mar 2021 19:39:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯西布尔秋明天然气公司发布消息称，下瓦尔托夫斯克附近石油输送管道火灾已经被控制住，没有对当地居民和生态环境构成威胁。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikkntiak5646428.d.html</link>
+            <guid>2058227</guid>
+            <pubDate>Sat, 06 Mar 2021 19:24:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国总统拜登：许多共和党人接近支持该法案，没有放弃继续争取他们的支持。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikkntiak5645540.d.html</link>
@@ -264,54 +276,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8701186.d.html</link>
             <guid>2057556</guid>
             <pubDate>Sat, 06 Mar 2021 11:11:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：03月06日18时35分在新西兰克马德克群岛地区附近（南纬28.30度，西经178.18度）发生6.2级左右地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5540486.d.html</link>
-            <guid>2057551</guid>
-            <pubDate>Sat, 06 Mar 2021 10:52:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【雪灾期间多收160亿美元电费 美国得州拒绝重新定价】 美国近期的一场雪灾天气，让得克萨斯州民众经历了长时间水电短缺，当地电网运营商在雪灾期间多收的电费高达160亿美元。得州公共事业委员会5日表示，并不打算就超额电费进行重新定价。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8694554.d.html</link>
-            <guid>2057550</guid>
-            <pubDate>Sat, 06 Mar 2021 10:42:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海代表团建议修改公司法：优化营商环境 保护中小股东】2021年全国两会，上海代表团首次以代表团名义提交了2件议案和2件建议，其中一件议案提出，为进一步优化营商环境，建议修改《公司法》。该议案提出，要有效应对各种挑战、保持经济长期持续健康发展，必须要保护好企业合法权益；必须鼓励投资兴业、维护交易安全，以促进经济高质量发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8693561.d.html</link>
-            <guid>2057549</guid>
-            <pubDate>Sat, 06 Mar 2021 10:37:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【央行郑州中心支行行长徐诺金：建议加强大型互联网平台监管】 全国人大代表、中国人民银行郑州中心支行行长徐诺金建议，从依法依规加强对大型互联网平台的反垄断监管、加大对大型互联网平台的金融宏观审慎监管力度、充分利用监管科技手段加大对大型互联网平台的监管力度和加大个人信息保护力度等方面，加强对大型互联网平台的监管。（中证网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5536449.d.html</link>
-            <guid>2057548</guid>
-            <pubDate>Sat, 06 Mar 2021 10:32:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国钢铁价格高于全球市场价格近七成，多家制造商“有订单、无钢材”】 在一家零部件制造商了解到，由于行业内钢铁原材料供应不足，以前8周能收到的钢材，现在却需要12至16周，陷入“有订单，却无钢材”的窘况，据统计，全美大概有3万多家零部件制造厂面临同样困境。钢铁材料供应短缺，令美国钢铁价格自去年8月以来，大幅飙升160%。美国热轧钢基准价格在今年3月突破每吨1260美元，创下至少十三年来最高水平。目前，美国钢铁价格比全球市场价格高出68%，如此巨大的价格差距，即便算上25%的进口关税，也使得进口钢材要比美国本土钢材更便宜。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8691161.d.html</link>
-            <guid>2057546</guid>
-            <pubDate>Sat, 06 Mar 2021 10:28:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【全国政协委员、中信集团总经理奚国华：加快推进金融供给侧改革 服务科技创新】针对科技创新企业尤其是中小型民营科技创新企业“融资难”问题，全国政协委员、中信集团总经理奚国华建议，进一步加快推进金融供给侧改革，针对科创企业特点，从“两个体系”和“一个能力”等方面积极提升金融服务水平。具体而言，奚国华建议，服务科技创新，重点是围绕知识产权融资完善金融创新体系，不断创新融资方式、增加金融服务供给。在直接融资和间接融资领域构建高质量的金融中介服务体系。通过支持VC/PE机构做强做大，增强科技创新企业的孵化能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8688665.d.html</link>
-            <guid>2057544</guid>
-            <pubDate>Sat, 06 Mar 2021 10:17:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【人代会审查计划报告和预算报告，政协举行第二次全体会议】7日，十三届全国人大四次会议全天举行代表小组会议，审查计划报告和草案、预算报告和草案；下午，财政经济委员会审查“十四五”规划和2035年远景目标纲要草案、计划报告和草案、预算报告和草案，分别提出关于“十四五”规划和2035年远景目标纲要草案、计划报告和草案、预算报告和草案的审查结果报告。全国政协十三届四次会议7日上午举行第二次全体会议，委员进行大会发言。下午部分界别举行界别协商会议；其他界别举行小组会议，围绕小组关注的热点问题进行讨论。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5531513.d.html</link>
-            <guid>2057543</guid>
-            <pubDate>Sat, 06 Mar 2021 10:13:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲地中海地震中心：克马德克群岛地区发生5.0级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8684027.d.html</link>
-            <guid>2057538</guid>
-            <pubDate>Sat, 06 Mar 2021 09:58:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
