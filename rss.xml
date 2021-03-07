@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 07 Mar 2021 03:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Mar 2021 04:30:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据巴基斯坦媒体报道，3月7日凌晨，巴基斯坦南部一列由拉合尔开往卡拉奇的火车发生脱轨事故，目前造成至少1人死亡，数人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikkntiak5761870.d.html</link>
+            <guid>2058348</guid>
+            <pubDate>Sun, 07 Mar 2021 04:11:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴斯夫路德维希港工厂北厂区发生火灾 被迫停产新戊二醇】近日，全球化工业龙头德国巴斯夫发布不可抗力申明，由于3月3号位于巴斯夫路德维希港工厂北厂区发生火灾，导致氢气、一氧化碳和含氧气体泄露，进而造成公司内部氢气和一氧化碳供应中断，从而导致了新戊二醇（Neol)的生产受到不可抗力，路德维希港工厂北厂区无法继续生产新戊二醇（Neol)。 (鲸平台)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikknscsh8911926.d.html</link>
+            <guid>2058344</guid>
+            <pubDate>Sun, 07 Mar 2021 03:49:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[吉利德科学(GILD.US)子公司Kite近日宣布，其T细胞免疫疗法Yescarta(axicabtagene ciloleucel)已获美国FDA批准，用于治疗某一类复发/难治性滤泡性淋巴瘤成人患者。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikkntiak5754344.d.html</link>
+            <guid>2058343</guid>
+            <pubDate>Sun, 07 Mar 2021 03:45:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【海关总署：前2个月我国手机出口同比增长近50%，汽车（包括底盘）出口增长逾九成】前2个月，我国出口机电产品1.85万亿元，增长54.1%，占出口总值的60.3%。其中，自动数据处理设备及其零部件2339.8亿元，增长68.5%；手机1495.9亿元，增长49.2%；汽车（包括底盘）272亿元，增长93.4%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikknscsh8903616.d.html</link>
@@ -76,7 +94,7 @@
             <pubDate>Sun, 07 Mar 2021 03:15:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国1-2月出口总额：30600亿元。中国1-2月进口总额：23800亿元。]]></title>
+            <title><![CDATA[中国1-2月出口总额：30600亿元。中国1-2月进口总额：23800亿元。中国1-2月进口总额-美元计价：3656.20亿美元。中国1-2月出口总额-美元计价：4688.70亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikknscsh8900354.d.html</link>
             <guid>2058328</guid>
             <pubDate>Sun, 07 Mar 2021 03:12:07 GMT</pubDate>
@@ -232,18 +250,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikknscsh8811068.d.html</link>
             <guid>2058237</guid>
             <pubDate>Sat, 06 Mar 2021 20:37:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【调整行情21股逆市创新高，6股获北向资金青睐】统计显示，不含近一年上市的次新股，共有21股本周股价创出历史新高，按所属板块看，主板有7只，中小板有6只，创业板有7只，科创板有1只。从行业属性来看，机械设备、电子、银行行业创新高的个股较为集中，分别有5只、3只、2只个股出现名单中。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikknscsh8804673.d.html</link>
-            <guid>2058229</guid>
-            <pubDate>Sat, 06 Mar 2021 19:39:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯西布尔秋明天然气公司发布消息称，下瓦尔托夫斯克附近石油输送管道火灾已经被控制住，没有对当地居民和生态环境构成威胁。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikkntiak5646428.d.html</link>
-            <guid>2058227</guid>
-            <pubDate>Sat, 06 Mar 2021 19:24:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
