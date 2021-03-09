@@ -4,11 +4,86 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 09 Mar 2021 18:37:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Mar 2021 19:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【欧盟各国政府支持对英国采取法律行动】据英国金融时报报道称，欧盟国家支持布鲁塞尔方面针对英国单方面减轻脱欧对北爱尔兰企业影响的决定采取法律行动的计划。出席会议的一位外交官表示，该计划可能在几天内启动。此计划的其中一个步骤是对英国发起正式的“侵权诉讼”，这可能导致最终由欧洲法院来审判此案。布鲁塞尔方面已在脱欧协议中确定了赋予欧洲法院管辖权的法律依据，尽管该法院的职权仅限于违反欧盟法律的行为。如果英国拒绝遵守法庭在这一争端中的裁决，它将面临罚款或贸易制裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-10/detail-ikknscsi0188907.d.html</link>
+            <guid>2061461</guid>
+            <pubDate>Tue, 09 Mar 2021 19:16:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  CFRA Research：首予Rocket Companies(RKT.N)持有评级，目标价26美元。]]></title>
+            <guid>2061460</guid>
+            <pubDate>Tue, 09 Mar 2021 19:12:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：迪士尼股东在年度会议上重新选出了10名董事。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-10/detail-ikkntiak7027544.d.html</link>
+            <guid>2061459</guid>
+            <pubDate>Tue, 09 Mar 2021 19:10:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据英国金融时报：欧盟各国政府支持对英国采取法律行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-10/detail-ikkntiak7026629.d.html</link>
+            <guid>2061458</guid>
+            <pubDate>Tue, 09 Mar 2021 19:07:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Oshkosh(OSK.N)现跌0.38%，此前三名美国众议院民主党议员提出议案，要求拜登政府暂停美国邮政与OSHKOSH的运输车辆合约。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-10/detail-ikknscsi0185173.d.html</link>
+            <guid>2061457</guid>
+            <pubDate>Tue, 09 Mar 2021 19:06:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫新闻秘书珍·普萨基：拜登的名字不会出现在新一轮刺激计划所发放的支票“备忘录栏”上。]]></title>
+            <guid>2061455</guid>
+            <pubDate>Tue, 09 Mar 2021 19:01:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫新闻秘书珍·普萨基：刺激计划的第一批支票将发放给在国税局有直接存款的美国人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-10/detail-ikkntiak7024428.d.html</link>
+            <guid>2061453</guid>
+            <pubDate>Tue, 09 Mar 2021 19:01:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Workhorse(WKHS.O)直线拉升，涨超10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-10/detail-ikkntiak7023085.d.html</link>
+            <guid>2061452</guid>
+            <pubDate>Tue, 09 Mar 2021 18:57:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国白宫官员：美国国税局正推进在本月内发出纾困支票。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-10/detail-ikknscsi0178607.d.html</link>
+            <guid>2061449</guid>
+            <pubDate>Tue, 09 Mar 2021 18:47:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国白宫官员：美国国税局正在努力推进电子支付。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-10/detail-ikkntiak7019219.d.html</link>
+            <guid>2061448</guid>
+            <pubDate>Tue, 09 Mar 2021 18:46:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国白宫官员：刺激美国经济力度过小的风险大于力度过大的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-10/detail-ikkntiak7017660.d.html</link>
+            <guid>2061446</guid>
+            <pubDate>Tue, 09 Mar 2021 18:42:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据Axios：美国众议院少数党领袖麦卡锡将于下周一前往得克萨斯州评估边境状况。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-10/detail-ikknscsi0176624.d.html</link>
+            <guid>2061444</guid>
+            <pubDate>Tue, 09 Mar 2021 18:41:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  雪佛龙(CVX.N)CEO：还没有与伯克希尔哈撒韦(BRK.A.N、BRK.B.N)公司进行对话，未来很可能会与他们进行对话；对伯克希尔的投资决定“非常满意”。]]></title>
+            <guid>2061443</guid>
+            <pubDate>Tue, 09 Mar 2021 18:39:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  据DownDetector：一些用户反映Reddit出现宕机问题。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-10/detail-ikknscsi0175092.d.html</link>
@@ -314,78 +389,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-10/detail-ikkntiak6975184.d.html</link>
             <guid>2061362</guid>
             <pubDate>Tue, 09 Mar 2021 16:45:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国气候特使敦促全球紧密合作缓解气候危机。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-10/detail-ikkntiak6974845.d.html</link>
-            <guid>2061361</guid>
-            <pubDate>Tue, 09 Mar 2021 16:44:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国会跨党派成员们宣布数字资产工作组立法草案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-10/detail-ikknscsi0130950.d.html</link>
-            <guid>2061360</guid>
-            <pubDate>Tue, 09 Mar 2021 16:39:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部拍卖42天期现金管理票据，得标利率0.030%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-10/detail-ikkntiak6972275.d.html</link>
-            <guid>2061358</guid>
-            <pubDate>Tue, 09 Mar 2021 16:38:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲STOXX 600指数初步收涨0.83%，报420.72点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-10/detail-ikkntiak6972161.d.html</link>
-            <guid>2061356</guid>
-            <pubDate>Tue, 09 Mar 2021 16:38:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【花旗和德商银就欧洲央行债券购买力度发出警报】 欧洲央行最近两周根据紧急抗疫购债计划（PEPP）所执行的债券购买速度放缓——均低于PEPP实施以来180亿欧元的（单周）均值水平，央行给出的理由是，到期债券的赎回金额高得非同寻常。花旗集团利率策略师Jamie Searle就此表示，就更长周期而言，欧洲央行“无所作为”的实际代价就是政策框架的信誉度，如果央行容忍外界对其实现目标的困惑愈演愈烈，投资者可能就会在购买债券时考虑再三。欧洲央行可能在果断回应方面存在共识，那可能会推高欧元区成员国与德国基准国债的收益率溢价。德国商业银行策略师Christoph Rieger和Cem Keltek也对欧洲更长到期时间债券感到担忧，他们认为，在美国利率对欧洲长端债券造成溢出效应的当下，债券购买金额仍然未能证明欧洲央行的行动是激进的，欧洲央行似乎对自身购债数据造成错误信号感到焦虑。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-10/detail-ikknscsi0130346.d.html</link>
-            <guid>2061355</guid>
-            <pubDate>Tue, 09 Mar 2021 16:38:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美、布两油期货短线下挫0.35美元触及日低，分别报64.10美元/桶、67.56美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-10/detail-ikknscsi0127120.d.html</link>
-            <guid>2061354</guid>
-            <pubDate>Tue, 09 Mar 2021 16:30:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  雪佛龙(CVX.N)高管：即使在10-20年后，雪佛龙的主要领域仍将是石油。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-10/detail-ikknscsi0126324.d.html</link>
-            <guid>2061352</guid>
-            <pubDate>Tue, 09 Mar 2021 16:28:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股半导体板块今日反弹走高，英伟达涨7%，赛灵思涨6.32%，AMD涨5.26%，微芯科技涨5.24%，恩智浦半导体涨4.9%，英特尔涨3.86%，高通涨3.7%，美光科技涨3.56%，台积电涨1.77%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-10/detail-ikkntiak6967526.d.html</link>
-            <guid>2061351</guid>
-            <pubDate>Tue, 09 Mar 2021 16:26:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多家百亿私募业绩回撤，最多回撤近20%】从渠道获悉，2月21日-2月26日，多家百亿私募旗下产品单周的回撤幅度超过10%，最多接近20%，将1月份取得的收益几乎都亏完了。今年1月新成立的不少私募产品，由于近期市场大幅调整，不少产品亏损15%就达到预警线，本来计划长期持有的股票，也面临被动减仓的情形，让不少私募倍感压力。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-10/detail-ikknscsi0124406.d.html</link>
-            <guid>2061350</guid>
-            <pubDate>Tue, 09 Mar 2021 16:23:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：雪佛龙(CVX.N)未来能源基金II将投资于碳捕获、储存、地热等可再生技术领域。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-10/detail-ikkntiak6965080.d.html</link>
-            <guid>2061348</guid>
-            <pubDate>Tue, 09 Mar 2021 16:20:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储：银行应在摆脱LIBOR方面取得进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-10/detail-ikknscsi0118769.d.html</link>
-            <guid>2061345</guid>
-            <pubDate>Tue, 09 Mar 2021 16:09:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  波音小幅走高，现涨2.83%，此前公司公布2月交付22架飞机，净订单14个月来首次转为正值。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-10/detail-ikkntiak6959784.d.html</link>
-            <guid>2061342</guid>
-            <pubDate>Tue, 09 Mar 2021 16:07:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
