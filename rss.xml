@@ -4,11 +4,83 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 10 Mar 2021 20:26:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Mar 2021 21:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  AMC院线盘后涨超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikkntiak7849566.d.html</link>
+            <guid>2063491</guid>
+            <pubDate>Wed, 10 Mar 2021 21:20:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMC院线四季度经调整每股亏损3.15美元，市场预期3.53美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikkntiak7848640.d.html</link>
+            <guid>2063489</guid>
+            <pubDate>Wed, 10 Mar 2021 21:19:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Bumble(BMBL.O)盘后涨6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikknscsi1002806.d.html</link>
+            <guid>2063486</guid>
+            <pubDate>Wed, 10 Mar 2021 21:10:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  交友软件Bumble(BMBL.O)预计2021年营收为7.16亿美元至7.26亿美元，市场预期7.16亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikknscsi1002565.d.html</link>
+            <guid>2063485</guid>
+            <pubDate>Wed, 10 Mar 2021 21:09:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  甲骨文(ORCL.N)：2021财年第三财季营收101亿美元，市场预期100.68亿美元，去年同期97.97亿美元。2021财年第三财季每股盈利1.68美元，市场预期0.86美元，去年同期0.79美元。 公布财报后，甲骨文盘后跌超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikkntiak7841079.d.html</link>
+            <guid>2063483</guid>
+            <pubDate>Wed, 10 Mar 2021 21:07:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中概股中，哔哩哔哩跌4%，拼多多、百度跌超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikkntiak7839502.d.html</link>
+            <guid>2063479</guid>
+            <pubDate>Wed, 10 Mar 2021 21:05:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士：波音接近与美国西南航空公司达成出售数十架737 MAX 7飞机的交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikkntiak7838163.d.html</link>
+            <guid>2063478</guid>
+            <pubDate>Wed, 10 Mar 2021 21:03:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  标普：预计到2021年底，全球债务占GDP比重将降至258%，而在2022-2023年该比重将稳定在255%-256%左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikknscsi0991224.d.html</link>
+            <guid>2063473</guid>
+            <pubDate>Wed, 10 Mar 2021 20:52:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  标普：尽管更多的违约现象即将出现，近期不太可能发生全球债务危机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikkntiak7829882.d.html</link>
+            <guid>2063472</guid>
+            <pubDate>Wed, 10 Mar 2021 20:50:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：在最近的审查后，苹果(AAPL.O)拒绝社交媒体平台Parler重新在APP STORE上线，随后Parler削减了其IOS开发团队。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikkntiak7823622.d.html</link>
+            <guid>2063467</guid>
+            <pubDate>Wed, 10 Mar 2021 20:40:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  蒙特利尔银行：将生物制药公司Affimed N.V.(AFMD.O)目标价上调至12美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikkntiak7821019.d.html</link>
+            <guid>2063464</guid>
+            <pubDate>Wed, 10 Mar 2021 20:36:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  生物制药公司Affimed N.V.(AFMD.O)尾盘拉涨超30%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikkntiak7814755.d.html</link>
+            <guid>2063462</guid>
+            <pubDate>Wed, 10 Mar 2021 20:27:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[欧洲地中海地震中心：斐济地区发生5.6级地震。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikknscsi0971778.d.html</link>
@@ -250,106 +322,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikkntiak7712583.d.html</link>
             <guid>2063391</guid>
             <pubDate>Wed, 10 Mar 2021 17:49:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  WSB概念股纷纷跳水，高斯电子涨幅缩窄至33%，Express涨幅缩窄至17%，游戏驿站跌近20%，再度停牌，AMC院线跌超9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikkntiak7707899.d.html</link>
-            <guid>2063388</guid>
-            <pubDate>Wed, 10 Mar 2021 17:42:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国10年期国债收益率跌至日低1.514%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikkntiak7706692.d.html</link>
-            <guid>2063387</guid>
-            <pubDate>Wed, 10 Mar 2021 17:40:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉(TSLA.O)短线走低，跌超2%，此前一度涨超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikkntiak7706246.d.html</link>
-            <guid>2063386</guid>
-            <pubDate>Wed, 10 Mar 2021 17:40:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大众持股的Gett正探索与一家特殊目的收购公司（SPAC）合并的可能性。（英国天空新闻）]]></title>
-            <guid>2063385</guid>
-            <pubDate>Wed, 10 Mar 2021 17:40:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[游戏驿站短线跳水，日内转跌超12%，此前一度涨超40%，多次触发熔断。高斯电子也短线跳水，日内超120%涨幅快速收窄至37%。盘中，游戏驿站一度涨至348.50美元，较2月19日低点累涨逾800%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikknscsi0863622.d.html</link>
-            <guid>2063382</guid>
-            <pubDate>Wed, 10 Mar 2021 17:36:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  儿童游戏公司Roblox(RBLX.N)开盘价料为64或66美元，IPO价为45美元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikkntiak7703110.d.html</link>
-            <guid>2063381</guid>
-            <pubDate>Wed, 10 Mar 2021 17:35:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  高斯电子、游戏驿站恢复交易，高斯电子涨幅缩窄至70%，游戏驿站现涨14%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikkntiak7698594.d.html</link>
-            <guid>2063379</guid>
-            <pubDate>Wed, 10 Mar 2021 17:29:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国参议院投票确认马西娅·福吉（MARCIA FUDGE）担任拜登政府的住房和城市发展部长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikknscsi0858222.d.html</link>
-            <guid>2063378</guid>
-            <pubDate>Wed, 10 Mar 2021 17:28:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【债市通胀预期创六年新高，不顾2月核心CPI弱于预期】在美东时间下午1点续发380亿美元10年期国债之前，10年期国债期货大宗交易帮助美国国债买盘活跃，通胀保值国债的盈亏平衡通胀率显示市场对未来10年CPI涨幅的预测达到2014年中以来最高水平；美国10年期国债收益率当日略降至1.52%附近；通胀预期升高，尽管早前的CPI数据显示核心通胀弱于预期；10年期盈亏平衡通胀率上升超过4个基点，至2.26%，是2014年中以来的最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikknscsi0855389.d.html</link>
-            <guid>2063375</guid>
-            <pubDate>Wed, 10 Mar 2021 17:24:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  智利官员：中期铜需求情况仍未改变；铜业不会急于做出项目决定。]]></title>
-            <guid>2063372</guid>
-            <pubDate>Wed, 10 Mar 2021 17:18:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  部分WSB热门概念股涨幅扩大，高斯电子(KOSS.O)现涨114%，Express(EXPR.O)涨46.75%，游戏驿站(GME.N)涨近40%，AMC院线(AMC.N)涨超15%，Rocket Companies(RKT.N)涨超11%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikknscsi0848017.d.html</link>
-            <guid>2063368</guid>
-            <pubDate>Wed, 10 Mar 2021 17:13:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  伦敦金属交易所：将加强电子定价机制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikknscsi0846347.d.html</link>
-            <guid>2063367</guid>
-            <pubDate>Wed, 10 Mar 2021 17:11:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ICE欧盟碳排放交易期货（MO1）价格收涨2.37%，报41.54欧元，连续两个交易日创收盘历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikknscsi0844977.d.html</link>
-            <guid>2063366</guid>
-            <pubDate>Wed, 10 Mar 2021 17:09:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国首相约翰逊：伊朗必须停止违反《联合全面行动计划》（JCPOA）的核活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikknscsi0844876.d.html</link>
-            <guid>2063365</guid>
-            <pubDate>Wed, 10 Mar 2021 17:09:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：英国方面表示，仍致力于使伊核协议取得成功。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikknscsi0843783.d.html</link>
-            <guid>2063364</guid>
-            <pubDate>Wed, 10 Mar 2021 17:07:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：英国首相约翰逊与伊朗总统鲁哈尼进行了通话。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikkntiak7683572.d.html</link>
-            <guid>2063363</guid>
-            <pubDate>Wed, 10 Mar 2021 17:07:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  巴西官员：圣保罗州可能需要更多限制性措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikkntiak7681881.d.html</link>
-            <guid>2063361</guid>
-            <pubDate>Wed, 10 Mar 2021 17:04:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
