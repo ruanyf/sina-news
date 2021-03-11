@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 11 Mar 2021 20:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Mar 2021 21:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  诺瓦瓦克斯盘后拉涨18%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2019376.d.html</link>
+            <guid>2064734</guid>
+            <pubDate>Thu, 11 Mar 2021 21:06:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  葡萄牙众议院批准了紧急状态的进一步延长，本次紧急状态将延长至当地时间3月31日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak8843213.d.html</link>
+            <guid>2064714</guid>
+            <pubDate>Thu, 11 Mar 2021 20:40:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【英国财政部计划改革资本市场规则 或包括修订股票交易相关规定】据英国金融时报报道，英国财政部正在拟定计划，对伦敦资本市场的规则进行彻底改革，以消除人们对伦敦金融城在英国脱欧后将失去其全球金融中心地位的担忧。据两位了解相关计划的人士透露，预计这些提议主要针对的是欧盟金融工具市场法规Mifid II。改革可能包括取消决定投资者可以在哪里交易股票的欧盟规定，以及取消“黑池交易”的私人市场上进行交易的数量上限，更改股票和债券市场的透明度要求和修改仓位限制或在一种商品上进行的交易量限制。财政部将在今年夏季就一系列详细的政策建议展开磋商，相关立法可能在今年年底前准备好。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi1994207.d.html</link>
+            <guid>2064708</guid>
+            <pubDate>Thu, 11 Mar 2021 20:28:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  纽约联储：计划在2021年3月12日至4月13日期间购买大约800亿美元的国库券。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi1984275.d.html</link>
@@ -175,18 +193,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi1841454.d.html</link>
             <guid>2064595</guid>
             <pubDate>Thu, 11 Mar 2021 16:37:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  理想汽车(LI.O)涨超10%，现报25.8美元，此前Needham予其买入评级及目标价37美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak8674265.d.html</link>
-            <guid>2064587</guid>
-            <pubDate>Thu, 11 Mar 2021 16:24:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  拼多多盘中涨幅扩大至10%，报162.96美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi1830998.d.html</link>
-            <guid>2064585</guid>
-            <pubDate>Thu, 11 Mar 2021 16:22:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
