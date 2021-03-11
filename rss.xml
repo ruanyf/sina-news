@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 11 Mar 2021 17:43:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Mar 2021 18:33:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  市场消息：美国总统拜登和美国副总统哈里斯将于下周将前往佐治亚州讨论刺激计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi1916074.d.html</link>
+            <guid>2064642</guid>
+            <pubDate>Thu, 11 Mar 2021 18:29:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士称，东南亚网约车和送餐服务巨头Grab正在谈判通过与特殊目的收购公司(SPAC)合并上市，可能在未来几周内与SPAC达成交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak8757643.d.html</link>
+            <guid>2064641</guid>
+            <pubDate>Thu, 11 Mar 2021 18:29:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【长征七号改遥二运载火箭成功发射】2021年3月12日1时51分，我国在文昌航天发射场成功完成长征七号改遥二运载火箭发射，该运载火箭由长征七号运载火箭改进研制而成，用于发射地球同步轨道卫星，运载能力不少于7吨。本次发射的试验九号卫星主要用于空间环境监测等新技术在轨验证试验。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi1915590.d.html</link>
+            <guid>2064640</guid>
+            <pubDate>Thu, 11 Mar 2021 18:28:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【OLED产能增长，渗透率逐步提升】近日，市场调查机构UBI Research最新报告显示，2020年全球OLED面板总出货量达5.7788亿块，同比增加2041万块，增幅为3.7%。在智能手机应用领域，群智咨询副总经理兼首席分析师陈军称：“2020年国内OLED智能手机面板出货量约8300万左右，预计2021年中国大陆OLED智能手机面板出货量约在1亿水平。”（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi1910277.d.html</link>
+            <guid>2064636</guid>
+            <pubDate>Thu, 11 Mar 2021 18:20:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家气候战略中心战略规划部主任柴麒敏：绿色低碳发展，将形成政策“组合拳”】生态环境部国家气候战略中心战略规划部主任柴麒敏表示，近期有关碳达峰、碳中和的国家政策文件频出，从预期来看，各个政策口可能还会密集地出台相关政策，比如从能源、产业、交通、建筑等领域，最终可能是一个多维的结构，形成越来越成熟的政策体系，支撑绿色低碳发展。（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak8744744.d.html</link>
+            <guid>2064634</guid>
+            <pubDate>Thu, 11 Mar 2021 18:09:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国参议院多数党领袖舒默提议对美国贸易代表提名人TAI进行确认投票。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi1893151.d.html</link>
+            <guid>2064631</guid>
+            <pubDate>Thu, 11 Mar 2021 17:54:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  市场消息：LG化学将在美国投资45亿美元扩大电池产量，到2025年，投资将创造1万个就业岗位。LG化学正在考虑建立在美国的第二家合资电池工厂。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak8726157.d.html</link>
@@ -121,30 +157,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikknscsi1793742.d.html</link>
             <guid>2064553</guid>
             <pubDate>Thu, 11 Mar 2021 15:25:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[京东(JD.O)转跌，盘初一度涨超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikknscsi1776572.d.html</link>
-            <guid>2064539</guid>
-            <pubDate>Thu, 11 Mar 2021 14:58:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[部分中概股表现强势，箩筐技术(LKCO)涨近20%，趣头条(QTT.O)涨超17%，荔枝(LIZI.O)、老虎证券(TIGR.O)涨超10%，有道(DAO.N)、贝壳(BEKE.N)涨超8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikkntiak8617542.d.html</link>
-            <guid>2064538</guid>
-            <pubDate>Thu, 11 Mar 2021 14:57:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音续涨3%，刷新最近一年盘中高位。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikknscsi1770483.d.html</link>
-            <guid>2064531</guid>
-            <pubDate>Thu, 11 Mar 2021 14:49:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国外交大臣拉布：与挪威达成互利共赢的自由贸易协定的绝好机会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikkntiak8610580.d.html</link>
-            <guid>2064528</guid>
-            <pubDate>Thu, 11 Mar 2021 14:47:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
