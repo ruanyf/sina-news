@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 12 Mar 2021 17:38:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Mar 2021 19:00:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【沙特为首多国联军持续空袭也门胡塞武装据点】多国联军发布的视频显示，联军出动战机轰炸了也门北部马里卜省内一处据称是胡塞武装防空设施的据点。多国联军司令部发言人在一份声明中透露，此次空袭不仅摧毁了胡塞武装的防空设施，还炸死数名“外国军事专家”。也门局势近期持续紧张，也门胡塞武装3月以来多次声称使用无人机和导弹对沙特境内目标发动袭击，沙特为首多国联军则从3月7日开始对也门境内目标发动密集空袭。与此同时，也门政府军与为其提供支持的沙特为首多国联军和胡塞武装也在也门境内西部和北部多个省份开展拉锯战。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9804136.d.html</link>
+            <guid>2066569</guid>
+            <pubDate>Fri, 12 Mar 2021 18:50:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  前美国民主党参议员Baucus：交易平台币安正在研究是否可能在美国商品期货交易委员会（CFTC）注册。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9801195.d.html</link>
+            <guid>2066568</guid>
+            <pubDate>Fri, 12 Mar 2021 18:46:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  前美国民主党参议员Baucus拒绝就美国商品期货交易委员会（CFTC）对币安的审查置评。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9801123.d.html</link>
+            <guid>2066567</guid>
+            <pubDate>Fri, 12 Mar 2021 18:46:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【福特家族第五代将进入福特汽车董事会，股价持稳于逾三年高位附近】福特汽车（F）涨约3.9%，暂报13.31美元，此前一度涨超4.6%，刷新2018年1月份以来盘中高位至13.41美元附近。美国福特家族第五代将在该公司董事会接管多个席位，提名Alexanda Ford English和Henry Ford III进入公司董事会，72岁的高管Edsel Ford II将于5月份退休，其在该公司担任该高管职位已经长达33年。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9776622.d.html</link>
+            <guid>2066559</guid>
+            <pubDate>Fri, 12 Mar 2021 18:08:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  贝克休斯油服：美国钻井公司本周开始减少石油和天然气钻井平台，为去年11月来首次。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi2933078.d.html</link>
+            <guid>2066558</guid>
+            <pubDate>Fri, 12 Mar 2021 18:05:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【马斯克与特斯拉董事会因违反与SEC达成的发推协议被起诉】特斯拉的一名投资者在特拉华州起诉了首席执行官马斯克及其董事会，称马斯克持续发送“内涵”推文，且特斯拉董事会未能控制马斯克的线上行为，给特斯拉公司造成潜在数十亿美元的责任与市值损失。该诉讼于周五在特拉华州法院公开。此前，马斯克、特斯拉董事会、美国证券交易委员会已于2018年针对马斯克在社交媒体上的活动达成协议，SEC要求马斯克的行为要事前获得批准，并责令马斯克和公司董事会分别支付2000万美元罚款。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9774078.d.html</link>
+            <guid>2066556</guid>
+            <pubDate>Fri, 12 Mar 2021 18:04:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  随着感染上升，意大利大部分地区将于3月15日进入封锁状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9765635.d.html</link>
+            <guid>2066552</guid>
+            <pubDate>Fri, 12 Mar 2021 17:52:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国海关和边境保护局：将继续保持非必要旅行的暂时性限制。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi2897336.d.html</link>
@@ -102,83 +144,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9649505.d.html</link>
             <guid>2066476</guid>
             <pubDate>Fri, 12 Mar 2021 14:55:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[旷视科技方面对记者表示，目前没有A+H上市计划，只在申请科创板上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9647584.d.html</link>
-            <guid>2066471</guid>
-            <pubDate>Fri, 12 Mar 2021 14:52:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[爱尔兰财长：经济前景良好，将在第三季度看到经济反弹的迹象；当经济重新开放时，没有必要采取措施鼓励人们消费创纪录的储蓄；工资补贴计划的结构将适用于未来的国家危机。]]></title>
-            <guid>2066470</guid>
-            <pubDate>Fri, 12 Mar 2021 14:52:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[部分WSB概念股拉升，高斯电子涨超25%，Express涨超13%，游戏驿站涨超8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9646277.d.html</link>
-            <guid>2066467</guid>
-            <pubDate>Fri, 12 Mar 2021 14:50:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【防止违规骗提，北京拟调整购买二手房提取公积金条件】3月12日，北京住房公积金管理中心发布公告，就进一步优化住房公积金提取业务公开征集意见。征求意见稿最新明确，在北京购买二手房申请提取住房公积金，应同时提供该房屋签约备案的购房合同编号，及过户后的房屋所有权证号或不动产权证号，联网核验无误后即可办理。北京住房公积金管理中心解释称，部分职工购买北京市存量住房（也称“二手房”），撤销购房网签后，仍以购房名义提取公积金，存在违规骗提风险。（新京报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9645564.d.html</link>
-            <guid>2066466</guid>
-            <pubDate>Fri, 12 Mar 2021 14:49:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股工业大麻板块跌幅居前，Tilray跌超6%，Aphria跌近5%，Sundial Grower、Canopy Growth跌超4%，极光大麻跌3.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2803193.d.html</link>
-            <guid>2066465</guid>
-            <pubDate>Fri, 12 Mar 2021 14:48:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音涨近2%，投资公司777 PARTNERS订购了24架波音737 MAX飞机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2801099.d.html</link>
-            <guid>2066464</guid>
-            <pubDate>Fri, 12 Mar 2021 14:44:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  AMC院线：截至3月5日，公司在美国的589家影院中有527家在营业，并限制座位开放数量。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9642753.d.html</link>
-            <guid>2066463</guid>
-            <pubDate>Fri, 12 Mar 2021 14:44:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：AMC院线预计公司的资金至少可以支撑到2022年3月31日之前的运营，包括租金和计划资本支出的费用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9642648.d.html</link>
-            <guid>2066462</guid>
-            <pubDate>Fri, 12 Mar 2021 14:44:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[多数热门中概股走低，京东跌近6%，陆金所跌超5%，哔哩哔哩、腾讯音乐跌超4%，拼多多跌近3%，爱奇艺跌超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9642571.d.html</link>
-            <guid>2066461</guid>
-            <pubDate>Fri, 12 Mar 2021 14:44:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新能源车板块走弱，蔚来汽车跌超6%，理想汽车、小鹏汽车跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9640430.d.html</link>
-            <guid>2066456</guid>
-            <pubDate>Fri, 12 Mar 2021 14:41:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[热门科技股Bumble跌6.3%，Palantir跌5.1%——此前三个交易日涨约19%，苹果跌1.9%，特斯拉跌4.3%，Facebook跌超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9639646.d.html</link>
-            <guid>2066453</guid>
-            <pubDate>Fri, 12 Mar 2021 14:39:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[半导体类股普跌，CREE和MKSI跌超3%，KLAC、SWKS、安森美、KLAC、微芯科技、LRCX、AMKR、TER、英伟达、ASML、高通均跌超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2797228.d.html</link>
-            <guid>2066452</guid>
-            <pubDate>Fri, 12 Mar 2021 14:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[散户抱团类股游戏驿站涨9.1%，Express涨5.8%。中概股携程涨超1.1%，荔枝网跌超10%，小牛电动跌6.7%，腾讯ADR跌7.2%，百度跌3.6%，蔚来汽车跌5.7%，B站跌3.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2797072.d.html</link>
-            <guid>2066451</guid>
-            <pubDate>Fri, 12 Mar 2021 14:38:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
