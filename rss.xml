@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 12 Mar 2021 20:26:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Mar 2021 21:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  市场消息：美国洛杉矶将于3月15日起重新开放重点行业。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3042729.d.html</link>
+            <guid>2066601</guid>
+            <pubDate>Fri, 12 Mar 2021 20:54:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至3月9日当周，CBOT美国5年期国债期货净空头持仓14305手，一周前为净多头持仓26487手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3030639.d.html</link>
+            <guid>2066597</guid>
+            <pubDate>Fri, 12 Mar 2021 20:35:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至3月9日当周，CBOT美国2年期国债期货净空头持仓增加149837手至407364手，美国10年期国债期货净多头持仓减少49480手至46131手，超长期国债期货净空头持仓减少4781手至250679手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3029448.d.html</link>
+            <guid>2066596</guid>
+            <pubDate>Fri, 12 Mar 2021 20:33:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至3月9日当周，COMEX铜期货投机性净多头头寸减少14284手至51222手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9868339.d.html</link>
+            <guid>2066594</guid>
+            <pubDate>Fri, 12 Mar 2021 20:30:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【美国明尼阿波利斯市议会批准2700万美元的拨款 与弗洛伊德家人达成和解协议】当地时间3月12日，美国明尼阿波利斯市议会批准了一项价值2700万美元的民事和解协议，与乔治·弗洛伊德的家人就去年警方执法手段不当导致弗洛伊德死亡的案件达成和解。市议会以13票赞成、0票反对的结果全票通过了这项协议，并拨款50万美元用于建造芝加哥的乔治·弗洛伊德纪念地。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9850728.d.html</link>
@@ -133,30 +157,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9694140.d.html</link>
             <guid>2066511</guid>
             <pubDate>Fri, 12 Mar 2021 16:05:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  百世集团(BEST.N)涨近9%，今日与国金涌富达成5.17亿元卡车租赁资产的战略合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2840526.d.html</link>
-            <guid>2066504</guid>
-            <pubDate>Fri, 12 Mar 2021 15:46:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  从接近监管的人士处获悉，3月11日，监管已经召集深圳各大商业银行开会，要求对经营贷、消费贷流入房地产市场进行排查。某股份制银行人士亦称，已经接到对经营贷、消费贷违规炒房进行排查的通知。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2835412.d.html</link>
-            <guid>2066502</guid>
-            <pubDate>Fri, 12 Mar 2021 15:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国税局：深入推进税务执法、服务和监管的理念方式手段变革】国税局召开党委（扩大）会议，要求认真贯彻落实中央深改委第17次会议精神，将进一步优化税务执法方式、深化税收征管改革作为“十四五”时期推动税收改革发展的重要抓手，紧紧扭住创新这个牛鼻子，深入推进税务执法、服务和监管的理念方式手段变革，深入推进精确执法、精细服务、精准监管、精诚共治，深入推进“智慧税务”建设，深入推进新发展阶段税收现代化实现高质量、跨越式发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2834723.d.html</link>
-            <guid>2066500</guid>
-            <pubDate>Fri, 12 Mar 2021 15:37:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国3月密歇根大学消费者信心指数83，创2020年3月以来最高水平。其中，当前经济状况指数从上个月的86.2升至91.5，预期指数从上个月的70.7升至77.5。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9666123.d.html</link>
-            <guid>2066492</guid>
-            <pubDate>Fri, 12 Mar 2021 15:21:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
