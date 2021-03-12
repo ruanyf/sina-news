@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 12 Mar 2021 21:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Mar 2021 22:27:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【恩智浦、Penn National等将加入标普500指数】标普道琼斯指数公司称，恩智浦、Penn National、Generac Holdings、Caesars将加入标普500指数，以取代Flowserve Corp.、SL Green Realty、施乐、以及Vontier Corp。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3097979.d.html</link>
+            <guid>2066613</guid>
+            <pubDate>Fri, 12 Mar 2021 22:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西经济部长盖德斯：希望第一批月度紧急援助款项能在3月份发放，但也可能在4月份发放。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3083404.d.html</link>
+            <guid>2066610</guid>
+            <pubDate>Fri, 12 Mar 2021 21:57:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西经济部长盖德斯：将为巴西制定一个失业救济计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9914569.d.html</link>
+            <guid>2066609</guid>
+            <pubDate>Fri, 12 Mar 2021 21:42:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  市场消息：美国洛杉矶将于3月15日起重新开放重点行业。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3042729.d.html</link>
@@ -145,18 +163,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi2858079.d.html</link>
             <guid>2066514</guid>
             <pubDate>Fri, 12 Mar 2021 16:14:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  百世集团盘中涨超10%，报2.39美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi2854736.d.html</link>
-            <guid>2066512</guid>
-            <pubDate>Fri, 12 Mar 2021 16:08:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美股经纪商Robinhood今年的新增注册量翻倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9694140.d.html</link>
-            <guid>2066511</guid>
-            <pubDate>Fri, 12 Mar 2021 16:05:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
