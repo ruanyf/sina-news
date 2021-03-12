@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 12 Mar 2021 19:00:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Mar 2021 19:37:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  波音公司：任命Ed Clark JR.为737 MAX飞机总经理兼副总裁，以取代即将离职的Walter Odisho。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi2981756.d.html</link>
+            <guid>2066577</guid>
+            <pubDate>Fri, 12 Mar 2021 19:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：03月13日03时11分在河北张家口市赤城县（北纬40.70度，东经115.79度）发生2.3级地震，震源深度15千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9819196.d.html</link>
+            <guid>2066576</guid>
+            <pubDate>Fri, 12 Mar 2021 19:13:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  阿根廷据悉将其原油价格定在55美元/桶，以缓解油价上涨的压力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9817502.d.html</link>
+            <guid>2066574</guid>
+            <pubDate>Fri, 12 Mar 2021 19:11:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【沙特为首多国联军持续空袭也门胡塞武装据点】多国联军发布的视频显示，联军出动战机轰炸了也门北部马里卜省内一处据称是胡塞武装防空设施的据点。多国联军司令部发言人在一份声明中透露，此次空袭不仅摧毁了胡塞武装的防空设施，还炸死数名“外国军事专家”。也门局势近期持续紧张，也门胡塞武装3月以来多次声称使用无人机和导弹对沙特境内目标发动袭击，沙特为首多国联军则从3月7日开始对也门境内目标发动密集空袭。与此同时，也门政府军与为其提供支持的沙特为首多国联军和胡塞武装也在也门境内西部和北部多个省份开展拉锯战。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9804136.d.html</link>
@@ -126,24 +144,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2809346.d.html</link>
             <guid>2066481</guid>
             <pubDate>Fri, 12 Mar 2021 14:57:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  AMC院线短线拉升，涨超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2808938.d.html</link>
-            <guid>2066479</guid>
-            <pubDate>Fri, 12 Mar 2021 14:57:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：巴布亚新几内亚莱岛西北偏西106千米处发生5.1级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2808237.d.html</link>
-            <guid>2066477</guid>
-            <pubDate>Fri, 12 Mar 2021 14:56:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股区块链板块普跌，Marathon Patent跌超5%，迅雷、Riot Blockchain跌超4%，第九城市跌超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9649505.d.html</link>
-            <guid>2066476</guid>
-            <pubDate>Fri, 12 Mar 2021 14:55:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
