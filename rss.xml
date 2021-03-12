@@ -4,11 +4,28 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 12 Mar 2021 16:41:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Mar 2021 17:38:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国海关和边境保护局：将继续保持非必要旅行的暂时性限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi2897336.d.html</link>
+            <guid>2066544</guid>
+            <pubDate>Fri, 12 Mar 2021 17:12:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  惠誉：美国气候政策可能会改变一些美国公司的商业模式。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9729020.d.html</link>
+            <guid>2066540</guid>
+            <pubDate>Fri, 12 Mar 2021 16:57:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【分析师称苹果市值有望达到3万亿美元】花旗和Wedbush的分析师都认为苹果的市值有望实现3万亿美元这一里程碑，这也意味着苹果股价与周四收盘价相比将上涨近50%。花旗分析师Jim Suva周五在一份报告中写道，开发苹果汽车可能会在2024年之后将公司的销售额提高10%至15%。他预计到2025年，全球电动汽车市场将超过智能手机、个人电脑、平板电脑和可穿戴设备市场的总和。Wedbush分析师Daniel Ives对苹果的目标为175美元，为华尔街最高。他也预计苹果市值将达到3万亿美元。 周三一份报告中，Ives将近期苹果股价下跌称为是“黄金买入机会”。]]></title>
+            <guid>2066539</guid>
+            <pubDate>Fri, 12 Mar 2021 16:56:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  欧盟法律提案草案：“假证书”可能对公众健康构成重大风险。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi2866103.d.html</link>
@@ -162,90 +179,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2797072.d.html</link>
             <guid>2066451</guid>
             <pubDate>Fri, 12 Mar 2021 14:38:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  部分WSB概念股走高，高斯电子涨超10%，游戏驿站涨超7%，Express涨超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2795572.d.html</link>
-            <guid>2066448</guid>
-            <pubDate>Fri, 12 Mar 2021 14:36:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  电动车初创公司Lordstown Motors跌超18%，此前遭沽空机构Hindenburg Research做空。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9637278.d.html</link>
-            <guid>2066447</guid>
-            <pubDate>Fri, 12 Mar 2021 14:36:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  DocuSign跌近5%，2021财年净亏损扩大，差于市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2795240.d.html</link>
-            <guid>2066446</guid>
-            <pubDate>Fri, 12 Mar 2021 14:35:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【生态环境部：抓紧编制2030年前二氧化碳排放达峰行动方案】3月12日，生态环境部党组书记孙金龙主持召开部党组会议，传达学习贯彻习近平总书记在全国两会期间重要讲话和全国两会精神。会议要求，要加快制定“十四五”生态环境保护规划。抓紧编制2030年前二氧化碳排放达峰行动方案。继续开展污染防治行动。抓紧研究制定深入打好污染防治攻坚战的意见，持续推进空气质量提升行动，继续实施水污染防治行动和海洋污染综合治理行动，深入开展土壤污染防治行动，推动生态环境质量持续改善。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9635684.d.html</link>
-            <guid>2066445</guid>
-            <pubDate>Fri, 12 Mar 2021 14:33:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  币安联合创始人：我们使用先进的技术检测来自美国的交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9635317.d.html</link>
-            <guid>2066444</guid>
-            <pubDate>Fri, 12 Mar 2021 14:33:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  币安联合创始人：调查并不意味着币安将面临索赔。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9634954.d.html</link>
-            <guid>2066443</guid>
-            <pubDate>Fri, 12 Mar 2021 14:32:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  币安联合创始人：公司有强大的反洗钱控制措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9634752.d.html</link>
-            <guid>2066442</guid>
-            <pubDate>Fri, 12 Mar 2021 14:32:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  阿里巴巴跌超3%，此前胡晓明辞任蚂蚁集团CEO。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9633690.d.html</link>
-            <guid>2066440</guid>
-            <pubDate>Fri, 12 Mar 2021 14:30:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  意大利总理德拉基：意大利方面将延长休假，用其他手段对抗贫困问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2791281.d.html</link>
-            <guid>2066439</guid>
-            <pubDate>Fri, 12 Mar 2021 14:29:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  币安联合创始人：对美国商品期货交易委员会（CFTC）的调查报告不予置评。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2791172.d.html</link>
-            <guid>2066438</guid>
-            <pubDate>Fri, 12 Mar 2021 14:29:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  币安联合创始人：我们会与全球的金融监管机构合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9631422.d.html</link>
-            <guid>2066435</guid>
-            <pubDate>Fri, 12 Mar 2021 14:26:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Cardinal Health：本公司收到美国证券交易委员会（SEC）传票，要求提供关于Cordis库存的医疗文件，本公司正配合SEC的问询。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2789382.d.html</link>
-            <guid>2066434</guid>
-            <pubDate>Fri, 12 Mar 2021 14:26:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股开盘前，道指期货涨0.08%，标普500指数期货跌0.45%，纳指期货跌1.61%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9630786.d.html</link>
-            <guid>2066433</guid>
-            <pubDate>Fri, 12 Mar 2021 14:25:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：欧洲央行货币政策决策者在最近一次会议上就美国救助法案的影响和前景争论不休。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2788749.d.html</link>
-            <guid>2066432</guid>
-            <pubDate>Fri, 12 Mar 2021 14:25:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
