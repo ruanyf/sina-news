@@ -4,16 +4,123 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 12 Mar 2021 02:40:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Mar 2021 03:26:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[  美国财长耶伦表示，经济刺激计划的规模是“合适的”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9107903.d.html</link>
-            <guid>2065461</guid>
-            <pubDate>Fri, 12 Mar 2021 02:39:39 GMT</pubDate>
+            <title><![CDATA[  高盛：预估美国全年四个季度的年化GDP同比增幅分别为5.5%，11.0%，8.5%和6.0%。]]></title>
+            <guid>2065751</guid>
+            <pubDate>Fri, 12 Mar 2021 03:25:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  天然气概念股异动，重庆燃气直线拉升触板，蓝天燃气、长春燃气、贵州燃气等快速跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2301380.d.html</link>
+            <guid>2065749</guid>
+            <pubDate>Fri, 12 Mar 2021 03:24:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【香港当前主要问题是政治问题 没有退让余地】今天，国务院港澳事务办公室常务副主任张晓明表示，香港当前存在的主要问题是政治问题，而且不是有的人说的选举制度要不要民主、民主步伐快一点还是慢一点的问题，而是涉及夺权与反夺权、颠覆与反颠覆、渗透与反渗透的较量，在这个问题上，我们没有退让的余地。  （人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9143254.d.html</link>
+            <guid>2065748</guid>
+            <pubDate>Fri, 12 Mar 2021 03:24:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【预告】国务院新闻办公室定于3月15日（星期一）10时举行新闻发布会，请国家统计局新闻发言人、国民经济综合统计司司长刘爱华介绍2021年1-2月份国民经济运行情况并答记者问。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9140503.d.html</link>
+            <guid>2065737</guid>
+            <pubDate>Fri, 12 Mar 2021 03:20:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京：对不符合要求的学科类校外培训机构 要进行整改】北京市教委发布声明称，恢复线下培训后，市区将继续依法依规对学科类校外培训机构进行严格管理，特别是针对义务教育阶段的学科类校外培训机构进一步加强对教师资质、超纲超前教学、教学质量不高、预付费资金、培训服务合同、未成年人保护等方面的监管，确保广大学生和家长的合法权益。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2297268.d.html</link>
+            <guid>2065736</guid>
+            <pubDate>Fri, 12 Mar 2021 03:19:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【上海市消保委：警惕健身房收钱后玩失踪】近日，上海市消保委发布2020年消费投诉十大典型问题指出，有的健身公司前期售卡时向消费者作出“游泳池即将开放”等承诺诱导消费者办卡，事后却拒不兑现。当消费者要求退款时，要么拖延退款，要么拒不退款，甚至佯装出“讲诚信、负责任”的姿态，向消费者承诺退款，而后就“玩失踪”，消费者想要维权十分困难。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9136369.d.html</link>
+            <guid>2065711</guid>
+            <pubDate>Fri, 12 Mar 2021 03:15:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  从地方医保局人士处证实，国家医疗保障局日前下发通知至各地方医保局及药品和医用耗材集中采购机构，要求在前期省级平台数据采集的基础上，将部分骨科高值耗材的数据采集工作延伸至医疗机构，包括人工关节类、 脊柱类和创伤类。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2293689.d.html</link>
+            <guid>2065694</guid>
+            <pubDate>Fri, 12 Mar 2021 03:15:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【“爱动健身”获过亿人民币C轮融资 将为小米智能家用健身设备提供内容】近日，全场景健身内容订阅平台“爱动健身”宣布完成来自顺为资本与小米联合投资的C轮融资，金额为过亿人民币。未来，爱动将为小米旗下一系列智能家用健身设备，提供适用于所有人群的全阶段健身课程。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9134766.d.html</link>
+            <guid>2065690</guid>
+            <pubDate>Fri, 12 Mar 2021 03:13:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞银：上调中海油目标价至12.1港元 评级“买入”】瑞银发表报告，指对中海油(0883.HK)维持正面看法，并为其于区内最看好股份，相信其产能前景强劲，相比同业生产成本更低，净现金资产负债表及自由现金流强劲，派息纪录亦良好。考虑该行提升布兰特期油价格预测，今年由每桶57美元上调至65.5美元，明年由每桶60美元上调至62美元；瑞银相应上调中海油2021至2024各年每股盈测分别17%、37%、11%及6%。目标价自11.7港元上调至12.1港元，评级维持“买入”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2291360.d.html</link>
+            <guid>2065677</guid>
+            <pubDate>Fri, 12 Mar 2021 03:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[台积电计划节约电力和水资源，并降低碳足迹。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2289233.d.html</link>
+            <guid>2065665</guid>
+            <pubDate>Fri, 12 Mar 2021 03:09:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[夏普取消了出售Sakai Display（堺显示产品公司）股份的计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9129787.d.html</link>
+            <guid>2065642</guid>
+            <pubDate>Fri, 12 Mar 2021 03:07:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  工信部：我国参与编制的两项汽车行业标准法规解读文件获联合国审议通过。下一步，我们将深度参与联合国智能网联汽车法规协调活动，积极牵头有关法规提案工作，不断提升我国在国际汽车法规制定和协调中的影响力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2284454.d.html</link>
+            <guid>2065607</guid>
+            <pubDate>Fri, 12 Mar 2021 03:03:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[台积电董事长刘德音：台积电目前业务非常强劲。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9125571.d.html</link>
+            <guid>2065606</guid>
+            <pubDate>Fri, 12 Mar 2021 03:02:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【贵州今年将培育“专精特新”中小企业100家以上】记者近日从贵州省工信厅获悉，贵州今年将通过加大资金支持和人才培训等措施，培育100家以上主营业务突出、竞争力强、成长性高、创新能力强的“专精特新”中小企业。贵州省工信厅副厅长敖鸿介绍， 近年来，为促进中小企业绿色、创新、转型发展，贵州省深入推进“专精特新”中小企业培育工程。目前，贵州已有14户企业成为国家级专精特新“小巨人”企业。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9120853.d.html</link>
+            <guid>2065563</guid>
+            <pubDate>Fri, 12 Mar 2021 02:56:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【国务院港澳办：香港当前存在的主要问题是政治问题】12日，在国新办新闻发布会上，国务院港澳事务办公室常务副主任张晓明表示，“修例风波”演变为社会动乱，充分证明香港当前存在的主要问题是政治问题，而且不是有的人说的选举制度要不要民主，民主步伐快一点还是慢一点的问题，而是涉及夺权与反夺权、颠覆与反颠覆、渗透与反渗透的较量，在这个问题上，我们没有退让的余地。（中新社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9120241.d.html</link>
+            <guid>2065561</guid>
+            <pubDate>Fri, 12 Mar 2021 02:55:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【湖北省去年压减粗钢产能780万吨】 3月11日，在鄂州市召开的全省钢铁行业技改示范交流现场会上，湖北省经信厅通报了湖北省钢铁行业技改工作推进情况：2020年，湖北省钢铁行业超低排放改造完成率达100%，引导8家钢铁企业整体关停退出、压减粗钢产能780万吨，用1年时间超额完成国家确定5年、省政府确定3年的压减产能任务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9117051.d.html</link>
+            <guid>2065533</guid>
+            <pubDate>Fri, 12 Mar 2021 02:51:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【安徽省出台促进旅游民宿发展指导意见 计划5年内旅游民宿超过1万家】近日，安徽省政府办公厅印发《关于促进旅游民宿发展的指导意见》，提出到2025年，实现全省旅游民宿从规模到质量的全面提升，力争超过10000家，推出一批精品旅游民宿，打造一批特色民宿集群，大幅提高接待能力和服务水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9113771.d.html</link>
+            <guid>2065514</guid>
+            <pubDate>Fri, 12 Mar 2021 02:47:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【在北京吃自助浪费将罚款 北京规定诱导超量点餐将最高拟罚一万】今天上午召开的市十五届人大常委会第二十九次会议，对《北京市反食品浪费规定（草案）》进行一审。规定草案提出，饭馆要设立劝导员，对顾客过量点餐进行提醒和劝导；而在外就餐的顾客如“光盘”，还有望获奖励或优惠。规定草案提出，自助餐经营者应当建立备餐评估、供餐巡查等制度，根据用餐人数合理布置餐台，配备不同规格的餐饮用具，引导消费者少量、多次取餐；可以采取事先约定的方式，对造成浪费的消费者收取相应费用。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2271792.d.html</link>
+            <guid>2065512</guid>
+            <pubDate>Fri, 12 Mar 2021 02:46:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国弗里蒙特消防部门表示，特斯拉工厂的火灾得到控制，事故未造成人员伤亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9110427.d.html</link>
+            <guid>2065478</guid>
+            <pubDate>Fri, 12 Mar 2021 02:42:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[  【南方电网：开展混合所有制企业转换经营机制和规范治理研究工作】南方电网公司全面启动了混合所有制企业深度转换经营机制和规范治理研究工作。此项研究将为南方电网公司落实国企改革三年行动方案，积极稳妥深化混合所有制改革，构建新发展格局，发挥国有企业的龙头带动作用，加快建设世界一流企业提供支撑。]]></title>
@@ -235,94 +342,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9055878.d.html</link>
             <guid>2065118</guid>
             <pubDate>Fri, 12 Mar 2021 01:38:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家能源局回应《能源技术创新“十四五”规划》何时发布：待时机成熟，将在国家能源局网站正式发布】国家能源局回应称，正在组织研究编制《能源技术创新“十四五”规划》，支撑能源领域重大技术装备创新发展。目前已完成规划初稿编制，正在抓紧与有关部门、行业内专家及企业充分沟通衔接，进一步修改完善规划文稿。待时机成熟，我们将在国家能源局网站正式发布。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2210926.d.html</link>
-            <guid>2065099</guid>
-            <pubDate>Fri, 12 Mar 2021 01:35:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：特斯拉弗里蒙特工厂发生火灾，消防员已到场应对。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2209773.d.html</link>
-            <guid>2065096</guid>
-            <pubDate>Fri, 12 Mar 2021 01:33:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[水泥板块延续涨势，宁波富达逼近涨停、四川金顶、鄂尔多斯、青松建化、天山股份跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2207969.d.html</link>
-            <guid>2065062</guid>
-            <pubDate>Fri, 12 Mar 2021 01:31:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[养老概念股开盘走高，宜华健康高开秒板，湖南发展、双箭股份、融捷健康、新华锦等跟涨。消息面上，国家发改委副主任胡祖才日前就养老育幼方面在会上表示，预计“十四五”我国将进入中度老龄化阶段，“十四五”《纲要草案》将积极应对人口老龄化上升为国家战略。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2207846.d.html</link>
-            <guid>2065061</guid>
-            <pubDate>Fri, 12 Mar 2021 01:31:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【成都共享充电宝悄然涨价：每小时费用从1元涨至4元】走访成都春熙路附近的商场、临街店铺和医院发现，成都市面上的共享充电宝品牌主要有街电、怪兽充电、小电和美团，每小时的租借费多为三四元，24小时封顶价从20元到40元不等。在共享充电宝刚进入市场时，租借费为1元/小时，涨价为普遍现象。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2206493.d.html</link>
-            <guid>2065047</guid>
-            <pubDate>Fri, 12 Mar 2021 01:30:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[天顺风能触及涨停，公司一季度净利润预增140%-215%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2204572.d.html</link>
-            <guid>2065021</guid>
-            <pubDate>Fri, 12 Mar 2021 01:27:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[三大股指高开，沪指涨0.3％，深成指涨0.49％，创业板涨0.8％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9045506.d.html</link>
-            <guid>2065018</guid>
-            <pubDate>Fri, 12 Mar 2021 01:26:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本内阁官房长官加藤胜信：日本首相菅义伟的访问是美国总统拜登的首次面对面峰会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9042961.d.html</link>
-            <guid>2065009</guid>
-            <pubDate>Fri, 12 Mar 2021 01:23:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：经济刺激计划促进学校大规模重新开放。如果进展顺利，美国民众可以在7月4日独立日当天小规模聚集。将致力于实现在7月4日时允许民众小规模聚集的目标。如果情况恶化，可能会重新实施限制措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9041834.d.html</link>
-            <guid>2064985</guid>
-            <pubDate>Fri, 12 Mar 2021 01:21:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[光伏太阳能、风电、汽车板块普涨；小米集团涨4.8%，公司拟回购至多100亿港元股份。]]></title>
-            <guid>2064983</guid>
-            <pubDate>Fri, 12 Mar 2021 01:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股恒指高开涨0.56％，国企指数涨1.19％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2199025.d.html</link>
-            <guid>2064982</guid>
-            <pubDate>Fri, 12 Mar 2021 01:20:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[人民币中间价报6.4845，上调125点，上一交易日中间价报6.4970，在岸人民币上一交易日收报6.4911。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9036689.d.html</link>
-            <guid>2064948</guid>
-            <pubDate>Fri, 12 Mar 2021 01:15:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日本内阁官房长官加藤胜信：日本首相菅义伟将于4月上半月访问美国参加峰会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9032441.d.html</link>
-            <guid>2064915</guid>
-            <pubDate>Fri, 12 Mar 2021 01:10:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家卫健委：31个省（自治区、直辖市）和新疆生产建设兵团报告新增无症状感染者10例（均为境外输入）；当日转为确诊病例3例（均为境外输入）；当日解除医学观察10例（均为境外输入）；尚在医学观察无症状感染者244例（均为境外输入）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9029325.d.html</link>
-            <guid>2064910</guid>
-            <pubDate>Fri, 12 Mar 2021 01:06:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中央广播电视总台2021年“3·15”晚会的主题是：提振消费 从心开始。（央视财经）]]></title>
-            <guid>2064907</guid>
-            <pubDate>Fri, 12 Mar 2021 01:05:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
