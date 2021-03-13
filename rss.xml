@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 13 Mar 2021 07:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Mar 2021 08:29:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【突发！纽约街头发生枪战】美国《纽约邮报》消息，当地时间12日晚，纽约皇后区街头两个帮派交火，导致一名37岁女性中枪死亡。消息人士透露，当时警方接到了街区附近居民报警电话，有两波大约五六名年轻人在互相追赶、开枪。随后，这名37岁女性却意外中枪。报道还称，目前警方尚未逮捕任何人，调查也正在进行之中。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0359325.d.html</link>
+            <guid>2067293</guid>
+            <pubDate>Sat, 13 Mar 2021 08:20:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国地质勘探局：尼加拉瓜里瓦斯东南方向8千米处发生5.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0354848.d.html</link>
+            <guid>2067292</guid>
+            <pubDate>Sat, 13 Mar 2021 08:14:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  爱尔兰外长科夫尼：英国对美国贸易协议表现出一种“反常的民族主义”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3513240.d.html</link>
+            <guid>2067291</guid>
+            <pubDate>Sat, 13 Mar 2021 08:13:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【对驾车者和他人构成潜在风险 美国监管或就特斯拉出台措施】美国国家运输安全委员会呼吁对自动驾驶系统在美国公共道路上的设计和使用提出更严格的联邦要求。该机构指出，特斯拉最近发布了其2级自动驾驶系统的Beta版，对驾车者和其他道路使用者构成了潜在风险。（财经网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0339142.d.html</link>
+            <guid>2067283</guid>
+            <pubDate>Sat, 13 Mar 2021 07:49:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据阿富汗帕杰瓦克通讯社报道，当地时间3月12日晚间阿富汗赫拉特省首府赫拉特市发生一起汽车炸弹袭击事件，目前已造成至少8人死亡，60人受伤。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0334204.d.html</link>
+            <guid>2067282</guid>
+            <pubDate>Sat, 13 Mar 2021 07:42:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海天味业在武汉成立新公司，注册资本5000万元】 3月9日，代代田（武汉）食品集团有限公司在湖北武汉成立，注册资本5000万人民币，法定代表人为王晓东，公司经营范围包括食品生产；食品经营；货物进出口等。该公司由佛山市海天调味食品股份有限公司100%持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3493145.d.html</link>
+            <guid>2067281</guid>
+            <pubDate>Sat, 13 Mar 2021 07:42:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【交通运输部：3月12日发送旅客3099万人次，环比上升7.3%】 来自国务院联防联控机制春运工作专班数据显示，3月12日（正月二十九）全国铁路、公路、水路、民航共发送旅客3099.0万人次，环比上升7.3%，比2019年同期（正月二十九）下降31.4%，比2020年同期上升115.8%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0319381.d.html</link>
@@ -305,36 +341,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0023644.d.html</link>
             <guid>2066644</guid>
             <pubDate>Sat, 13 Mar 2021 00:24:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“十四五”规划和2035年远景目标纲要：打造数字经济新优势】《中华人民共和国国民经济和社会发展第十四个五年规划和2035年远景目标纲要》全文正式发布。全文提出，打造数字经济新优势。聚焦高端芯片、操作系统、人工智能关键算法、传感器等关键领域。加快布局量子计算、量子通信、神经芯片、DNA存储等前沿技术。构建基于5G的应用场景和产业生态，在智能交通、智慧物流、智慧能源、智慧医疗等重点领域开展试点示范。实施“上云用数赋智”行动，推动数据赋能全产业链协同转型。 （新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3181397.d.html</link>
-            <guid>2066643</guid>
-            <pubDate>Sat, 13 Mar 2021 00:23:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“十四五”规划和2035年远景目标纲要：加快发展非化石能源 大力提升风电、光伏发电规模】《中华人民共和国国民经济和社会发展第十四个五年规划和2035年远景目标纲要》全文正式发布。全文提出，构建现代能源体系。加快发展非化石能源，坚持集中式和分布式并举，大力提升风电、光伏发电规模，加快发展东中部分布式能源，有序发展海上风电，加快西南水电基地建设，安全稳妥推动沿海核电建设，建设一批多能互补的清洁能源基地，非化石能源占能源消费总量比重提高到20%左右。合理控制煤电建设规模和发展节奏，推进以电代煤。 （新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3178570.d.html</link>
-            <guid>2066642</guid>
-            <pubDate>Sat, 13 Mar 2021 00:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微软：到3月9日，仍有超过10万台服务器存在漏洞；大约有82,000个待更新。3月11日，该公司又发布了一系列更新，发布的更新覆盖了互联网上曝光的所有版本的95%以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0012206.d.html</link>
-            <guid>2066639</guid>
-            <pubDate>Sat, 13 Mar 2021 00:08:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMC影院：准备恢复加州56个地点的运营。在洛杉矶的两家旗舰店将于3月15日重开。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3169406.d.html</link>
-            <guid>2066638</guid>
-            <pubDate>Sat, 13 Mar 2021 00:06:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【云南新增2例境外输入无症状感染者】据云南省卫生健康委员会3月13日通报，3月12日0时至24时，云南省无新增本地确诊病例和无症状感染者。新增境外输入无症状感染者2例，中国籍、缅甸输入。截至3月12日24时，云南省现有境外输入确诊病例3例，无症状感染者9例，均在定点医疗机构隔离治疗和医学观察。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0001082.d.html</link>
-            <guid>2066633</guid>
-            <pubDate>Fri, 12 Mar 2021 23:52:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
