@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 13 Mar 2021 18:28:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Mar 2021 19:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【秘鲁政府自3月15日起调整入境防疫规定】当地时间3月13日，秘鲁政府宣布，3月15日至3月28日，凡自英国、南非和巴西始发，或于近14日内在上述地区中转、不持秘鲁当地居留的外籍人士，一律禁止入境。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi3900230.d.html</link>
+            <guid>2068735</guid>
+            <pubDate>Sat, 13 Mar 2021 19:09:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  澳大利亚和新加坡希望在7月前就“旅游气泡”达成协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikkntiam0731383.d.html</link>
+            <guid>2068690</guid>
+            <pubDate>Sat, 13 Mar 2021 18:47:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【十年期美债收益率三因素分析框架】美联储前主席伯南克认为，影响美国十年期国债收益率的主要因素分为三大类：实际自然利率、通胀预期和期限溢价。经济基本面向好，带动实际GDP增速走高，拉升经济的整体回报水平，实际利率走高从而带动美债收益率上升；通胀水平走高，提升市场加息预期，投资者会要求更高的收益率水平；期限溢价是持有长期债券的债权人所要求的额外风险补偿，投资者风险偏好较低时，期限溢价上升推高美债收益率（民生证券研究院）]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi3835439.d.html</link>
