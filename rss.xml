@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 13 Mar 2021 21:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Mar 2021 22:26:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  中国地震台网自动测定：03月14日05时22分在新西兰克马德克群岛地区附近（南纬28.25度，西经176.74度）发生6.1级左右地震，最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikkntiam0826217.d.html</link>
+            <guid>2068850</guid>
+            <pubDate>Sat, 13 Mar 2021 21:35:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【索马里季节性降雨不足 威胁民众生计】联合国人道协调厅当地时间3月12日表示，索马里自2020年11月以来极端缺水，而未来几个月预测的降雨不足可能加剧成千上万流离失所者的困境。联合国人道协调厅发言人莱克表示，人道主义组织正在向受灾地区的约30万人提供水源，索马里人道主义基金已拨出1300万美元，以加强应对工作。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi3911664.d.html</link>
@@ -210,18 +216,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0419945.d.html</link>
             <guid>2067316</guid>
             <pubDate>Sat, 13 Mar 2021 09:56:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河北唐山4家钢铁企业“顶风作案”被抓现行 当地回应：正立行立改】日前，生态环境部在河北省唐山市暗访发现，当地4家钢铁企业存在重污染天气应急响应期间未落实相应减排要求、生产记录造假等问题，引发舆论关注。13日，当地回应称，正立行立改，严格落实重污染天气应急响应措施。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3560654.d.html</link>
-            <guid>2067311</guid>
-            <pubDate>Sat, 13 Mar 2021 09:25:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【停飞近两年 波音737 MAX迎来新买家】美国飞机制造商波音公司12日宣布，达成一份总额29亿美元的波音737 MAX客机新订单。公司股价应声上涨6%。波音公司说，这份新订单来自名为“777伙伴”的一家私人股权投资公司。根据合同，777伙伴同意购买24架波音737 MAX 8型客机，并有可能加购60架。这些客机将服务于加拿大弗莱尔航空公司，777伙伴持有这家廉价航空运营商的股份。波音737 MAX客机在2018年10月和2019年3月发生两起重大空难，共造成346人丧生。2019年3月起，全球多个国家和地区宣布停飞或禁飞737 MAX系列客机。两年来，波音公司遭遇客机退订潮。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3551181.d.html</link>
-            <guid>2067308</guid>
-            <pubDate>Sat, 13 Mar 2021 09:09:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
