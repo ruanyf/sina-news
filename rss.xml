@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 13 Mar 2021 01:55:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Mar 2021 02:39:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息，美国关于结束也门冲突的建议中包括一项在也门实现全面停火的计划，即同时停止沙特对也门领土的空袭和胡塞武装叛军发射无人机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3284898.d.html</link>
+            <guid>2066793</guid>
+            <pubDate>Sat, 13 Mar 2021 02:39:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息，在被问及Coinbase是否需要允许在其平台上交易Dogecoin(狗狗币)时，马斯克回应称“是的”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0108268.d.html</link>
+            <guid>2066690</guid>
+            <pubDate>Sat, 13 Mar 2021 02:16:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国新西部能源服务公司宣布拟合并股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3260232.d.html</link>
+            <guid>2066686</guid>
+            <pubDate>Sat, 13 Mar 2021 02:07:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【贾红波离任前海开源基金总经理】3月12日晚间，前海开源基金发布高级管理人员变更公告称，总经理贾红波因个人发展原因离任，由董事长王兆华代任总经理一职，任职日期为2021年3月11日。关于其去向，据记者了解，贾红波仍将在公募行业任职，下一站或为北京一家基金公司。“贾总本身家就在北京，接下来将在北京一家公司任职，他这次离任是出于个人职业发展考虑作出的选择。据我所知，他最新加盟的公司应该很快就会发任职公告。”一位知情人士透露。（中国基金报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3256798.d.html</link>
+            <guid>2066685</guid>
+            <pubDate>Sat, 13 Mar 2021 02:03:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[腾讯投资的美术宝教育拟赴美IPO。去年美术宝教育现金收入破20亿元；这是近期第三家冲刺美股的教育公司，此前还有掌门教育和火花思维。（36氪）]]></title>
             <guid>2066677</guid>
@@ -227,24 +251,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9817502.d.html</link>
             <guid>2066574</guid>
             <pubDate>Fri, 12 Mar 2021 19:11:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【沙特为首多国联军持续空袭也门胡塞武装据点】多国联军发布的视频显示，联军出动战机轰炸了也门北部马里卜省内一处据称是胡塞武装防空设施的据点。多国联军司令部发言人在一份声明中透露，此次空袭不仅摧毁了胡塞武装的防空设施，还炸死数名“外国军事专家”。也门局势近期持续紧张，也门胡塞武装3月以来多次声称使用无人机和导弹对沙特境内目标发动袭击，沙特为首多国联军则从3月7日开始对也门境内目标发动密集空袭。与此同时，也门政府军与为其提供支持的沙特为首多国联军和胡塞武装也在也门境内西部和北部多个省份开展拉锯战。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9804136.d.html</link>
-            <guid>2066569</guid>
-            <pubDate>Fri, 12 Mar 2021 18:50:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  前美国民主党参议员Baucus：交易平台币安正在研究是否可能在美国商品期货交易委员会（CFTC）注册。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9801195.d.html</link>
-            <guid>2066568</guid>
-            <pubDate>Fri, 12 Mar 2021 18:46:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  前美国民主党参议员Baucus拒绝就美国商品期货交易委员会（CFTC）对币安的审查置评。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9801123.d.html</link>
-            <guid>2066567</guid>
-            <pubDate>Fri, 12 Mar 2021 18:46:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
