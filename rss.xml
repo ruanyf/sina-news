@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 13 Mar 2021 19:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Mar 2021 20:25:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【索马里季节性降雨不足 威胁民众生计】联合国人道协调厅当地时间3月12日表示，索马里自2020年11月以来极端缺水，而未来几个月预测的降雨不足可能加剧成千上万流离失所者的困境。联合国人道协调厅发言人莱克表示，人道主义组织正在向受灾地区的约30万人提供水源，索马里人道主义基金已拨出1300万美元，以加强应对工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi3911664.d.html</link>
+            <guid>2068771</guid>
+            <pubDate>Sat, 13 Mar 2021 19:29:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【秘鲁政府自3月15日起调整入境防疫规定】当地时间3月13日，秘鲁政府宣布，3月15日至3月28日，凡自英国、南非和巴西始发，或于近14日内在上述地区中转、不持秘鲁当地居留的外籍人士，一律禁止入境。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi3900230.d.html</link>
@@ -228,30 +234,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3533655.d.html</link>
             <guid>2067302</guid>
             <pubDate>Sat, 13 Mar 2021 08:41:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【突发！纽约街头发生枪战】美国《纽约邮报》消息，当地时间12日晚，纽约皇后区街头两个帮派交火，导致一名37岁女性中枪死亡。消息人士透露，当时警方接到了街区附近居民报警电话，有两波大约五六名年轻人在互相追赶、开枪。随后，这名37岁女性却意外中枪。报道还称，目前警方尚未逮捕任何人，调查也正在进行之中。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0359325.d.html</link>
-            <guid>2067293</guid>
-            <pubDate>Sat, 13 Mar 2021 08:20:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国地质勘探局：尼加拉瓜里瓦斯东南方向8千米处发生5.0级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0354848.d.html</link>
-            <guid>2067292</guid>
-            <pubDate>Sat, 13 Mar 2021 08:14:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  爱尔兰外长科夫尼：英国对美国贸易协议表现出一种“反常的民族主义”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3513240.d.html</link>
-            <guid>2067291</guid>
-            <pubDate>Sat, 13 Mar 2021 08:13:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【锂电池供需缺口超20%，我国碳酸锂价格4个月翻倍】 碳酸锂是锂电池生产所必须的原材料之一，截至3月12日，国内电池级碳酸锂市场均价为每吨83500元，一周时间每吨上涨了6000元，四个月时间现货价格已经翻倍，几乎隔天就要调涨一次。不仅是碳酸锂，锂电池中所需的其他锂盐价格也持续走高，从年初1月份至今，碳酸锂价格上涨近60%，氢氧化锂涨价35%，磷酸铁锂涨价近20%。据悉，本轮碳酸锂价格上涨主要是由于供需两端不平衡所造成的。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0350242.d.html</link>
-            <guid>2067290</guid>
-            <pubDate>Sat, 13 Mar 2021 08:07:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
