@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 13 Mar 2021 22:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Mar 2021 23:25:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：1、关于2020年国民经济和社会发展计划执行情况与2021年国民经济和社会发展计划草案的报告；2、关于2020年中央和地方预算执行情况与2021年中央和地方预算草案的报告；3、奋力推动政法工作高质量发展；4、擘画新蓝图 共享新机遇；5、《政府工作报告》单行本及融媒体读物出版；6、王毅同伊拉克外长侯赛因通电话；7、完善特区选举制度体现香港整体利益 任何外部干预都阻挡不了正义的步伐；8、我国林地林木资产价值超25万亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikkntiam0882511.d.html</link>
+            <guid>2068876</guid>
+            <pubDate>Sat, 13 Mar 2021 23:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟称中国是关键贸易伙伴 中欧投资协定将促进欧企赴华投资】当地时间12日，欧盟委员会发布新闻公报称，中欧投资协定将给赴华投资的欧洲企业、投资者和服务提供商提供更大的法律确定性、更好的市场准入条件与规则。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikkntiam0878947.d.html</link>
+            <guid>2068873</guid>
+            <pubDate>Sat, 13 Mar 2021 23:09:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  中国地震台网自动测定：03月14日05时22分在新西兰克马德克群岛地区附近（南纬28.25度，西经176.74度）发生6.1级左右地震，最终结果以正式速报为准。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikkntiam0826217.d.html</link>
@@ -199,23 +211,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0443806.d.html</link>
             <guid>2067325</guid>
             <pubDate>Sat, 13 Mar 2021 10:37:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  德国选择党联合主席表示，德国不能陷入对少量几个能源供应方的依赖，因此必须完成“北溪-2”号管道项目。]]></title>
-            <guid>2067320</guid>
-            <pubDate>Sat, 13 Mar 2021 10:10:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河钢集团计划实现2022年碳达峰2050年碳中和】河钢集团12日发布低碳绿色发展行动计划，提出碳达峰、碳中和时间表和路线图：2022年实现碳达峰，2025年碳排放量较峰值降10%以上，2030年碳排放量较峰值降30％以上，2050年实现碳中和。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3581476.d.html</link>
-            <guid>2067318</guid>
-            <pubDate>Sat, 13 Mar 2021 10:01:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  德国选择党联合主席表示，德国不能陷入对少量几个能源供应方的依赖，因此必须完成“北溪-2”号管道项目。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0419945.d.html</link>
-            <guid>2067316</guid>
-            <pubDate>Sat, 13 Mar 2021 09:56:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
