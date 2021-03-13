@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 13 Mar 2021 16:40:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Mar 2021 17:37:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【十年期美债收益率三因素分析框架】美联储前主席伯南克认为，影响美国十年期国债收益率的主要因素分为三大类：实际自然利率、通胀预期和期限溢价。经济基本面向好，带动实际GDP增速走高，拉升经济的整体回报水平，实际利率走高从而带动美债收益率上升；通胀水平走高，提升市场加息预期，投资者会要求更高的收益率水平；期限溢价是持有长期债券的债权人所要求的额外风险补偿，投资者风险偏好较低时，期限溢价上升推高美债收益率（民生证券研究院）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi3835439.d.html</link>
+            <guid>2068581</guid>
+            <pubDate>Sat, 13 Mar 2021 17:18:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【菲律宾日增确诊5千，马尼拉将再次宵禁】截至3月13日，菲律宾社区隔离整整一年。当天下午四时，菲律宾卫生部公布日增确诊5千例，为今年单日确诊新高。菲首都大马尼拉地区因被列为“高危险区”，从3月15日开始，将再次实施为期2周的宵禁，每天宵禁时间为晚10时至次日晨5时（中国新闻网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi3820493.d.html</link>
+            <guid>2068579</guid>
+            <pubDate>Sat, 13 Mar 2021 16:53:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  欧洲地中海地震中心：克马德克群岛发生5.1级地震。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3770268.d.html</link>
@@ -246,30 +258,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3493145.d.html</link>
             <guid>2067281</guid>
             <pubDate>Sat, 13 Mar 2021 07:42:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【交通运输部：3月12日发送旅客3099万人次，环比上升7.3%】 来自国务院联防联控机制春运工作专班数据显示，3月12日（正月二十九）全国铁路、公路、水路、民航共发送旅客3099.0万人次，环比上升7.3%，比2019年同期（正月二十九）下降31.4%，比2020年同期上升115.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0319381.d.html</link>
-            <guid>2067275</guid>
-            <pubDate>Sat, 13 Mar 2021 07:19:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿凡达再度成为全球票房冠军】 据灯塔专业版实时数据，《阿凡达》自3月12日在内地重映以来，票房累计达5090万元。按3月13日汇率计算，该片全球累计票房已达27.98亿美元，超过此前全球票房冠军《复仇者联盟4》(27.975亿美元)。2019年，《复仇者联盟4》正是从《阿凡达》手中夺过全球票房冠军。（北京晚报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0316478.d.html</link>
-            <guid>2067274</guid>
-            <pubDate>Sat, 13 Mar 2021 07:14:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【谷歌因不当搜集用户数据遭起诉，美国法官要求其正视诉讼】 谷歌未能阻止一起诉讼，该诉讼称，即使用户在“隐身”模式下浏览以保持搜索活动的私密性，谷歌也会秘密地收集大量的互联网数据。消费者以集体诉讼的形式提起诉讼，称即使他们关闭了Chrome浏览器的数据收集功能，网站使用的其他谷歌工具也会收集他们的个人信息。一名联邦法官周五拒绝了Alphabet部门最初提出的撤案请求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3472800.d.html</link>
-            <guid>2067272</guid>
-            <pubDate>Sat, 13 Mar 2021 07:10:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：阿富汗南部的路边炸弹袭击汽车，造成人员伤亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3472471.d.html</link>
-            <guid>2067271</guid>
-            <pubDate>Sat, 13 Mar 2021 07:10:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
