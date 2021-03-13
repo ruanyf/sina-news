@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 13 Mar 2021 15:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Mar 2021 16:40:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  欧洲地中海地震中心：克马德克群岛发生5.1级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3770268.d.html</link>
+            <guid>2068569</guid>
+            <pubDate>Sat, 13 Mar 2021 15:25:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国白宫：拜登总统将于周六会见白宫安全顾问官员。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0608443.d.html</link>
@@ -264,30 +270,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3472471.d.html</link>
             <guid>2067271</guid>
             <pubDate>Sat, 13 Mar 2021 07:10:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  谷歌公司将因窥探“隐身”浏览而面临起诉。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0303559.d.html</link>
-            <guid>2067269</guid>
-            <pubDate>Sat, 13 Mar 2021 06:53:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【广发证券：创业板重点公司全动态PE由上周40.37倍下降到本周38.85倍】广发证券统计显示，本周A股重点公司总体全动态PE由上周15.42倍下降到本周15.11倍；A股重点公司整体剔除金融服务业全动态PE由上周21.40倍下降到本周20.81倍。 创业板重点公司全动态PE由上周40.37倍下降到本周38.85倍；中小板重点公司全动态PE由上周25.14倍下降到本周24.03倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0285695.d.html</link>
-            <guid>2067264</guid>
-            <pubDate>Sat, 13 Mar 2021 06:24:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  截至3月13日，印度冠状病毒相关死亡人数增至158446人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3442712.d.html</link>
-            <guid>2067263</guid>
-            <pubDate>Sat, 13 Mar 2021 06:21:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【微软：仍有超过10万台Exchange服务器易受攻击】 微软表示，一直在与RiskIQ合作，帮助近期因本地部署的Exchange服务器遭攻击而受影响的用户。截至3月9日，仍有超过10万台Exchange服务器易受攻击；约8.2台有待更新。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0273637.d.html</link>
-            <guid>2067260</guid>
-            <pubDate>Sat, 13 Mar 2021 06:05:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
