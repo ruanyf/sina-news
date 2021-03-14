@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 14 Mar 2021 18:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Mar 2021 19:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国地质勘探局：冰岛Alftanes西南8公里处发生5.4级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam1586975.d.html</link>
+            <guid>2069840</guid>
+            <pubDate>Sun, 14 Mar 2021 18:56:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  利比亚国家石油公司：利比亚2月原油出口收入为12.35亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam1562242.d.html</link>
@@ -227,18 +233,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi4474039.d.html</link>
             <guid>2069580</guid>
             <pubDate>Sun, 14 Mar 2021 10:55:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网正式测定：03月14日18时26分在新疆阿克苏地区拜城县发生4.5级地震，震源深度22千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi4463163.d.html</link>
-            <guid>2069575</guid>
-            <pubDate>Sun, 14 Mar 2021 10:36:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网自动测定：3月14日18时26分在新疆阿克苏地区拜城县附近发生4.8级左右地震，最终结果以正式速报为准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikkntiam1303203.d.html</link>
-            <guid>2069574</guid>
-            <pubDate>Sun, 14 Mar 2021 10:31:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
