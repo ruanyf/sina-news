@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 14 Mar 2021 17:36:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Mar 2021 18:27:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  利比亚国家石油公司：利比亚2月原油出口收入为12.35亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam1562242.d.html</link>
+            <guid>2069802</guid>
+            <pubDate>Sun, 14 Mar 2021 18:11:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  爱尔兰健康产品监管局(HPRA)：将继续参与欧洲药品管理局（EMA）的评估。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi4680674.d.html</link>
@@ -233,36 +239,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikkntiam1303203.d.html</link>
             <guid>2069574</guid>
             <pubDate>Sun, 14 Mar 2021 10:31:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国大豆库存“告急”，或面临“耗尽”，期货价格创6年新高】 本周，美国芝加哥商品交易所大豆主力合约盘中最高达到每蒲式耳14.6美元，为2014年6月以来交投最活跃大豆合约的最高水平。 美国农业部本月10日发布农作物月度报告表示，强劲的出口需求导致本就紧俏的美国大豆库存进一步下降。3月美国大豆期末库存预估为326万吨，与2月份持平，库存为2013年以来最低。引发进入夏季后，美国大豆供应可能耗尽的担忧，分析师预计美国大豆期末库存可能只能满足9.5天的需求。美国芝加哥麦加希期货公司负责人弗吉尼娅•麦加希称，值得注意的是，现在大豆出口商已经出售了98%的大豆，但他们还有6个月的时间才能收获新的大豆。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi4457087.d.html</link>
-            <guid>2069572</guid>
-            <pubDate>Sun, 14 Mar 2021 10:25:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【奥来德：拟推超额业绩奖励基金计划】奥来德发布超额业绩奖励基金计划(草案)，该奖励基金计划采取设立超额业绩奖励基金的形式。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikkntiam1298413.d.html</link>
-            <guid>2069571</guid>
-            <pubDate>Sun, 14 Mar 2021 10:23:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【四川全面禁止从省外违规调运生猪】近期，湖北、云南及四川省相继在非法调入生猪中检测出非洲猪瘟阳性病例，非洲猪瘟防控形势依然严峻。3月11日，四川省农业农村厅近日组织召开全省非洲猪瘟防控电视电话会，就抓好今年非洲猪瘟防控工作进行再强调、再部署。会议要求，要严格调运监管，全面禁止从省外违规调运生猪，严厉查处打击非法违规调运生猪行为。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi4454458.d.html</link>
-            <guid>2069570</guid>
-            <pubDate>Sun, 14 Mar 2021 10:21:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【石家庄供暖时间延长至3月31日】根据气象预报，河北3月下旬气温波动较大，从相关部门了解到，受天气影响，3月15日凌晨石家庄市将继续供暖，暂定停暖日期为3月31日。具体停暖时间根据天气变化情况另行通知。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi4452189.d.html</link>
-            <guid>2069567</guid>
-            <pubDate>Sun, 14 Mar 2021 10:17:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据今日俄罗斯：SpaceX“猎鹰9”号火箭发射了最新一批星链卫星。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi4445795.d.html</link>
-            <guid>2069565</guid>
-            <pubDate>Sun, 14 Mar 2021 10:06:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
