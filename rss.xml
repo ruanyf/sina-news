@@ -4,7 +4,7 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 14 Mar 2021 20:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Mar 2021 21:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -216,23 +216,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi4509800.d.html</link>
             <guid>2069600</guid>
             <pubDate>Sun, 14 Mar 2021 11:59:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【 闲鱼给基民发了封信：风物长宜放眼量，莫言轻易挂闲鱼】 公开信称：最近因为市场波动，仅一周就有20万人涌入闲鱼，表示“基金亏了”求回血。]]></title>
-            <guid>2069591</guid>
-            <pubDate>Sun, 14 Mar 2021 11:23:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大众汽车、英国石油公司及其旗下德国加油站品牌Aral计划在欧洲投资一个电动汽车充电网络。（德国经理人杂志）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi4489188.d.html</link>
-            <guid>2069590</guid>
-            <pubDate>Sun, 14 Mar 2021 11:22:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据悉，宝马将在下周三的新闻发布会上公布计划，2025年之前，所有新车都将使用可重复使用的零部件。（星期日图片报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikkntiam1328260.d.html</link>
-            <guid>2069588</guid>
-            <pubDate>Sun, 14 Mar 2021 11:15:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
