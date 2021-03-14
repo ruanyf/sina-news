@@ -4,11 +4,16 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 14 Mar 2021 13:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Mar 2021 14:24:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【青海180亿元单晶硅棒项目开建助推光伏产业集群发展】青海高景光伏科技产业园50GW直拉单晶硅棒项目近日在西宁奠基动工。这个项目的落户建设将带动青海光伏全产业链发展，助力当地打造光伏产业集群。青海高景光伏科技产业园50GW直拉单晶硅棒项目总投资约180亿元，主要研发制造大尺寸单晶硅棒。项目计划分三期投资建设，全部投产后预计可实现年产值约170亿元，创造8000个至10000个就业岗位。（新华社）]]></title>
+            <guid>2069637</guid>
+            <pubDate>Sun, 14 Mar 2021 14:08:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【避免意外清盘，多只定制基金修改基金合同，拟取消自动清盘条款】 持有人大会表决清盘、触发合同终止条款清盘是迷你基金清盘的两大类型，随着近一年以来债市震荡带来的机构资金到期赎回压力，部分机构定制基金近期密集发布公告，拟取消基金的自动清盘条款，变更为持有人大会表决清盘，以避免基金开放后大额赎回导致意外清盘的现象。中银丰荣定开债、南方弘利定开债、中银丰润定开债、华安安逸半年定开债等十多只产品，都在近期公告修改基金合同，将取消基金合同中的自动清盘条款。（中国基金报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikkntiam1400609.d.html</link>
@@ -316,36 +321,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikkntiam1218799.d.html</link>
             <guid>2069530</guid>
             <pubDate>Sun, 14 Mar 2021 08:08:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲地中海地震中心：克马德克群岛发生5.0级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi4365262.d.html</link>
-            <guid>2069522</guid>
-            <pubDate>Sun, 14 Mar 2021 07:49:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【九联科技：中签号码出炉 共5.1万个】九联科技披露网上中签结果，中签号码共有51000个，每个中签号码只能认购500股九联科技A股股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi4361963.d.html</link>
-            <guid>2069521</guid>
-            <pubDate>Sun, 14 Mar 2021 07:43:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  新华社受权发布全国人民代表大会常务委员会工作报告。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikkntiam1202238.d.html</link>
-            <guid>2069517</guid>
-            <pubDate>Sun, 14 Mar 2021 07:39:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【海口市开展房地产市场整治 严重违法违规房企要出局】从海口市住建局获悉，海口自3月起在全市范围内联合开展为期一年的房地产市场整治活动。近期海口市部分房地产项目出现捆绑销售、价外加价等违法违规现象。按照整治活动要求，加强研究健全行政监管和行业自律相结合的市场监管体制，加快完善失信惩戒机制，对房地产开发企业、中介机构及从业人员等进行全面梳理、动态管理，对有严重违法违规行为的主体坚决清除出市场。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikkntiam1193510.d.html</link>
-            <guid>2069515</guid>
-            <pubDate>Sun, 14 Mar 2021 07:26:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【济南推行市民泉水直饮工程 执行0.3元/升水价】“泉城”济南近日全面推行市民泉水直饮工程建设。根据方案，对每一个具体的市民泉水直饮工程，其设计供水能力按服务人口每人每天不超过5升计算，严格控制取水量。市民泉水直饮工程执行0.3元/升水价，约合济南市内现有桶装水价格的三分之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi4344023.d.html</link>
-            <guid>2069513</guid>
-            <pubDate>Sun, 14 Mar 2021 07:15:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
