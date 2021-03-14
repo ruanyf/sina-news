@@ -4,7 +4,7 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 14 Mar 2021 01:59:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Mar 2021 02:38:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -218,18 +218,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3717933.d.html</link>
             <guid>2068428</guid>
             <pubDate>Sat, 13 Mar 2021 13:53:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据俄罗斯卫星网：亚美尼亚总统与议会各派领导人讨论提前选举的可能性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3704605.d.html</link>
-            <guid>2068167</guid>
-            <pubDate>Sat, 13 Mar 2021 13:30:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿联酋迪拜酋长公布《2040年迪拜城市规划》】 当地时间3月13日，阿联酋副总统、总理兼迪拜酋长谢赫·穆罕默德·本·拉希德·阿勒马克图姆正式公布《2040年迪拜城市规划》。根据该规划，迪拜在未来发展中将被划分为五大城市中心，即历史文化中心、国际金融中心、旅游和娱乐中心、2020世博会中心以及迪拜硅绿洲中心。另外，该规划还根据多用途和人口密集度的不同，分层确定了六个城市化水平，涵盖了城市、城区、城镇、社区等层次。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3696953.d.html</link>
-            <guid>2068068</guid>
-            <pubDate>Sat, 13 Mar 2021 13:18:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
