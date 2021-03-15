@@ -4,11 +4,65 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 15 Mar 2021 18:31:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Mar 2021 19:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[跟踪数据发现，2021年以来，截至3月11日，不到三个月的时间里，A股市场已经有435家次上市公司核心高管离任。其中，173家次为董事会秘书离任，126家次为财务总监或财务负责人离任。“尽快套现”是一些上市公司高管离职的重要原因之一。（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikkntiam2496307.d.html</link>
+            <guid>2071610</guid>
+            <pubDate>Mon, 15 Mar 2021 19:19:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【IPO辅导验收收紧，2278家拟上市企业或承压】 据Wind数据显示，2021年年初至今，已有70家拟IPO企业终止审核。截至3月15日，A股全市场已报送IPO申报材料，但尚未通过发审委或上市委审核的企业就有479家，而已报送辅导备案材料，正接受上市辅导的企业数量就高达2278家。近日，有国内头部券商投行人员表示，目前IPO辅导验收工作整体正在收紧，辅导期有延长趋势。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikkntiam2492233.d.html</link>
+            <guid>2071608</guid>
+            <pubDate>Mon, 15 Mar 2021 19:11:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  ICE布伦特5月原油期货实盘价格周一收跌0.34美元，跌幅0.49%，报68.88美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikknscsi5646616.d.html</link>
+            <guid>2071606</guid>
+            <pubDate>Mon, 15 Mar 2021 19:07:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国NYMEX 4月原油期货实盘价格周一收跌0.22美元，跌幅0.34%，报65.39美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikkntiam2490068.d.html</link>
+            <guid>2071605</guid>
+            <pubDate>Mon, 15 Mar 2021 19:07:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油期货维持0.6%的跌幅，暂报65.20美元/桶。据媒体报道，伊拉克北部巴拉德空军基地遭遇火箭弹袭击。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikkntiam2481572.d.html</link>
+            <guid>2071602</guid>
+            <pubDate>Mon, 15 Mar 2021 18:52:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  伊拉克安全部门消息称，五枚火箭弹袭击了巴格达以北的巴拉德空军基地，没有人员伤亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikkntiam2476247.d.html</link>
+            <guid>2071599</guid>
+            <pubDate>Mon, 15 Mar 2021 18:42:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据阿拉伯天空新闻：伊拉克北部巴拉德空军基地传来爆炸声。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikkntiam2476177.d.html</link>
+            <guid>2071598</guid>
+            <pubDate>Mon, 15 Mar 2021 18:42:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  专业制药公司KemPharm(KMPH.O)恢复交易，现拉涨至30%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikkntiam2474871.d.html</link>
+            <guid>2071597</guid>
+            <pubDate>Mon, 15 Mar 2021 18:39:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  专业制药公司KemPharm(KMPH.O)直线拉涨超17%，触及熔断。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikknscsi5631103.d.html</link>
+            <guid>2071596</guid>
+            <pubDate>Mon, 15 Mar 2021 18:39:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[法国总理Jean Castex：法国公司可以发放1000欧元免税奖金。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikknscsi5621041.d.html</link>
@@ -239,24 +293,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2375880.d.html</link>
             <guid>2071512</guid>
             <pubDate>Mon, 15 Mar 2021 15:46:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：英国政府表示，寻求在联合委员会内讨论问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2375739.d.html</link>
-            <guid>2071511</guid>
-            <pubDate>Mon, 15 Mar 2021 15:46:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  AMD正式发布霄龙7003系列服务器CPU。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2372535.d.html</link>
-            <guid>2071509</guid>
-            <pubDate>Mon, 15 Mar 2021 15:40:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  加拿大总理特鲁多：美国边境谈判正在进行，卫生健康将是优先事项。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2369426.d.html</link>
-            <guid>2071500</guid>
-            <pubDate>Mon, 15 Mar 2021 15:34:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
