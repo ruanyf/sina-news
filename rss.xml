@@ -4,11 +4,153 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 15 Mar 2021 14:33:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Mar 2021 15:30:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[英国房屋挂牌价创5个月以来最大增幅，买家询价数量激增。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2364848.d.html</link>
+            <guid>2071490</guid>
+            <pubDate>Mon, 15 Mar 2021 15:26:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  爱尔兰总理米歇尔·马丁：遵守北爱尔兰协议是避免脱欧后情况僵化的唯一途径。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2363606.d.html</link>
+            <guid>2071488</guid>
+            <pubDate>Mon, 15 Mar 2021 15:24:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高斯电子跌幅扩大至超过1.8%，AMC院线维持超过20%的涨幅，黑莓涨幅收窄至不足1.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5520469.d.html</link>
+            <guid>2071487</guid>
+            <pubDate>Mon, 15 Mar 2021 15:24:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  游戏驿站短线跳水，现跌3.4%，报251.17美元，早前最高涨6.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5516431.d.html</link>
+            <guid>2071483</guid>
+            <pubDate>Mon, 15 Mar 2021 15:17:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【网络交易新规：不得将搭售商品设定为默认选项】市场监管总局15日出台的《网络交易监督管理办法》明确，经营者不得将搭售商品等选项设定为消费者默认同意，不得将消费者以往交易中选择的选项设定为消费者默认选择；要求自动展期、自动续费服务的经营者应当在消费者接受服务前以及展期、续费前五日，以显著方式提请消费者注意，由消费者自主选择等。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5515496.d.html</link>
+            <guid>2071479</guid>
+            <pubDate>Mon, 15 Mar 2021 15:15:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股零售百货板块异动拉升，梅西百货(M.N)涨10.6%，诺德斯特龙(JWN.N)涨8%，狄乐百货(DDS.N)涨5.3%，柯尔百货(KSS.N)涨4.9%。]]></title>
+            <guid>2071478</guid>
+            <pubDate>Mon, 15 Mar 2021 15:14:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗将小米评级上调至买入，因估值偏低且市占率升高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2357515.d.html</link>
+            <guid>2071477</guid>
+            <pubDate>Mon, 15 Mar 2021 15:13:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国航空集团(AAL.O)CEO：预计夏季旅游高峰期休闲旅游需求将会相当高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2356052.d.html</link>
+            <guid>2071474</guid>
+            <pubDate>Mon, 15 Mar 2021 15:11:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德国卫生部长施潘：德国出现了7例潜在的血栓病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2355231.d.html</link>
+            <guid>2071473</guid>
+            <pubDate>Mon, 15 Mar 2021 15:09:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  礼来(LLY.N)表示将扩大其阿尔茨海默病药物的测试规模，将成功的机会最大化。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2354567.d.html</link>
+            <guid>2071470</guid>
+            <pubDate>Mon, 15 Mar 2021 15:08:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【网络交易新规：收集消费者敏感信息须逐项取得同意】今日，市场监管总局出台《网络交易监督管理办法》，市场监管总局网监司负责人答记者问时表示，针对部分网络平台、经营者过度收集个人信息问题，《办法》设置了个人信息保护的专门条款。要求经营者在收集、使用个人生物特征、医疗健康、金融账户、个人行踪等敏感信息时，必须逐项取得消费者同意。针对经营者尤其大型平台企业与自身关联主体之间共用个人信息的问题，《办法》明确规定经营者未经被收集者授权同意，不得向包括关联方在内的任何第三方提供。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5511081.d.html</link>
+            <guid>2071468</guid>
+            <pubDate>Mon, 15 Mar 2021 15:07:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Beyond Meat短线走高，现涨超5%，报149.55美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5509946.d.html</link>
+            <guid>2071466</guid>
+            <pubDate>Mon, 15 Mar 2021 15:05:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【波罗的海干散货运价指数触及五个月高位 因船舶运费上涨】波罗的海干散货运价指数周一升至逾五个月以来新高，因船舶运费走强。波罗的海干散货运价指数上涨23点或1.2%，至1983点，为2020年10月7日以来最高水平。海岬型船运价指数上涨37点或1.8%，至2056点。海岬型船日均获利上涨313美元，至17054美元。巴拿马型船运价指数上涨30点或1.3%，至2272点，为近三周以来新高。巴拿马型船日均获利上涨274美元，至20452美元。超灵便型船运价指数上涨6点，至2083点，为2017年4月以来最高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5509610.d.html</link>
+            <guid>2071464</guid>
+            <pubDate>Mon, 15 Mar 2021 15:05:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大商所、郑商所夜盘收盘 玻璃涨超3%】大商所、郑商所夜盘收盘，涨跌参半，玻璃涨超3%，铁矿、纯碱等涨超2%，焦煤涨超1%，淀粉、玉米等小幅上涨；郑棉、PTA等跌超1%，棉纱、白糖等小幅下跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2351548.d.html</link>
+            <guid>2071462</guid>
+            <pubDate>Mon, 15 Mar 2021 15:03:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  AMC院线盘中涨幅扩大至23%，现报13.8美元。公司今日表示，洛杉矶旗下两家影院将在今天重新开业，其余23家洛杉矶影院将于3月19日重新开业。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5506648.d.html</link>
+            <guid>2071459</guid>
+            <pubDate>Mon, 15 Mar 2021 14:59:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广和通发布基于高通SDX12 Cat 12模组FG101】3月15日，广和通宣布面向全球发布高性能、高性价比LTE Cat 12模组FG101，步入LTE-A 2.0时代。FG101基于高通SDX12芯片平台，最高速率可达下行600Mbps, 上行150Mbps，赋能高速、低时延网络体验。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2347969.d.html</link>
+            <guid>2071457</guid>
+            <pubDate>Mon, 15 Mar 2021 14:56:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国航空集团(AAL.O)CEO：因国内旅行需求增加，公司将对国内机票进行涨价。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5501705.d.html</link>
+            <guid>2071451</guid>
+            <pubDate>Mon, 15 Mar 2021 14:50:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股区块链板块盘中拉升，SOS(SOS.N)涨23%，亿邦国际(EBON.O)涨15%，Marathon Patent(MARA.O)涨8%，Bit Digital(BTBT.O)、Riot Blockchain(RIOT.O)涨5.5%。]]></title>
+            <guid>2071449</guid>
+            <pubDate>Mon, 15 Mar 2021 14:49:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：截止3月12日，欧洲央行在紧急抗疫购债计划（PEPP）中持有的债券增至8926亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2342596.d.html</link>
+            <guid>2071446</guid>
+            <pubDate>Mon, 15 Mar 2021 14:47:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国航空集团(AAL.O)CEO：国内休闲旅游需求正迅速恢复。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5498499.d.html</link>
+            <guid>2071444</guid>
+            <pubDate>Mon, 15 Mar 2021 14:44:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  高盛：将华润水泥(01313.HK)评级下调至卖出，目标价8.2港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5498063.d.html</link>
+            <guid>2071442</guid>
+            <pubDate>Mon, 15 Mar 2021 14:44:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国航空集团(AAL.O)CEO：目前没有寻求任何额外融资。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2338973.d.html</link>
+            <guid>2071440</guid>
+            <pubDate>Mon, 15 Mar 2021 14:41:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：德国电动汽车制造商Sono Motor计划在美国上市，估值超过10亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5494866.d.html</link>
+            <guid>2071438</guid>
+            <pubDate>Mon, 15 Mar 2021 14:38:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国云协作平台Airtable在新一轮融资中获得2.7亿美元，估值为57.7亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2335005.d.html</link>
+            <guid>2071433</guid>
+            <pubDate>Mon, 15 Mar 2021 14:34:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【大众汽车中国计划至2025年在华布设1.7万个充电桩】大众汽车集团在今日举行的“Power Day”（电池日）上表示，今年将借助旗下合资公司开迈斯（CAMS）在中国市场布设500个充电站、6000个充电桩，覆盖全国8个城市；至2025年将布设1.7万个充电桩，充电功率从120kW至300kW，覆盖绝大多数城市。按计划，至2025年，大众汽车在华新能源车型销量将达到150万辆，MEB平台车型达15款。（财联社）]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5490818.d.html</link>
@@ -127,261 +269,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2318309.d.html</link>
             <guid>2071397</guid>
             <pubDate>Mon, 15 Mar 2021 14:04:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场监管总局：网络交易经营者及其工作人员应当对收集的个人信息严格保密，除依法配合监管执法活动外，未经被收集者授权同意，不得向包括关联方在内的任何第三方提供。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5475144.d.html</link>
-            <guid>2071395</guid>
-            <pubDate>Mon, 15 Mar 2021 14:04:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国联合航空(UAL.O)CEO：国内旅行需求恢复比国际旅游要困难。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5474746.d.html</link>
-            <guid>2071393</guid>
-            <pubDate>Mon, 15 Mar 2021 14:03:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场监管总局：网络交易经营者收集、使用消费者个人信息，应当遵循合法、正当、必要的原则，明示收集、使用信息的目的、方式和范围，并经消费者同意。网络交易经营者收集、使用消费者个人信息，应当公开其收集、使用规则，不得违反法律、法规的规定和双方的约定收集、使用信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2317161.d.html</link>
-            <guid>2071391</guid>
-            <pubDate>Mon, 15 Mar 2021 14:02:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【横店影视：2020年度业绩盈转亏至4.81亿元】横店影视公告，2020年实现营业收入9.9亿元，同比下降66.27%；归属于上市公司股东的净亏损4.81亿元，上年同期盈利3.01亿元。公司同时公告，拟投资设立横店影视科技，持股占比51%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5474454.d.html</link>
-            <guid>2071390</guid>
-            <pubDate>Mon, 15 Mar 2021 14:02:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  潘兴广场资本创始人阿克曼：我将出售2650万股Coupang(CPNG.N)股票。]]></title>
-            <guid>2071389</guid>
-            <pubDate>Mon, 15 Mar 2021 14:02:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股航空、邮轮板块集体拉升，美国航空集团(AAL.O)涨超10%，美国联合航空(UAL.O)涨6.6%，达美航空(DAL.N)涨4%；嘉年华邮轮(CCL.N)涨5.5%，皇家加勒比邮轮(RCL.N)涨4.3%。美国运输安全管理局表示，3月12日有超过135.7万名旅客在美国通过机场安检，是自2020年3月15日以来的最高数值]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2316200.d.html</link>
-            <guid>2071388</guid>
-            <pubDate>Mon, 15 Mar 2021 14:01:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【璞泰来：2020年净利同比增2.54% 拟10转4派4.1元】璞泰来公告，2020年实现营业收入52.81亿元，同比增长10.05%；归属于上市公司股东的净利润6.68亿元，同比上升2.54%。拟每10股派发现金红利4.1元(含税)及每10股以资本公积金转增4股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2315801.d.html</link>
-            <guid>2071387</guid>
-            <pubDate>Mon, 15 Mar 2021 14:00:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据外媒，首相约翰逊承认，未能及时实施第一次封城措施是一个错误。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5472169.d.html</link>
-            <guid>2071385</guid>
-            <pubDate>Mon, 15 Mar 2021 13:58:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国联合航空(UAL.O)CEO：公司的出行需求复苏将比竞争对手困难。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5471830.d.html</link>
-            <guid>2071384</guid>
-            <pubDate>Mon, 15 Mar 2021 13:58:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【3·15晚会曝光商户“偷脸”，上海两家企业被点名，市场监管部门已介入调查】科勒卫浴人脸识别摄像头因在门店内安装人脸识别摄像头，未经消费者同意，抓取其包括性别、年龄在内的个人信息，上海的科勒卫浴和悠络客电子科技股份有限公司被点名。截至记者发稿时，静安区市场监管局、青浦区市场监管局等监管部门已派人员前往辖区内的相关企业注册地开展调查。（上观新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5471414.d.html</link>
-            <guid>2071383</guid>
-            <pubDate>Mon, 15 Mar 2021 13:57:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[吉利德科学(GILD.O)、默沙东(MRK.N)涨2%，两公司宣布将共同开发长效艾滋病药物。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2313858.d.html</link>
-            <guid>2071382</guid>
-            <pubDate>Mon, 15 Mar 2021 13:57:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据TechCrunch：美国支付技术企业CRED在最新一轮融资中获得2亿美元，估值约20亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5470759.d.html</link>
-            <guid>2071381</guid>
-            <pubDate>Mon, 15 Mar 2021 13:56:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【迪生力：2020年净利同比增562.48%】迪生力公告，2020年实现营业收入9.76亿元，同比增长19.47%；归属于母公司的净利润6016.27万元，同比增长562.48%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5470700.d.html</link>
-            <guid>2071380</guid>
-            <pubDate>Mon, 15 Mar 2021 13:56:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小鹏汽车(XPEV.N)涨2.1%，公司获广东省产业发展基金5亿元战略投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2312692.d.html</link>
-            <guid>2071378</guid>
-            <pubDate>Mon, 15 Mar 2021 13:55:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【佳云科技：2020年度业绩盈转亏至3.68亿元】佳云科技公告，2020年公司实现营业收入69.97亿元，同比增长26.55%；归属于上市公司股东的净亏损3.68亿元，上年同期盈利849.29万元。报告期内，公司延续了与小米、OPPO、vivo、百度、巨量引擎等头部媒体的合作，并于年底陆续取得2021年度小米、vivo、OPPO等媒体的核心代理资质，同时开启了360网络广告2021年核心代理合作，保持了媒体端的资源优势。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2311182.d.html</link>
-            <guid>2071375</guid>
-            <pubDate>Mon, 15 Mar 2021 13:52:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股石油板块走低，埃克森美孚石油(XOM.N)跌2%，英国石油(BP.N)跌1.5%，道达尔(TOT.N)、荷兰皇家壳牌(RDS.A.N)跌1.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5468526.d.html</link>
-            <guid>2071374</guid>
-            <pubDate>Mon, 15 Mar 2021 13:52:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  德国财长肖尔茨：欧洲不可能不花钱就摆脱危机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2310759.d.html</link>
-            <guid>2071373</guid>
-            <pubDate>Mon, 15 Mar 2021 13:51:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【健民集团年度报告：2020年度净利润同比增长61.53% 拟每10派3.66元】健民集团公告，公司2020年度实现总营收25.56亿元，同比增长9.69%，归属于上市公司股东的净利润1.48亿元，同比增长61.53%。拟向全体股东每 10 股派发现金红利3.66元(含税)。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2310679.d.html</link>
-            <guid>2071372</guid>
-            <pubDate>Mon, 15 Mar 2021 13:51:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【春风动力：拟定增募资不超17.27亿元】春风动力公告，公司拟非公开发行A股股票，本次非公开发行拟募集资金总额不超过17.27亿元（含元），所募集资金在扣除发行费用后拟投资于动力运动装备扩产及产线智能化改造项目、研发中心升级改造项目和补充流动资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5466367.d.html</link>
-            <guid>2071369</guid>
-            <pubDate>Mon, 15 Mar 2021 13:48:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【绿康生化：2020年净利降24.15% 拟10派1.4元】绿康生化公告，2020年实现营业收入3.08亿元，同比增长1.44%；归属于上市公司股东的净利润4320.83万元，同比下降24.15%。拟向全体股东每10股派发现金红利1.4元(含税)。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2308835.d.html</link>
-            <guid>2071368</guid>
-            <pubDate>Mon, 15 Mar 2021 13:48:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本乐天ADR涨超25%，早前宣布将接受沃尔玛百货(WMT.N)和腾讯控股(00700.HK)的投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5465291.d.html</link>
-            <guid>2071365</guid>
-            <pubDate>Mon, 15 Mar 2021 13:46:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【农业农村部与西藏自治区举行工作会谈】农业农村部部长唐仁健希望西藏推进高原特色产业高质量发展，不断延长产业链，提升价值链。实施乡村建设行动，加快补齐农村基础设施和公共服务短板，全面推进乡村振兴。西藏自治区政府主席齐扎拉表示，将重点围绕完善农牧业基础设施、提高种业创新水平、增强产业发展能力、加强科技人才支撑等方面发力，加快推动农牧业高质量发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2307738.d.html</link>
-            <guid>2071364</guid>
-            <pubDate>Mon, 15 Mar 2021 13:46:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股激光雷达概念股普涨，Luminar(LAZR.O)涨超5%，Velodyne(VLDR.O)涨3%，维视图像(MVIS.O)涨2.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5464507.d.html</link>
-            <guid>2071361</guid>
-            <pubDate>Mon, 15 Mar 2021 13:45:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欢喜传媒(01003.HK)：公司与保底方就一部由本集团独家投资、陈可辛执导，以及胡歌、Vincent Cassel及郝蕾等主演的电影《独自•上场》（前称：《李娜》）订立一份发行协议，保底方可独家在中国城市院线影院发行该电影。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5464173.d.html</link>
-            <guid>2071359</guid>
-            <pubDate>Mon, 15 Mar 2021 13:44:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中电电机：拟筹划以资产置换及发行股份的方式购买天津北清电力智慧能源有限公司的全体股东所持其全部股权，预计构成重组上市。本次交易完成后，北京市国资委将成为公司的实际控制人，天津富清投资有限公司将成为公司的控股股东。公司股票将于2021年3月16日（星期二）开市起继续停牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5463642.d.html</link>
-            <guid>2071358</guid>
-            <pubDate>Mon, 15 Mar 2021 13:43:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【欧盟就英国违反脱欧协议对其采取法律行动】早前，英国单方面决定推迟执行脱欧协议中与北爱尔兰有关的关键性内容。周一一名欧盟官员告诉记者，欧盟认为英国的行为构成严重问题，对其是否致力于履行脱欧协议中北爱尔兰部分内容提出疑问。欧盟的官员称，欧盟委员会根据欧盟法律启动了违约诉讼程序。这意味着委员会可要求欧洲法院做出裁决，法院可处以罚款。委员会也在根据脱欧条约本身的争端解决机制采取行动，最终可能设立仲裁委员会，如果英国败诉，那么该国与欧盟之间贸易协议的部分内容可能会暂停实施，或者英国也可能面临关税。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2305420.d.html</link>
-            <guid>2071356</guid>
-            <pubDate>Mon, 15 Mar 2021 13:42:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据港交所文件：河北面粉产品制造商参花实业向港交所递交上市申请。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5462411.d.html</link>
-            <guid>2071355</guid>
-            <pubDate>Mon, 15 Mar 2021 13:41:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【IDC发布全球AI服务器市场数据，浪潮排名全球第一】近日，国际数据公司（IDC）发布2020HI《全球人工智能市场半年度追踪报告》。报告显示，目前全球半年度人工智能服务器市场规模达55.9亿美元，浪潮以16.4%的市场占有率，位居全球AI服务器市场第一。此前IDC数据显示，浪潮AI服务器中国市场份额已连续三年保持50%以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2304573.d.html</link>
-            <guid>2071354</guid>
-            <pubDate>Mon, 15 Mar 2021 13:41:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  福特汽车(F.N)盘初转跌，现跌0.4%，此前央视3.15晚会报道福特汽车变速箱生锈问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5461505.d.html</link>
-            <guid>2071352</guid>
-            <pubDate>Mon, 15 Mar 2021 13:40:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股电商板块走低，宝尊电商(BZUN.O)、拼多多(PDD.O)跌超3%，阿里巴巴(BABA.N)跌1.9%，京东(JD.O)跌1.1%，市场监管总局表示今年将制订网络交易平台责任清单。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5460912.d.html</link>
-            <guid>2071351</guid>
-            <pubDate>Mon, 15 Mar 2021 13:39:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【郑煤机：拟回购中安招商所持郑州圣吉的股权】郑煤机公告，近日，公司收到中安招商出具的《回购通知》，中安招商要求公司基于《共同投资协议》的约定收购其持有的郑州圣吉24.49%的股权(对应郑州圣吉注册资本人民币6亿元)。基于《共同投资协议》的约定，并经公司与中安招商的协商，公司同意回购中安招商所持郑州圣吉的股权。此次回购完成后，郑州圣吉将成为公司的全资子公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2302811.d.html</link>
-            <guid>2071350</guid>
-            <pubDate>Mon, 15 Mar 2021 13:38:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[礼来(LLY.N)跌超8%，近日公司公布了旗下阿尔茨海默病药物的试验报告，有专家表示试验结果好坏参半。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2302715.d.html</link>
-            <guid>2071349</guid>
-            <pubDate>Mon, 15 Mar 2021 13:38:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：巴西国会通过紧急法案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5459312.d.html</link>
-            <guid>2071348</guid>
-            <pubDate>Mon, 15 Mar 2021 13:36:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WSB热门概念股表现强势，AMC院线(AMC.N)、高斯电子(KOSS.O)涨超13%，游戏驿站(GME.N)涨6.6%，Sundial Grower(SNDL.O)涨4.3%。]]></title>
-            <guid>2071347</guid>
-            <pubDate>Mon, 15 Mar 2021 13:35:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【瑞普生物年度报告：2020年度净利润同比增长105% 拟每10派4元】瑞普生物公告，公司2020年度实现总营收20亿元，同比增长36.4%，归属于上市公司股东的净利润3.98亿元，同比增长105%。拟向全体股东每10股派发现金红利4元。拟定增募集资金总额不超过13.36亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5458095.d.html</link>
-            <guid>2071346</guid>
-            <pubDate>Mon, 15 Mar 2021 13:34:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中概股农米良品(FAMI.O)涨37%，公司多项产品获得美国出口订单。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5457389.d.html</link>
-            <guid>2071344</guid>
-            <pubDate>Mon, 15 Mar 2021 13:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  礼来制药（LLY）美股盘初跌8.9%，创2020年3月份以来最大盘中跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2299473.d.html</link>
-            <guid>2071343</guid>
-            <pubDate>Mon, 15 Mar 2021 13:32:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音(BA.N)涨2.8%，此前摩根士丹利上调波音目标价至274美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5456938.d.html</link>
-            <guid>2071342</guid>
-            <pubDate>Mon, 15 Mar 2021 13:32:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  穆迪：全球汽车业在欧洲有最强大的复苏潜力；中国和北美将保持强劲势头。]]></title>
-            <guid>2071341</guid>
-            <pubDate>Mon, 15 Mar 2021 13:31:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恩智浦半导体(NXPI.O)涨超7%，恩智浦据悉将加入标普500指数。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2298533.d.html</link>
-            <guid>2071338</guid>
-            <pubDate>Mon, 15 Mar 2021 13:30:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  穆迪：全球汽车业的复苏将是不均衡的，而且短期内会面临半导体短缺等不利因素。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5455539.d.html</link>
-            <guid>2071335</guid>
-            <pubDate>Mon, 15 Mar 2021 13:29:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  穆迪：预计全球轻型汽车行业在2021年将持续复苏。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikknscsi5455033.d.html</link>
-            <guid>2071334</guid>
-            <pubDate>Mon, 15 Mar 2021 13:28:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  穆迪：全球汽车制造业前景稳定，轻型汽车销售正在复苏，但地区间复苏不平衡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam2297124.d.html</link>
-            <guid>2071332</guid>
-            <pubDate>Mon, 15 Mar 2021 13:28:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
