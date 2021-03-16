@@ -4,11 +4,89 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 16 Mar 2021 20:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Mar 2021 21:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  标普：预计拜登政府将通过大部分财政议程，以及涉及医疗保健、气候、能源和社会问题的新政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3474860.d.html</link>
+            <guid>2072965</guid>
+            <pubDate>Tue, 16 Mar 2021 21:22:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：对美国的“稳定展望”表明，对美国的负面和正面评级因素在未来三年将保持平衡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3471977.d.html</link>
+            <guid>2072962</guid>
+            <pubDate>Tue, 16 Mar 2021 21:17:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  标普：对美国的主权评级是基于其强大的机构、多样化和有弹性的经济以及广泛的货币政策灵活性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3469994.d.html</link>
+            <guid>2072960</guid>
+            <pubDate>Tue, 16 Mar 2021 21:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[优步（Uber）公告称，将把7万名英国司机重新归类为该公司员工，他们也将享受带薪休假、最低薪酬、以及退休金待遇，此前（英国）针对Uber司机作出最新判决。Uber美股盘后跌约0.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi6622612.d.html</link>
+            <guid>2072957</guid>
+            <pubDate>Tue, 16 Mar 2021 21:04:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  普拉格能源盘后跌幅扩大至10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi6620311.d.html</link>
+            <guid>2072956</guid>
+            <pubDate>Tue, 16 Mar 2021 21:01:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[普拉格能源：一些先前发布的财务报表不具有可靠性。截止到2020年12月31日的10-K表格将披露财务报告存在内部控制的重大缺陷，内部审查正在进行中，公司可能会发现更多的错误。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3461835.d.html</link>
+            <guid>2072955</guid>
+            <pubDate>Tue, 16 Mar 2021 21:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据叙利亚国家电视台报道，叙利亚防空部队在大马士革乡村地区遇到以色列的袭击。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3460190.d.html</link>
+            <guid>2072952</guid>
+            <pubDate>Tue, 16 Mar 2021 20:58:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“牛市女王”Cathie Wood劝说投资者支持她管理的基金公司ARK。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3451794.d.html</link>
+            <guid>2072948</guid>
+            <pubDate>Tue, 16 Mar 2021 20:43:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  CrowdStrike盘后涨幅扩大至5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3451687.d.html</link>
+            <guid>2072947</guid>
+            <pubDate>Tue, 16 Mar 2021 20:43:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美光科技(MU.O)将加大对使用CXL的内存产品的投资，将停止3D Xpoint储存器技术的开发。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi6605170.d.html</link>
+            <guid>2072946</guid>
+            <pubDate>Tue, 16 Mar 2021 20:35:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美、布两油期货短线走高0.2美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3444876.d.html</link>
+            <guid>2072945</guid>
+            <pubDate>Tue, 16 Mar 2021 20:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国联邦航空管理局（FAA）对波音公司表示，正在审查其四架飞机的适航性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi6601164.d.html</link>
+            <guid>2072944</guid>
+            <pubDate>Tue, 16 Mar 2021 20:28:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登将于当地时间3月25日星期四下午在白宫举行正式的新闻发布会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi6599476.d.html</link>
+            <guid>2072943</guid>
+            <pubDate>Tue, 16 Mar 2021 20:25:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国监管机构加大了对波音787飞机的审查力度。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3438894.d.html</link>
@@ -293,72 +371,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3308188.d.html</link>
             <guid>2072862</guid>
             <pubDate>Tue, 16 Mar 2021 16:49:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德意志银行：美联储保持滞后于收益率曲线可能会严重伤害美元】 德意志银行分析师George Saravelos称，未来两年美元走势的两个关键驱动因素是经常账户赤字的恶化，以及美联储是否采取加息行动。美联储有意保持滞后于曲线并支持通胀有控制地过冲会对美元造成严重伤害。德银预计美联储将按兵不动直到“进入2023年许久之后”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi6460796.d.html</link>
-            <guid>2072861</guid>
-            <pubDate>Tue, 16 Mar 2021 16:40:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【油价今日或迎“九连涨”，加满一箱油多花约9元】 3月17日24时，国内成品油调价窗口将再度开启。机构预测，届时国内成品油价格上调幅度约为每吨230元，车主给油箱50升的私家车加一箱油大约多花9元。累加2020年末的调价，料将实现“九连涨”。据卓创资讯测算，截至3月15日收盘，国内油价对应的原油参考变化率为4.58%，对应的成品油零售限价上调幅度在每吨230元。卓创资讯分析师孟鹏表示，折合升价，92号汽油每升上调0.18元，0号柴油每升上调0.20元。本轮调价落实后，95号汽油升价将重回7元时代，油箱50升的小型私家车加满一箱油将多花9元左右。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3300159.d.html</link>
-            <guid>2072859</guid>
-            <pubDate>Tue, 16 Mar 2021 16:36:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲STOXX 600指数初步收涨0.83%，报426.59点。德国DAX 30指数初步收涨0.71%，报14563.38点。法国股指初步收涨0.35%，英国股指涨0.67%，意大利股指涨0.47%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3298027.d.html</link>
-            <guid>2072857</guid>
-            <pubDate>Tue, 16 Mar 2021 16:33:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【两大央企旗下财产保险公司同日宣布换将】 3月16日，两大央企旗下财产保险公司同日宣布换将。其一为，中国人保集团的核心子公司、国内第一大财险公司中国人保财险。因其现总裁谢一群今年到龄荣退，因此掌舵者变化，接任者为人保集团副总裁于泽。另一家为，中再集团旗下的直接保险公司，也是国内第六大财险公司的中国大地保险。大地保险副董事长、总裁陈勇调任中再集团业务总监，兼任大地保险副董事长，于利民被任命为大地保险党委书记，拟任总裁，该任职尚待监管部门批准。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi6445961.d.html</link>
-            <guid>2072849</guid>
-            <pubDate>Tue, 16 Mar 2021 16:16:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  新闻集团股价创历史新高，现涨2.48%，与Facebook在澳大利亚就新闻付费达成协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi6445812.d.html</link>
-            <guid>2072848</guid>
-            <pubDate>Tue, 16 Mar 2021 16:16:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  苹果现涨1.5%，报125.9美元，投行Evercore ISI将其目标价由163美元升至175美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi6444123.d.html</link>
-            <guid>2072847</guid>
-            <pubDate>Tue, 16 Mar 2021 16:13:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股邮轮概念股回调走低，皇家加勒比邮轮跌3.79%，挪威邮轮跌2.82%，嘉年华邮轮跌2.65%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3285383.d.html</link>
-            <guid>2072846</guid>
-            <pubDate>Tue, 16 Mar 2021 16:12:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：印度高端炼油商计划通过现货招标购买石油，以取代从沙特进口石油。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi6439802.d.html</link>
-            <guid>2072844</guid>
-            <pubDate>Tue, 16 Mar 2021 16:06:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【投资者担忧美国通胀加速，资金涌向贷款类ETF寻求避险】 SPDR Blackstone Senior Loan ETF（SRLN）已经连续24周获得资金流入，2021年迄今已经获得15亿美元资金流入；Invesco Senior Loan ETF（BKLN）已于2021年迄今获得大约11亿美元资金流入。贷款类ETF已经在2021年上半年获得超过30亿美元资金流入，有望录得2013年以来最大的同期增幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3281268.d.html</link>
-            <guid>2072842</guid>
-            <pubDate>Tue, 16 Mar 2021 16:05:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  百度涨超3%，其港股目前正在招股中，预计将于北京时间本周三10:30截止认购，并于3月23日正式登陆港交所。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi6439201.d.html</link>
-            <guid>2072841</guid>
-            <pubDate>Tue, 16 Mar 2021 16:05:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Beyond Meat(BYND.O)盘中跌5%，报140.8美元，此前摩根大通(JPM.N)将其目标价从94美元下调至91美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi6437104.d.html</link>
-            <guid>2072840</guid>
-            <pubDate>Tue, 16 Mar 2021 16:02:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
