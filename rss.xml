@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 17 Mar 2021 19:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Mar 2021 20:26:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【经参头版头条：平台经济新一轮反垄断大幕开启】中央财经委员会第九次会议日前召开，促进平台经济健康发展成为重要议题。“从构筑国家竞争新优势的战略高度出发”“坚持发展和规范并重”……此次会议对于平台经济的“把脉”“立规”释放重要信号，引发业内高度关注。值得注意的是，近段时间，平台经济强监管信号持续释放。国务院反垄断委员会、国家市场监管总局等相关部门频频发声，围绕平台经济接连出台多个配套文件，反垄断执法机构也密集“亮剑”，屡屡开出顶格罚单。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-18/detail-ikkntiam4377631.d.html</link>
+            <guid>2075048</guid>
+            <pubDate>Wed, 17 Mar 2021 20:22:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中概股腾讯音乐涨5%，百度涨4%，阿里巴巴、蔚来、爱奇艺涨约2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-18/detail-ikknscsi7534643.d.html</link>
+            <guid>2075045</guid>
+            <pubDate>Wed, 17 Mar 2021 20:15:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科技股涨跌各异，苹果跌近1%，特斯拉涨超3%。芯片股普涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-18/detail-ikknscsi7534573.d.html</link>
+            <guid>2075044</guid>
+            <pubDate>Wed, 17 Mar 2021 20:15:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  通用汽车尾盘涨超5%，股价涨破60美元关口。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-18/detail-ikkntiam4361279.d.html</link>
+            <guid>2075039</guid>
+            <pubDate>Wed, 17 Mar 2021 19:55:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  香港大公文化集团Takung Art(TKAT)日内涨幅扩大至250%，股价刷新历史高位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-18/detail-ikknscsi7504380.d.html</link>
+            <guid>2075024</guid>
+            <pubDate>Wed, 17 Mar 2021 19:26:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美联储主席鲍威尔：不会对点阵图做太多解读。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-18/detail-ikknscsi7497020.d.html</link>
@@ -109,59 +139,6 @@
             <title><![CDATA[  英镑兑美元GBP/USD短线走高逾20点，现报1.3934；欧元兑美元EUR/USD短线走高近20点，现报1.1973。美元指数DXY跌破91.5，日内跌0.41%。]]></title>
             <guid>2074951</guid>
             <pubDate>Wed, 17 Mar 2021 18:39:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储FOMC声明中没有提及超额准备金利率（IOER）和补充杠杆率（SLR）的相关措施，在稍后美联储主席鲍威尔的新闻发布会中记者可能会对此提问。]]></title>
-            <guid>2074934</guid>
-            <pubDate>Wed, 17 Mar 2021 18:29:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国俄亥俄州就刺激税收条款起诉拜登政府。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-18/detail-ikkntiam4307686.d.html</link>
-            <guid>2074933</guid>
-            <pubDate>Wed, 17 Mar 2021 18:27:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储利率决议公布后的15分钟内，现货黄金累涨逾14美元，现货白银累涨0.22美元，美元指数DXY累跌逾30点，英镑兑美元GBP/USD累涨逾60点，欧元兑美元EUR/USD累涨逾50点，美国10年期国债收益率走低近3个基点后回升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-18/detail-ikkntiam4307613.d.html</link>
-            <guid>2074932</guid>
-            <pubDate>Wed, 17 Mar 2021 18:27:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储经济预期中的图表显示，FOMC与会者中多数认为实际GDP面临较高的不确定性，风险大致平衡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-18/detail-ikknscsi7467686.d.html</link>
-            <guid>2074931</guid>
-            <pubDate>Wed, 17 Mar 2021 18:25:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧元兑美元EUR/USD期货暗示美联储在2023年将有3次加息。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-18/detail-ikknscsi7464390.d.html</link>
-            <guid>2074929</guid>
-            <pubDate>Wed, 17 Mar 2021 18:20:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股区块链板块短线走高，嘉楠科技涨超11%，Riot Blockchain涨超10%，Marathon Patent涨7.14%，亿邦国际、Bit Digital涨超6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-18/detail-ikknscsi7461172.d.html</link>
-            <guid>2074926</guid>
-            <pubDate>Wed, 17 Mar 2021 18:15:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元兑美元2023年3月合约仍然暗示美联储将加息。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-18/detail-ikkntiam4298879.d.html</link>
-            <guid>2074924</guid>
-            <pubDate>Wed, 17 Mar 2021 18:12:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储将在3月23日后停止常规机构的商业地产抵押贷款支持证券的购买操作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-18/detail-ikkntiam4297963.d.html</link>
-            <guid>2074920</guid>
-            <pubDate>Wed, 17 Mar 2021 18:11:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国5-30年期国债收益率曲线利差超过162个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-18/detail-ikknscsi7458513.d.html</link>
-            <guid>2074919</guid>
-            <pubDate>Wed, 17 Mar 2021 18:10:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
