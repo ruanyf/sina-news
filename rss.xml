@@ -4,11 +4,125 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 17 Mar 2021 02:39:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Mar 2021 03:25:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  恒生电子现涨2.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi6879278.d.html</link>
+            <guid>2073822</guid>
+            <pubDate>Wed, 17 Mar 2021 03:19:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  国防军工板块拉升走强，新余国科涨超8%，安达维尔、晨曦航空、中航光电等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi6876468.d.html</link>
+            <guid>2073820</guid>
+            <pubDate>Wed, 17 Mar 2021 03:16:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【软银全球公关主管加里-金斯伯格离职 此前直接向孙正义和首席运营官克莱尔汇报】软银集团全球公关主管加里•金斯伯格(Gary Ginsberg)在任职两年后离开了该公司。软银的一名女发言人表示，金斯伯格于去年12月辞职，证实了这一从未公开的人事变动。金斯伯格曾是默多克(Rupert Murdoch)的前顾问，于2018年11月加入软银。孙正义的企业集团在过去几个月里流失了多名高管。首席法务官汤森(Rob Townsend)和首席合规官芬特雷斯(Chad Fentress)去年双双辞职，首席战略官Katsunori Sago将于3月底离职，此前他在该公司任职不到三年。软银规模庞大的风险投资部门愿景基金(Vision Fund)最近失去了两位管理合伙人范科林(Colin Fan)和杰夫•豪森博尔德(Jeff Housenbold)、首席运营官鲁万•维拉塞克拉(Ruwan Weerasekera)，以及投资者关系主管佩妮•博德尔(Penny Bodle)。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3716193.d.html</link>
+            <guid>2073819</guid>
+            <pubDate>Wed, 17 Mar 2021 03:16:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【报告：谷歌、苹果下调分成对应用商店收入影响不到5%】根据应用分析公司Sensor Tower的最新预计，虽然谷歌、苹果将部分小型应用开发者的抽成比例减半至15%，但是这对苹果、谷歌的整体应用商店收入来说影响很小，还不到5%。Sensor Tower称，如果按照15%的抽成比例计算，谷歌Google Play去年收入将损失5.87亿美元，约为116亿美元总收入的5%。同样地，苹果去年App Store收入将会减少5.95亿美元，约为去年217亿美元总收入的2.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi6875010.d.html</link>
+            <guid>2073818</guid>
+            <pubDate>Wed, 17 Mar 2021 03:14:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【恒生电子：协助建设全国碳排放权交易系统、注册登记系统】恒生电子官微表示，全国碳排放权交易市场的建设采用了创新型的“双城”模式——上海联合产权交易所负责交易，湖北碳排放权交易中心负责注册登记。作为全国碳市场建设中至关重要的基础设施，全国碳排放权交易系统、注册登记系统等均由恒生协助建设。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3714550.d.html</link>
+            <guid>2073817</guid>
+            <pubDate>Wed, 17 Mar 2021 03:14:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【卓创资讯：随着下游养殖等行业回暖 面粉厂家处境或会改变】卓创资讯分析师徐学平3月17日发布观点称，进入3月之后，面粉厂家因面临行情诸多不利出现亏损，开工普遍不足，这既有季节性特点，也是行业竞争更加激烈的体现。预计随着天气升温，下游养殖等行业回暖，副产品行情好转之后，厂家处境或会改变。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3712273.d.html</link>
+            <guid>2073816</guid>
+            <pubDate>Wed, 17 Mar 2021 03:11:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国信通院发布区块链安全能力测评与分析报告 提升区块链生态整体安全水平】中国信通院发布《区块链安全能力测评与分析报告（2021年）》。报告梳理了当前区块链基础设施在系统账户权限管理、隐私保护、密码机制、共识机制、智能合约、安全运维各领域的安全情况。其中，权限管理和密码机制领域安全能力不一，在账户管理、数据流管理、密钥存储、密钥泄露重置等领域安全能力有待加强；共识机制自研比例较高但安全性缺乏验证等。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi6868178.d.html</link>
+            <guid>2073812</guid>
+            <pubDate>Wed, 17 Mar 2021 03:06:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【小米起诉美国防部初战告捷，知情律师：更多中企在考虑起诉美政府】在美国联邦法院发出禁制令，阻止美国国防部对小米公司的投资禁令后，其他一些被特朗普政府列入“黑名单”的中国企业也正在考虑起诉美国政府。多位知情律师告诉路透社，其中一些企业已正在就相关事宜与Steptoe & Johnson、Hogan Lovells等律所洽谈。曾在美国白宫和国务院担任法律顾问的华盛顿律师Brian Egan评价称，“导致小米被列入黑名单的事实几乎是可笑的，我认为这绝对会导致更多公司采取行动。”（界面）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi6863570.d.html</link>
+            <guid>2073810</guid>
+            <pubDate>Wed, 17 Mar 2021 03:00:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【蓝盾光电：公司产品大气温室气体FTIR监测系统主要用于二氧化碳等温室气体浓度实时监测】蓝盾光电在互动平台表示，公司产品大气温室气体FTIR监测系统主要用于环境大气中二氧化碳（CO2）、甲烷（CH4）、氧化亚氮（N2O）等温室气体浓度的实时监测。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi6863068.d.html</link>
+            <guid>2073808</guid>
+            <pubDate>Wed, 17 Mar 2021 02:59:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【鸿海将在北美建设纯电动汽车工厂】 3月16日，台湾鸿海精密工业透露了将在北美建设该公司首座纯电动汽车（EV）工厂的方针。据称，目前正在进行协调，考虑建设在墨西哥或者美国威斯康星州，计划年内作出最终决定。因大量生产美国苹果的智能手机iPhone而发展起来的鸿海涉足纯电动汽车业务的计划已步入具体实施阶段。（日经新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3702955.d.html</link>
+            <guid>2073807</guid>
+            <pubDate>Wed, 17 Mar 2021 02:59:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京动漫游戏产业总产值破千亿 成全国最大出口地】从北京市发改委获悉，2020年，北京数字内容行业发展迅猛，呈现出线上经济需求激增、头部产品带动效应显著的特征，其中动漫游戏产业总产值破千亿元，达到1063亿元，已成为全国动漫游戏行业重要的研发中心和最大出口地。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3702715.d.html</link>
+            <guid>2073806</guid>
+            <pubDate>Wed, 17 Mar 2021 02:59:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【温氏股份：近期养鸭行情较好 预计今年会有较好盈利】温氏股份昨日接受机构调研时表示，全国范围内，养鸭行业有超2000亿元的市场规模，发展空间广阔，且目前国内养鸭行业缺乏大型专业化公司。公司养鸭业务已有10多年的积累。去年3月份， 公司成立水禽事业部，定位打造成为公司第三大养殖产业。过去一年来，公司在育种技术、饲养方式、销售策略等方面均取得较大突破，养鸭业务将是公司未来几年提升市场份额的新机会。近期养鸭行情较好，预计今年会有较好盈利。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi6862335.d.html</link>
+            <guid>2073805</guid>
+            <pubDate>Wed, 17 Mar 2021 02:58:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：本田汽车将暂停美国和加拿大工厂的部分生产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3699455.d.html</link>
+            <guid>2073803</guid>
+            <pubDate>Wed, 17 Mar 2021 02:54:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【港交所独立非执董陈子政、胡祖六及庄伟林任期届满后退任】据经济通获悉，港交所4月28日举行股东周年大会，据股东通函披露，3名独立非执行董事陈子政、胡祖六及庄伟林将于任期届满后退任。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3699264.d.html</link>
+            <guid>2073802</guid>
+            <pubDate>Wed, 17 Mar 2021 02:54:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高德红外：部分型号的红外芯片成本已降到几百元】高德红外董事长黄立表示，目前高德红外部分型号的红外芯片成本已降到几百元，随着红外核心芯片小型化、低成本、高可靠性、大批量生产的实现，红外技术在电力、工业、安保、智能驾驶、智慧家居、医疗检测等民用领域的应用不断扩大。（湖北日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi6856261.d.html</link>
+            <guid>2073801</guid>
+            <pubDate>Wed, 17 Mar 2021 02:50:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据俄罗斯卫星网：俄罗斯驻华盛顿大使馆回应称，美国情报部门对俄罗斯干预美国大选的指控毫无根据。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3695891.d.html</link>
+            <guid>2073800</guid>
+            <pubDate>Wed, 17 Mar 2021 02:49:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  农业农村部：已批准建立15个两岸农业合作区和28个台农创业园。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3691797.d.html</link>
+            <guid>2073796</guid>
+            <pubDate>Wed, 17 Mar 2021 02:44:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乳腺癌成全球第一大癌 时隔30年晚期化疗添新药】近日，国家药品监督管理局正式批准华昊中天药业有限公司的1类创新药优替德隆注射液（商品名：优替帝）用于复发转移性乳腺癌的治疗，结束了该病在中国近30年来除紫杉醇外无突破性化疗药物的局面，定价尚未披露。同类药物伊沙匹隆2007年在美获批，被认为是“天价药”。（财新）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3691699.d.html</link>
+            <guid>2073795</guid>
+            <pubDate>Wed, 17 Mar 2021 02:44:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【世纪华通：2021年属于公司产品大年 计划发行产品数量为近三年之最】世纪华通日前在投资者交流会上就今年的产品储备情况表示，2021年盛趣游戏计划发行5款新游戏，庆余年、小森生活、传奇天下等。点点计划发行7款新游戏，其中有6款属于自研产品，点点互动过去2年在自研上投入是比较大的，目前点点的研发人员有800多人，研发工作室覆盖全球， 产品具备全球发行的能力。2021年属于产品大年，计划发行产品数量为近三年之最。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3690067.d.html</link>
+            <guid>2073794</guid>
+            <pubDate>Wed, 17 Mar 2021 02:42:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【特朗普继续“开火”：2020年大选结果本应被推翻，最高法院等机构没有勇气这么做】当地时间3月16日，美国前总统特朗普参加“福克斯新闻黄金时间”节目，在媒体上公开露面。据美国《国会山报》报道，特朗普称，2020年美国大选的结果“本应被推翻”，给出的原因依然是他在缺乏证据的情况下一再提到的选举中存在舞弊行为。（环球网）]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3687239.d.html</link>
@@ -296,66 +410,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3641409.d.html</link>
             <guid>2073523</guid>
             <pubDate>Wed, 17 Mar 2021 01:38:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A股工业金属板块普跌，怡球资源跌6.9%，南山铝业跌5.76%，西部矿业跌4.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3640387.d.html</link>
-            <guid>2073517</guid>
-            <pubDate>Wed, 17 Mar 2021 01:36:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部：美国财长耶伦对韩国财长洪南基表示，她准备深化与韩国的经济和金融合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi6798633.d.html</link>
-            <guid>2073514</guid>
-            <pubDate>Wed, 17 Mar 2021 01:35:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股黄金及贵金属板块集体回调，紫金矿业跌近4%，中国白银集团跌超2%，招金矿业跌1.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi6798511.d.html</link>
-            <guid>2073508</guid>
-            <pubDate>Wed, 17 Mar 2021 01:35:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[碳中和概念股开盘大幅分化，中材节能触及跌停，开尔新材、首航高考、深圳能源等跌逾7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi6797599.d.html</link>
-            <guid>2073496</guid>
-            <pubDate>Wed, 17 Mar 2021 01:33:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A股半导体板块走高，苏州固锝涨停，中晶科技涨3.76%，帝科股份、北方华创等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi6796019.d.html</link>
-            <guid>2073482</guid>
-            <pubDate>Wed, 17 Mar 2021 01:31:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本宣布大幅提高美国牛肉进口关税 系3年半来首次】市场消息，日本政府宣布，从明天（18日）起，将美国进口牛肉关税从25.8%提升至38.5%，期限是30天。这是日本时隔3年零7个月，再次对美国产牛肉启动紧急进口限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi6795110.d.html</link>
-            <guid>2073480</guid>
-            <pubDate>Wed, 17 Mar 2021 01:30:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：韩国央行以0.860%的收益率出售2年期货币稳定债券。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi6794288.d.html</link>
-            <guid>2073477</guid>
-            <pubDate>Wed, 17 Mar 2021 01:29:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【旭化成电池关键材料扩产20% 抢攻电动车商机】日本旭化成表示，将投资约300亿日元增产锂离子电池关键材料隔离膜，新厂房位于日本宫崎县日向工厂厂区内，预计2023年度上半年商转，年产能约3.5亿平方米。目前旭化成已在日本滋贺县守山市的守山制造所、北卡罗莱纳州的美国工厂增产投资隔离膜，上述增产工程预计于 今年上半年开始商转，待日向工厂新厂房导入生产，旭化成隔离膜年产能将进一步提高二成至约19亿平方米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikknscsi6793815.d.html</link>
-            <guid>2073474</guid>
-            <pubDate>Wed, 17 Mar 2021 01:28:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒大汽车港股跌2.45%，昨日大涨近11%，此前宣布联手腾讯开发车载智能系统。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3634242.d.html</link>
-            <guid>2073470</guid>
-            <pubDate>Wed, 17 Mar 2021 01:28:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【农业农村部：小麦条锈病已发生215万亩 草地贪夜蛾呈重发态势】据农业农村部组织全国农作物病虫害测报网监测，随着气温回升，小麦条锈病扩展速度显著加快，草地贪夜蛾也进入活跃期，重发流行态势明显。目前，小麦条锈病已在湖北、陕西、河南、甘肃、云南、四川、贵州、重庆等8个省份232个县区发生215万亩，为近10年来第三重发年份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-17/detail-ikkntiam3631705.d.html</link>
-            <guid>2073437</guid>
-            <pubDate>Wed, 17 Mar 2021 01:24:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
