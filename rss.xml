@@ -4,11 +4,52 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 19 Mar 2021 20:26:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Mar 2021 21:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  标普：预计西班牙经济将在2022年恢复到2019年的水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8871515.d.html</link>
+            <guid>2079470</guid>
+            <pubDate>Fri, 19 Mar 2021 21:18:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：网络安全初创公司KnowBe4提交IPO申请，筹资高达1亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5710381.d.html</link>
+            <guid>2079469</guid>
+            <pubDate>Fri, 19 Mar 2021 21:14:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  标普：西班牙的财政和经济增长仍然存在风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8870326.d.html</link>
+            <guid>2079468</guid>
+            <pubDate>Fri, 19 Mar 2021 21:13:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  标普：确认西班牙“A/A-1”评级，前景展望仍为负面。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8870299.d.html</link>
+            <guid>2079467</guid>
+            <pubDate>Fri, 19 Mar 2021 21:12:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  芝商所（CME）将2021年4月的NYMEX天然气期货合约的维持保证金从2300美元/手下调至2000美元/手，下调幅度为13%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8867361.d.html</link>
+            <guid>2079462</guid>
+            <pubDate>Fri, 19 Mar 2021 20:59:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  芝商所（CME）将NYMEX原油期货4月合约的维持保证金从4525美元/手上调至5100美元/手，上调幅度为12.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5707157.d.html</link>
+            <guid>2079461</guid>
+            <pubDate>Fri, 19 Mar 2021 20:59:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：ROKU(ROKU.O)购买了美国排名第一的电视家居装饰节目“This Old House”。]]></title>
+            <guid>2079460</guid>
+            <pubDate>Fri, 19 Mar 2021 20:52:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国商务部长雷蒙多：在与半导体行业高管会晤后，解决芯片短缺问题是当务之急。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8859587.d.html</link>
@@ -50,6 +91,12 @@
             <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8849664.d.html</link>
             <guid>2079446</guid>
             <pubDate>Fri, 19 Mar 2021 19:36:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【41个城市首套房贷款平均利率5.28%，专家称未来房贷利率或进一步上升】 融360大数据研究院近日发布2021年3月份中国房贷市场报告，通过对全国41个重点城市674家银行分支机构房贷利率的监测数据显示，全国重点城市的房贷利率整体水平进一步上涨。2021年3月份（数据监测期为2021年2月20日-2021年3月18日），全国首套房贷款平均利率为5.28%，环比上涨2个基点；二套房贷款平均利率为5.57%，环比上涨1个基点。融360大数据研究院分析师李万赋认为，房贷收紧进行时，额度管控、违规资金购房、二手房、二套房是这轮调控的重点关键词。随着楼市的调控力度加大，房贷利率有可能进一步上升。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5689151.d.html</link>
+            <guid>2079445</guid>
+            <pubDate>Fri, 19 Mar 2021 19:34:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[  美国加州贝尼西亚消防部门：瓦莱罗能源(VLO.N)位于贝尼西亚的炼油厂报告出现间歇性的火灾。]]></title>
@@ -110,6 +157,12 @@
             <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8846394.d.html</link>
             <guid>2079431</guid>
             <pubDate>Fri, 19 Mar 2021 19:21:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国参议院小组将国际税务政策听证会改期至3月25日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8846351.d.html</link>
+            <guid>2079430</guid>
+            <pubDate>Fri, 19 Mar 2021 19:21:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[  美国国会领导人正考虑规模为20亿美元的国会大厦安全计划。]]></title>
@@ -258,42 +311,6 @@
             <title><![CDATA[  据俄罗斯国防部国家国防管理中心消息，俄黑海舰队对驶入黑海水域的美国海军“蒙特雷”号导弹巡洋舰进行跟踪监视。（卫星新闻）]]></title>
             <guid>2079373</guid>
             <pubDate>Fri, 19 Mar 2021 17:30:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ICE欧盟碳排放交易许可（期货价格）收跌1.84%，报41.50欧元，本周累跌2.97%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5660977.d.html</link>
-            <guid>2079370</guid>
-            <pubDate>Fri, 19 Mar 2021 17:28:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美银：新一轮纾困支票不会刺激游戏驿站的投机性交易】最近，美银开始追踪Reddit上关于刺激性支票的讨论。得出的结论是，展望未来，该行不认为游戏驿站史诗般交易狂潮将因消费者钱包中增加的现金而再度上演。美银数据分析研究分析师Curtis Nagle表示：“过去几天，刺激性支票的讨论似乎达到了顶峰，但游戏驿站的股价下跌了。”近期包括游戏驿站和刺激性措施在内的讨论数量很少。游戏驿站股票交易量也在稳步下降，做空兴趣大幅下降，”他补充说。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8820435.d.html</link>
-            <guid>2079368</guid>
-            <pubDate>Fri, 19 Mar 2021 17:24:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英飞凌在美国得克萨斯州Austin恢复生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5659979.d.html</link>
-            <guid>2079367</guid>
-            <pubDate>Fri, 19 Mar 2021 17:23:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：希腊方面将开始放宽部分封锁措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5658159.d.html</link>
-            <guid>2079363</guid>
-            <pubDate>Fri, 19 Mar 2021 17:15:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【险企1月份利润预计达626亿元，产险同比飙增89%人身险增69%】 从相关渠道获得的数据显示，保险公司1月份预计利润总额625.8亿元，同比增加245亿元，增长64.39%。从不同险企预计利润及增速来看，1月份，产险公司利润达93.07亿元，同比增长89.01%；人身险公司利润为469.93亿元，同比增长68.72%；再保险公司利润为10.63亿元，同比增长628.71%；资产管理公司利润为16.55亿元，同比增长62.55%。总体来看，1月份险企利润增势良好。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5657529.d.html</link>
-            <guid>2079361</guid>
-            <pubDate>Fri, 19 Mar 2021 17:11:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【汽车芯片制造商瑞萨电子：日本工厂发生火情导致生产中断】 汽车芯片制造商瑞萨电子表示，日本的一家工厂发生火情，导致生产中断。该公司表示，火情发生于茨城县常陆那珂市N3大楼的保洁室，该公司正在努力查明损失情况。火情没有造成人员伤亡。由于芯片短缺，全球汽车制造商正在被迫减产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8817234.d.html</link>
-            <guid>2079360</guid>
-            <pubDate>Fri, 19 Mar 2021 17:09:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
