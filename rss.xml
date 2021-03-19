@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 19 Mar 2021 21:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Mar 2021 22:26:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  冰岛气象局：雷克雅内斯半岛的火山已开始喷发。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8886042.d.html</link>
+            <guid>2079484</guid>
+            <pubDate>Fri, 19 Mar 2021 22:26:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国商品期货交易委员会(CFTC)要求交易平台Coinbase为误导性报道支付650万美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8877573.d.html</link>
+            <guid>2079475</guid>
+            <pubDate>Fri, 19 Mar 2021 21:49:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国考虑为华尔街针对气候变化的影响权衡全球基准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8874319.d.html</link>
+            <guid>2079473</guid>
+            <pubDate>Fri, 19 Mar 2021 21:33:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  标普：预计西班牙经济将在2022年恢复到2019年的水平。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8871515.d.html</link>
@@ -270,47 +288,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8824486.d.html</link>
             <guid>2079385</guid>
             <pubDate>Fri, 19 Mar 2021 17:43:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据监测网络状况的网站DownDetector：Facebook(FB.O)从美国东部时间下午1:35就开始出现问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5663263.d.html</link>
-            <guid>2079380</guid>
-            <pubDate>Fri, 19 Mar 2021 17:39:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴克莱：美联储永久性改变补充杠杆率的信号“更重要”】巴克莱策略师在报告中写道，美联储声明传达出将永久性改变补充杠杆率（SLR）的信号，这一点比让SLR豁免措施到期结束“更重要得多”。报告称：“更重要的是永久性解决方案上的进展，这是美联储传达出的信号。因此，我们眼中的首要主题是永久性解决方案正在制定中，而且将带来好处，即便豁免措施到期结束”。如果推出永久性的SLR减免措施，即使准备金上升，也可能会创造出增持如美国国债、机构MBS等低风险加权资产的“庞大需求”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5662717.d.html</link>
-            <guid>2079378</guid>
-            <pubDate>Fri, 19 Mar 2021 17:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据外媒，Facebook(FB.O)面临英国监管机构的反垄断调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8822798.d.html</link>
-            <guid>2079377</guid>
-            <pubDate>Fri, 19 Mar 2021 17:36:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据监测网络状况的网站DownDetector：用户报告显示WhatsApp出现问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8822582.d.html</link>
-            <guid>2079376</guid>
-            <pubDate>Fri, 19 Mar 2021 17:35:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  险企1月份利润预计达626亿元，产险同比飙增89%人身险增69%；
-从相关渠道获得的数据显示，保险公司1月份预计利润总额625.8亿元，同比增加245亿元，增长64.39%。从不同险企预计利润及增速来看，1月份，产险公司利润达93.07亿元，同比增长89.01%；人身险公司利润为469.93亿元，同比增长68.72%；再保险公司利润为10.63亿元，同比增长628.71%；资产管理公司利润为16.55亿元，同比增长62.55%。总体来看，1月份险企利润增势良好。（证券日报）]]></title>
-            <guid>2079375</guid>
-            <pubDate>Fri, 19 Mar 2021 17:33:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据监测网络状况的网站DownDetector：用户报告显示Instagram出现问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5661914.d.html</link>
-            <guid>2079374</guid>
-            <pubDate>Fri, 19 Mar 2021 17:33:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据俄罗斯国防部国家国防管理中心消息，俄黑海舰队对驶入黑海水域的美国海军“蒙特雷”号导弹巡洋舰进行跟踪监视。（卫星新闻）]]></title>
-            <guid>2079373</guid>
-            <pubDate>Fri, 19 Mar 2021 17:30:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
