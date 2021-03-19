@@ -4,11 +4,113 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 19 Mar 2021 19:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Mar 2021 20:26:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国商务部长雷蒙多：在与半导体行业高管会晤后，解决芯片短缺问题是当务之急。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8859587.d.html</link>
+            <guid>2079457</guid>
+            <pubDate>Fri, 19 Mar 2021 20:21:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道指本周累跌0.46%，纳指本周累跌0.79%，标普500指数本周累跌0.77%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5695720.d.html</link>
+            <guid>2079455</guid>
+            <pubDate>Fri, 19 Mar 2021 20:03:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利总理德拉基：在卫生问题上，如果与欧盟的协调失败，我们可以单独行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8853907.d.html</link>
+            <guid>2079452</guid>
+            <pubDate>Fri, 19 Mar 2021 19:54:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：投机者最近一周将美元净空头押注削减至134亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8851764.d.html</link>
+            <guid>2079451</guid>
+            <pubDate>Fri, 19 Mar 2021 19:45:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据Electrek：特斯拉(TSLA.O)获得了来自意大利IDRA公司的世界上第一台8千吨铸造机的订单，这台铸造机预计将是特斯拉电动皮卡Cybertruck生产的关键。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5691594.d.html</link>
+            <guid>2079450</guid>
+            <pubDate>Fri, 19 Mar 2021 19:44:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【年报分红行情悄然开启，已有2家公司2020年度股息率超10%】 根据同花顺iFinD数据统计显示，截至3月19日，共有181家上市公司公布2020年年度分红预案，其中，涉及派现的公司有179家，包含送转的公司有25家。7家公司2020年年度分红方案每10股派现金额在0.3元-35元不等。股息率超过1%的公司有75家。其中，四方股份、方大特钢等2家公司股息率均在10%以上。最近1个月内，179家公司中共有101只个股获券商给予“买入”或“增持”等看好评级，占比近六成。其中，28只个股获券商扎堆看好，看好评级家数均在10家以上，万华化学、中兴通讯、长春高新、中科创达、中国联通等5只个股获得看好评级的券商家数均在20家左右。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5691244.d.html</link>
+            <guid>2079449</guid>
+            <pubDate>Fri, 19 Mar 2021 19:43:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至3月16日当周，CBOT美国2年期国债期货净空头持仓减少90849手至316515手，美国10年期国债期货净多头持仓增加4104手，超长期国债期货净空头持仓增加7984手至258663手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8849664.d.html</link>
+            <guid>2079446</guid>
+            <pubDate>Fri, 19 Mar 2021 19:36:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国加州贝尼西亚消防部门：瓦莱罗能源(VLO.N)位于贝尼西亚的炼油厂报告出现间歇性的火灾。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5688794.d.html</link>
+            <guid>2079444</guid>
+            <pubDate>Fri, 19 Mar 2021 19:32:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至3月16日当周，WTI原油期货投机性净多头头寸增加3232手至41107手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5688752.d.html</link>
+            <guid>2079443</guid>
+            <pubDate>Fri, 19 Mar 2021 19:32:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至3月16日当周，COMEX铜期货投机性净多头头寸减少6651手至44750手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8848525.d.html</link>
+            <guid>2079441</guid>
+            <pubDate>Fri, 19 Mar 2021 19:31:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至3月16日当周，COMEX白银期货投机性净多头头寸减少1763手至25913手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5688324.d.html</link>
+            <guid>2079440</guid>
+            <pubDate>Fri, 19 Mar 2021 19:30:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至3月16日当周，COMEX黄金期货投机性净多头头寸增加12846手至54741手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5688226.d.html</link>
+            <guid>2079439</guid>
+            <pubDate>Fri, 19 Mar 2021 19:30:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国加州贝尼西亚消防部门：VALERO位于贝尼西亚的炼油厂报告出现间歇性的火灾。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5688018.d.html</link>
+            <guid>2079438</guid>
+            <pubDate>Fri, 19 Mar 2021 19:29:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊(AMZN.O)正在沙特阿拉伯招聘员工，将充分利用沙特王国的网络转型。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5687905.d.html</link>
+            <guid>2079437</guid>
+            <pubDate>Fri, 19 Mar 2021 19:28:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储巴尔金：认为今年的通货膨胀会很严重，但这种情况不会持续多年。 预计美国的通胀预期将比日本和欧洲的更强。 收益率上升是经济走强的迹象。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8847038.d.html</link>
+            <guid>2079435</guid>
+            <pubDate>Fri, 19 Mar 2021 19:24:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储巴尔金：预计将在满足条件时将开始加息。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5686865.d.html</link>
+            <guid>2079434</guid>
+            <pubDate>Fri, 19 Mar 2021 19:24:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储巴尔金：收益率上升似乎反映了市场的乐观情绪。 今年将会看到价格的压力。 未来6个月的价格压力与未来几年的通货膨胀是不同的。 长期的通货紧缩趋势对美国通货膨胀起到了逆风作用。 随着被压抑的需求回归，夏季和秋季（经济）将会非常强劲。 经济将足够强劲，可以接受更高的收益率。 当目标取得实质性进展时，将准备好缩减购债规模，但需要提醒市场。 美联储去年采取了一系列的非常措施，是时候放松一些措施了。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8846394.d.html</link>
+            <guid>2079431</guid>
+            <pubDate>Fri, 19 Mar 2021 19:21:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国国会领导人正考虑规模为20亿美元的国会大厦安全计划。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8844159.d.html</link>
@@ -192,66 +294,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8817234.d.html</link>
             <guid>2079360</guid>
             <pubDate>Fri, 19 Mar 2021 17:09:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国驻美大使Pierce：与美国的贸易谈判不需要从头开始。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8813993.d.html</link>
-            <guid>2079352</guid>
-            <pubDate>Fri, 19 Mar 2021 16:56:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国驻美大使Pierce：英美双方在贸易协定上取得了良好进展。 英美贸易协议没有最后期限。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5653227.d.html</link>
-            <guid>2079351</guid>
-            <pubDate>Fri, 19 Mar 2021 16:53:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  巴西经济部长盖德斯：央行短期加息能够为长期利率下行提供空间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5652974.d.html</link>
-            <guid>2079350</guid>
-            <pubDate>Fri, 19 Mar 2021 16:52:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[借贷公司Lending Club(LC.N)盘中涨幅扩大至10%，韦德布什上调其目标价至25美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5652756.d.html</link>
-            <guid>2079349</guid>
-            <pubDate>Fri, 19 Mar 2021 16:52:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【电气设备行业本周获北上资金净买入31亿，格力电器是唯一净买入超20亿元的个股】 在碳中和的背景下，光伏、风能、新能源车等产业景气度持续高涨，申万电气设备行业因此获得北上资金的高度关注，本周合计净买入31.05亿元，为本周净买入最多的行业。机械设备、家用电器、医药生物3行业本周也获得北上资金超20亿元的净买入。本周港交所公告，接深交所通知，格力电器总境外持股比例低于26%，于3月16日起重新接受格力电器的买盘。刚一放开，北上资金就疯狂净买入格力电器24.22亿元，为本周唯一净买入超20亿元的个股。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5649335.d.html</link>
-            <guid>2079339</guid>
-            <pubDate>Fri, 19 Mar 2021 16:37:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利和法国希望到7月份实施全球性数字税。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8808405.d.html</link>
-            <guid>2079337</guid>
-            <pubDate>Fri, 19 Mar 2021 16:31:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  IMF首席经济学家GOPINATH：如果通胀现象不是暂时的，美联储有应对通胀的工具，但是利率的快速提升可能会导致“相当无序”的结果。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8808326.d.html</link>
-            <guid>2079335</guid>
-            <pubDate>Fri, 19 Mar 2021 16:31:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10年期美债收益率日内转跌，较日高回落约4个基点，报1.7051%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5647076.d.html</link>
-            <guid>2079333</guid>
-            <pubDate>Fri, 19 Mar 2021 16:26:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  瑞萨科技：半导体制造厂发生火灾，已确认火灾没有造成人员伤亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5647023.d.html</link>
-            <guid>2079332</guid>
-            <pubDate>Fri, 19 Mar 2021 16:26:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  IMF首席经济学家GOPINATH：美国的经济刺激计划可能会导致暂时的通胀（上涨），但不会持续到未来。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8807204.d.html</link>
-            <guid>2079331</guid>
-            <pubDate>Fri, 19 Mar 2021 16:26:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
