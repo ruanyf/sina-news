@@ -4,11 +4,58 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 19 Mar 2021 17:39:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Mar 2021 18:29:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  俄罗斯经济发展部表示，俄罗斯的GDP在1月份下降了2.2%之后，2月份又加速下降到了2.8%。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8834330.d.html</link>
+            <guid>2079410</guid>
+            <pubDate>Fri, 19 Mar 2021 18:28:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国银行：补充杠杆率（SLR）到期不会影响资本返还计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5672125.d.html</link>
+            <guid>2079409</guid>
+            <pubDate>Fri, 19 Mar 2021 18:19:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：03月20日02时04分在西藏那曲市比如县（北纬31.94度，东经92.89度）发生3.2级地震，震源深度10千米。]]></title>
+            <guid>2079408</guid>
+            <pubDate>Fri, 19 Mar 2021 18:17:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲地中海地震中心：瓦努阿图发生5.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5670739.d.html</link>
+            <guid>2079406</guid>
+            <pubDate>Fri, 19 Mar 2021 18:12:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[360数科(QFIN.O)盘中跌超10%，报30.06美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8829804.d.html</link>
+            <guid>2079405</guid>
+            <pubDate>Fri, 19 Mar 2021 18:07:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中概新能源车股走高，小鹏汽车涨6.4%，理想汽车涨超5%，蔚来汽车涨4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8826345.d.html</link>
+            <guid>2079392</guid>
+            <pubDate>Fri, 19 Mar 2021 17:52:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果将在未来几周更新其iPhone软件，已改善用户隐私政策。数字广告专家表示，这一变化可能会让应用开发商更难通过应用内广告吸引消费者下载他们的APP。此举还可能增强苹果App Store的影响力，推动苹果自己的搜索广告。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5664473.d.html</link>
+            <guid>2079387</guid>
+            <pubDate>Fri, 19 Mar 2021 17:44:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伴随着油价从昨日暴跌中反弹，美股能源股普涨，卡隆石油涨15%，西方石油涨6%，马拉松石油涨3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8824486.d.html</link>
+            <guid>2079385</guid>
+            <pubDate>Fri, 19 Mar 2021 17:43:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  据监测网络状况的网站DownDetector：Facebook(FB.O)从美国东部时间下午1:35就开始出现问题。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5663263.d.html</link>
@@ -204,72 +251,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-19/detail-ikkntiam5640589.d.html</link>
             <guid>2079312</guid>
             <pubDate>Fri, 19 Mar 2021 15:57:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国北爱尔兰首席大臣刘易斯：只有在所有北爱尔兰社区都支持的情况下，该议定书才会起作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-19/detail-ikknscsi8799149.d.html</link>
-            <guid>2079310</guid>
-            <pubDate>Fri, 19 Mar 2021 15:49:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Facebook盘中一度涨4.7%，是今天标普500指数中表现最强劲的成分股。该公司CEO扎克伯格试图针对苹果即将出台的隐私政策转变态度，称“我认为，现实情况是，我有信心，我们将能够应对这种情况。我们将处于有利的位置，甚至我们有可能会处于更强的位置”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-19/detail-ikknscsi8798160.d.html</link>
-            <guid>2079308</guid>
-            <pubDate>Fri, 19 Mar 2021 15:44:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国宏桥信托投资集团：耐克(NKE.N)可以弥补因供应链造成的营收损失，维持买入评级和162美元目标价。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-19/detail-ikkntiam5637891.d.html</link>
-            <guid>2079307</guid>
-            <pubDate>Fri, 19 Mar 2021 15:44:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国有超3亿人存在睡眠障碍，数据显示我国有超2500家睡眠相关企业】2021年3月18日，中国睡眠研究会等机构在北京发布《2021年运动与睡眠白皮书》。数据显示，当下中国有超3亿人存在睡眠障碍，而运动人群失眠困扰比例仅为10%。天眼查专业版数据显示，我国有超2,500家企业名称或经营范围含“助眠、失眠、睡眠”，且企业状态为在业、存续、迁入、迁出的睡眠相关企业。其中61%的相关企业为有限责任公司，34%的相关企业为个体工商户。从注册资本上看，6成以上的睡眠相关企业注册资本在200万以下。从行业分布上看，64%的睡眠相关企业分布在批发和零售业。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-19/detail-ikknscsi8797117.d.html</link>
-            <guid>2079305</guid>
-            <pubDate>Fri, 19 Mar 2021 15:40:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【新一批国产游戏版号下发，80款游戏过审】国家新闻出版署官网显示，3月19日下发了新一批国产游戏版号，共80款游戏获批。中青宝(300052.SZ)运营的《铃兰计划》、网易(09999.HK)的《绝对演绎》、万达电影(002739.SZ)的《胡莱三国4》、恺英网络(002517.SZ)的《细胞成长日记》等多款游戏获得版号。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-19/detail-ikknscsi8795233.d.html</link>
-            <guid>2079300</guid>
-            <pubDate>Fri, 19 Mar 2021 15:32:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国国家统计局的最新数据显示，在当前财政年度中，累计公共借款已达到2790亿英镑，甚至超过了金融危机期间的水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-19/detail-ikkntiam5634547.d.html</link>
-            <guid>2079299</guid>
-            <pubDate>Fri, 19 Mar 2021 15:30:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【最新监测结果显示：胶州湾海星数量呈减少趋势】自然资源部北海局所属北海环境监测中心近日对胶州湾海星暴发情况开展实地监测，最新监测结果显示，胶州湾海星数量呈减少趋势，海星主要分布区域种群平均密度已降低至6至8个/平方米。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-19/detail-ikkntiam5634143.d.html</link>
-            <guid>2079298</guid>
-            <pubDate>Fri, 19 Mar 2021 15:28:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国家公路交通安全管理局正在对特斯拉汽车的23起撞车事件进行调查，包括最近在美国密歇根州发生的一起事故。大多数案件都涉及特斯拉的自动驾驶功能。（纽约邮报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-19/detail-ikknscsi8794146.d.html</link>
-            <guid>2079297</guid>
-            <pubDate>Fri, 19 Mar 2021 15:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Visa(V.N)直线下挫，现跌超5%，不久前美国司法部宣布对Visa进行反垄断调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-19/detail-ikknscsi8791132.d.html</link>
-            <guid>2079294</guid>
-            <pubDate>Fri, 19 Mar 2021 15:14:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国民主党参议员Warren：不能让大银行偷偷降低资本要求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-19/detail-ikkntiam5630770.d.html</link>
-            <guid>2079291</guid>
-            <pubDate>Fri, 19 Mar 2021 15:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国司法部对Visa进行反垄断调查】美国司法部反垄断小组正在调查Visa(V.N)是否在借记卡市场上限制商家使用成本较低的交易网络进行借记卡交易，从而构成反竞争行为。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-19/detail-ikknscsi8790593.d.html</link>
-            <guid>2079290</guid>
-            <pubDate>Fri, 19 Mar 2021 15:12:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
