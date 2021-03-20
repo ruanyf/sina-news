@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 20 Mar 2021 21:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Mar 2021 22:26:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【去年乳制品消费增速达8% 今年乳制品价格或小幅回调】中国社会科学院农村发展研究所产业经济室主任、国家奶牛产业技术体系产业经济室主任刘长全告诉记者，如果以国内奶类总产量与折合原料奶的乳制品进口总量之和来衡量，2020年乳制品总需求达到5431万吨，与2019年相比增长8%，这也是2006年以来中国乳制品消费需求增长最快的一年。“今年国内生鲜奶价格回调压力较大。”刘长全说，从国际市场看，乳制品价格可能小幅回调。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9048818.d.html</link>
+            <guid>2080913</guid>
+            <pubDate>Sat, 20 Mar 2021 22:06:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2021年2月中国债券市场共发行各类债券3.4万亿元】中国人民银行发布的最新数据显示，2月份，我国债券市场共发行各类债券3.4万亿元。其中，国债发行3730亿元，地方政府债券发行557.2亿元，金融债券发行4841.6亿元，公司信用类债券发行6133.9亿元，信贷资产支持证券发行364.2亿元，同业存单发行1.8万亿元。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5889294.d.html</link>
+            <guid>2080912</guid>
+            <pubDate>Sat, 20 Mar 2021 21:55:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家电网将新增千亿抽水蓄能电站投资，社会资本可参可控】3月19日，国家电网发布了服务碳达峰碳中和、构建新型电力系统、加快抽水蓄能开发建设重要举措。国家电网宣布，“十四五”期间积极推动抽水蓄能电站科学布局、多开多投，力争在新能源集中开发地区和负荷中心新增开工2000万千瓦以上装机、1000亿元以上投资规模的抽水蓄能电站，这一装机量已接近世界最大水电站——三峡水电站2240万千瓦的总装机规模。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5889244.d.html</link>
+            <guid>2080911</guid>
+            <pubDate>Sat, 20 Mar 2021 21:54:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  亚美尼亚总理：军方在纳卡冲突升级期间损失3250人。（卫星新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9046889.d.html</link>
@@ -274,18 +292,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5854468.d.html</link>
             <guid>2080298</guid>
             <pubDate>Sat, 20 Mar 2021 12:17:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本新干线：东北新干线将于当地时间23:00（北京时间22:00）恢复运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5853731.d.html</link>
-            <guid>2080294</guid>
-            <pubDate>Sat, 20 Mar 2021 12:09:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2021中国种子大会暨南繁硅谷论坛在海南三亚开幕】3月20日，由中国种子协会会同海南省相关部门等主办，以“种业使命 南繁未来”为主题的2021中国种子大会暨南繁硅谷论坛在三亚开幕，大会为期四天，议题涵盖水稻、玉米、蔬菜、南繁、种业知识产权保护、现代种业产业园和生命科学前沿等领域。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5853637.d.html</link>
-            <guid>2080293</guid>
-            <pubDate>Sat, 20 Mar 2021 12:08:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
