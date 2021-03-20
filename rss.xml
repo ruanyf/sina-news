@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 20 Mar 2021 20:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Mar 2021 21:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  亚美尼亚总理：军方在纳卡冲突升级期间损失3250人。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9046889.d.html</link>
+            <guid>2080909</guid>
+            <pubDate>Sat, 20 Mar 2021 21:14:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  汇丰银行：尽管瑞郎已经有所走弱，但考虑到瑞郎避险属性以及当前瑞士央行的政策立场，预计瑞郎在未来一段时间内的走势将更加脆弱。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9046440.d.html</link>
+            <guid>2080908</guid>
+            <pubDate>Sat, 20 Mar 2021 21:02:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  汽车制造商Stellantis：受芯片短缺的影响，将推迟部分皮卡车的生产，预计影响将持续数周。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9044488.d.html</link>
@@ -274,24 +286,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5853637.d.html</link>
             <guid>2080293</guid>
             <pubDate>Sat, 20 Mar 2021 12:08:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：华尔街正押注数十亿美颜押注电动汽车驱动的锂能源复苏，数据显示，曾因供应过剩而被避开的锂矿公司今年在美洲通过股票发行筹集了近34亿美元，这是自2018年至2020年筹集总额的7倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi9012387.d.html</link>
-            <guid>2080290</guid>
-            <pubDate>Sat, 20 Mar 2021 12:04:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：千岛群岛发生5.0级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi9012282.d.html</link>
-            <guid>2080289</guid>
-            <pubDate>Sat, 20 Mar 2021 12:03:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2020年，我国钢铁行业生产、消费、效益均保持增长，今年1-2月继续保持增长态势】中国钢铁工业协会骆铁军副会长出席2021（第十二届）中国钢铁发展论坛指出，在刚刚过去的2020年，我国钢铁行业生产、消费、效益均保持增长，今年1-2月继续保持增长态势。总体看，我国钢铁行业运行稳中有进，高于预期，同时也面临一些问题。对此，钢协进行了研究，将“控产能不增，保有效供给；推铁矿投资，改定价机制；抓超低排放，寻低碳路径；行对标挖潜，稳企业效益”作为今年的重点工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi9012221.d.html</link>
-            <guid>2080288</guid>
-            <pubDate>Sat, 20 Mar 2021 12:03:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
