@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 20 Mar 2021 19:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Mar 2021 20:26:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  汽车制造商Stellantis：受芯片短缺的影响，将推迟部分皮卡车的生产，预计影响将持续数周。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9044488.d.html</link>
+            <guid>2080903</guid>
+            <pubDate>Sat, 20 Mar 2021 20:08:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新疆巴音郭楞州若羌县发生3.0级地震，震源深度8千米。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5882174.d.html</link>
@@ -286,12 +292,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi9012221.d.html</link>
             <guid>2080288</guid>
             <pubDate>Sat, 20 Mar 2021 12:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印尼特里嘎那航空公司一架飞机冲出跑道 暂无人员伤亡】当地时间3月20日，印度尼西亚雅加达哈利姆机场执行总经理马司玛（Marsma Nandang Sukarna）介绍说，一架特里嘎那航空公司飞机的发动机出现故障，该飞机在着陆时冲出了跑道。目前没有收到人员伤亡的消息。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5852278.d.html</link>
-            <guid>2080284</guid>
-            <pubDate>Sat, 20 Mar 2021 11:52:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
