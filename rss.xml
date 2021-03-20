@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 20 Mar 2021 13:25:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Mar 2021 14:24:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【英国监管机构将对“脸书”发起调查】英国竞争监管机构将在未来几个月内对Facebook“脸书”发起反信任调查。《金融时报》分析称，这是在今年早些时候对谷歌搜索引擎和苹果手机发起了类似调查后，又对“科技大鳄”进行的最新打击。有知情人士透露说，此次英国将全面审查“脸书”是否利用客户数据挤压社交媒体竞争对手以及在线广告。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5864118.d.html</link>
+            <guid>2080337</guid>
+            <pubDate>Sat, 20 Mar 2021 14:12:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印度一化工厂爆炸导致至少5人丧生】印度马哈拉施特拉邦20日发生一起化工厂爆炸事故，造成至少5人死亡，多人受伤。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi9021293.d.html</link>
+            <guid>2080332</guid>
+            <pubDate>Sat, 20 Mar 2021 13:46:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[西安：截至今日20时已检测7663人，结果全部阴性。与确诊病例刘某同批次在隔离封闭病区工作的33人，连续3次检测均为阴性。（新京报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5860435.d.html</link>
@@ -312,24 +324,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8999752.d.html</link>
             <guid>2080225</guid>
             <pubDate>Sat, 20 Mar 2021 09:39:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据媒体消息：东京电力公司正在检查福岛第一核电站的异常情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8999177.d.html</link>
-            <guid>2080215</guid>
-            <pubDate>Sat, 20 Mar 2021 09:32:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本宫城县附近海域发生里氏7.2级地震，东京有震感。日本气象厅发布海啸警报。（人民日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8998459.d.html</link>
-            <guid>2080213</guid>
-            <pubDate>Sat, 20 Mar 2021 09:24:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日本放送协会NHK警告居民称，海啸预计将有1米高，不要靠近海岸。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi8998186.d.html</link>
-            <guid>2080212</guid>
-            <pubDate>Sat, 20 Mar 2021 09:23:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
