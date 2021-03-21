@@ -4,11 +4,65 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 21 Mar 2021 05:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Mar 2021 06:27:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  截至3月21日下午14时18分，《唐人街探案3》上映38天，票房正式突破45亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5963653.d.html</link>
+            <guid>2081033</guid>
+            <pubDate>Sun, 21 Mar 2021 06:21:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【*ST大晟：3月23日起股票撤销退市风险警示】*ST大晟公告，公司股票将于2021年3月22日停牌1天，2021年3月23日起复牌并撤销退市风险警示。撤销退市风险警示后，股票简称由“*ST大晟”变更为“大晟文化”，公司股票转出风险警示板交易，公司股票价格的日涨跌幅限制由5%变更为10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9121959.d.html</link>
+            <guid>2081032</guid>
+            <pubDate>Sun, 21 Mar 2021 06:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【赛微电子：预计北京MEMS产线一期产能将在第二季度实现正式生产】赛微电子(300456)在互动平台表示，公司本次非公开发行事项相关工作正在进行中；公司预计北京MEMS产线一期产能将在2021年第二季度实现正式生产并开始产能爬坡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5961858.d.html</link>
+            <guid>2081030</guid>
+            <pubDate>Sun, 21 Mar 2021 06:13:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【沙特国家石油公司公布2020年报 净利润同比下跌近45%】沙特阿美石油公司向外界公布了该公司2020年度财务报表。财务报表显示，截至2020年12月31日，沙特阿美石油公司扣除税收和天课后的净利润为1830亿沙特里亚尔（约合488亿美元），而2019年该公司全年总利润为3300亿沙特里亚尔，2020年度净利润同比下跌近45%。沙特阿美公司在财务报表中表示，2020年度净利润较上年下降的原因是原油价格下跌和销量下降及炼油和化工业务的利润率下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5961763.d.html</link>
+            <guid>2081029</guid>
+            <pubDate>Sun, 21 Mar 2021 06:13:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中企承建的几内亚金迪亚隧道项目开工】科纳克里消息：由中铁十八局集团承建的几内亚金迪亚隧道项目日前开工，标志着连接几内亚马瑞巴亚港和锡芒杜矿区的铁路建设进入实施阶段。工程采用中国标准、中国技术和中国设备，建成后将成为几内亚最长隧道，预计2024年2月完工。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9116630.d.html</link>
+            <guid>2081026</guid>
+            <pubDate>Sun, 21 Mar 2021 05:51:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国地质勘探局：危地马拉奧斯科市西南68公里发生5.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9116344.d.html</link>
+            <guid>2081024</guid>
+            <pubDate>Sun, 21 Mar 2021 05:49:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  沙特阿美2021年的资本支出约为350亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5955075.d.html</link>
+            <guid>2081020</guid>
+            <pubDate>Sun, 21 Mar 2021 05:38:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  沙特阿美本财年运营收入为3833.6亿里亚尔。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9113643.d.html</link>
+            <guid>2081019</guid>
+            <pubDate>Sun, 21 Mar 2021 05:37:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【肖钢：加大股权融资对科技创新的支持作用】中国证监会原主席肖钢3月20日在中国财富管理50人论坛举办的《国民财富大讲堂》上表示，下一步金融市场改革应围绕扩大直接融资发力，特别是加大股权融资对科技创新和产业转型升级的支持作用。（中证网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9113395.d.html</link>
+            <guid>2081018</guid>
+            <pubDate>Sun, 21 Mar 2021 05:36:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  欧洲地中海地震中心：墨西哥恰帕斯发生5.0级地震。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9109216.d.html</link>
@@ -252,36 +306,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9046440.d.html</link>
             <guid>2080908</guid>
             <pubDate>Sat, 20 Mar 2021 21:02:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  汽车制造商Stellantis：受芯片短缺的影响，将推迟部分皮卡车的生产，预计影响将持续数周。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9044488.d.html</link>
-            <guid>2080903</guid>
-            <pubDate>Sat, 20 Mar 2021 20:08:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新疆巴音郭楞州若羌县发生3.0级地震，震源深度8千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5882174.d.html</link>
-            <guid>2080897</guid>
-            <pubDate>Sat, 20 Mar 2021 18:50:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特斯拉首席执行官：不会向美国政府提供中国客户的数据】美国当地时间3月20日，特斯拉公司（Tesla Inc。）首席执行官埃隆·马斯克 （Elon Musk）通过网络参加中国发展高层论坛会议。马斯克在会议上表示，特斯拉公司将不会向美国政府提供其车辆在中国或其他国家收集的数据。他表示，特斯拉在美国或中国的公司不会收集敏感或私人数据，然后与美国政府分享，并保证中国客户的数据会得到充分保护。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5882136.d.html</link>
-            <guid>2080896</guid>
-            <pubDate>Sat, 20 Mar 2021 18:50:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【ETF赛道再添新品，首批新材料ETF获批】记者获悉，国内首批新材料ETF正式获批，包括华宝基金、天弘基金、华夏基金、平安基金和国联安基金在内的五家公司先后申报了该产品。据悉，新材料ETF跟踪的是中证新材料主题指数，目前该指数的前十大成份股中，囊括了万华化学、宁德时代、隆基股份、亿纬锂能、通威股份等新材料细分领域的龙头股。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9039551.d.html</link>
-            <guid>2080893</guid>
-            <pubDate>Sat, 20 Mar 2021 18:12:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  德国外交部：土耳其退出伊斯坦布尔公约的决定，对欧洲和土耳其传递出错误的信号。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9038245.d.html</link>
-            <guid>2080891</guid>
-            <pubDate>Sat, 20 Mar 2021 17:47:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
