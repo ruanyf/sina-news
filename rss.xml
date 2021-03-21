@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 21 Mar 2021 12:38:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Mar 2021 13:26:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【基金投顾业务技术“接口”征求意见稿下发】据中国基金报记者了解，近期基金业协会就《基金投顾业务数据交换技术接口（征求意见稿）》向投顾试点机构征求意见，在投顾业务试点要求的基础上，对投顾业务系统框架、交易模式、规范要求等全维度进行“统一规范”。业内人士纷纷认为，统一数据接口可以降低各基金投顾机构的系统开发和运维成本，推动基金投资顾问业务规范、长远发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam6009468.d.html</link>
+            <guid>2081165</guid>
+            <pubDate>Sun, 21 Mar 2021 12:54:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据津云：3月20日18时至21日18时，天津市新增境外输入无症状感染者1例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9168043.d.html</link>
+            <guid>2081164</guid>
+            <pubDate>Sun, 21 Mar 2021 12:53:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【神火股份：拟推2021年限制性股票激励计划】神火股份发布2021年限制性股票激励计划(草案)，拟向激励对象授予不超过公告时公司股本总额223,146.18万股1%(2231.46万股)的限制性股票。其中，首次授予1952.48万股，占授予总量的87.5%，占目前公司股本总额的0.87%。该计划首次授予的激励对象共计136人。该计划首次授予的限制性股票的授予价格为4.98元/股。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam6003585.d.html</link>
@@ -246,24 +258,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9136543.d.html</link>
             <guid>2081065</guid>
             <pubDate>Sun, 21 Mar 2021 07:47:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【吉利德、默沙东HIV治疗创新方案将立即启动两个疗法的联合制剂工作】吉利德和默沙东将开发并商业化在研HIV长效联合疗法。而每个疗法（口服、注射）将采取不同方法，公司将立即启动两个疗法的联合制剂工作。对于口服疗法，预计在2021年下半年启动由吉利德主导的临床研究。这项二期研究将为口服复方制剂的发展指明方向。对于注射疗法，预计在2022年启动由默沙东主导的临床研究。这将是一个一期研究，将帮助公司明确未来的方向。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5974937.d.html</link>
-            <guid>2081057</guid>
-            <pubDate>Sun, 21 Mar 2021 07:27:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【云南自贸试验区昆明片区加入世界自由区组织】从中国（云南）自贸试验区昆明片区（昆明经开区）管委会了解到，自贸试验区昆明片区已于日前正式成为世界自由区组织会员单位。自贸试验区昆明片区制度创新部有关负责人介绍，昆明片区是世界自由区组织中拥有投票资格的会员单位，将充分利用世界自由区组织提供的支持服务和交流平台，推动与世界知名自由贸易区开展深度业务合作。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5974360.d.html</link>
-            <guid>2081054</guid>
-            <pubDate>Sun, 21 Mar 2021 07:23:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【力合微年度报告：2020年净利润同比减少36% 拟10派1.5元】力合微披露年报，2020年营业收入2.16亿元，同比减少22.09%；净利润2782.05万元，同比减少35.98%；基本每股收益0.33元。公司拟每10股派发现金红利1.5元(含税)。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9133096.d.html</link>
-            <guid>2081053</guid>
-            <pubDate>Sun, 21 Mar 2021 07:23:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
