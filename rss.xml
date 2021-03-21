@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 21 Mar 2021 16:43:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Mar 2021 17:41:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【阿富汗首都喀布尔发生多起安全事件 至少7人丧生】据阿富汗黎明新闻当地时间3月21日报道，在过去的24小时内，喀布尔发生了多起安全事件，至少导致7人丧生，另有3人受伤。在其中一起事件中，汽车爆炸导致了一个家庭的5名成员死亡。他们的亲戚告诉媒体，当天这一家人为庆祝诺鲁兹节，清早就开车外出了。据警方介绍，这一家人中有两人是民兵组织成员，另一人是矿产和石油部的雇员。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikkntiam6029481.d.html</link>
+            <guid>2081410</guid>
+            <pubDate>Sun, 21 Mar 2021 17:25:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  土耳其卫生部：土耳其单日新增死亡病例数超过100例，为2月初以来首次。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikknscsi9185962.d.html</link>
+            <guid>2081407</guid>
+            <pubDate>Sun, 21 Mar 2021 16:51:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【新证券法实施将满13个月 153家中介机构合计被“点名”242次】自去年3月1日新证券法实施以来，截至今年3月21日16时，在近13个月的时间中，共153家中介机构（含104家券商、34家会计师事务所、14家资产评估机构和1家律师事务所）被证监会和地方证监局合计点名242次，其中，有8次是行政处罚，234次为行政监管措施（包括监管谈话、出具警示函、警告、责令改正、限制业务活动等）。从违规类型看，50次涉及财务信息披露存在重大错误、13次涉及重大事项信息披露不及时或违规、8次涉及未履行信披义务；另有171次涉及违规经营、其他违规事项、内部制度不完善、传播虚假信息、内幕交易等类型。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikknscsi9184868.d.html</link>
@@ -293,12 +305,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5990777.d.html</link>
             <guid>2081107</guid>
             <pubDate>Sun, 21 Mar 2021 09:30:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【天喻信息：同喻投资拟10.96亿元受让公司24.58%股份 成为公司控股股东】天喻信息公告，公司股东产业集团、华工创投与同喻投资于2021年3月21日签署了附生效条件的《股份转让协议》，约定同喻投资以10.37元/股的价格受让产业集团、华工创投合计持有的公司105,699,178股股份，占公司总股本的24.58%，合计转让价款为人民币10.96亿元。若本次股份转让实施完成，同喻投资将持有公司24.58%股份，公司控股股东将变更为同喻投资，实际控制人将变更为艾迪和闫春雨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5990703.d.html</link>
-            <guid>2081106</guid>
-            <pubDate>Sun, 21 Mar 2021 09:30:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
