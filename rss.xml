@@ -4,11 +4,70 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 22 Mar 2021 17:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Mar 2021 18:30:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国国务院发言人：美国对沙特和也门政府承诺停火表示欢迎。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam6514407.d.html</link>
+            <guid>2083450</guid>
+            <pubDate>Mon, 22 Mar 2021 18:16:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  部分NFT概念股涨幅扩大，大公文化(TKAT.O)涨超50%，东方文化(OCG.O)涨超21%。]]></title>
+            <guid>2083449</guid>
+            <pubDate>Mon, 22 Mar 2021 18:16:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛：投资者应当不再过度关注各大央行未来数年将普遍性地按兵不动的预期，而应该开始关注G-10（央行的）政策分化。看涨加元和挪威克朗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam6513642.d.html</link>
+            <guid>2083448</guid>
+            <pubDate>Mon, 22 Mar 2021 18:14:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股百货商店板块跌幅居前，狄乐百货跌5.85%，诺德斯特龙跌4.87%，柯尔百货跌3.87%，梅西百货跌3.57%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam6511122.d.html</link>
+            <guid>2083445</guid>
+            <pubDate>Mon, 22 Mar 2021 18:08:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国食品配送公司Deliveroo确认，该公司英国IPO招股书已经获得英国金融市场行为监管局（FCA）批准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam6510571.d.html</link>
+            <guid>2083443</guid>
+            <pubDate>Mon, 22 Mar 2021 18:06:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据悉，英国大型可再生能源投资公司GreenCoat考虑出售资产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsi9668397.d.html</link>
+            <guid>2083442</guid>
+            <pubDate>Mon, 22 Mar 2021 18:03:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经参头版头条：“十四五”先进制造业集群发展蓝图酝酿待出】 “十四五”时期，先进制造业集群的建设与发展将全面提速。22日从工信部获悉，工信部通过集群竞赛的方式，围绕新一代信息技术、高端装备、新材料、生物医药等重点领域，遴选25个先进制造业集群作为重点培育对象，包括深圳市新一代信息通信集群、上海市集成电路集群、南京市新型电力（智能电网）装备集群等。目前，25个重点支持集群正在进行公示。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsi9662207.d.html</link>
+            <guid>2083437</guid>
+            <pubDate>Mon, 22 Mar 2021 17:48:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧元兑美元涨幅扩大到0.36%，刷新日高至1.1947，较日低回升达75点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsi9661691.d.html</link>
+            <guid>2083436</guid>
+            <pubDate>Mon, 22 Mar 2021 17:46:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[VIX波动率日内跌幅达9.0%，报19.06。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam6502413.d.html</link>
+            <guid>2083435</guid>
+            <pubDate>Mon, 22 Mar 2021 17:46:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国贸易代表署（USTR）代表Tai与欧盟委员会贸易实务主管Dombrovskis通话，讨论双方如何化解因波音/空客飞机补贴争端而发生的关税冲突。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam6501013.d.html</link>
+            <guid>2083432</guid>
+            <pubDate>Mon, 22 Mar 2021 17:43:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  中国地震台网正式测定，3月23日1时23分在西藏那曲市比如县发生4.2级地震，震源深度10千米，震中位于北纬31.93度，东经92.89度。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsi9659229.d.html</link>
@@ -252,64 +311,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikkntiam6447799.d.html</link>
             <guid>2083351</guid>
             <pubDate>Mon, 22 Mar 2021 15:30:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[热门中概股中，瑞幸粉单涨超12%，达达涨超8%，腾讯音乐涨超2%，理想汽车、百度、小鹏汽车涨超1%；雾芯科技跌超44%，涂鸦智能跌12%，荔枝跌9%，老虎证券跌6%，拼多多跌超3%，哔哩哔哩跌超2%，阿里巴巴跌超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikkntiam6444729.d.html</link>
-            <guid>2083347</guid>
-            <pubDate>Mon, 22 Mar 2021 15:21:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  政府政策文件草案显示：印度预计广泛的汽车激励计划将在五年内吸引140亿美元的投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikknscsi9603392.d.html</link>
-            <guid>2083346</guid>
-            <pubDate>Mon, 22 Mar 2021 15:21:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  政府政策文件草案显示：印度计划在新方案下为当地生产电动汽车和零部件提供额外奖励。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikknscsi9603310.d.html</link>
-            <guid>2083345</guid>
-            <pubDate>Mon, 22 Mar 2021 15:21:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【流动性汹涌，美元短期拆借市场几度现负利率】短期美元拆借市场上流动性太多，导致隔夜拆借利率屡屡降为负利率。根据ICAP数据，隔夜回购协议（以美国国债作抵押的贷款）利率最近几周屡屡降至负值，周一首次触及-0.01%。截至纽约时间08:37，买卖差价回升为0.01%/0%。包括房利美和房地美在内政府支持企业(GSE)的本息兑付，导致大量资金涌进短期市场。随着美国财政部庞大的现金余额未来数月继续减少，这种趋势将持续下去；道明证券策略师Gennadiy Goldberg表示：“还是那个主题：准备金增加，短期现金增加，利率继续受挤压下行，从理论上讲，唯一的缓解将来自GSE现金周四退出市场的时候。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikknscsi9602931.d.html</link>
-            <guid>2083343</guid>
-            <pubDate>Mon, 22 Mar 2021 15:20:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉（TSLA）一度涨超6%，刷新日高至694美元上方，“牛市女王”Cathie Wood管理的ETF ARK Investment预计，特斯拉股价到2025年可能会达到3000美元。ARK旗舰基金ARK Autonomous Technology & Robotics ETF（ARKQ）高开将近1.6%，至86美元上方，随后一度转跌；ARKK一度涨也一度涨约2.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikknscsi9599579.d.html</link>
-            <guid>2083337</guid>
-            <pubDate>Mon, 22 Mar 2021 15:11:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际锻造铜委员会（IWCC）反对关闭伦敦金属交易所（LME）的圈内交易（trading ring）。]]></title>
-            <guid>2083336</guid>
-            <pubDate>Mon, 22 Mar 2021 15:11:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  ARK Invest似乎不太确定大众将会实现电动汽车领域的指数级增长，分析师Sam Korus称，在ARK看来，具有“旧世界DNA”的公司不太可能迅速转型，主导新世界。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikkntiam6440187.d.html</link>
-            <guid>2083334</guid>
-            <pubDate>Mon, 22 Mar 2021 15:10:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网正式测定：03月22日22时51分在西藏阿里地区改则县（北纬31.64度，东经84.93度）发生3.4级地震，震源深度10千米。]]></title>
-            <guid>2083333</guid>
-            <pubDate>Mon, 22 Mar 2021 15:07:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国地质勘探局：新西兰吉斯伯恩东北179公里处发生5.1级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikknscsi9595736.d.html</link>
-            <guid>2083332</guid>
-            <pubDate>Mon, 22 Mar 2021 15:02:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【波罗的海干散货运价指数升至一年多高点，因船舶需求强劲】波罗的海干散货运价指数周一升至逾一年以来高点，因船舶运费走强，受各船类运价走高的推动，巴拿马货船运价触及逾10年高点。波罗的海干散货运价指数上涨38点或1.7%，至2319点，为2019年9月以来最高水平。海岬型船运价指数上涨38点或1.6%，至2382点。海岬型船日均获利上涨314美元，至19751美元。巴拿马型船运价指数上涨83点或2.8%，至3058点，为2010年8月以来新高。巴拿马型船日均获利上涨747美元，至27520美元。超灵便型船运价指数上涨11点，至2133点，为2017年4月以来最高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikkntiam6436951.d.html</link>
-            <guid>2083331</guid>
-            <pubDate>Mon, 22 Mar 2021 15:02:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
