@@ -4,11 +4,65 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 22 Mar 2021 20:27:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Mar 2021 21:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  市场消息：美国远程医疗公司Ro据悉将融资达50亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam6588184.d.html</link>
+            <guid>2083523</guid>
+            <pubDate>Mon, 22 Mar 2021 21:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Merk Hard Currency Fund投资组合经理Axel Merk称，周一的关键题材之一是，土耳其里拉的抛售并未产生任何重大连锁反应。本周美联储主席将发表几次讲话，他将继续上周的措辞，在我看来，这意味着美国国债收益率将被抑制，这对美元是负面的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsi9743170.d.html</link>
+            <guid>2083522</guid>
+            <pubDate>Mon, 22 Mar 2021 21:12:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉告密者抱怨太阳能设备起火，这被视作美国联邦安全委员会调查的证据之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam6582983.d.html</link>
+            <guid>2083521</guid>
+            <pubDate>Mon, 22 Mar 2021 21:09:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国石油公司高管在白宫会议上表态在气候方面进行合作。埃克森美孚、雪佛龙和英国石油公司的高管出席了白宫会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam6579982.d.html</link>
+            <guid>2083520</guid>
+            <pubDate>Mon, 22 Mar 2021 21:02:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：晶圆代工厂SkyWater申请IPO，寻求以“SKYT”为代码在纳斯达克上市。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam6578945.d.html</link>
+            <guid>2083519</guid>
+            <pubDate>Mon, 22 Mar 2021 20:59:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国航空业及其他行业希望拜登政府在5月1日前提供国际（旅行）计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsi9737287.d.html</link>
+            <guid>2083518</guid>
+            <pubDate>Mon, 22 Mar 2021 20:58:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国金融时报：WeWork的目标是以90亿美元的估值(包括债务)上市。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsi9732391.d.html</link>
+            <guid>2083514</guid>
+            <pubDate>Mon, 22 Mar 2021 20:45:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果应用商店开发商关系副总裁Ron Okamoto在任职20年后宣布退休，目前负责苹果APP营销的Susan Prescot接棒。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsi9729473.d.html</link>
+            <guid>2083511</guid>
+            <pubDate>Mon, 22 Mar 2021 20:38:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【提示】媒体公布美联储主席鲍威尔为周二美国国会听证会准备的证词讲稿。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam6568257.d.html</link>
+            <guid>2083507</guid>
+            <pubDate>Mon, 22 Mar 2021 20:32:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[VIACOMCBS(VIAC.O,VIACA.O)：宣布发行20亿美元的B类普通股和10亿美元的A系列强制可转换优先股。VIACOMCBS盘后跌2.48%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam6563139.d.html</link>
@@ -275,60 +329,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsi9655940.d.html</link>
             <guid>2083424</guid>
             <pubDate>Mon, 22 Mar 2021 17:32:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储理事夸尔斯：Libor将面临“严格监管”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam6496185.d.html</link>
-            <guid>2083422</guid>
-            <pubDate>Mon, 22 Mar 2021 17:30:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Truist证券：重申华特迪士尼(DIS.N)的买入评级，目标价195美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam6494711.d.html</link>
-            <guid>2083419</guid>
-            <pubDate>Mon, 22 Mar 2021 17:27:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国纽约联储：美国远期通胀率的“走势令人着迷”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsi9653404.d.html</link>
-            <guid>2083418</guid>
-            <pubDate>Mon, 22 Mar 2021 17:26:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[今年以来，越来越多对冲基金突然纷纷加仓金融科技中概股。多方了解到，当前多数华尔街对冲基金对金融科技中概股回归港股持欢迎态度。（21世纪经济报道）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam6492890.d.html</link>
-            <guid>2083417</guid>
-            <pubDate>Mon, 22 Mar 2021 17:22:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国国际贸易大臣特拉斯寻求与美国就空客-波音争端寻求“公平的”解决方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsi9652012.d.html</link>
-            <guid>2083416</guid>
-            <pubDate>Mon, 22 Mar 2021 17:22:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国国际贸易大臣特拉斯与美国贸易代表讨论了美英自贸协定谈判取得的进展，同意进一步磋商。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam6490729.d.html</link>
-            <guid>2083412</guid>
-            <pubDate>Mon, 22 Mar 2021 17:17:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Energous(WATT.O)恢复交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsi9646989.d.html</link>
-            <guid>2083411</guid>
-            <pubDate>Mon, 22 Mar 2021 17:09:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  无线充电技术初创公司Energous(WATT.O)直线拉升至20%，触及熔断，现报4.93美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsi9643549.d.html</link>
-            <guid>2083407</guid>
-            <pubDate>Mon, 22 Mar 2021 17:01:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国贸易代表办公室（USTR）发表声明称，美国贸易代表与英国国际贸易大臣特拉斯就持续对美英贸易协议谈判评估进行了讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam6481003.d.html</link>
-            <guid>2083403</guid>
-            <pubDate>Mon, 22 Mar 2021 16:52:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
