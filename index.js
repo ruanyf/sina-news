@@ -37,7 +37,9 @@ const filterArr = [
   '联储',
   '中央银行',
   '财长',
-  '财政部长',
+  '财政部',
+  '参议院',
+  '众议院',
 ];
 
 async function main() {
@@ -64,7 +66,10 @@ async function main() {
 
       // text filter
       for (let i = 0; i < filterArr.length; i++) {
-        if (item.rich_text.includes(filterArr[i])) return;
+        if (item.rich_text.includes(filterArr[i])) {
+          // console.log(item.rich_text);
+          return;
+        }
       }
 
       // tag filter
