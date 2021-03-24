@@ -33,6 +33,11 @@ const filterArr = [
   '疫苗',
   '疫情',
   '新冠',
+  '央行',
+  '联储',
+  '中央银行',
+  '财长',
+  '财政部长',
 ];
 
 async function main() {
