@@ -4,11 +4,77 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 24 Mar 2021 18:23:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Mar 2021 19:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美联储戴利：美联储承诺在真正完成任务（复苏）前维持宽松措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikknscsk0974763.d.html</link>
+            <guid>2087766</guid>
+            <pubDate>Wed, 24 Mar 2021 19:14:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储戴利：将会看到（央行）保持耐心。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikkntiam7814422.d.html</link>
+            <guid>2087765</guid>
+            <pubDate>Wed, 24 Mar 2021 19:11:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储戴利：寻求持续实现2%的通胀目标，且通胀预期持续超调。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikkntiam7813997.d.html</link>
+            <guid>2087763</guid>
+            <pubDate>Wed, 24 Mar 2021 19:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储戴利：希望看到（经济）增强但不过于乐观。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikkntiam7813650.d.html</link>
+            <guid>2087762</guid>
+            <pubDate>Wed, 24 Mar 2021 19:09:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储戴利：开始看到经济复苏、失业率下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikknscsk0972623.d.html</link>
+            <guid>2087761</guid>
+            <pubDate>Wed, 24 Mar 2021 19:08:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国务卿布林肯：与欧盟委员会副主席兼“外长”博雷利讨论了俄罗斯和伊朗问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikknscsk0971840.d.html</link>
+            <guid>2087758</guid>
+            <pubDate>Wed, 24 Mar 2021 19:06:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  AMC院线跌超10%，现报9.58美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikknscsk0966388.d.html</link>
+            <guid>2087755</guid>
+            <pubDate>Wed, 24 Mar 2021 18:49:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登提名Lina Khan为联邦贸易专员。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikkntiam7804782.d.html</link>
+            <guid>2087753</guid>
+            <pubDate>Wed, 24 Mar 2021 18:43:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  SpaceX：确认了将部署60颗星链卫星（的计划）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikknscsk0964059.d.html</link>
+            <guid>2087752</guid>
+            <pubDate>Wed, 24 Mar 2021 18:43:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI 4月原油期货收涨3.42美元，涨幅5.92%，报61.18美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikknscsk0963236.d.html</link>
+            <guid>2087750</guid>
+            <pubDate>Wed, 24 Mar 2021 18:40:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储威廉姆斯：必须确保加密货币达到高标准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikkntiam7799413.d.html</link>
+            <guid>2087746</guid>
+            <pubDate>Wed, 24 Mar 2021 18:28:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美股邮轮股直线走低，皇家加勒比邮轮跌1.86%，挪威邮轮跌1.05%，嘉年华邮轮转跌。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikknscsk0955212.d.html</link>
@@ -278,108 +344,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0901666.d.html</link>
             <guid>2087667</guid>
             <pubDate>Wed, 24 Mar 2021 15:50:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  理想汽车盘中跌幅扩大至10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0901456.d.html</link>
-            <guid>2087666</guid>
-            <pubDate>Wed, 24 Mar 2021 15:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储主席鲍威尔：美联储密切关注社区银行的杠杆率。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7741830.d.html</link>
-            <guid>2087665</guid>
-            <pubDate>Wed, 24 Mar 2021 15:49:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：尽早针对气候变化采取行动将是有益的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7741410.d.html</link>
-            <guid>2087664</guid>
-            <pubDate>Wed, 24 Mar 2021 15:48:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国首相约翰逊：（谈到提高核弹头数量上限时）我们致力于最低限度的可信威慑。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7741028.d.html</link>
-            <guid>2087663</guid>
-            <pubDate>Wed, 24 Mar 2021 15:47:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国首相约翰逊：（谈到提高核弹头数量上限时）有关数量是一个上限，而不是一个目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0900043.d.html</link>
-            <guid>2087662</guid>
-            <pubDate>Wed, 24 Mar 2021 15:46:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据福克斯新闻：美国参议院共和党人提出移民法案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7739767.d.html</link>
-            <guid>2087660</guid>
-            <pubDate>Wed, 24 Mar 2021 15:43:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  腾讯音乐跌幅进一步扩大至20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0898276.d.html</link>
-            <guid>2087659</guid>
-            <pubDate>Wed, 24 Mar 2021 15:41:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦：如果美国同意提供特别提款权，将发行短期国库券来支付，但提供特别提款权会获得利息。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0898030.d.html</link>
-            <guid>2087658</guid>
-            <pubDate>Wed, 24 Mar 2021 15:40:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据俄新社：克里姆林宫表示，俄罗斯将对加拿大的制裁作出回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0897217.d.html</link>
-            <guid>2087657</guid>
-            <pubDate>Wed, 24 Mar 2021 15:38:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储主席鲍威尔：美联储的独立性长期以来为美国公众提供了很好的服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7738077.d.html</link>
-            <guid>2087656</guid>
-            <pubDate>Wed, 24 Mar 2021 15:38:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  新能源车盘中跌幅扩大，小鹏汽车跌超10%，理想汽车跌超8%，蔚来汽车跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0895774.d.html</link>
-            <guid>2087653</guid>
-            <pubDate>Wed, 24 Mar 2021 15:34:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦：如果美国国税局采取适当措施，就可以在不增加税收的情况下征收更多的税。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0895617.d.html</link>
-            <guid>2087652</guid>
-            <pubDate>Wed, 24 Mar 2021 15:34:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦：担心长期失业，需要确保失业不会留下永久的创伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7735172.d.html</link>
-            <guid>2087651</guid>
-            <pubDate>Wed, 24 Mar 2021 15:30:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦：我们向公司征收极少的税收，提高税率是适当的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7734838.d.html</link>
-            <guid>2087650</guid>
-            <pubDate>Wed, 24 Mar 2021 15:29:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦：重要的是要确保提高美国公司税率是在全球协议的前提下完成的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7734305.d.html</link>
-            <guid>2087649</guid>
-            <pubDate>Wed, 24 Mar 2021 15:28:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦：全球最低税是一种阻止竞底竞争的方法，致力于努力实现目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7733575.d.html</link>
-            <guid>2087647</guid>
-            <pubDate>Wed, 24 Mar 2021 15:26:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦：不确定指定特定资产管理者是否是正确的工具。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0891131.d.html</link>
-            <guid>2087643</guid>
-            <pubDate>Wed, 24 Mar 2021 15:21:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
