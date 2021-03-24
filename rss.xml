@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 24 Mar 2021 23:07:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Mar 2021 23:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【分析人士：电力、钢铁行业有望率先推进“碳达峰”“碳中和”】近日，“碳中和”概念股一片红火，不少环保、能源、钢铁股相继创下历史新高。上市公司纷纷通过公告、机构调研纪要、交易所互动平台等，披露与“碳中和”相关的规划。分析人士指出，电力、钢铁行业的“碳达峰”有望率先推进。全国碳排放权交易市场启动，将带来一系列投资机会。能源结构将进一步向清洁能源转型，预计清洁能源、生物质能源、新能源汽车等产业会迎来快速发展期。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikkntiam7899425.d.html</link>
+            <guid>2087862</guid>
+            <pubDate>Wed, 24 Mar 2021 23:08:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【业内人士：自动驾驶全场景应用仍路途漫漫】近日，记者实地探访小鹏汽车NGP 3000公里挑战赛，体验了NGP自动导航辅助驾驶。在自动驾驶辅助系统中，地图精度、雷达感知系统等设备起着重要作用。近年来，智能驾驶成为电动汽车的标准配置，自动驾驶技术成为电动汽车品牌竞争的焦点之一。业内人士认为，目前自动驾驶技术只能起到辅助作用。自动驾驶普及需要长时间的市场培育及相关法规的完善。（中国证券报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikkntiam7898443.d.html</link>
