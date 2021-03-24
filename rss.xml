@@ -4,7 +4,7 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 24 Mar 2021 23:10:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Mar 2021 23:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -124,18 +124,6 @@
             <pubDate>Wed, 24 Mar 2021 21:50:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国财政部：累计发放1.27亿笔经济影响补助金。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikknscsk1028467.d.html</link>
-            <guid>2087820</guid>
-            <pubDate>Wed, 24 Mar 2021 21:48:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部：本周发放3700万份经济影响补助金，总额830亿美元。根据拜登总统经济刺激计划发放的经济影响补助金已达3250亿美元，将继续分批发放。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikkntiam7868770.d.html</link>
-            <guid>2087819</guid>
-            <pubDate>Wed, 24 Mar 2021 21:47:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[  欧盟委员会副主席东布罗夫斯基斯：阿斯利康“远未”实现对欧盟的合同承诺。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikkntiam7867328.d.html</link>
             <guid>2087816</guid>
@@ -182,12 +170,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikkntiam7849847.d.html</link>
             <guid>2087804</guid>
             <pubDate>Wed, 24 Mar 2021 20:52:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国参议院将于数分钟后开始投票表决是否将薪酬保障计划（PPP）延长至3月31日之后。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikkntiam7849082.d.html</link>
-            <guid>2087803</guid>
-            <pubDate>Wed, 24 Mar 2021 20:49:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[  【新专利显示苹果汽车使用红外大灯 夜间视距增加3倍】苹果公司今天获得了一项夜视系统专利，该系统结合了可见光、近红外(NIR)和长波红外(LWIR)传感器，可以全面观察前方的情况。苹果公司指出，限制大灯功率的法律只适用于可见光，因此红外线的大灯可以更强大。苹果表示，可以采用多种互补的图像传感技术的组合，来解决夜间或低光环境物体检测和分类的挑战。苹果的汽车计划目前还不清楚，不过如果该公司打算销售整车，那么需要准备好提供40年的支持。苹果通常会在产品停产5到7年后宣布产品过时，届时不再提供零件或维修服务。]]></title>
