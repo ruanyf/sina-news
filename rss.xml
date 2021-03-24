@@ -4,11 +4,77 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 24 Mar 2021 19:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Mar 2021 20:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美股科技股中，Snap跌超8%，Zoom跌超7%，特斯拉跌超4%，苹果跌近2%。半导体板块ETF跌1.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikkntiam7833762.d.html</link>
+            <guid>2087788</guid>
+            <pubDate>Wed, 24 Mar 2021 20:05:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[热门中概股普跌，腾讯音乐跌26%，唯品会跌21%，爱奇艺跌近20%。小鹏汽车跌15%，理想汽车、蔚来汽车跌超10%。哔哩哔哩跌近10%，拼多多跌超8%。中概互联网指数ETF跌超8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikkntiam7833263.d.html</link>
+            <guid>2087787</guid>
+            <pubDate>Wed, 24 Mar 2021 20:04:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧元区气候压力测试，各国央行将迎绿色监管新挑战】 当地时间3月18日，欧洲央行副行长德·金多斯表示，欧央行目前正在对400万家企业与欧元区的银行机构进行为期30年的全经济气候压力测试。据21世纪经济报道，除了传统资本压力测试，新一轮绿色压力测试或将向国内银行等金融机构袭来。采访多名行业人士以及查阅公开资料与文献获悉，除了工商银行早在2016年首次进行了火电、水泥行业环境压力测试，以评估环境政策变化对银行信贷风险的影响外，尚无查到别的企业或者机构有过这种测试。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikkntiam7827867.d.html</link>
+            <guid>2087782</guid>
+            <pubDate>Wed, 24 Mar 2021 19:48:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美元兑巴西雷亚尔USD/BRL涨2.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikkntiam7825453.d.html</link>
+            <guid>2087780</guid>
+            <pubDate>Wed, 24 Mar 2021 19:41:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储戴利：需要理解山火等气候风险可能导致的央行资产负债表风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikkntiam7822689.d.html</link>
+            <guid>2087777</guid>
+            <pubDate>Wed, 24 Mar 2021 19:33:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储戴利：美联储无法应对气候变化，但美联储有义务对抗并减轻气候风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikknscsk0980670.d.html</link>
+            <guid>2087774</guid>
+            <pubDate>Wed, 24 Mar 2021 19:29:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储戴利：美联储不应该让对尚未实现的通胀的恐慌主导政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikkntiam7820844.d.html</link>
+            <guid>2087773</guid>
+            <pubDate>Wed, 24 Mar 2021 19:28:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储戴利：没有证据表明通胀会超脱控制。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikknscsk0979624.d.html</link>
+            <guid>2087772</guid>
+            <pubDate>Wed, 24 Mar 2021 19:27:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  阿根廷债券价格下跌，此前阿根廷总统费尔南德斯称无法偿付IMF债务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikknscsk0977791.d.html</link>
+            <guid>2087769</guid>
+            <pubDate>Wed, 24 Mar 2021 19:22:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储戴利：长期以来，经济公平一直与“社会”问题相关，但其本身是经济学问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikknscsk0976572.d.html</link>
+            <guid>2087768</guid>
+            <pubDate>Wed, 24 Mar 2021 19:19:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储戴利：让经济运行超出“充分就业”模式将尤其有利于弱势群体。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikknscsk0975996.d.html</link>
+            <guid>2087767</guid>
+            <pubDate>Wed, 24 Mar 2021 19:17:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美联储戴利：美联储承诺在真正完成任务（复苏）前维持宽松措施。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikknscsk0974763.d.html</link>
@@ -272,78 +338,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikknscsk0917264.d.html</link>
             <guid>2087690</guid>
             <pubDate>Wed, 24 Mar 2021 16:32:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：正在考虑（采取）更严格的边境检疫措施。但更严格的边境措施会带来负面效应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikkntiam7756523.d.html</link>
-            <guid>2087689</guid>
-            <pubDate>Wed, 24 Mar 2021 16:28:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构：5月份OPEC+料维持产量不变 沙特或提高减产幅度】 FGE在一份研报中表示，鉴于油价下跌，OPEC+可能在下周会议上宣布维持5月份产量不变。沙特的“减产幅度甚至可能大于预期”，除了OPEC+的额定减产外，沙特目前还保持100万桶/日的自愿性减产。OPEC+的行动将为油价“提供底部支持”，尽管较长期的价格可能会面临压力。苏伊士运河目前的航道拥堵只能给油价带来“微弱支撑”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikknscsk0911285.d.html</link>
-            <guid>2087686</guid>
-            <pubDate>Wed, 24 Mar 2021 16:17:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储主席鲍威尔：如果美联储接受个人和企业的存款，它的角色将发生巨大变化。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikknscsk0908113.d.html</link>
-            <guid>2087682</guid>
-            <pubDate>Wed, 24 Mar 2021 16:08:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  标普：土耳其脆弱的国际收支状况可能会因最近的事件而进一步恶化。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikknscsk0908053.d.html</link>
-            <guid>2087681</guid>
-            <pubDate>Wed, 24 Mar 2021 16:08:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 美国车桥盘中下挫跌至3.75%，此前摩根士丹利下调其评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikknscsk0907436.d.html</link>
-            <guid>2087679</guid>
-            <pubDate>Wed, 24 Mar 2021 16:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  汽车拍卖平台ACV Auctions(ACVA.O)上市首日开涨超20%，开盘价报32美元，IPO价报25美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-25/detail-ikkntiam7747385.d.html</link>
-            <guid>2087678</guid>
-            <pubDate>Wed, 24 Mar 2021 16:05:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王毅同沙特外交大臣费萨尔举行会谈】王毅表示，中方愿加强“一带一路”倡议同沙“2030愿景”深度对接，用好两国高委会机制，有序推进贸易、投资、重大项目等传统合作，促进5G、人工智能、大数据等新兴领域合作，助力沙推进经济多元化，实现可持续发展。希双方共同做好中阿峰会筹备工作，为构建中阿命运共同体制定路线图和具体规划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0902570.d.html</link>
-            <guid>2087672</guid>
-            <pubDate>Wed, 24 Mar 2021 15:53:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦：鼓励贷款机构考虑投资的潜在影响并不是不合适的，但是没有要求强制或禁止向某些行业放贷。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0901897.d.html</link>
-            <guid>2087671</guid>
-            <pubDate>Wed, 24 Mar 2021 15:51:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美元兑挪威克朗跌近1%，刷新日低至8.5552，油价大涨提振了挪威克朗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0901814.d.html</link>
-            <guid>2087670</guid>
-            <pubDate>Wed, 24 Mar 2021 15:51:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：各国央行应对气候变化的必要步骤已经很清楚。认为及早采取行动应对气候变化带来的好处很明显。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0901773.d.html</link>
-            <guid>2087669</guid>
-            <pubDate>Wed, 24 Mar 2021 15:51:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦：世界面临气候危机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7742469.d.html</link>
-            <guid>2087668</guid>
-            <pubDate>Wed, 24 Mar 2021 15:51:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  耐克盘中走弱，现跌超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0901666.d.html</link>
-            <guid>2087667</guid>
-            <pubDate>Wed, 24 Mar 2021 15:50:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
