@@ -4,13 +4,37 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 26 Mar 2021 20:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Mar 2021 21:24:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Stellantis因芯片短缺缘故而临时关闭位于北美的五家工厂。]]></title>
+            <title><![CDATA[  市场消息：精准肿瘤学公司Biomea Fusion申请IPO，寻求在纳斯达克上市，代码为BMEA。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-27/detail-ikknscsk2064395.d.html</link>
+            <guid>2091681</guid>
+            <pubDate>Fri, 26 Mar 2021 21:13:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  标普：德国仍是全球信誉度最高的主权国家之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-27/detail-ikknscsk2063285.d.html</link>
+            <guid>2091679</guid>
+            <pubDate>Fri, 26 Mar 2021 21:10:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  标普确认德国主权信用评级为AAA/A-1+，前景展望稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-27/detail-ikknscsk2062894.d.html</link>
+            <guid>2091677</guid>
+            <pubDate>Fri, 26 Mar 2021 21:09:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[耐克美股盘后跌0.62%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-27/detail-ikknscsk2057163.d.html</link>
+            <guid>2091675</guid>
+            <pubDate>Fri, 26 Mar 2021 20:52:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Stellantis因芯片短缺缘故而临时关闭位于北美的五家工厂】 该公司为菲亚特克莱斯勒和法国标致集团合并之后的新公司，在美国的核心品牌包括Alfa Romeo、 Chrysler、Dodge、Fiat、Jeep、以及Ram。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-27/detail-ikknscsk2048679.d.html</link>
             <guid>2091670</guid>
             <pubDate>Fri, 26 Mar 2021 20:27:35 GMT</pubDate>
@@ -235,35 +259,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-27/detail-ikknscsk1993729.d.html</link>
             <guid>2091584</guid>
             <pubDate>Fri, 26 Mar 2021 17:50:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  阿联酋谴责胡塞武装企图用导弹袭击沙特的纳季兰。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-27/detail-ikknscsk1992082.d.html</link>
-            <guid>2091576</guid>
-            <pubDate>Fri, 26 Mar 2021 17:45:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  航运数据显示，堵塞在苏伊士运河的船只已经达到约293艘，昨日为238艘，包括运输牲口和液化天然气等各式船只。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-27/detail-ikknscsk1992060.d.html</link>
-            <guid>2091575</guid>
-            <pubDate>Fri, 26 Mar 2021 17:45:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[货轮数据显示：在苏伊士运河陷入堵塞的货轮已经达到大约293艘，周四（3月25日）为238艘。]]></title>
-            <guid>2091573</guid>
-            <pubDate>Fri, 26 Mar 2021 17:36:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：Discovery称其交易活动不是内幕交易引起的，Discovery(DISCA.O)现跌近30%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-27/detail-ikkntiam8826964.d.html</link>
-            <guid>2091572</guid>
-            <pubDate>Fri, 26 Mar 2021 17:31:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VIACOMCBS(VIAC.O,VIACA.O)跌幅扩大至29%，创下单日跌幅纪录。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-27/detail-ikknscsk1985861.d.html</link>
-            <guid>2091571</guid>
-            <pubDate>Fri, 26 Mar 2021 17:28:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
