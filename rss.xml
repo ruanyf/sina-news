@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 27 Mar 2021 19:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Mar 2021 20:28:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  因莫桑比克恐袭事件，道达尔撤离了驻莫桑比克LNG项目的员工。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikknscsk2592303.d.html</link>
+            <guid>2092707</guid>
+            <pubDate>Sat, 27 Mar 2021 20:24:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士：俄罗斯和阿联酋航空当局批准两国航空公司恢复航班。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9427958.d.html</link>
+            <guid>2092706</guid>
+            <pubDate>Sat, 27 Mar 2021 20:07:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【规上工业企业成绩单：前两个月超九成行业盈利，高端制造业利润增近59倍】全国规模以上工业企业1至2月份成绩单出炉。国家统计局3月27日发布的数据显示，1至2月份，全国规模以上工业企业实现利润11140.1亿元，同比增长1.79倍，比2019年1至2月份增长72.1%，两年平均增长31.2%，延续了去年下半年以来较快增长的良好态势。（华夏时报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikknscsk2562135.d.html</link>
