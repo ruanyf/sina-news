@@ -10,7 +10,7 @@ fetch('./rss.json')
     const li = document.createElement('li');
     const p = document.createElement('p');
     const timeObj = new Date(i.date_modified);
-    p.innerHTML = `${i.title} （<a href="${i.url}" target="_blank">${timeObj.getHours()}:${timeObj.getMinutes()}</a>）`;
+    p.innerHTML = `${i.title} （<a href="${i.url}" target="_blank">${timeObj.toLocaleTimeString('zh-CN', {hour12: false, hour: '2-digit', minute: '2-digit'})}</a>）`;
     li.appendChild(p);
     fragment.appendChild(li);
   });
