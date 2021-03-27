@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 27 Mar 2021 18:39:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Mar 2021 19:24:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【规上工业企业成绩单：前两个月超九成行业盈利，高端制造业利润增近59倍】全国规模以上工业企业1至2月份成绩单出炉。国家统计局3月27日发布的数据显示，1至2月份，全国规模以上工业企业实现利润11140.1亿元，同比增长1.79倍，比2019年1至2月份增长72.1%，两年平均增长31.2%，延续了去年下半年以来较快增长的良好态势。（华夏时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikknscsk2562135.d.html</link>
+            <guid>2092699</guid>
+            <pubDate>Sat, 27 Mar 2021 18:54:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【创开航以来最高纪录，大兴机场日实际起降航班突破800架次】据华北空管局运管中心统计数据，3月26日，北京大兴国际机场实际起降各类航班810架次，首次突破800架次，为大兴机场开航以来单日起降航班最高纪录。3月28日，换季航班计划执行首日，预计首都机场进出港航班1079架次，大兴机场进出港航班900架次。（北京青年报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9387927.d.html</link>
@@ -293,17 +299,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-27/detail-ikkntiam9266619.d.html</link>
             <guid>2092179</guid>
             <pubDate>Sat, 27 Mar 2021 12:17:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【全国水泥价格“开挂性”上涨”】据中国水泥网行情数据中心消息，近期全国水泥价格迎来“涨价潮”，华东、中南、西南、西北甚至东北水泥价格均大幅上调，其中，长三角熟料开启第四轮上调，累计涨幅100元/吨，珠三角水泥价格第三轮上涨，累计涨幅度达到60元/吨。另外，重庆、四川、安徽、上海、湖北、贵州、福建、江西、青海、甘肃，甚至长期低迷的辽宁，水泥价格均出现不同幅度上调。业内分析人士指出，与去年同期相比，当前全国水泥、熟料库位均较低，在一定程度上为水泥熟料价格上调提供了空间。]]></title>
-            <guid>2092141</guid>
-            <pubDate>Sat, 27 Mar 2021 12:10:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国与伊朗签署25年全面合作协议，涉政治、战略和经济合作】中国国际电视台（CGTN）3月27日消息，当地时间周六，中国和伊朗正式签署一项为期25年的协议，其中包括政治、战略和经济合作。中国国务委员兼外长王毅和伊朗外长扎里夫在德黑兰签署了这份文件。据伊通社报道，伊朗最高领袖顾问、伊朗与中国战略关系特使阿里·拉里贾尼（Ali Larijani）与来访的中国国务委员兼外长王毅举行会晤，双方强调在战略全面参与的基础上扩大合作的重要性，并回顾了如何加强经济和政治联系以提升长期战略关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-27/detail-ikkntiam9261085.d.html</link>
-            <guid>2092077</guid>
-            <pubDate>Sat, 27 Mar 2021 12:01:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
