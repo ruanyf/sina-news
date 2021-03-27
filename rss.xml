@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 27 Mar 2021 17:49:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Mar 2021 18:39:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【创开航以来最高纪录，大兴机场日实际起降航班突破800架次】据华北空管局运管中心统计数据，3月26日，北京大兴国际机场实际起降各类航班810架次，首次突破800架次，为大兴机场开航以来单日起降航班最高纪录。3月28日，换季航班计划执行首日，预计首都机场进出港航班1079架次，大兴机场进出港航班900架次。（北京青年报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9387927.d.html</link>
+            <guid>2092695</guid>
+            <pubDate>Sat, 27 Mar 2021 18:09:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  中国地震台网正式测定：03月28日01时24分在青海玉树州治多县（北纬35.47度，东经89.75度）发生4.1级地震，震源深度10千米。]]></title>
             <guid>2092692</guid>
@@ -298,12 +304,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-27/detail-ikkntiam9261085.d.html</link>
             <guid>2092077</guid>
             <pubDate>Sat, 27 Mar 2021 12:01:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【索赔16亿美元！美国福克斯新闻因大选不实报道遭起诉】26日，美国“多米宁投票系统公司”以诽谤罪起诉美国媒体福克斯新闻，指控福克斯新闻在去年美国总统大选期间散播有关该公司“操纵选举结果”的不实信息——“多米宁投票系统公司”就此向福克斯新闻索赔16亿美元。去年11月的美国总统大选中，特朗普竞选团队的律师西德尼·鲍威尔和鲁迪·朱利安尼多次在媒体上声称选举存在“作弊”现象，包括指称“多米宁投票系统”通过“电脑故障”将原本投给特朗普的票“转给”了拜登。多米宁投票系统公司”在起诉书中说，福克斯新闻明知消息不实，却仍邀请鲍威尔和朱利安尼作为嘉宾，在节目中散播这些谎言，损害了公司的名誉。此前，“多米宁投票系统公司”已经对鲍威尔和朱利安尼提起过诉讼。（央视网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-27/detail-ikkntiam9260073.d.html</link>
-            <guid>2092059</guid>
-            <pubDate>Sat, 27 Mar 2021 11:57:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
