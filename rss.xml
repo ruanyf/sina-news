@@ -4,11 +4,28 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 27 Mar 2021 20:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Mar 2021 21:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【年耗50亿根，泰国明年起禁用塑料吸管】泰国自然资源与环境部部长沃拉乌3月26日表示，泰国平均每年产生200万吨塑料垃圾，回收利用仅50万吨，剩余150万吨大部分为一次性塑料制品，其中包括97.5亿个塑料杯和50亿根塑料吸管。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9451143.d.html</link>
+            <guid>2092713</guid>
+            <pubDate>Sat, 27 Mar 2021 21:15:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士：俄罗斯和阿联酋航空当局批准两国航空公司恢复航班。]]></title>
+            <guid>2092712</guid>
+            <pubDate>Sat, 27 Mar 2021 21:11:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  道达尔表示，已推迟重启莫桑比克的液化天然气（LNG）项目。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikknscsk2606009.d.html</link>
+            <guid>2092710</guid>
+            <pubDate>Sat, 27 Mar 2021 21:04:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  因莫桑比克恐袭事件，道达尔撤离了驻莫桑比克LNG项目的员工。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikknscsk2592303.d.html</link>
@@ -305,12 +322,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-27/detail-ikkntiam9269075.d.html</link>
             <guid>2092237</guid>
             <pubDate>Sat, 27 Mar 2021 12:27:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据媒体报道，在苏伊士运河搁浅的货轮试图在当地时间下午2:30复水。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-27/detail-ikkntiam9266619.d.html</link>
-            <guid>2092179</guid>
-            <pubDate>Sat, 27 Mar 2021 12:17:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
