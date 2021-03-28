@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 28 Mar 2021 16:49:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Mar 2021 17:50:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国田纳西州纳什维尔发生洪水，造成至少4人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikknscsk3149507.d.html</link>
+            <guid>2093726</guid>
+            <pubDate>Sun, 28 Mar 2021 17:28:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲地中海地震中心：南设得兰群岛发生5.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikknscsk3131283.d.html</link>
+            <guid>2093723</guid>
+            <pubDate>Sun, 28 Mar 2021 17:01:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据当地媒体报道，苏伊士运河管理局主席乌萨马·拉比耶当地时间28日称，目前在苏伊士运河中等待通航的船只已达369艘，其中有25艘油轮。苏伊士运河管理局考虑对被困船只的通航费给予优惠。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikknscsk3126650.d.html</link>
+            <guid>2093722</guid>
+            <pubDate>Sun, 28 Mar 2021 16:54:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登计划将支出计划分拆为两个独立的方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikkntiam9965952.d.html</link>
+            <guid>2093721</guid>
+            <pubDate>Sun, 28 Mar 2021 16:53:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【保险系基金凶猛，国联安基金2020年净利润增228.6%】中国太保晚间公布的2020年报显示，截至报告期末，该公司持股50.8%的国联安基金总资产7.32亿元，净资产5.68亿元，净利润0.69亿元，同比2019年的0.21亿元暴增228.57%。（界面新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikknscsk3123135.d.html</link>
@@ -319,18 +343,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikknscsk2945919.d.html</link>
             <guid>2093630</guid>
             <pubDate>Sun, 28 Mar 2021 10:51:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中央气象台发布沙尘暴蓝色预警：新疆局地有沙尘暴】中央气象台3月28日18时发布沙尘暴蓝色预警：预计，3月28日20时至29日20时，内蒙古东南部、辽宁中西部、吉林南部、天津、河北中南部、山西南部、河南、山东、苏皖北部、新疆南疆盆地和东部、甘肃北部、宁夏、陕西中北部等地有扬沙或浮尘天气，其中，新疆东部局地有沙尘暴。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikknscsk2936882.d.html</link>
-            <guid>2093621</guid>
-            <pubDate>Sun, 28 Mar 2021 10:33:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟专员Thierry Bret：希望看到欧洲的夏季旅游季节和去年的情况类似。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9775873.d.html</link>
-            <guid>2093620</guid>
-            <pubDate>Sun, 28 Mar 2021 10:29:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
