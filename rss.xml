@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 28 Mar 2021 02:44:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Mar 2021 03:33:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：印尼望加锡爆炸事件现场有数名警员被送往医院。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9592278.d.html</link>
+            <guid>2093393</guid>
+            <pubDate>Sun, 28 Mar 2021 03:17:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[江西省人大常委会原党组成员、副主任史文清严重违纪违法被开除党籍。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikknscsk2744907.d.html</link>
+            <guid>2093391</guid>
+            <pubDate>Sun, 28 Mar 2021 03:04:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印尼城市望加锡警方称，当地一所教堂外发生爆炸事件。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9585593.d.html</link>
+            <guid>2093390</guid>
+            <pubDate>Sun, 28 Mar 2021 03:03:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海临港新片区9个项目集中开工 含世界顶尖科学家论坛会址】今日，上海自贸区临港新片区9个项目集中开工，总投资160亿元，其中包括国际创新协同区世界顶尖科学家论坛会址开工。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9579312.d.html</link>
+            <guid>2093380</guid>
+            <pubDate>Sun, 28 Mar 2021 02:49:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【海口⇌巴黎 海南自贸港首条定期洲际货运航线正式开通】昨日，海南航空海口往返巴黎HU787航班从海口美兰国际机场满载35吨货物起飞，航班单程飞行时长13小时，每周两个往返共四个航班。这标志着海南自贸港首条定期洲际货运航线正式开通，该航线的开通也填补了海南没有定期洲际货运航线的空白。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikknscsk2728301.d.html</link>
@@ -274,24 +298,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikknscsk2501393.d.html</link>
             <guid>2092681</guid>
             <pubDate>Sat, 27 Mar 2021 16:04:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据叙利亚阿拉伯通讯社（SANA）：叙利亚首都大马士革的巨大爆炸声是乡村地区清除残余爆炸物的行动结果。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-27/detail-ikknscsk2492728.d.html</link>
-            <guid>2092678</guid>
-            <pubDate>Sat, 27 Mar 2021 15:36:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据外媒援引目击者的话称，叙利亚首都大马士革传出巨响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-27/detail-ikkntiam9331401.d.html</link>
-            <guid>2092677</guid>
-            <pubDate>Sat, 27 Mar 2021 15:30:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“十四五”期间沪上银行列工作清单：实行更大程度的金融开放创新压力测试】“十四五”开局之年，上海银行业将实行更大程度的金融开放创新压力测试，支持上海建设具有全球影响力的资产管理中心。总台央视记者从近日在上海市银行同业公会举行的“沪上银行话开年”新闻通气会上了解到，回望“十三五”，面对复杂严峻的国内外形势，上海银行业持续深化金融供给侧结构性改革，有力增强服务实体经济能力，有效防范化解金融风险，不断提高对外开放水平，为在更高起点推动“十四五”时期上海经济社会高质量发展提供了坚实保障。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-27/detail-ikknscsk2484658.d.html</link>
-            <guid>2092672</guid>
-            <pubDate>Sat, 27 Mar 2021 15:14:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
