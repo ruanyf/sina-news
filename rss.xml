@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 28 Mar 2021 18:39:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Mar 2021 19:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国国务卿布林肯：美国将继续制裁参与北溪2号项目的企业。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikkntian0065575.d.html</link>
+            <guid>2093741</guid>
+            <pubDate>Sun, 28 Mar 2021 19:20:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  莫桑比克政府：数十人在袭击事件中丧生。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikknscsk3220098.d.html</link>
+            <guid>2093738</guid>
+            <pubDate>Sun, 28 Mar 2021 19:11:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苏伊士运河管理局：救援队正在扩大疏浚区域。救援工作主要集中在疏浚上。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikknscsk3205743.d.html</link>
+            <guid>2093736</guid>
+            <pubDate>Sun, 28 Mar 2021 18:51:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【经参：抱团股现企稳迹象 核心资产或迎分化】春节以来，抱团股整体经历了持续的大幅调整，不少基金产品净值因此发生较大幅度的回撤，而从近期多项数据指标来看，该类股票企稳迹象有所显露。机构普遍认为，核心资产或迎来分化，拥有业绩增速支撑的核心资产才能消化其较高的估值，2021年预计盈利将成为投资主线。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikkntian0038819.d.html</link>
+            <guid>2093735</guid>
+            <pubDate>Sun, 28 Mar 2021 18:41:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【重点行业领域减污降碳 完善绿色低碳政策和市场体系】生态环境部环境规划院管理与政策研究所副所长董战峰表示，“十四五”是碳达峰的关键期、窗口期。推动碳达峰目标实现可从实施重点行业领域减污降碳行动，完善绿色低碳政策和市场体系，提升生态碳汇能力等方面发力。碳达峰和碳中和目标还将为我国市场和投资空间带来重要发展机遇。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikknscsk3197640.d.html</link>
+            <guid>2093734</guid>
+            <pubDate>Sun, 28 Mar 2021 18:39:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【多部委力破芯片“卡脖子”等问题】为解决芯片短缺、关键技术“卡脖子”等问题，多部门近期连续出台政策，推进解决制约发展的“芯病”。近日多部门接连发声，加大对芯片产业的政策支持。科技部部长王志刚日前在国新办发布会上表示，将主要聚焦集成电路、软件、高端芯片、新一代半导体技术等领域的一些关键核心技术和前沿基础研究，利用国家重点研发计划等给予支持。工信部表示，中国政府将对芯片产业在国家层面上给予大力扶持，共同营造一个市场化、法治化和国际化的营商环境和产业发展的生态环境。江苏召开集成电路产业强链专班工作推进会，提出重点支持有基础有条件的地区，积极扶持壮大龙头骨干企业和行业领军企业，进一步集聚人才、技术、资金等产业要素，着力打造具有区域特色的产业集群，同时进一步加大对重点企业和项目的精准支持力度。珠海高新区发布促进集成电路产业发展若干政策措施，提出引进培育产业人才、支持企业创新发展、支持产业链上下游联动发展、保障产业发展空间、支持重大产业项目落户、支持产业创新环境发展等措施。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikkntian0036836.d.html</link>
@@ -354,18 +384,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9792444.d.html</link>
             <guid>2093639</guid>
             <pubDate>Sun, 28 Mar 2021 11:06:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“虫口夺粮”攻坚战，开启！】据农业农村部监测，今年小麦条锈病等病虫害预期多发重发，目前已在湖北、河南等8个省份232个县区发生215万亩，为近10年来第三重发年份，黄淮海等麦区春季大流行风险较高。农业农村部种植业管理司副司长刘莉华：组织实施“虫口夺粮”攻坚战，推进科学防灾减灾，加强监测预警，落实抗灾的关键措施，力争实现抗灾夺丰收。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9790685.d.html</link>
-            <guid>2093636</guid>
-            <pubDate>Sun, 28 Mar 2021 11:01:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙江世宝：2020年度拟不进行利润分配】浙江世宝(01057)发布公告，根据公司2020年度审计报告，公司实现净利润4084.6万元，母公司未分配利润3472.83万元。由于公司2019年度出现较大幅度亏损，考虑到弥补亏损，以及公司发展需要留存一定的储备资金。董事会提议2020年度不派发现金红利，不送红股，不以公积金转增股本。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikknscsk2945919.d.html</link>
-            <guid>2093630</guid>
-            <pubDate>Sun, 28 Mar 2021 10:51:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
