@@ -4,11 +4,77 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 28 Mar 2021 19:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Mar 2021 20:28:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国总统拜登：已经有关于基建的立法战略，暂无细节。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikkntian0106832.d.html</link>
+            <guid>2093753</guid>
+            <pubDate>Sun, 28 Mar 2021 20:19:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：“接近”任命一名国家网络安全总监。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikknscsk3264931.d.html</link>
+            <guid>2093752</guid>
+            <pubDate>Sun, 28 Mar 2021 20:16:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  苏伊士运河顾问：如果脱浅失败，将会在周二开始从货轮上卸下货物。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikkntian0098544.d.html</link>
+            <guid>2093751</guid>
+            <pubDate>Sun, 28 Mar 2021 20:07:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  苏伊士运河顾问：救援队尝试在今明两天让船只脱浅。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikknscsk3257684.d.html</link>
+            <guid>2093750</guid>
+            <pubDate>Sun, 28 Mar 2021 20:06:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  伯恩哈德·舒尔特船舶管理公司（BSM）：最近抵达的拖船将在周日晚间参与搁浅船只的脱浅工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikkntian0096180.d.html</link>
+            <guid>2093749</guid>
+            <pubDate>Sun, 28 Mar 2021 20:04:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国总理默克尔：可能会动用联邦法收紧限制措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikkntian0082334.d.html</link>
+            <guid>2093747</guid>
+            <pubDate>Sun, 28 Mar 2021 19:44:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  阿联酋表示愿意帮助埃及处理苏伊士运河搁浅船只问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikknscsk3239477.d.html</link>
+            <guid>2093746</guid>
+            <pubDate>Sun, 28 Mar 2021 19:40:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德国总理默克尔：宵禁、减少接触等额外措施可能是阻止病例指数型增长的重要手段。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikknscsk3236962.d.html</link>
+            <guid>2093745</guid>
+            <pubDate>Sun, 28 Mar 2021 19:36:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德国总理默克尔：我认为限制外出、减少接触以及增加检测是正确的方法。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikkntian0075574.d.html</link>
+            <guid>2093744</guid>
+            <pubDate>Sun, 28 Mar 2021 19:34:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德国总理默克尔：各地并没有紧急限制活动，希望各州重新考虑其执行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikkntian0074740.d.html</link>
+            <guid>2093743</guid>
+            <pubDate>Sun, 28 Mar 2021 19:33:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德国总理默克尔：留给我们的时间不多了。各州必须严格落实限制措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikkntian0073964.d.html</link>
+            <guid>2093742</guid>
+            <pubDate>Sun, 28 Mar 2021 19:32:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国国务卿布林肯：美国将继续制裁参与北溪2号项目的企业。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikkntian0065575.d.html</link>
@@ -342,48 +408,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9815079.d.html</link>
             <guid>2093660</guid>
             <pubDate>Sun, 28 Mar 2021 12:02:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【李克强鼓励科研人员加强跨领域协作，推动融合创新】3月25日至26日，李克强在常州、南京考察。李克强来到南京大学，了解基础研究情况，饶有兴趣查看研究成果转化应用，鼓励科研人员加强跨领域协作，推动融合创新。他与学校院士们亲切交谈，希望一代一代传承推动创新，增强发展的延续力。李克强十分关心大学毕业生就业情况，专门听取学校这方面汇报。他与学生们交流，询问今年毕业学生的就业意向、有没有签约。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9804444.d.html</link>
-            <guid>2093651</guid>
-            <pubDate>Sun, 28 Mar 2021 11:36:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【李克强在江苏考察】3月25日至26日，中共中央政治局常委、国务院总理李克强在江苏省委书记娄勤俭、省长吴政隆陪同下，在常州、南京考察。他强调，要坚持以习近平新时代中国特色社会主义思想为指导，贯彻党中央、国务院部署，深化改革开放，增强创新能力和发展动力，增进民生福祉，推动高质量发展。（中国政府网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9804176.d.html</link>
-            <guid>2093650</guid>
-            <pubDate>Sun, 28 Mar 2021 11:36:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据俄罗斯卫星网：俄罗斯总统普京可能在下周召开重要的国际会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikknscsk2955765.d.html</link>
-            <guid>2093645</guid>
-            <pubDate>Sun, 28 Mar 2021 11:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  苏伊士运河管理局负责人：正在考虑为受运河堵塞影响的货轮提供费用折扣。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9795064.d.html</link>
-            <guid>2093642</guid>
-            <pubDate>Sun, 28 Mar 2021 11:13:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  复星医药：子公司复宏汉霖获润新生物独家许可在区域内及领域内就靶向人类BRAF蛋白V600E突变的小分子抑制剂RX208进行研发、生产及商业化并使用润新生物相关知识产权。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9794292.d.html</link>
-            <guid>2093641</guid>
-            <pubDate>Sun, 28 Mar 2021 11:11:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【超大型货轮仍堵塞苏伊士运河，外媒：埃及总统已下令，准备减轻货轮负荷】台湾长荣海运超大型货轮“长赐”号依旧卡在埃及苏伊士运河，运河内超过160艘船被迫排队等待，造成多年来最严重的航运拥堵之一。据路透社28日最新消息，苏伊士运河管理局负责人当天向当地媒体表示，埃及总统塞西已下令准备减轻搁浅货轮的负荷。 报道称，从周二开始，“长赐”号超大型货轮就一直堵塞苏伊士运河，现场打捞小组一直希望在不卸载任何货物的情况下，用更重型的拖船、挖泥船作业让其脱困。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9794212.d.html</link>
-            <guid>2093640</guid>
-            <pubDate>Sun, 28 Mar 2021 11:11:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中伊签署重要文件，伊朗驻巴西大使：两国伙伴关系将为新的“世界秩序”奠定基础！】当地时间2021年3月27日，国务委员兼外长王毅在德黑兰同伊朗外长扎里夫举行会谈，并在会谈后共同签署中伊全面合作计划。当天，伊朗驻巴西大使加里巴（Hossein Gharibi）在推特发文称，伊朗和中国的伙伴关系将在高度尊重东方价值观的情况下，为新的“世界秩序”奠定基础。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9792444.d.html</link>
-            <guid>2093639</guid>
-            <pubDate>Sun, 28 Mar 2021 11:06:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
