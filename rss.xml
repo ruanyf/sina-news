@@ -4,11 +4,295 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 30 Mar 2021 12:39:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Mar 2021 13:33:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【小米进军造车以“全资形式”进行】雷军30日表示，小米进军汽车产业，将10年投资100亿美元，首期投资100亿元人民币。雷军强调，小米决定用“全资形式”进军智能汽车，成立智能电动汽车全资子公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5021595.d.html</link>
+            <guid>2096411</guid>
+            <pubDate>Tue, 30 Mar 2021 13:32:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华熙生物：2020年净利6.46亿元 同比增10%】华熙生物(688363)3月30日晚间披露年报，公司2020年营业收入26.33亿元，同比增长39.63%；净利润6.46亿元，同比增长10.29%。基本每股收益1.35元。公司拟每10股派发现金红利4.10元(含税)。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5020891.d.html</link>
+            <guid>2096408</guid>
+            <pubDate>Tue, 30 Mar 2021 13:31:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  唯品会(VIPS.N)涨近7%，公司宣布5亿美元股份回购计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5020390.d.html</link>
+            <guid>2096407</guid>
+            <pubDate>Tue, 30 Mar 2021 13:30:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【厦门钨业年度报告：2020年度净利同比增长135.58% 拟10派1.5元】厦门钨业公告，公司2020年度实现总营收189.6亿元，同比增长9.02%，归属于上市公司股东的净利润6.14亿元，同比增长135.58%。拟10派1.5元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1857109.d.html</link>
+            <guid>2096404</guid>
+            <pubDate>Tue, 30 Mar 2021 13:29:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【福达股份年度报告：2020年度净利润同比增长50% 拟10派2元】福达股份公布年报，实现营业收入17.7亿元，同比增长16.87%；归属于上市公司股东的净利润2.01亿元，同比增长50.47%；基本每股收益0.34元；拟10派2元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1857019.d.html</link>
+            <guid>2096403</guid>
+            <pubDate>Tue, 30 Mar 2021 13:29:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  阿尔特：与某国际品牌汽车制造公司签署了《开发委托合同》，委托公司进行新车型开发相关工作，本次合同金额为4.2亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5017897.d.html</link>
+            <guid>2096399</guid>
+            <pubDate>Tue, 30 Mar 2021 13:27:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【碧水源年度报告：2020年净利润同比减少17% 拟10派0.55元】碧水源发布年报，2020年归母净利润11.43亿元，同比减少17.2%；营业收入96.18亿元，同比减少21.52%；基本每股收益0.36元。拟每10股派发现金红利0.55元（含税）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5017685.d.html</link>
+            <guid>2096398</guid>
+            <pubDate>Tue, 30 Mar 2021 13:26:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧佩克联合技术委员会（JTC）数据显示，2月欧佩克+累计过剩产量增至约300万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1854909.d.html</link>
+            <guid>2096397</guid>
+            <pubDate>Tue, 30 Mar 2021 13:26:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  IMF：预计意大利2021年GDP增速约为4.25%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1853156.d.html</link>
+            <guid>2096393</guid>
+            <pubDate>Tue, 30 Mar 2021 13:23:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【吉利航天总部落户广州南沙，助力打造中国航天第三极】广州国际投资年会南沙专场30日举行，本次活动签约项目协议总投资额达2648亿元。其中，吉利科技集团拟在南沙设立其全国唯一航天业务集团总部，与南沙此前已经落地的中科宇航等企业形成协同，共同助力南沙加速打造中国航天第三极。根据广州南沙开发区管委会与吉利科技集团签订的合作协议，吉利科技集团此次将商业航天总部布局广州南沙，与南沙此前已经落地的中科宇航等企业形成协同，形成“上游火箭+中游卫星+下游应用”的产业链力量，助力南沙打造成为中国航天第三极。落地南沙的项目公司名为时空探索科技有限公司，管理运营时空道宇、上合航天、星空智联、欧科微等核心企业。项目产值规模超过100亿元。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1851742.d.html</link>
+            <guid>2096390</guid>
+            <pubDate>Tue, 30 Mar 2021 13:21:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中金岭南年度报告：2020年净利润同比增长17% 拟10派0.84元】中金岭南发布年报，2020年归母净利润9.95亿元，同比增长16.78%；营业收入302.26亿元，同比增长32.57%；基本每股收益0.28元。拟每10股派发现金红利0.84元（含税）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5014107.d.html</link>
+            <guid>2096389</guid>
+            <pubDate>Tue, 30 Mar 2021 13:21:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中联重科：2020年全年净利润为72.96亿元，同比增长66.54%。董事会建议2020年末期股利为每股人民币0.32元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5013629.d.html</link>
+            <guid>2096387</guid>
+            <pubDate>Tue, 30 Mar 2021 13:20:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中远海控年度报告：2020年度净利同比增长46.76% 拟10转3】中远海控公告，公司2020年度实现总营收1712.6亿元，同比增长13.37%，归属于上市公司股东的净利润99.27亿元，同比增长46.76%。拟10转3。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1848339.d.html</link>
+            <guid>2096384</guid>
+            <pubDate>Tue, 30 Mar 2021 13:16:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  百度集团：于2021年3月30日，稳定价格经办人已完成在二级市场以不超过公开发售价的价格购买14,250,000股股份。按招股章程第344页所披露，稳定价格经办人就全球发售进行的稳定价格行动可随时终止。截至本公告日期，所有稳定价格行动均已终止。于稳定价格期间完结前，稳定价格经办人将不再进行任何稳定价格行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1848049.d.html</link>
+            <guid>2096382</guid>
+            <pubDate>Tue, 30 Mar 2021 13:16:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【113艘集装箱货轮已通过疏通后的苏伊士运河】埃及苏伊士运河管理局主席乌萨马·拉比耶30日说，截至当地时间30日上午8点，已有113艘集装箱货轮通过苏伊士运河。目前还有超过300艘货轮拥堵在苏伊士运河内，苏伊士运河管理局将努力解决拥堵问题，运河有望在3天内恢复正常通行。（新华国际）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1846560.d.html</link>
+            <guid>2096380</guid>
+            <pubDate>Tue, 30 Mar 2021 13:14:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【唐山钢企排污被“抓现行”追踪：涉事钢企及第三方监测公司相关涉案人员已被刑事拘留】生态环境部3月在河北省唐山市暗访发现，唐山不锈钢有限责任公司、唐山金马钢铁集团有限公司、唐山市春兴特种钢有限公司和唐山东华钢铁企业集团存在重污染天气应急响应期间未落实相应减排要求、生产记录造假等问题，引发舆论广泛关注。记者30日从唐山市委了解到，涉事钢企及第三方监测公司相关涉案人员已被刑事拘留。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1846498.d.html</link>
+            <guid>2096379</guid>
+            <pubDate>Tue, 30 Mar 2021 13:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【仙鹤股份：拟在湖北石首投资高性能纸基新材料项目 预计投资100亿元】仙鹤股份公告，公司于2021年3月30日召开第二届董事会第十九次会议，审议通过了《关于投资建设仙鹤股份高性能纸基新材料循环经济项目的议案》，同意公司在湖北省石首市投资高性能纸基新材料项目，预计投资金额为100亿元人民币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1846208.d.html</link>
+            <guid>2096377</guid>
+            <pubDate>Tue, 30 Mar 2021 13:13:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  SpaceX将开始对试飞期间的飞船事故进行审查。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5007843.d.html</link>
+            <guid>2096375</guid>
+            <pubDate>Tue, 30 Mar 2021 13:12:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  天秦装备：公司与秦皇岛经济技术开发区管理委员会拟签订投资合作协议，拟投资天秦装备产业园项目，从事专用改性工程塑料、弹药防护箱等生产。项目投资总额预计人民币4亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5007611.d.html</link>
+            <guid>2096374</guid>
+            <pubDate>Tue, 30 Mar 2021 13:11:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中广核技：绵阳市游仙区人民政府拟在2021年度以现金形式向子公司医疗科技公司拨付1亿元的项目扶持资金，其中6000万元资金于2021年3月29日已到医疗科技公司账户。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1843038.d.html</link>
+            <guid>2096371</guid>
+            <pubDate>Tue, 30 Mar 2021 13:08:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  SpaceX在星际飞船原型SN11的飞行测试中试飞高度达到10千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1841815.d.html</link>
+            <guid>2096368</guid>
+            <pubDate>Tue, 30 Mar 2021 13:06:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德国将结束与奥地利边境的管控措施，延长与捷克边境的管控措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1840534.d.html</link>
+            <guid>2096367</guid>
+            <pubDate>Tue, 30 Mar 2021 13:05:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  通富微电：2020年全年净利润为3.38亿元，同比增长1668.04%；拟10派0.26元。]]></title>
+            <guid>2096365</guid>
+            <pubDate>Tue, 30 Mar 2021 13:03:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【粤传媒年度报告：2020年净利润同比增长273% 拟10派0.6元】粤传媒发布年报，2020年归母净利润3.13亿元，同比增长273.44%；营业收入5.07亿元，同比减少25.31%；基本每股收益0.27元。拟每10股派发现金红利0.6元（含税）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5001561.d.html</link>
+            <guid>2096364</guid>
+            <pubDate>Tue, 30 Mar 2021 13:02:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  微芯生物：拟以1亿-1.875亿元回购股份，用于员工股权激励，回购价格不超过人民币50元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1838878.d.html</link>
+            <guid>2096363</guid>
+            <pubDate>Tue, 30 Mar 2021 13:02:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  SpaceX在得州进行第四次星舰发射测试。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1838550.d.html</link>
+            <guid>2096362</guid>
+            <pubDate>Tue, 30 Mar 2021 13:02:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中科创达：与恒驰汽车有合作 汽车芯片短缺不会对公司经营产生影响】中科创达(300496)在互动平台表示，公司与恒驰汽车有合作；最近汽车芯片短缺不会对公司的经营产生影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1837254.d.html</link>
+            <guid>2096359</guid>
+            <pubDate>Tue, 30 Mar 2021 13:00:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【*ST中天：2020年净亏损6.03亿元 亏损缩窄】*ST中天公告，2020年归属于母公司所有者的净利润亏损6.03亿元，上年同期净亏损31.32亿元，亏损缩窄；营业收入5.54亿元，同比减少48.89%；基本每股收益-0.44元，上年同期基本每股收益-2.29元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1836379.d.html</link>
+            <guid>2096357</guid>
+            <pubDate>Tue, 30 Mar 2021 12:58:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【朗新科技年度报告：2020年净利润同比减少31% 拟10派1.2元】朗新科技发布年报，2020年归母净利润7.07亿元，同比减少30.69%；营业收入33.87亿元，同比增长14.1%；基本每股收益0.7092元。拟每10股派发现金红利1.2元（含税）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4998665.d.html</link>
+            <guid>2096356</guid>
+            <pubDate>Tue, 30 Mar 2021 12:58:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【前沿生物年度报告：2020年净亏损2.31亿元 亏损扩大】前沿生物发布年报，2020年归母净利润亏损2.31亿元，上年同期净亏损1.92亿元，亏损扩大；营业收入4662.28万元，同比增长123.5%；基本每股收益-0.8元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1834213.d.html</link>
+            <guid>2096355</guid>
+            <pubDate>Tue, 30 Mar 2021 12:55:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【卓翼科技：董事会内部存在重大分歧 取消31日的投资者说明会】卓翼科技(002369)3月30日晚间公告，鉴于目前公司董事会内部存在重大分歧，公司决定取消原定于2021年3月31日下午15:30—16:30通过现场方式结合网络远程方式举办的投资者说明会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4996811.d.html</link>
+            <guid>2096354</guid>
+            <pubDate>Tue, 30 Mar 2021 12:55:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【滴滴拿下消费金融牌照，对杭银消金持股超33%为第二大股东】3月26日，浙江银保监局关于杭银消金变更注册资本及调整股权结构的批复显示，同意杭银消费金融股份有限公司将注册资本由12.6亿元增加至25.61亿元。杭银消金第二大股东由西班牙对外银行有限公司变更为迪润（天津）科技有限公司，迪润（天津）科技有限公司是滴滴全资控股的子公司。批复显示，杭银消金此次增资扩股完成后，迪润（天津）科技有限公司对杭银消金持股85390万股，持股比例33.34%。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1833233.d.html</link>
+            <guid>2096352</guid>
+            <pubDate>Tue, 30 Mar 2021 12:54:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【星云股份：控股孙公司与宁德时代签署1.3亿元动力电池性能检测实验室服务承包合同】星云股份公告，控股孙公司宁德星云检测技术有限公司与宁德时代新能源科技股份有限公司于当日在福建省宁德市签订了《宁德星云检测技术有限公司动力电池性能检测实验室服务承包合同》，合同金额为1.3亿元，合同履行期限为5年。宁德时代承包宁德星云位于福建省宁德市东侨工业集中区疏港路11号星云动力电池检测实验室，承包范围包括：实验室所有检测设备、仪器电脑等。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4994796.d.html</link>
+            <guid>2096350</guid>
+            <pubDate>Tue, 30 Mar 2021 12:52:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中兴正式发布S30系列】3月30日，中兴S30系列手机发布，4月3日全渠道开售。本次发布会，中兴同步发布了全新S30系列的三款机型：中兴S30 Pro、中兴S30及中兴S30 SE。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1830324.d.html</link>
+            <guid>2096347</guid>
+            <pubDate>Tue, 30 Mar 2021 12:50:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[药明康德全年净利润29.6亿元人民币，市场预估30.7亿元人民币；全年营收165亿元人民币，市场预估165.4亿元人民币。]]></title>
+            <guid>2096346</guid>
+            <pubDate>Tue, 30 Mar 2021 12:49:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【玉禾田收关注函：要求说明此次10转10派11.2元利润分配预案的依据】玉禾田收到关注函，要求详细说明制定此次10转10派11.20元利润分配预案的依据及其合理性、必要性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1828983.d.html</link>
+            <guid>2096341</guid>
+            <pubDate>Tue, 30 Mar 2021 12:47:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中航电子年度报告：2020年净利润同比增长13% 拟10派1元】中航电子发布年报，2020年归母净利润6.31亿元，同比增长13.45%；营业收入87.47亿元，同比增长4.72%；基本每股收益0.3501元。拟每10股派发现金红利1元（含税）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1828562.d.html</link>
+            <guid>2096339</guid>
+            <pubDate>Tue, 30 Mar 2021 12:47:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【达能加码中国植物基市场，两次引入新品牌】3月29日，达能宣布旗下植物基品牌alpro进入中国市场，这是继去年5月引入VEGA ONE后，达能再次在中国市场引入植物基新品牌。对于首次进入中国市场的规划，达能计划首先在茶饮、咖啡、餐饮渠道推广alpro品牌旗下的燕麦、巴旦木、椰子三款产品，作为品牌供应商合作。据透露，目前alpro已与著名精品咖啡品牌Seesaw达成合作，推出了椰香薄荷、燕麦桃桃拿铁等产品。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4990700.d.html</link>
+            <guid>2096338</guid>
+            <pubDate>Tue, 30 Mar 2021 12:46:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中恒集团年度报告：2020年净利润同比减少24% 拟10派0.86元】中恒集团发布年报，2020年归母净利润5.63亿元，同比减少24.45%；营业收入36.76亿元，同比减少3.61%；基本每股收益0.16元。拟每10股派发现金股利0.86元（含税）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1827522.d.html</link>
+            <guid>2096336</guid>
+            <pubDate>Tue, 30 Mar 2021 12:45:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【东方电气年度报告：2020年净利润同比增长46% 拟10派1.8元】东方电气公布2020年年度报告，实现营业收入362.39亿元，同比增长14.04%；归属于上市公司股东的净利润18.62亿元，同比增长45.73%；归属于上市公司股东的扣除非经常性损益的净利润15.29亿元，同比增长44.51%；基本每股收益0.60元；拟每10股派发现金股利1.8元(含税)。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1826800.d.html</link>
+            <guid>2096334</guid>
+            <pubDate>Tue, 30 Mar 2021 12:44:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海南控股与华为签署战略合作协议，加快建设“数字企业”“智慧企业”】3月30日，海南省发展控股有限公司与华为技术有限公司在海口签署战略合作协议。根据协议，双方将携手推进海南省智慧医疗、智慧园区、智慧能源、智慧水利等领域的发展。（南海网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4989068.d.html</link>
+            <guid>2096332</guid>
+            <pubDate>Tue, 30 Mar 2021 12:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中孚信息年度报告：2020年净利润同比增长94% 拟10派2.5元】中孚信息发布年报，2020年净利润2.42亿元，同比增长93.54%；营业收入9.93亿元，同比增长64.68%；基本每股收益1.12元。拟每10股派发现金红利2.5元（含税）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4988818.d.html</link>
+            <guid>2096331</guid>
+            <pubDate>Tue, 30 Mar 2021 12:43:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【华熙生物年度报告：2020年度净利同比增长10.29% 拟10派4.1元】华熙生物公告，公司2020年度实现总营收26.33亿元，同比增长39.63%，归属于上市公司股东的净利润6.46亿元，同比增长10.29%。拟10派4.1元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1825626.d.html</link>
+            <guid>2096329</guid>
+            <pubDate>Tue, 30 Mar 2021 12:42:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  贵州茅台：2020年度，本公司生产茅台酒基酒5万吨，系列酒基酒2.5万吨；预计实现营业总收入977亿元左右，同比增长10%左右。]]></title>
+            <guid>2096328</guid>
+            <pubDate>Tue, 30 Mar 2021 12:42:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中国中铁年度报告：2020年净利润同比增长6.38% 拟10派1.8元】中国中铁发布年报，2020年归母净利润251.88亿元，同比增长6.38%；营业收入9714亿元，同比增长14.49%；基本每股收益0.963元。公司拟向全体股东每10股派送现金红利人民币1.8元（含税）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1825239.d.html</link>
+            <guid>2096327</guid>
+            <pubDate>Tue, 30 Mar 2021 12:42:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  贵州茅台：今年经营目标是营业总收入较上年度增长10.5%左右，完成基本建设投资68.21亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1825123.d.html</link>
+            <guid>2096326</guid>
+            <pubDate>Tue, 30 Mar 2021 12:41:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  新和成：2020年全年净利润为35.64亿元，同比增长64.59%；拟10转2派7元。]]></title>
+            <guid>2096325</guid>
+            <pubDate>Tue, 30 Mar 2021 12:40:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【杭氧股份年度报告：2020年净利润同比增长33% 拟10派2.5元】杭氧股份发布年报，2020年归母净利润8.43亿元，同比增长32.72%；营业收入100.21亿元，同比增长22.4%；基本每股收益0.87元。拟每10股派发现金红利2.5元（含税）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1823545.d.html</link>
+            <guid>2096324</guid>
+            <pubDate>Tue, 30 Mar 2021 12:39:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【新天科技年度报告：2020年净利润同比增长39% 拟10派0.9元】新天科技发布年报，2020年归母净利润3.79亿元，同比增长38.75%；营业收入11.95亿元，同比增长1.16%；基本每股收益0.32元。拟每10股派发现金红利0.9元（含税）。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4984192.d.html</link>
@@ -50,308 +334,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4976502.d.html</link>
             <guid>2096303</guid>
             <pubDate>Tue, 30 Mar 2021 12:25:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【日本第一大银行发布3亿美元潜在损失预警 据悉亦卷入Archegos爆仓风波】据一位知情人士透露，三菱日联旗下一家子公司与一家美国客户有关的3亿美元潜在亏损预警与Archegos爆仓风波有关。三菱日联周二发布声明称，正在评估欧洲附属公司的损失程度，受市场价格和结算情况影响，亏损数额可能会有变，但该损失不会对公司经营能力或财务稳健性产生实质性影响。若损失3亿美元，三菱日联在欧洲的证券业务将可能严重受创。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1813810.d.html</link>
-            <guid>2096301</guid>
-            <pubDate>Tue, 30 Mar 2021 12:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海金融法院开庭审理首例证券虚假陈述代表人诉讼案】30日下午，上海金融法院公开开庭审理原告魏某等315名投资者与被告飞乐音响证券虚假陈述责任纠纷一案。该案是最高法出台《关于证券纠纷代表人诉讼若干问题的规定》以来，全国首例依当事人申请采用普通代表人诉讼程序审理的案件。截至本案开庭审理前共有315名适格投资者申请参加代表人诉讼，涉及诉讼请求总金额1.46亿余元。鉴于双方当事人庭上均表达了调解意向，合议庭将组织双方进行调解，若调解不成，本案将择期宣判。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1811902.d.html</link>
-            <guid>2096298</guid>
-            <pubDate>Tue, 30 Mar 2021 12:22:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【精研科技：一季度净利预增22%-46%】精研科技(300709)3月30日晚间发布业绩预告，预计2021年一季度归母净利2000万元-2400万元，同比增长22.05%-46.46%。报告期内，公司产品销量持续增长，业务规模扩大，公司本报告期营业收入较上年同期有较大增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1809497.d.html</link>
-            <guid>2096293</guid>
-            <pubDate>Tue, 30 Mar 2021 12:19:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【红日药业：一季度净利润预增60%-90%】红日药业公告，一季度预计净利润约1.75亿元-2.08亿元，同比增长60%-90%。2021年第一季度，公司各项经营计划顺利开展，各业务板块积极拓展市场渠道，加强成本费用控制，各项经营指标明显优于上年同期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4971824.d.html</link>
-            <guid>2096292</guid>
-            <pubDate>Tue, 30 Mar 2021 12:18:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【申华控股年度报告：2020年净亏损7.56亿元 亏损扩大】申华控股发布年报，2020年归母净利润亏损7.56亿元，上年同期净亏损2.53亿元，亏损扩大；营业收入68.98亿元，同比减少6.26%；基本每股收益-0.3882元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1808368.d.html</link>
-            <guid>2096290</guid>
-            <pubDate>Tue, 30 Mar 2021 12:17:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  民生银行：2020年全年净利润为343.09亿元，同比下降36.25%；拟10派2.13元。]]></title>
-            <guid>2096288</guid>
-            <pubDate>Tue, 30 Mar 2021 12:17:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【华鑫股份：华鑫证券拟转让摩根士丹利华鑫基金36%股权、摩根士丹利华鑫证券39%股权】华鑫股份公告，全资子公司华鑫证券拟转让所持摩根士丹利华鑫基金36%股权，挂牌价格不低于3.88亿元；拟转让所持摩根士丹利华鑫证券39%股权，挂牌价格不低于4.98亿元。本次股权转让后，华鑫证券不再持有摩根华鑫基金的股权，仍持有摩根华鑫证券10%的股权。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4969627.d.html</link>
-            <guid>2096286</guid>
-            <pubDate>Tue, 30 Mar 2021 12:15:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国宝能眉山项目集中签约】据中国宝能消息，3月29日上午，眉山东部新城授牌暨项目集中签约启动仪式举行。仪式现场进行了两轮签约，包括眉山宝能项目和眉山东部新城项目集中签约。根据协议，宝能集团将与眉山市围绕高端制造产业、食品产业、物流产业、综合建设四个板块展开深度合作。当天下午，眉山市人民政府、四川银行、宝能集团举行三方战略合作协议签约仪式。根据协议，四川银行将大力支持宝能集团产业发展，为宝能集团提供全方位、多样化的金融服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4968512.d.html</link>
-            <guid>2096283</guid>
-            <pubDate>Tue, 30 Mar 2021 12:13:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华人运通160KWh电池包将于2022年12月上车 续航里程超1000km】华人运通创始人兼董事长丁磊今日透露，其160KWh电池包将于2022年12月上车，续航里程超1000km。具体细节将于明年四季度公布。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1804329.d.html</link>
-            <guid>2096278</guid>
-            <pubDate>Tue, 30 Mar 2021 12:11:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【双象股份：拟18亿元投建年产30万吨光学级PMMA/MS新材料项目】双象股份(002395)3月30日晚间公告，公司与长寿经济技术开发区管理委员会拟签订《年产30万吨光学级PMMA/MS新材料项目投资协议》，通过设立公司的全资子公司并由该全资子公司通过招拍挂程序获得相关土地使用权的形式建设“年产30万吨光学级PMMA/MS新材料项目”，项目计划总投资约18亿元。项目完全达产后预计可实现年销售收入约40亿元。]]></title>
-            <guid>2096272</guid>
-            <pubDate>Tue, 30 Mar 2021 12:07:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国电建与广东能源集团签署战略合作协议】3月30日，中国电建与广东能源集团在贵阳签署战略合作协议。根据协议，双方将积极响应“碳达峰、碳中和”国家战略，在新能源建设、能源综合利用、水资源开发及水环境治理、传统能源升级改造、基础设施、国际业务等领域展开深入合作，深耕国内外市场，推动能源产业持续健康发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1801776.d.html</link>
-            <guid>2096270</guid>
-            <pubDate>Tue, 30 Mar 2021 12:07:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【完美世界：2021年初至今已有《上阳赋》等多部影视剧播出】完美世界(002624)3月30日在互动平台表示，公司将紧跟市场动态，采取谨慎投资与积极消化库存相结合的经营策略，审慎推进新项目的立项和开机，选择确定性强的项目以较大程度保障收益。对于库存剧，公司采取积极消化库存的策略。2021年初至今已有《上阳赋》《暴风眼》《爱在星空下》等多部影视剧播出。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4963504.d.html</link>
-            <guid>2096269</guid>
-            <pubDate>Tue, 30 Mar 2021 12:06:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【密尔克卫年度报告：2020年净利润同比增长47% 拟10派2.6元】密尔克卫发布年报，2020年归母净利润2.88亿元，同比增长47.15%；营业收入34.27亿元，同比增长41.68%；基本每股收益1.8644元。拟每10股派发2.6元现金红利（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4963338.d.html</link>
-            <guid>2096268</guid>
-            <pubDate>Tue, 30 Mar 2021 12:06:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  延江股份：2020年全年净利润为3亿元，同比增长263.87%；拟10转5派6.5元。]]></title>
-            <guid>2096265</guid>
-            <pubDate>Tue, 30 Mar 2021 12:05:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【天味食品年度报告：2020年度净利同比增长22.66% 拟10转2派2.5元】天味食品公告，公司2020年度实现总营收23.65亿元，同比增长36.9%，归属于上市公司股东的净利润3.64亿元，同比增长22.66%。拟10转2派2.5元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1798799.d.html</link>
-            <guid>2096264</guid>
-            <pubDate>Tue, 30 Mar 2021 12:03:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【仙鹤股份年度报告：2020年度净利同比增长63.02% 拟10派3.1元】仙鹤股份公告，公司2020年度实现总营收48.43亿元，同比增长6.04%，归属于上市公司股东的净利润7.17亿元，同比增长63.02%。拟10派3.1元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4959699.d.html</link>
-            <guid>2096262</guid>
-            <pubDate>Tue, 30 Mar 2021 12:01:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国3月CPI月率初值前值：0.70%，预期：0.50%，公布：0.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1797097.d.html</link>
-            <guid>2096261</guid>
-            <pubDate>Tue, 30 Mar 2021 12:01:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中新药业年度报告：2020年度净利润同比增长5.78% 拟10派3元】中新药业发布年报，实现营业收入66.04亿元，同比下降5.58%；净利润6.62亿元，同比增长5.78%；基本每股收益0.86元。拟每10股派发现金红利3元(含税)。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1796239.d.html</link>
-            <guid>2096257</guid>
-            <pubDate>Tue, 30 Mar 2021 11:59:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【德利股份年度报告：2020年净利润同比减少10% 拟10派0.5元】德利股份发布年报，2020年归母净利润1.52亿元，同比减少10.33%；营业收入8.42亿元，同比增长0.46%；基本每股收益0.41元。拟每十股派发现金红利人民币0.5元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4958582.d.html</link>
-            <guid>2096256</guid>
-            <pubDate>Tue, 30 Mar 2021 11:59:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【双象股份：拟18亿元投建年产30万吨光学级PMMA/MS新材料项目】双象股份公告，公司与长寿经济技术开发区管理委员会经友好协商，拟签订《年产30万吨光学级PMMA/MS新材料项目投资协议》，通过设立公司的全资子公司并由该全资子公司通过招拍挂程序获得相关土地使用权的形式建设“年产30万吨光学级PMMA/MS新材料项目”，项目计划总投资约18亿元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1796024.d.html</link>
-            <guid>2096255</guid>
-            <pubDate>Tue, 30 Mar 2021 11:59:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日本气象厅表示，来自中亚戈壁沙漠的尘埃云席卷中国和韩国后已飘抵东京，这是2011年以来首次。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4956992.d.html</link>
-            <guid>2096254</guid>
-            <pubDate>Tue, 30 Mar 2021 11:57:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【绿色动力年度报告：2020年净利润同比增长21% 拟10派2元】绿色动力发布年报，2020年归母净利润5.03亿元，同比增长20.98%；营业收入22亿元，同比增长29.97%；基本每股收益0.43元。拟每股派发现金红利人民币0.2元（税前）。2020年度公司需计提无形资产减值准备共计人民币6133.82万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4955661.d.html</link>
-            <guid>2096250</guid>
-            <pubDate>Tue, 30 Mar 2021 11:55:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【富森美年度报告：2020年净利润同比减少3.47% 拟10派6元】富森美发布年报，2020年归母净利润7.73亿元，同比减少3.47%；营业收入13.28亿元，同比减少18.02%；基本每股收益1.03元。拟每10股派发现金红利6元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1791837.d.html</link>
-            <guid>2096249</guid>
-            <pubDate>Tue, 30 Mar 2021 11:52:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄国家航天集团总裁罗戈津称，集团将竭尽全力保持火箭发射的无事故率，即便这已是一项很困难的任务。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4953721.d.html</link>
-            <guid>2096247</guid>
-            <pubDate>Tue, 30 Mar 2021 11:52:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【新华制药年度报告：2020年净利润同比增长8.3% 拟10派1.5元】新华制药发布年报，2020年归母净利润3.25亿元，同比增长8.3%；营业收入60.06亿元，同比增长7.13%；基本每股收益0.52元。拟每10股派发现金红利1.5元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4952280.d.html</link>
-            <guid>2096244</guid>
-            <pubDate>Tue, 30 Mar 2021 11:50:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧佩克数据显示，如果延长减产，5月份的库存将减少290万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4951781.d.html</link>
-            <guid>2096243</guid>
-            <pubDate>Tue, 30 Mar 2021 11:49:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中文传媒年度报告：2020年净利润同比增长5% 拟10派5.5元】中文传媒发布2020年年度报告，实现营业收入103.40亿元，同比下降8.16%；归属于上市公司股东的净利润18.06亿元，同比增长4.64%；归属于上市公司股东的扣除非经常性损益的净利润16.12亿元，同比增长2.52%；基本每股收益1.33元，拟每10股派现金股利人民币5.5元(含税)。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4951712.d.html</link>
-            <guid>2096242</guid>
-            <pubDate>Tue, 30 Mar 2021 11:49:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【盐田港集团与华为公司牵手合作，数字化转型工作全面铺开】3月29日，盐田港集团举行数字化转型顶层设计规划咨询项目启动动员会，并与华为公司签署项目合作协议。此次项目启动会介绍了业内先进经验、统一了认识，并根据盐田港集团实际情况提出了数字化转型的战略定位、工作思路、工作计划及实施步骤，鼓励广大员工主动作为，争当数字化转型的先行军。（盐田港公众号）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4951266.d.html</link>
-            <guid>2096240</guid>
-            <pubDate>Tue, 30 Mar 2021 11:48:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【三峰环境年度报告：2020年净利润同比增长30% 拟10派1.5元】三峰环境发布年报，2020年归母净利润7.21亿元，同比增长30.24%；营业收入49.29亿元，同比增长12.95%；基本每股收益0.47元。拟每10股派1.5元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4950853.d.html</link>
-            <guid>2096239</guid>
-            <pubDate>Tue, 30 Mar 2021 11:48:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【万孚生物：2020年净利润同比增64% 拟10转3派5元】万孚生物(300482)3月30日晚间披露年报，公司2020年实现营业收入为28.11亿元，同比增长35.64%；归母净利润6.34亿元，同比增长63.67%；基本每股收益1.87元。公司拟向全体股东每10股转增3股并派发现金红利5元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4949688.d.html</link>
-            <guid>2096235</guid>
-            <pubDate>Tue, 30 Mar 2021 11:46:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【报告：中国家电保有量超21亿台，将迎新一轮家电报废高峰期】苏宁焕新产品升级发布会今天在京举行，会上发布的《2021中国家电以旧换新年度调研报告》显示，目前，中国家电保有量已超过21亿台，大量传统家电及废弃电子产品步入报废或超期服役关口，如不及时换新升级，将带来极大的安全和健康隐患，新一轮家电以旧换新势在必行。当日，苏宁易购宣布，对以旧换新相关业务进行全面升级，并整合多方资源协力加速家电绿色循环。（中新社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4949503.d.html</link>
-            <guid>2096233</guid>
-            <pubDate>Tue, 30 Mar 2021 11:46:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【重庆银行年度报告：2020年净利润同比增长5.1% 拟10派3.73元】重庆银行披露年报，2020年集团实现营业收入130.48亿元，同比增长9.2%；归属于上市公司股东的净利润44.24亿元，同比增长5.1%；基本每股收益1.32元。年报推10派现金股利3.73元(含税)。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1786975.d.html</link>
-            <guid>2096232</guid>
-            <pubDate>Tue, 30 Mar 2021 11:45:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  高德红外：近日与客户签订了七份型号产品订货合同，合同金额合计5.15亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4948688.d.html</link>
-            <guid>2096231</guid>
-            <pubDate>Tue, 30 Mar 2021 11:45:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【山东高速年度报告：2020年度净利同比减少34.77% 拟10派3.8元】山东高速公告，公司2020年度实现总营收113.65亿元，同比增长9.13%，归属于上市公司股东的净利润20.39亿元，同比减少34.77%。拟10派3.8元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1785944.d.html</link>
-            <guid>2096229</guid>
-            <pubDate>Tue, 30 Mar 2021 11:44:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：欧佩克产油国2月减产执行率为124%，非欧佩克产油国为94%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4947547.d.html</link>
-            <guid>2096226</guid>
-            <pubDate>Tue, 30 Mar 2021 11:43:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【石英股份年度报告：2020年度净利润同比增长15% 拟10派1.7元】石英股份公布年报，实现营业收入6.46亿元，同比增长3.73%；净利润1.88亿元，同比增长15.31%；基本每股收益0.54元；拟每10股分配现金红利1.7元(含税)。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4946793.d.html</link>
-            <guid>2096225</guid>
-            <pubDate>Tue, 30 Mar 2021 11:42:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[立昂微董秘吴能云表示，公司6英寸硅片在年初已经涨了一次价，4月1日即将进行第二次涨价。（每经网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4946531.d.html</link>
-            <guid>2096223</guid>
-            <pubDate>Tue, 30 Mar 2021 11:41:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：阿曼正与也门合作，寻求达成“全面解决方案”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1784197.d.html</link>
-            <guid>2096222</guid>
-            <pubDate>Tue, 30 Mar 2021 11:41:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【红塔证券：2020年净利14.13亿元 同比增69%】红塔证券(601236)3月30日晚间披露年报，公司2020年营业收入55.85亿元，同比增长170.37%；净利润14.13亿元，同比增长68.72%。基本每股收益0.39元。公司拟每10股派发现金红利1.55元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4946305.d.html</link>
-            <guid>2096221</guid>
-            <pubDate>Tue, 30 Mar 2021 11:41:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【万孚生物年度报告：2020年净利润同比增长64% 拟10转3派5元】万孚生物发布年报，2020年归母净利润6.34亿元，同比增长63.67%；营业收入28.11亿元，同比增长35.64%；基本每股收益1.87元。拟10转3派5元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4945647.d.html</link>
-            <guid>2096219</guid>
-            <pubDate>Tue, 30 Mar 2021 11:40:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中骏集团：2020年合同销售额同比增长26.1% 三道红线”全达标】3月30日晚间，中骏集团控股发布2020年度业绩报告。2020年，中骏集团全年合同销售达1015.37亿元，同比增长26.1%。营业收入到325.72亿元，同比增长52.4%。归属股东净利润38.03亿元，同比增8.4%。在保持稳步增长的同时，中骏集团“三道红线”全达标。净负债率降至59.2%。截至报告期末，拥有土地储备总规划建筑面积约3,768万平方米，本集团应占土地储备总规划建筑面积约2,566万平方米，分布于62个城市。]]></title>
-            <guid>2096218</guid>
-            <pubDate>Tue, 30 Mar 2021 11:40:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大北农：拟投建生猪养殖项目和高端饲料项目】大北农(002385)3月30日晚间公告，公司控股子公司广西农牧拟设立全资子公司封开大佑吉农牧食品有限责任公司，以封开大佑吉为建设主体在广东封开县建设年出栏25万头生猪养殖项目，投资总额3.75亿元。另外，公司拟在察哈尔右翼前旗建设24万吨智能化高端饲料加工车间，该项目拟投资总额1.1亿元，由天津昌农科技有限责任公司新设立的子公司乌兰察布大北农饲料有限公司负责建设实施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1782543.d.html</link>
-            <guid>2096217</guid>
-            <pubDate>Tue, 30 Mar 2021 11:39:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英飞特：2020年净利润同比增52% 拟10转5派1.19元】英飞特(300582)3月30日晚间披露年报，公司2020年实现营业收入为10.53亿元，同比增长4.39%；归母净利润1.62亿元，同比增长52.31%；基本每股收益0.84元。公司拟向全体股东每10股转增5股并派发现金红利1.19元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1782346.d.html</link>
-            <guid>2096216</guid>
-            <pubDate>Tue, 30 Mar 2021 11:39:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【渝农商行年度报告：2020年净利润同比下降14% 拟10派2.22元】渝农商行披露年报，2020年该行实现营业收入281.86亿元，同比增长5.84%；归属于该行股东的净利润84.01亿元，同比下降13.92%；基本每股收益0.74元。董事会建议派发2020年度期末普通股股息每股0.222元人民币（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4944117.d.html</link>
-            <guid>2096212</guid>
-            <pubDate>Tue, 30 Mar 2021 11:38:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【博汇纸业年度报告：2020年度净利同比同比增长523.5% 拟10派1.25元】博汇纸业公告，公司2020年度实现总营收139.82亿元，同比增长43.56%，归属于上市公司股东的净利润8.34亿元，同比增长523.5%。拟10派1.25元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1779769.d.html</link>
-            <guid>2096207</guid>
-            <pubDate>Tue, 30 Mar 2021 11:35:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新洁能：2020年净利同比增42% 拟10送4派4.15元】新洁能(605111)3月30日晚间披露年报，公司2020年营业收入9.55亿元，同比增长23.62%；净利润1.39亿元，同比增长41.89%。基本每股收益1.69元。公司拟每10股送红股4股并派发现金红利4.15元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1778414.d.html</link>
-            <guid>2096202</guid>
-            <pubDate>Tue, 30 Mar 2021 11:33:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苏州移动联合华为率先完成全球首个5G室内定位能力现网验证】近日，苏州移动联合华为在苏州地铁进行了5G室内定位能力验证，在基站pRRU隐藏部署的情况下实现了地铁站台和站厅范围内90%的区域3~5米定位精度。这是5G室内定位功能在全球范围内首次现网验证，为5G定位在各行业商用推广提供了宝贵经验。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4940095.d.html</link>
-            <guid>2096200</guid>
-            <pubDate>Tue, 30 Mar 2021 11:33:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小米春季新品发布会第2场】3月30日19点30分，小米春季新品发布会第2场召开。据悉，会上将发布“小米MIX”、“一个小芯片”等新品，此外，“还有一个关于造车的想法，我们想和你聊聊”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4938746.d.html</link>
-            <guid>2096197</guid>
-            <pubDate>Tue, 30 Mar 2021 11:31:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【航发动力年度报告：2020年度净利同比增长6.37% 拟10派1.3元】航发动力公告，公司2020年度实现总营收286.33亿元，同比增长13.57%，归属于上市公司股东的净利润11.46亿元，同比增长6.37%。拟10派1.3元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4937279.d.html</link>
-            <guid>2096194</guid>
-            <pubDate>Tue, 30 Mar 2021 11:29:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【继峰股份业绩快报：2020年净亏损2.58亿元 由盈转亏】继峰股份发布业绩快报，2020年归母净利润亏损2.58亿元，上年同期净利润2.98亿元；营业收入157.33亿元，同比减少12.6%；基本每股收益-0.26元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4937148.d.html</link>
-            <guid>2096193</guid>
-            <pubDate>Tue, 30 Mar 2021 11:28:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今年北京首批政策性住房计划开工47个、房源5.3万套】近日，北京市住建委会同市发改委、市规划自然资源委联合印发《2021年首批政策性住房开竣工项目计划的通知》。今年北京政策性住房计划开工项目共47个、房源约5.3万套。其中，租赁住房11个、约1.3万套，产权住房36个、约4万套。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4936948.d.html</link>
-            <guid>2096192</guid>
-            <pubDate>Tue, 30 Mar 2021 11:28:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
