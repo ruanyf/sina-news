@@ -4,316 +4,418 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 30 Mar 2021 01:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Mar 2021 02:44:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[  生态环境部：碳排放配额分配包括免费分配和有偿分配两种方式，初期以免费分配为主，根据国家要求适时引入有偿分配，并逐步扩大有偿分配比例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1380999.d.html</link>
+            <guid>2095530</guid>
+            <pubDate>Tue, 30 Mar 2021 02:41:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  生态环境部：省级生态环境主管部门应当在接到重点排放单位温室气体排放报告之日起三十个工作日内组织核查，并在核查结束之日起七个工作日内向重点排放单位反馈核查结果。核查结果应当作为重点排放单位碳排放配额的清缴依据。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4542952.d.html</link>
+            <guid>2095529</guid>
+            <pubDate>Tue, 30 Mar 2021 02:40:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  生态环境部：重点排放单位应当控制温室气体排放，如实报告碳排放数据，及时足额清缴碳排放配额，依法公开交易及相关活动信息，并接受设区的市级以上生态环境主管部门的监督管理。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1380145.d.html</link>
+            <guid>2095528</guid>
+            <pubDate>Tue, 30 Mar 2021 02:40:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【预告：国新办将就贯彻“十四五”规划加快建设高质量教育体系有关情况举行发布会】国务院新闻办公室定于2021年3月31日（星期三）上午10时举行新闻发布会，请教育部副部长宋德民介绍深入贯彻“十四五”规划，加快建设高质量教育体系有关情况，并答记者问。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1374261.d.html</link>
+            <guid>2095526</guid>
+            <pubDate>Tue, 30 Mar 2021 02:33:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家能源局：我国可再生能源开发利用规模稳居世界第一】国家能源局局长章建华表示，我国可再生能源开发利用规模稳居世界第一，为能源绿色低碳转型提供强大支撑。我国装机现在40%左右是可再生能源，发电量的30%左右是可再生能源，全部可再生能源装机是世界第一。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1373046.d.html</link>
+            <guid>2095525</guid>
+            <pubDate>Tue, 30 Mar 2021 02:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时中国A50指数期货涨幅扩大至1％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1372348.d.html</link>
+            <guid>2095524</guid>
+            <pubDate>Tue, 30 Mar 2021 02:31:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广东省：将出台支持海上风电项目有序开发及产业发展的指导意见】广东省将出台广东支持海上风电项目有序开发及产业发展的指导意见，争取国家将粤东千万千瓦级海上风电基地纳入国家相关规划，并出台专属经济区海上风电项目开发管理办法；加快新增海上风电场址资源摸查，修编省海上风电规划；召开全省海上风电现场推进会；加快推进在建项目建设，建成投产装机容量400万千瓦。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4534602.d.html</link>
+            <guid>2095521</guid>
+            <pubDate>Tue, 30 Mar 2021 02:30:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本敦促在治理准则中披露气候风险。（共同社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4534184.d.html</link>
+            <guid>2095520</guid>
+            <pubDate>Tue, 30 Mar 2021 02:30:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【桂发祥：重点开发以嘎巴菜为代表的天津风味系列新品】桂发祥董事长李铭祥介绍，公司今年将继续重点开发以嘎巴菜为代表的天津风味系列新品，以及各类糕点、OEM产品，加大新品开发力度，针对连锁店渠道、经销渠道、线上渠道等不同需求丰富产品品类。在新业务方面，以旅游消费为突破，尝试开拓旅游、整合非遗，挖掘发展新动力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4533465.d.html</link>
+            <guid>2095518</guid>
+            <pubDate>Tue, 30 Mar 2021 02:29:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【国家能源局局长：将加快实施能源领域碳达峰行动】国家能源局局长章建华今日表示，国家能源局将加快实施能源领域碳达峰行动，制定更加积极的新能源发展目标，大力推动新时代可再生能源大规模、高比例、高质量、市场化发展，加快实施可再生能源替代行动，着力提升新能源消纳和存储能力，积极构建新能源为主体的新型电力系统。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4532053.d.html</link>
+            <guid>2095517</guid>
+            <pubDate>Tue, 30 Mar 2021 02:27:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深圳公积金新政：自由职业者也将能缴存使用住房公积金】今日，深圳市住建局公积金中心发布《深圳市灵活就业人员缴存使用住房公积金管理暂行规定（征求意见稿）》向社会公开征求意见。《暂行规定》提出，灵活就业人员可申请自愿缴存住房公积金；自愿缴存住房公积金的缴存比例和缴存基数在上下限范围内自由选择；给予缴存住房公积金的灵活就业人员一定的利息补贴和税收减免等。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1368787.d.html</link>
+            <guid>2095515</guid>
+            <pubDate>Tue, 30 Mar 2021 02:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  国家能源局局长章建华表示，全产业链集成制造有力推动风电、光伏发电成本持续下降，近10年来陆上风电和光伏发电项目单位千瓦平均造价分别下降30%和75%左右，产业竞争力持续提升，为可再生能源新模式、新业态蓬勃发展注入强大动力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4528984.d.html</link>
+            <guid>2095513</guid>
+            <pubDate>Tue, 30 Mar 2021 02:23:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【华为公开“导航方法”相关专利，可解决车辆停车场盲开找车位的难题】据天眼查APP显示， 3月30日，华为技术有限公司公开一项名称为“一种导航方法、装置和系统”的专利，公开号为CN112585659A，申请日期为2020年11月。该专利摘要显示，本申请涉及智能驾驶技术领域。其中所述方法包括：获取多个摄像头拍摄的图像，根据多个摄像头拍摄的图像，获取目标车辆的位置信息；在确定目标车辆将要停泊的目标车位后，根据目标车辆的位置信息和目标车位的位置信息，生成导航路线，然后发送给终端设备。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4527679.d.html</link>
+            <guid>2095511</guid>
+            <pubDate>Tue, 30 Mar 2021 02:21:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广东省：加快建设具有地方特色的市内免税店】广东省将制定《广东省2021年提振重点消费的若干措施》。加快取消汽车等领域行政性限制消费的规定。出台我省消费中心城市建设指导意见。加快建设具有地方特色的市内免税店。另外，发展农村电商。制定《广东省电子商务高质量发展意见》。全面做好电子商务进农村综合示范创建工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1364426.d.html</link>
+            <guid>2095509</guid>
+            <pubDate>Tue, 30 Mar 2021 02:20:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【康宁将调高显示玻璃基板价格 Q2面板报价或将调涨】玻璃基板大厂康宁宣布将在2021年第二季度适度调高其显示玻璃基板价格。康宁预计未来几个季度，玻璃供应仍将处于短缺至紧张状态。业内人士预期，群创、友达等面板厂在目前卖方市场的情势下，亦可望顺势调涨面板报价，面板价格第二季将延续上涨走势，友达、群创获利亦将随之走高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1363561.d.html</link>
+            <guid>2095508</guid>
+            <pubDate>Tue, 30 Mar 2021 02:19:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美团涨3%，意外入选Ark Invest推出的全新太空ETF。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4525897.d.html</link>
+            <guid>2095507</guid>
+            <pubDate>Tue, 30 Mar 2021 02:19:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  医美概念异动拉升，悦心健康涨停，爱美客、朗姿股份、长江健康、澳洋健康等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4525203.d.html</link>
+            <guid>2095505</guid>
+            <pubDate>Tue, 30 Mar 2021 02:18:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【广东省：全强化反垄断和防止资本无序扩张】广东省人民政府发布的2021年省《政府工作报告》重点任务分工方案中提出，将全面落实公平竞争审查制度，强化反垄断和反不正当竞争执法。防范企业凭借数据、技术、资本优势造成竞争失序。制定平台经济创新合规发展指引，开展平台经济领域反垄断规制与合规辅导。开展对电子商务平台中涉及不正当竞争行为的治理规制。强化商业秘密保护。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1361692.d.html</link>
+            <guid>2095502</guid>
+            <pubDate>Tue, 30 Mar 2021 02:17:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【博鳌亚洲论坛将于下月在海南举行】博鳌亚洲论坛在北京举办2021年年会新闻发布会，介绍论坛筹备情况。从会上获悉，2021年博鳌亚洲论坛将于4月18日至21日在海南博鳌以线上+线下的方式举行，目前各项筹备工作正在有序进行中。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4523246.d.html</link>
+            <guid>2095500</guid>
+            <pubDate>Tue, 30 Mar 2021 02:15:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  货拉拉：正式上线行程位置保护，升级逾期订单预警和安全中心功能。至此，货拉拉向社会的安全整改承诺已全部落地。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4523140.d.html</link>
+            <guid>2095499</guid>
+            <pubDate>Tue, 30 Mar 2021 02:15:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广东省：将出台资本要素改革政策措施 深化深交所发行上市制度改革】广东省人民政府日前发布关于印发2021年省《政府工作报告》重点任务分工方案的通知，其中提到，将出台广东资本要素改革政策措施。制定广东金融强省建设2021年工作要点。推动“跨境理财通”“港澳保险服务中心”“私募股权投资基金跨境投资试点”落地。深化深交所发行上市制度改革。高标准建设广州期货交易所。筹建粤港澳大湾区国际商业银行。推动省农信联社、重点城商行深化改革。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4523068.d.html</link>
+            <guid>2095498</guid>
+            <pubDate>Tue, 30 Mar 2021 02:15:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【福建多部门推出线上经济贷 最高可获得1000万元优惠贷款】近日，福建省发改委、省财政厅、省金融监管局联合推出政策性优惠产品——线上经济贷，线上经济企业通过福建省金融服务云平台申请，最高可获得1000万元优惠贷款。线上经济贷可采用银政保、银政、银政担三种合作模式。实行优惠贷款利率，各政策性银行、大型银行等合作金融机构的贷款年化利率不超过最近的一年期贷款市场报价利率（LPR）加100个基点，其他合作金融机构的贷款年化利率不超过我省上一年度普惠小微企业贷款加权平均利率。（福建日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4522873.d.html</link>
+            <guid>2095497</guid>
+            <pubDate>Tue, 30 Mar 2021 02:15:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【生态环境部：持续打好水源保护攻坚战】中国生态环境部总工程师、水生态环境司司长张波30日在北京举行的新闻发布会上说，2020年中国深入开展集中式饮用水水源地规范化建设，全国地级及以上城市集中式饮用水水源水质达到或好于III类的比例为94.5%，2804个县级及以上城市集中式饮用水水源地10363个问题完成整改。今年将加快治理改造或替换不达标水源，持续打好水源保护攻坚战。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4522496.d.html</link>
+            <guid>2095496</guid>
+            <pubDate>Tue, 30 Mar 2021 02:14:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  对于剥离苹果业务的举动，接近欧菲光人士表示，苹果的生意是“艰辛生意”，利润并不高，相关业务的出售对于降低资产负债率也有一定的帮助。  （一财）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4522393.d.html</link>
+            <guid>2095495</guid>
+            <pubDate>Tue, 30 Mar 2021 02:14:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【辽宁全省城商行改革动员暨培训会议在沈阳召开】会议指出，受多种因素影响，辽宁省部分城商行改革任务依然十分艰巨。会议要求，要精准把握政策，突出工作重点，抓紧抓实抓好主要领导挂帅、成立工作专班、专人专责专项、多措并举补充资本，切实转换经营机制、优化选人用人机制、立足本地经营发展、严肃追责问责、全力追赃挽损、严厉打击违法犯罪、保护人民群众的合法权益、做好社会稳定等重点工作，牢牢守住不发生区域性金融风险、不引发系统性金融风险底线。（辽宁日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4520216.d.html</link>
+            <guid>2095493</guid>
+            <pubDate>Tue, 30 Mar 2021 02:11:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  西藏板块异动，西藏天路直线拉升封板，高争民爆、筑博设计、西藏珠峰等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1356197.d.html</link>
+            <guid>2095491</guid>
+            <pubDate>Tue, 30 Mar 2021 02:10:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  水泥板块异动拉升，西藏天路直线拉升涨停，天山股份、祁连山、华新水泥、海螺水泥等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1356032.d.html</link>
+            <guid>2095490</guid>
+            <pubDate>Tue, 30 Mar 2021 02:09:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国盛证券：将太平鸟评级上调至买进。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4515779.d.html</link>
+            <guid>2095488</guid>
+            <pubDate>Tue, 30 Mar 2021 02:06:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【芯擎科技计划推出7nm车规级芯片 台积电为其代工生产】据媒体报道，由吉利和百度投资的亿咖通科技有限公司与安谋科技（中国）有限公司共同出资成立的芯擎科技最快将于明年年底推出7nm车规级芯片，台积电将为其代工生产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1352677.d.html</link>
+            <guid>2095487</guid>
+            <pubDate>Tue, 30 Mar 2021 02:05:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【腾讯手游《PUBG Mobile》全球总收入突破50亿美元】Sensor Tower 商店平台数据显示，腾讯《PUBG Mobile》(合并《和平精英》收入）2020年吸金27亿美元，全球累计收入达到51亿美元。去年Q1至Q3期间，《PUBG Mobile》平均每个季度收入为7.04亿美元。虽然去年Q4收入略微回落至5.55亿美元，但今年Q1其收入再次迎来增长，达到7.09亿美元。纵观2020年，《PUBG Mobile》在全球App Store和Google Play日均吸金740万美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1352330.d.html</link>
+            <guid>2095486</guid>
+            <pubDate>Tue, 30 Mar 2021 02:05:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  港股抗疫概念股走高，君实生物涨超8%，康希诺生物、石药集团涨超4%，阿里健康涨超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4513329.d.html</link>
+            <guid>2095484</guid>
+            <pubDate>Tue, 30 Mar 2021 02:03:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中信证券：比亚迪股份新能源汽车技术领先，先进电动零部件业务有望逐步兑现内在价值。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1348286.d.html</link>
+            <guid>2095482</guid>
+            <pubDate>Tue, 30 Mar 2021 02:00:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中京电子：公司目前生产经营状况良好 订单充裕】中京电子在互动平台表示，公司目前生产经营状况良好，订单充裕，公司努力保持经营业绩的持续增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4509684.d.html</link>
+            <guid>2095479</guid>
+            <pubDate>Tue, 30 Mar 2021 01:58:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【苏伊士运河管理局：不止天气原因，还将调查人为或技术失误】在苏伊士运河卡了6天的超大货轮“长赐”号终于成功浮起，运河也重新通航。现在，外界将目光转向了事故调查。据美国《华盛顿邮报》29日消息，苏伊士运河管理局负责人奥萨马•拉比当天表示，除天气原因外，调查也将针对人为或者技术失误。 报道称，虽然沙尘暴和强风被普遍视为此次事故的一个主要原因，但拉比告诉记者说，调查将不仅仅集中在天气上，也不能排除人为和技术失误。调查人员将对两名埃及籍运河领航员的表现以及其与船长的协作进行调查。  （环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4509071.d.html</link>
+            <guid>2095477</guid>
+            <pubDate>Tue, 30 Mar 2021 01:58:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【装机储能规模最大光热电站开建】近日，青海省柴达木循环经济试验区2021年第一批项目集中复工。其中，位于德令哈市的青海众控德令哈135兆瓦光热发电项目正式开建，该光热发电项目装机容量13.5万千瓦，储能时间11.2小时，是中国装机规模最大、储能规模最大的光热电站。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1346440.d.html</link>
+            <guid>2095474</guid>
+            <pubDate>Tue, 30 Mar 2021 01:57:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  券商股异动拉升，国盛金控涨7%，长城证券、国金证券、中金公司等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4508529.d.html</link>
+            <guid>2095473</guid>
+            <pubDate>Tue, 30 Mar 2021 01:57:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【腾讯子公司对日本乐天出资延期缴款】日本电商乐天3月29日发布消息称，关于腾讯控股的子公司对乐天注资一事，原定于29日实施的缴款将推迟到31日完成。日本邮政及美国沃尔玛等已于29日完成共计近1800亿日元的缴款。据悉腾讯方面告知乐天将于3月31日缴款。乐天12日宣布以日本邮政、腾讯子公司、沃尔玛等共5家企业为认购对象，通过第三方配股增资形式共计筹资2423亿日元。腾讯子公司计划投资657亿日元，出资比例为3.65％。乐天3月25日曾表示，“需要按照日本外汇法来办理手续，缴款日期有可能不是原定的29日”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4507311.d.html</link>
+            <guid>2095472</guid>
+            <pubDate>Tue, 30 Mar 2021 01:55:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴西总统博索纳罗进行大规模内阁改组 1天任命6名内阁成员】当地媒体29日报道，巴西总统博索纳对内阁进行了大规模改组，1天内任命6名内阁成员。他们分别是巴西外交部部长卡洛斯·弗朗萨、总统府政府秘书处部长弗拉维亚·阿鲁达、总统府民事办公室主任路易斯·拉莫斯、司法和公共安全部部长安德森·古斯塔沃·托雷斯、联邦大律师局局长安德烈·门东萨和国防部部长布拉加·内图。巴西总统府通信秘书处当地时间29日晚对外宣布，内阁成员名单将于30日正式公布。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1342671.d.html</link>
+            <guid>2095471</guid>
+            <pubDate>Tue, 30 Mar 2021 01:52:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  新疆本地股持续拉升走高，卓郎智能、德新交运双双拉升涨停，雪峰科技、洪通燃气、青松建化等拉升跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1341400.d.html</link>
+            <guid>2095470</guid>
+            <pubDate>Tue, 30 Mar 2021 01:50:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【光韵达：子公司与无锡施尔美医疗美容医院战略合作】日前，光韵达子公司上海光韵达数字医疗科技有限公司，为无锡施尔美医疗美容医院颁发授权书，就3D精准定制整形领域与其达成战略合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1340778.d.html</link>
+            <guid>2095469</guid>
+            <pubDate>Tue, 30 Mar 2021 01:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[发改委发布关于做好享受税收优惠政策的集成电路企业或项目、软件企业清单制定工作有关要求的通知。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4501233.d.html</link>
+            <guid>2095466</guid>
+            <pubDate>Tue, 30 Mar 2021 01:47:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白酒概念下挫走弱，金徽酒跌超4%，金种子酒、皇台酒业、顺鑫农业、酒鬼酒等跟跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1336641.d.html</link>
+            <guid>2095465</guid>
+            <pubDate>Tue, 30 Mar 2021 01:44:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[腾讯控股港股盘中转跌，现跌0.33%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4498514.d.html</link>
+            <guid>2095464</guid>
+            <pubDate>Tue, 30 Mar 2021 01:43:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  阿里巴巴涨超3%，报223.4港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1333593.d.html</link>
+            <guid>2095461</guid>
+            <pubDate>Tue, 30 Mar 2021 01:40:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[军工板块拉升走高，中航沈飞涨超8%，中航高科、洪都航空、航发动力、中航光电等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4495249.d.html</link>
+            <guid>2095459</guid>
+            <pubDate>Tue, 30 Mar 2021 01:39:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coinbase首席执行官Brian Armstrong：Coinbase希望与支持加密货币并能快速行动的技术前沿国家合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4494581.d.html</link>
+            <guid>2095457</guid>
+            <pubDate>Tue, 30 Mar 2021 01:38:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【壁仞科技完成B轮融资 成立一年多累计融资超47亿元】通用智能芯片设计公司壁仞科技近日宣布完成B轮融资。本轮融资由中国平安、新世界集团、碧桂园创投联合领投，源码资本、国盛集团国改基金、嘉实资本、招商局资本、BAI(贝塔斯曼亚洲投资基金)、中信证券投资等跟投，现有投资方IDG资本、云晖资本、珠海大横琴集团等继续追加投资。成立一年多时间，壁仞科技累计融资超过47亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4493124.d.html</link>
+            <guid>2095456</guid>
+            <pubDate>Tue, 30 Mar 2021 01:36:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[煤炭板块全线走低，兖州煤业、郑州煤电跌超5%，中煤能源、陕西黑猫、开滦股份等纷纷走低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4492956.d.html</link>
+            <guid>2095454</guid>
+            <pubDate>Tue, 30 Mar 2021 01:36:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[小米集团盘中转跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1330113.d.html</link>
+            <guid>2095452</guid>
+            <pubDate>Tue, 30 Mar 2021 01:35:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本经济再生大臣西村康稔：在1月和2月的紧急状态下，日本就业恢复的速度放缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4491592.d.html</link>
+            <guid>2095450</guid>
+            <pubDate>Tue, 30 Mar 2021 01:34:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股黄金股走弱，紫金矿业跌近2%，山东黄金跌近1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4491240.d.html</link>
+            <guid>2095449</guid>
+            <pubDate>Tue, 30 Mar 2021 01:34:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：因系统故障和火灾，日本炼油公司ENEOS周一关闭了位于和歌山市、产量为12.75万桶/日的原油蒸馏装置。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4490983.d.html</link>
+            <guid>2095447</guid>
+            <pubDate>Tue, 30 Mar 2021 01:33:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中伊概念股继续走强 多只个股涨停】中油资本、贝肯能源、北方国际等个股开盘一字涨停，中油工程秒板，中曼石油、恒泰艾普等个股纷纷跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4490283.d.html</link>
+            <guid>2095446</guid>
+            <pubDate>Tue, 30 Mar 2021 01:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股汽车股多数下行，比亚迪股份跌近4%，吉利汽车、长城汽车跌近1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4489617.d.html</link>
+            <guid>2095445</guid>
+            <pubDate>Tue, 30 Mar 2021 01:32:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[碳中和概念股开盘走低，乾景园林跌停开盘，园林股份、南网能源、华银电力、中材节能等跌幅居前。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1327233.d.html</link>
+            <guid>2095444</guid>
+            <pubDate>Tue, 30 Mar 2021 01:31:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比亚迪股份跌幅扩大至6%，全年净利润及每股盈利不及预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1327128.d.html</link>
+            <guid>2095442</guid>
+            <pubDate>Tue, 30 Mar 2021 01:31:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本将于今日发售3.00万亿日元兑、规模为0.005%的两年期债券，将在4月6日出售9000亿日元的30年期债券。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1327045.d.html</link>
+            <guid>2095440</guid>
+            <pubDate>Tue, 30 Mar 2021 01:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东吴证券：华晟HJT电池试产转换效率超预期 核心设备商得到验证】据安徽华晟官网，3月18日公司500MW HJT电池量产项目正式流片，首周试产HJT电池片平均转换效率达到23.8%，最高效率达到24.39%。东吴证券电新团队认为，此次试产效率超预期也意味着核心设备商迈为股份、理想万里晖的HJT设备能力得到验证。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1326533.d.html</link>
+            <guid>2095433</guid>
+            <pubDate>Tue, 30 Mar 2021 01:30:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[江铃汽车高开7.68%，公司2020年全年实现净利润5.5亿元，同比增长272.57%；拟10派34.76元，合计分红30个亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4485937.d.html</link>
+            <guid>2095412</guid>
+            <pubDate>Tue, 30 Mar 2021 01:27:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[三大股指低开，沪指跌0.08％，深成指跌0.15％，创业板跌0.2％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1322807.d.html</link>
+            <guid>2095407</guid>
+            <pubDate>Tue, 30 Mar 2021 01:25:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士信贷(Credit Suisse)周一表示，现在量化其所面临的Archegos爆仓带来的具体影响还为时过早，但这可能对截至本月的第一季度业绩“非常重要和重大”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1321350.d.html</link>
+            <guid>2095405</guid>
+            <pubDate>Tue, 30 Mar 2021 01:24:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宁德时代等7股获融资净买入超亿元】据Wind统计显示，3月29日共有1024只个股获融资净买入，净买入金额在千万元以上的有198只，其中7只融资净买入额超1亿元。宁德时代获融资净买入额居首，当日净买入3.89亿元；其次是招商银行，融资净买入1.97亿元。此外，贝泰妮、格林美、沃森生物、中国平安、浦发银行、通威股份、中国建筑、分众传媒、中环股份等股获融资净买入额超8000万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1320032.d.html</link>
+            <guid>2095400</guid>
+            <pubDate>Tue, 30 Mar 2021 01:22:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比亚迪股份跌0.06%，全年净利润及每股盈利不及预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4481781.d.html</link>
+            <guid>2095397</guid>
+            <pubDate>Tue, 30 Mar 2021 01:22:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[哔哩哔哩上市次日开涨0.44%，昨日小幅收跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4481693.d.html</link>
+            <guid>2095396</guid>
+            <pubDate>Tue, 30 Mar 2021 01:21:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[京东健康涨近5%，2020年营收同比显著增长78.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4481339.d.html</link>
+            <guid>2095394</guid>
+            <pubDate>Tue, 30 Mar 2021 01:21:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【Ｃ贝泰妮：子公司医美业务目前占比还非常小】Ｃ贝泰妮在互动平台表示，公司主营化妆品业务，仅昆明薇诺娜子公司从事相关医美业务。同时该业务目前业务占比还非常小。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1315165.d.html</link>
+            <guid>2095373</guid>
+            <pubDate>Tue, 30 Mar 2021 01:16:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏伊士运河堵塞致420多艘船滞留 43艘已顺利通过】综合路透社、美联社报道，当地时间29日，苏伊士运河管理局发布公报称，搁浅货轮已经完全脱困，苏伊士运河恢复通航。埃及航运代理商“莱斯机构”透露，目前已有43艘货船顺利通过位于苏伊士运河北部和南部水域之间的大苦湖。分析人士预计，至少还需要10天的时间才能完成（因运河堵塞）积压的订单。（海外网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1314949.d.html</link>
+            <guid>2095372</guid>
+            <pubDate>Tue, 30 Mar 2021 01:15:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[  【锐奇股份：目前苏伊士运河堵塞对公司出口货运影响较小】锐奇股份在互动平台表示，目前苏伊士运河堵塞对公司出口货运影响较小，我们货运方式通常由客户来选择。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1310619.d.html</link>
             <guid>2095367</guid>
             <pubDate>Tue, 30 Mar 2021 01:10:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【工信部装备工业一司、电子信息司联合组织召开汽车显示屏供需对接会】29日，工业和信息化部装备工业一司、电子信息司联合组织召开汽车显示屏供需对接会。中国汽车工业协会、中国光学光电子行业协会液晶分会、长安、北汽、广汽、吉利、京东方、天马、信利、北斗星通等30余名代表参加了会议。与会各方交流了近期汽车显示屏供应短缺最新情况，对未来发展趋势进行了分析研判，并研究讨论了应对措施建议。装备工业一司、电子信息司提出，汽车协会和液晶协会要搭建供需对接平台，汽车企业和显示屏企业要建立战略合作关系，双方加强协同，努力缓解汽车显示屏供应紧张问题，为汽车产业平稳健康发展提供有力支撑。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4472963.d.html</link>
-            <guid>2095366</guid>
-            <pubDate>Tue, 30 Mar 2021 01:10:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【“闪送”完成1.25亿美元D2轮融资】闪送宣布完成1.25亿美元D2轮融资。本轮融资由顺为资本、五岳资本、SIG海纳亚洲、天图投资、海松资本、Alpha Square Group、Axiom Asia Private Capital、千山资本及中财荃兴资本共同投资，光源资本担任财务顾问。截至2019年年底，闪送累计服务用户超过1亿。目前在闪送平台上的服务品类达1600多种。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1306634.d.html</link>
-            <guid>2095346</guid>
-            <pubDate>Tue, 30 Mar 2021 01:04:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【怪兽充电更新招股书：高瓴小米为基石投资者，计划4月1日在纳斯达克挂牌】 怪兽充电刚刚向SEC提交了更新版招股书，计划于4月1日在纳斯达克挂牌上市。怪兽充电本次IPO发行价格区间为每ADS 10.50-12.50美元，预计发行1750万股，募资规模达2.1至2.5亿美元，估值28至34亿美元。公司基石投资者包括高瓴资本、Aspex Management (HK) Ltd.和小米科技，合计意向认购1.1亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4467970.d.html</link>
-            <guid>2095343</guid>
-            <pubDate>Tue, 30 Mar 2021 01:03:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美对冲基金“爆仓”事件发酵 瑞士金融市场监管局回应：已与瑞士信贷联系】美国对冲基金先行者资本（Archegos Capital）“爆仓”后，北京时间3月30日凌晨，瑞士金融市场监管局（FINMA）发言人Tobias Lux对记者表示，FINMA注意到了这一国际对冲基金事件。瑞士信贷通知了FINMA相关情况。目前，FINMA已与瑞士信贷就相关事件联系。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1305255.d.html</link>
-            <guid>2095342</guid>
-            <pubDate>Tue, 30 Mar 2021 01:03:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【旺宏预计芯片供应紧张将持续两年】台北经济日报援引旺宏董事长吴敏求的话报导，由于需求激增和生产商产能有限，该公司客户在编码型闪存（NOR Flash）芯片抢货，甚至是三倍下单。他表示，至少要等到两年后才能开出新产能。另据台湾经济日报援引吴敏求报导称，该公司计划在第二季度出售旗下6吋厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1302620.d.html</link>
-            <guid>2095338</guid>
-            <pubDate>Tue, 30 Mar 2021 00:59:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  怪兽充电计划于4月1日在纳斯达克挂牌上市，筹资规模达2.1至2.5亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4464656.d.html</link>
-            <guid>2095337</guid>
-            <pubDate>Tue, 30 Mar 2021 00:59:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【交期延长 全球芯片缺货问题已蔓延至半导体设备领域】据外媒报道，全球芯片缺货问题已蔓延至半导体设备领域。半导体封测设备供应商库力索法半导体警告称，因微控制器缺货，封测设备的平均交付时间延长一倍至6个月。集微网从某封测企业了解到，整个半导体领域的设备都很缺，基本没有设备可以幸免，原本3个月交期的设备延至半年，而半年交期的延至1年。二手设备方面，价格也在短时间内急剧上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1300448.d.html</link>
-            <guid>2095336</guid>
-            <pubDate>Tue, 30 Mar 2021 00:56:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【消息称字节跳动在私有市场估值拟超2500亿美元】据报道，知情人士透露，由于投资者对字节跳动的业务及其IPO前景充满信心，字节跳动在私有市场的估值已经超过2500亿美元。根据CB Insights的数据，字节跳动在上一轮融资时的估值达到1400亿美元。其中一位知情人士说，该公司一个月前在私有市场的交易估值大约达为2000亿美元。如果按照2500亿美元计算，字节跳动的估值已经超过埃克森美孚和可口可乐。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1300017.d.html</link>
-            <guid>2095335</guid>
-            <pubDate>Tue, 30 Mar 2021 00:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【最新统计：芯片短缺已致全球汽车市场累计减产115.7万辆】据AutoForecast Solutions最新统计，3月29日，全球共六家汽车制造商新增超65,000辆因芯片短缺而减产的汽车。截至目前，芯片短缺已致全球汽车市场累计减产115.7万辆。预计2021年全球汽车市场将因此减产超200万辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1299092.d.html</link>
-            <guid>2095330</guid>
-            <pubDate>Tue, 30 Mar 2021 00:54:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【现代汽车蔚山工厂因芯片短缺将停产一周？公司回应：尚未做出决定】《韩国经济日报》周一援引汽车业消息报道称，受芯片短缺影响，现代汽车计划于4月5日至13日，暂停其在韩国蔚山第一工厂的生产。该工厂每年生产31.1万辆汽车，其中包括Kona Electric和Ioniq 5。对此，现代汽车在声明中表示，“目前尚未就相关报道中的停产做出决定。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4454456.d.html</link>
-            <guid>2095307</guid>
-            <pubDate>Tue, 30 Mar 2021 00:44:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【特斯拉得克萨斯工厂大规模招聘：多数职位与生产电池芯相关】据报道，特斯拉得克萨斯州工厂的招聘已经启动，这座超级工厂新增了大约50个招聘职位，其中许多职位与在当地生产电池芯有关。在增加产能方面，特斯拉现在还有很多事情要做。当前他们有两座超级工厂正在建设之中，一座位于得克萨斯州，另外一座则位于德国柏林。另外，他们还正在对上海超级工厂进行扩建。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1291168.d.html</link>
-            <guid>2095299</guid>
-            <pubDate>Tue, 30 Mar 2021 00:43:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[交银国际：将光大银行H股评级上调至买进，目标价4.20港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1284220.d.html</link>
-            <guid>2095278</guid>
-            <pubDate>Tue, 30 Mar 2021 00:34:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：洛克希德·马丁公司获得美国陆军10亿美元合同。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1281894.d.html</link>
-            <guid>2095276</guid>
-            <pubDate>Tue, 30 Mar 2021 00:31:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上海证交所上日融资余额上涨0.1%至7950.2亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1281397.d.html</link>
-            <guid>2095275</guid>
-            <pubDate>Tue, 30 Mar 2021 00:30:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【蒙古国中戈壁省近期强沙尘暴天气致16万头牲畜死亡】蒙古国中戈壁省政府官员29日说，该省3月中旬以来遭遇的强沙尘暴天气造成重大损失，截至29日该省有约16万头（只）牲畜死亡，另有约23万头（只）牲畜仍无下落。据悉，该省3月14日遭遇强沙尘暴天气，一些地区的最大风速达到每秒40米。当时大部分地区能见度低，给紧急情况部门开展寻找失踪人员等工作造成很大困难。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4440679.d.html</link>
-            <guid>2095273</guid>
-            <pubDate>Tue, 30 Mar 2021 00:25:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【综述：Archegos打破沉默 称“正在讨论所有计划”】在错误押注促使投资银行匆忙平仓其头寸之后，Bill Hwang旗下的Archegos Capital Management终于打破沉默。“对于家族办公室Archegos Capital Management，我们的合作伙伴和员工而言，这是一个充满挑战的时刻，”该公司发言人Karen Kessler发布声明表示。“在Hwang先生和团队确定前进的最佳道路时，正在讨论所有计划。”据其网站，Kessler在Evergreen Partners工作，该公司专业从事危机沟通和声誉管理。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4438899.d.html</link>
-            <guid>2095270</guid>
-            <pubDate>Tue, 30 Mar 2021 00:23:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲地中海地震中心：波弗特海发生5.2级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1271755.d.html</link>
-            <guid>2095262</guid>
-            <pubDate>Tue, 30 Mar 2021 00:16:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【包钢回应员工跳钢水自杀：疑与证券亏损大、无法还债有关】包钢集团微信号30日对包钢钢管公司员工死亡一事发布声明。声明称，已排除刑事案件，系自杀。怀疑其自杀与购买期货和股票亏损数额较大、负债过多、无法偿还有关。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1266705.d.html</link>
-            <guid>2095254</guid>
-            <pubDate>Tue, 30 Mar 2021 00:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  天华超净：控股子公司天宜锂业与与Dathcom
-Mining SA及AVZ International Pty. Ltd.,签订《承购协议》，拟向 Dathcom采购锂辉石精矿，Dathcom指定AVZ作为Dathcom的销售代理，首期采购期限为3年，到期后买方可以选择延长2年。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1264485.d.html</link>
-            <guid>2095252</guid>
-            <pubDate>Tue, 30 Mar 2021 00:05:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【苹果被判无权阻止使用乔布斯提示语One More Thing】据报道，“One More Thing”是苹果创始人、前CEO史蒂夫·乔布斯（Steve Jobs）在新产品发布会上经常说的一句话。但是苹果不能将这句话占为己有，伦敦一名法官在本周一裁定，他在一场旷日长久的商标纠纷案中，选择支持瑞士手表制造商斯沃琪（Swatch）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1263283.d.html</link>
-            <guid>2095243</guid>
-            <pubDate>Tue, 30 Mar 2021 00:03:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[旺宏预计芯片供应紧张将持续两年。（台湾经济日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4425135.d.html</link>
-            <guid>2095242</guid>
-            <pubDate>Tue, 30 Mar 2021 00:03:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【爆仓事件后 美国证交会、美国金融业监管局和银行举行会议】面对Bill Hwang旗下投资公司倒闭的危机，华尔街各银行周一都在向美国监管机构通报情况。知情人士透露，美国证交会匆忙召集银行开会，讨论与Hwang旗下的Archegos Capital有关的逾200亿美元股票被迫出售的原因。美国金融业监管局官员正在就券商业务受到的影响、潜在的信贷风险和其他威胁进行询问。Hwang的交易商包括瑞士信贷、高盛、野村和摩根士丹利。SEC发言人在一份电子邮件声明中表示:“自上周以来，我们一直在关注形势，并与市场参与者进行沟通。”美国金融业监管局发言人拒绝置评。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4424037.d.html</link>
-            <guid>2095233</guid>
-            <pubDate>Tue, 30 Mar 2021 00:01:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【野村高管：野村正在评估可能发生损失的原因】媒体援引一位不愿具名的野村高管周二表示，野村已开始评估可能发生损失的原因。这位高管表示，很难说该行何时能够确定损失金额，以及是否会把损失计入1- 3月。当被问及野村解除了多少与Archegos有关的头寸时，这位高管不愿发表评论，称他无法讨论个案。这位高管称，野村之所以在周一的声明中给出20亿美元的亏损数字，是为了避免市场出现任何不必要的投机行为。这位高管表示，野村与Bill Hwang很早就开始有交易合作，但不能确定具体是何时开始的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1261404.d.html</link>
-            <guid>2095232</guid>
-            <pubDate>Tue, 30 Mar 2021 00:01:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【沙尘暴蓝色预警:11省区部分地区有扬沙或浮尘】中央气象台3月30日06时继续发布沙尘暴蓝色预警:预计,3月30日白天,新疆东部和南疆盆地、青海西北部、内蒙古西部和中部、甘肃西部和东部、宁夏、陕西中部、山西南部、河北南部、河南、安徽北部、江苏中北部等地的部分地区有扬沙或浮尘天气,其中,新疆东部局地有沙尘暴。30日夜间开始,受降水天气影响,沙尘天气范围将明显缩小。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4422147.d.html</link>
-            <guid>2095221</guid>
-            <pubDate>Mon, 29 Mar 2021 23:59:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“十四五”期间 9家央企在鄂战略协议投资额超7000亿元】近日，9家中央企业与湖北省政府签订“十四五”期间战略合作协议超7000亿元，涉及航空产业、高端制造、现代农业、节能环保、新材料产业化、能源保障、重大基础设施等领域。据初步统计，央企2020年在湖北开工建设的项目达到401个，全年完成投资2246.51亿元；2020年央企与湖北省新签订项目合作协议172个，合作项目投资总额4636.13亿元，新签约项目开工率达55.81%，为湖北疫后重振和高质量发展注入强劲动力。（人民日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4421735.d.html</link>
-            <guid>2095220</guid>
-            <pubDate>Mon, 29 Mar 2021 23:58:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【索尼关闭PSP等线上游戏商城】索尼今天宣布，将会从7月2日起关闭PS3和PSP游戏商城，而PSV游戏商城将会在8月27日关闭。商城关闭后，用户依旧可以从下载列表中找到过去购买的游戏和DLC进行下载，但用户无法购买相应平台上的数字版游戏以及DLC等内容。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4419707.d.html</link>
-            <guid>2095216</guid>
-            <pubDate>Mon, 29 Mar 2021 23:55:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京连续59天无新增本土病例】3月29日0时至24时，北京无新增本地确诊病例、疑似病例和无症状感染者；无新增境外输入确诊病例、疑似病例和无症状感染者。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1255696.d.html</link>
-            <guid>2095202</guid>
-            <pubDate>Mon, 29 Mar 2021 23:53:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Netflix表示，目前在所有设备上都遇到了播放问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1248318.d.html</link>
-            <guid>2095176</guid>
-            <pubDate>Mon, 29 Mar 2021 23:42:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【推特宕机：1.8万用户报告故障】据报道，根据宕机监控网站Downdetector.com的数据，成千上万的Twitter用户周一无法访问这家社交媒体平台。该网站的信息显示，有多达1.8万用户报告在访问Twitter时遇到问题。还有几名用户使用“twitterdown”的话题标签抱怨宕机事件。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4409312.d.html</link>
-            <guid>2095165</guid>
-            <pubDate>Mon, 29 Mar 2021 23:40:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【爆发式需求吸引资本涌入 国货美妆全产业链掀IPO热潮】2020年以来，美妆行业在资本市场的表现愈发强劲。美妆全产业链迎来IPO热潮——从上游原料商、包材商，到中游品牌商、TP商，再到下游零售商等。伴随着资本介入，更多新锐国货美妆品牌、生产企业获得了弯道超车的机会，行业亦出现了更多新的趋势与变化。2021年1月起正式施行的《化妆品监督管理条例》以及十余个配套法规的陆续颁布，意味着美妆行业粗放型发展时代的结束，也为中国化妆品市场带来前所未有的变革与挑战。]]></title>
-            <guid>2095152</guid>
-            <pubDate>Mon, 29 Mar 2021 23:37:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【金融支持绿色发展 瞄准赛道各施其策】随着“碳达峰、碳中和”首次被写入政府工作报告，绿色金融发展具备了更适宜的政策土壤。据多家权威机构测算，中国关于绿色发展的投资级别在百万亿元。从基础设施建设，到专业人才储备，再到金融产品创新，金融机构为了抢先把这个巨大的融资市场攥在手里，或瞄准细分领域，或狠抓专业化经营，使出“十八般武艺”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4407491.d.html</link>
-            <guid>2095151</guid>
-            <pubDate>Mon, 29 Mar 2021 23:37:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一批化工上市公司一季报预增 4家企业增幅逾10倍】去年三季度末以来，在化工顺周期行情下，多元化产品价格上涨带来业绩高弹性，部分化工行业上市公司业绩获得正向修复。据上海证券报资讯统计，截至3月29日，已有28家化工类上市公司发布2021年一季度业绩预增公告，其中黑猫股份、鲁西化工、金力泰、阳谷华泰的预增幅度均超10倍，其主营产品分别涉及炭黑、基础化工、工业涂料等行业。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4407357.d.html</link>
-            <guid>2095150</guid>
-            <pubDate>Mon, 29 Mar 2021 23:37:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【纸价持续上涨 行业景气度推高】3月，多家造纸企业白卡纸接单价格突破万元大关。同时，博汇纸业等头部造纸企业2020年营收实现稳步增长。业内人士表示，3月纸浆价格走高，成本面利好白卡纸价格上涨；环保政策利好、消费升级，将带来市场需求提升。值得注意的是，纸浆期货价格已处在高位，未来或将逐步迎来压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1244854.d.html</link>
-            <guid>2095149</guid>
-            <pubDate>Mon, 29 Mar 2021 23:37:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[今天《人民日报》头版的主要内容有：1、习近平会见全国扫黑除恶专项斗争总结表彰大会代表，王沪宁赵乐际参加会见；2、习近平同布隆迪总统恩达伊施米耶通电话；3、习近平同斯里兰卡总统戈塔巴雅通电话；4、在“悦读”中坚定走向未来——《习近平新时代中国特色社会主义思想学习问答》广受好评；5、人大常委会第二十七次会议在京举行，审议香港基本法附件一香港特别行政区行政长官的产生办法修订草案、香港基本法附件二香港特别行政区立法会的产生办法和表决程序修订草案等，栗战书主持；6、1至2月国企营收利润“双丰收”；7、一百二十九公里生态廊道主体工程完工，洱海越发美丽；8、乡村好风景 致富好资源。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4404240.d.html</link>
-            <guid>2095139</guid>
-            <pubDate>Mon, 29 Mar 2021 23:33:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本2月失业率 2.9%， 前值 2.90%，预期 3.00%。 日本2月求才求职比1.09%， 前值 1.1%，预期 1.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1240243.d.html</link>
-            <guid>2095127</guid>
-            <pubDate>Mon, 29 Mar 2021 23:30:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【数字经济超60万亿市场空间待启】“十四五”数字经济专项规划、新时期推动“互联网+”政策文件、“十四五”新型基础设施建设规划等一系列重磅政策落地在即。与此同时，围绕大数据、人工智能等重点领域，地方正加紧谋划未来五年数字经济的重大项目，打造具有国际竞争力的数字产业集群。业内指出，在多重政策红利催化下，数字经济将掀起新一轮建设高潮，预计“十四五”期间云计算、大数据等数字产业有望带动超过60万亿元的经济产出，经济增长的引擎动力更强劲。（经参）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1239198.d.html</link>
-            <guid>2095121</guid>
-            <pubDate>Mon, 29 Mar 2021 23:28:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[野村证券首席执行官：正在评估潜在损失的原因。很难说我们什么时候能确定损失金额。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1230684.d.html</link>
-            <guid>2095083</guid>
-            <pubDate>Mon, 29 Mar 2021 23:16:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今日在售高收益银行理财产品一览】今日业绩比较基准在7%以上的银行人民币理财产品共6款。理财非存款、产品有风险、投资须谨慎！]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1229985.d.html</link>
-            <guid>2095079</guid>
-            <pubDate>Mon, 29 Mar 2021 23:15:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[拜登的基建计划规模可能会达到4万亿美元，其中料将包含高达3.5万亿美元的加税。（Business Insider）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4390249.d.html</link>
-            <guid>2095069</guid>
-            <pubDate>Mon, 29 Mar 2021 23:13:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【爆发式需求吸引资本涌入 国货美妆全产业链掀IPO热潮】2020年以来，美妆行业在资本市场的表现愈发强劲。美妆全产业链迎来IPO热潮——从上游原料商、包材商，到中游品牌商、TP商，再到下游零售商等。伴随着资本介入，更多新锐国货美妆品牌、生产企业获得了弯道超车的机会，行业亦出现了更多新的趋势与变化。2021年1月起正式施行的《化妆品监督管理条例》以及十余个配套法规的陆续颁布，意味着美妆行业粗放型发展时代的结束，也为中国化妆品市场带来前所未有的变革与挑战。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4390100.d.html</link>
-            <guid>2095068</guid>
-            <pubDate>Mon, 29 Mar 2021 23:12:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国钢铁工人联合会主席：总统拜登料将在3月31日宣布以交通运输为主的基建刺激方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1226322.d.html</link>
-            <guid>2095067</guid>
-            <pubDate>Mon, 29 Mar 2021 23:10:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：Facebook将继续拓展IGTV广告业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1223378.d.html</link>
-            <guid>2095064</guid>
-            <pubDate>Mon, 29 Mar 2021 23:06:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  东风集团股份：2020年营收1079.6亿元，市场预期1032.8亿元，去年同期1010.87亿元。全年净利润107.9亿元人民币，市场预估95.5亿元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1220690.d.html</link>
-            <guid>2095063</guid>
-            <pubDate>Mon, 29 Mar 2021 23:02:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中央气象台继续发布沙尘暴蓝色预警】 中央气象台3月30日06时继续发布沙尘暴蓝色预警：预计，3月30日白天，新疆东部和南疆盆地、青海西北部、内蒙古西部和中部、甘肃西部和东部、宁夏、陕西中部、山西南部、河北南部、河南、安徽北部、江苏中北部等地的部分地区有扬沙或浮尘天气，其中，新疆东部局地有沙尘暴。30日夜间开始，受降水天气影响，沙尘天气范围将明显缩小。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1220338.d.html</link>
-            <guid>2095062</guid>
-            <pubDate>Mon, 29 Mar 2021 23:01:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【Archegos曾和各银行讨论合作以阻止抛售狂潮】据知情人士透露，Bill Hwang的Archegos Capital的最大交易对手上周讨论了如何限制他对ViacomCBS等股票押注失败带来的市场影响，以及如何有序解决出现问题的交易，但这一努力失败了。会议中各高盛、摩根士丹利、瑞信等投行都允许Archegos通过互换合约承担数十亿美元的波动股票敞口，而Hwang则难以应对Viacom股价暴跌引发的追加保证金通知。而到上周五上午，任何协调的希望都已破灭，当高盛开始向全球投资者推介价值数十亿美元的阿古斯公司相关股票时，“泄洪的闸门”就打开了。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1217926.d.html</link>
-            <guid>2095059</guid>
-            <pubDate>Mon, 29 Mar 2021 22:58:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【T-Mobile美国公司与谷歌扩大合作：将减少直播电视服务】据报道，T-Mobile US美国公司周一表示，该公司与Alphabet旗下谷歌扩大了合作伙伴关系，将逐步减少直播电视服务，转而提供YouTube TV和YouTube Premium服务。T-Mobile美国公司称，Live、Live+和Live Zone服务将于4月29日关闭，并将向订阅TVision Live的用户免费提供YouTube TV的首月包月服务。该公司还称其将以54.99美元的包月价向用户提供YouTube TV服务，比正常价格低10美元。作为合作协议的一部分内容，T-Mobile称其还将提供其他服务，如Messages by Google和Google One等，并展示了一系列Android设备。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1217163.d.html</link>
-            <guid>2095058</guid>
-            <pubDate>Mon, 29 Mar 2021 22:57:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【注册制下A股IPO募资超4000亿元，科创企业迎更多上市机会】记者根据东方财富Choice数据统计，自科创板开板以来截至3月29日，科创板上市公司累计达248家，IPO募资达3363.72亿元；自2020年8月24日以来，注册制下创业板上市公司达95家，IPO募资合计847.04亿元。注册制下，IPO募资规模合计达4210.76亿元。一批新技术、新模式、新业态的科创类企业借助直接融资做优做强。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1209423.d.html</link>
-            <guid>2095050</guid>
-            <pubDate>Mon, 29 Mar 2021 22:45:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一批化工上市公司一季报预增，4家企业增幅逾10倍】 据统计，截至3月29日，已有28家化工类上市公司发布2021年一季度业绩预增公告，其中黑猫股份、鲁西化工、金力泰、阳谷华泰的预增幅度均超10倍，其主营产品分别涉及炭黑、基础化工、工业涂料等行业。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1209221.d.html</link>
-            <guid>2095049</guid>
-            <pubDate>Mon, 29 Mar 2021 22:45:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【华润置地：2020年营收1795.9亿元 符合预期】华润置地公告，2020年营收1795.9亿元，市场预期1735.42亿元，去年1477.4亿元。2020年净利润298.1亿元，市场预期276.87亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1208970.d.html</link>
-            <guid>2095048</guid>
-            <pubDate>Mon, 29 Mar 2021 22:45:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  外交消息人士：联合国小组调查发现12月30日的亚丁机场袭击是由也门胡塞武装发动的，此次袭击造成22名也门官员和外交官丧生。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk4367834.d.html</link>
-            <guid>2095043</guid>
-            <pubDate>Mon, 29 Mar 2021 22:40:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
