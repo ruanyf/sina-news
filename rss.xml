@@ -4,11 +4,80 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 30 Mar 2021 19:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Mar 2021 20:28:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美股各大类资产类ETF中，罗素2000指数ETF领涨，涨1.68%，其次是巴克莱美国可转债ETF-SPDR；恐慌指数做多ETF领跌，其次是黄金ETF-SPDR。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-31/detail-ikmyaawa2262910.d.html</link>
+            <guid>2096666</guid>
+            <pubDate>Tue, 30 Mar 2021 20:24:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[太阳能ETF-Guggenheim涨约6%，瑞能新能源涨超20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-31/detail-ikmyaawa2260891.d.html</link>
+            <guid>2096665</guid>
+            <pubDate>Tue, 30 Mar 2021 20:21:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股各行业ETF中，区域银行ETF领涨，其次是全球航空业ETF；日常消费品ETF领跌，其次是科技行业ETF。]]></title>
+            <guid>2096664</guid>
+            <pubDate>Tue, 30 Mar 2021 20:21:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构分析：由于美国国债收益率飙升，金价下跌2%至近三周低点】金价周二下跌近2%，因美元走强、美国国债收益率上升以及对美国经济更快复苏的预期，抑制了对避险黄金的需求。美国10年期国债收益率升至14个月高位，受美国总统拜登提出数万亿美元基础设施计划前经济成长和通胀增强的希望提振。OANDA高级市场分析师Edward Moya表示，短期驱动因素似乎变得非常看跌黄金，金价近期走软归因于美元走强和收益率上升。Moya补充说，虽然金价短期内可能面临一些压力，但将通胀忧虑纳入定价的投资者可能"最终引发黄金购买热潮"。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-31/detail-ikmyaawa2258753.d.html</link>
+            <guid>2096663</guid>
+            <pubDate>Tue, 30 Mar 2021 20:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  克里姆林宫：总统普京、法国总统马克龙、德国总理默克尔支持维护、执行《联合全面行动计划》（JCPOA）。]]></title>
+            <guid>2096659</guid>
+            <pubDate>Tue, 30 Mar 2021 20:03:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FAANMG普跌，微软、苹果跌超1%，Facebook跌近1%；特斯拉则涨近4%。芯片股多数下跌，半导体板块ETF跌0.24%。]]></title>
+            <guid>2096657</guid>
+            <pubDate>Tue, 30 Mar 2021 20:02:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[热门中概股普涨，唯品会涨超8%，百度涨近7%，腾讯音乐涨超5%，跟谁学涨超4%，爱奇艺涨约4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-31/detail-ikmxzfmi9389506.d.html</link>
+            <guid>2096655</guid>
+            <pubDate>Tue, 30 Mar 2021 20:01:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【沙特王储：沙特阿美、沙特基础工业公司将引领私营部门投资】沙特王储本·萨勒曼周二称，根据一项新计划，到2030年，沙特私营企业计划投资5万亿里亚尔（折合1.3万亿美元），其中沙特阿美石油公司和沙特基础工业公司将占其中的60%。本·萨勒曼在宣布该计划后的一次线上吹风会上对记者表示，政府已要求参与计划的公司降低股息。同时他表示，沙特阿美股票持有者的股息将保持稳定。沙特政府仍然拥有该公司98%的股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-31/detail-ikmxzfmi9388638.d.html</link>
+            <guid>2096653</guid>
+            <pubDate>Tue, 30 Mar 2021 19:59:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  肖氏通信一度下挫，跌至2.72%，罗杰斯通信短线走高，跌幅缩窄至1.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-31/detail-ikmyaawa2234484.d.html</link>
+            <guid>2096649</guid>
+            <pubDate>Tue, 30 Mar 2021 19:41:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  加拿大贸易部长Champagne：罗杰斯通信（收购肖氏通信）的交易引发了严重的竞争问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-31/detail-ikmxzfmi9376320.d.html</link>
+            <guid>2096648</guid>
+            <pubDate>Tue, 30 Mar 2021 19:41:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：大众汽车周二发表了品牌重塑声明，但不会改变美国品牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-31/detail-ikmxzfmi9368263.d.html</link>
+            <guid>2096642</guid>
+            <pubDate>Tue, 30 Mar 2021 19:29:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股区块链板块涨幅扩大，嘉楠科技涨近20%，Marathon Patent涨14.58%，第九城市涨13.28%，亿邦国际涨超10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-31/detail-ikmxzfmi9367176.d.html</link>
+            <guid>2096641</guid>
+            <pubDate>Tue, 30 Mar 2021 19:27:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  标普全球(SPGI.N)下跌2.2%，现报354.2美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-31/detail-ikmxzfmi9362682.d.html</link>
@@ -236,78 +305,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-31/detail-ikknscsk5119355.d.html</link>
             <guid>2096566</guid>
             <pubDate>Tue, 30 Mar 2021 16:01:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  高盛：将土耳其年底通胀预测从12.5%上调至15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1950344.d.html</link>
-            <guid>2096563</guid>
-            <pubDate>Tue, 30 Mar 2021 15:52:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  台积电涨1.3%，传公司3nm制程试产进度优于预期，已于3月开始风险性试产并小量交货。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1945397.d.html</link>
-            <guid>2096558</guid>
-            <pubDate>Tue, 30 Mar 2021 15:44:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  高盛将2021年土耳其GDP增速预期下调至3.5％，此前为5.5％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5107492.d.html</link>
-            <guid>2096557</guid>
-            <pubDate>Tue, 30 Mar 2021 15:43:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉盘中涨幅扩大至3%，报632美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5105420.d.html</link>
-            <guid>2096556</guid>
-            <pubDate>Tue, 30 Mar 2021 15:40:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳指转涨，此前一度跌超1%。道指跌0.33%，标普500指数跌0.26%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5104657.d.html</link>
-            <guid>2096555</guid>
-            <pubDate>Tue, 30 Mar 2021 15:39:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  IMF：到2021年下半年，欧洲经济将走上复苏的道路。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1941781.d.html</link>
-            <guid>2096552</guid>
-            <pubDate>Tue, 30 Mar 2021 15:39:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【民生加银基金孙伟：仍有不少优质公司处于中长期布局良机】孙伟管理的民生加银新动能一年定开混合基金年报显示，2020年底，该基金共持有68只个股。除中国中免、分众传媒、宝信软件等十大重仓股外，该基金还”隐形”持有了歌尔股份 、芒果超媒 、三七互娱、吉利汽车、韦尔股份、科大讯飞、用友网络等。孙伟认为，尽管有局部领域的公司估值偏高，但依然有不少优质公司处于中长期布局良机，主要关注三类企业：一是互联网领域可持续经营能力强的公司，尤其是港股优质的互联网企业；二是新能源车、芯片、软件等科技领域创新力强的公司；三是品牌消费和服务型消费领域，如免税、快递物流、医药、食品饮料等赛道的机会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1939027.d.html</link>
-            <guid>2096549</guid>
-            <pubDate>Tue, 30 Mar 2021 15:35:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【受惠快手、百度等 毕马威：香港IPO首季集资额达1081亿创新高】快手、百度、医渡科技等大型热门新股于今年首季来港上市。毕马威的最新分析显示，香港新股市场延续自去年下半年以来的增长势头，截至3月34日止，2021年首季集资总额达139亿美元（约1080.7亿港元），创历史新高。期内，毕马威指，有多家未营利生物科技公司、同股不同权架构公司及第二上市公司成功上市，以集资额计，首季香港前十大上市项目中有7个来自该类型的公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5101343.d.html</link>
-            <guid>2096548</guid>
-            <pubDate>Tue, 30 Mar 2021 15:34:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  IMF总裁格奥尔基耶娃：预计在刺激计划实施后，美国通胀将达到2.5%水平，对此并不担心。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5100288.d.html</link>
-            <guid>2096547</guid>
-            <pubDate>Tue, 30 Mar 2021 15:33:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[百度涨8.8%，此前该公司稳定价格经办人已完成在二级市场以不超过公开发售价的价格购买1425万股。花旗称该公司股价已经跌至具有吸引力的水平。该股迄今已较2月高位下跌逾30%，花旗认为这种下跌与基本面无关。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1934566.d.html</link>
-            <guid>2096545</guid>
-            <pubDate>Tue, 30 Mar 2021 15:28:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股银行股涨跌互现，瑞士信贷跌3.6%，野村跌超2%，巴克莱、富国银行涨超3%，美国银行涨2.8%，花旗集团、摩根士丹利涨超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5096658.d.html</link>
-            <guid>2096544</guid>
-            <pubDate>Tue, 30 Mar 2021 15:27:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【盐津铺子年度报告：2020年净利润同比增长89% 拟10派10元】盐津铺子发布年报，2020年归母净利润2.42亿元，同比增长88.83%；营业收入19.59亿元，同比增长39.99%；基本每股收益1.94元；拟10派10元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5092383.d.html</link>
-            <guid>2096538</guid>
-            <pubDate>Tue, 30 Mar 2021 15:20:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
