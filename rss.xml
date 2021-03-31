@@ -4,11 +4,40 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 31 Mar 2021 21:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Mar 2021 22:29:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【一季度募资1.07万亿，基金发行史上最牛季】 Wind数据显示，按照基金成立日期统计，截至3月31日，2021年以来共成立422只新基金，合计募集资金1.07万亿元。对比历史数据来看，仅2015年、2019年和2020年这3年新发基金规模超过了1万亿元。而即使是在基金发行大年的2020年，也要到6月份，新基金发行规模才达到1万亿元。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0412022.d.html</link>
+            <guid>2098154</guid>
+            <pubDate>Wed, 31 Mar 2021 22:20:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【光伏玻璃厂商准备降价，市场预测最高降幅或达30%】 一则光伏玻璃大幅降价的传闻引发A股光伏板块连续两日反弹。从一家一线光伏玻璃厂商获悉，公司正在与客户商谈4月份的产品报价，虽然正式报价尚未确定，但确定降幅会比较大，进入30元/平方米以下区间，正式报价预计会在清明节前确定。根据PV InfoLink在3月24日披露的报价，3.2mm镀膜光伏玻璃最高报价为42元/平方米，最低报价38元/平方米，均价40元/平方米。按照上述厂商人士说法，4月份光伏玻璃价格的降幅至少为25%，而根据市场预测，最高降幅或达到30%左右。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmyaawa3268328.d.html</link>
+            <guid>2098153</guid>
+            <pubDate>Wed, 31 Mar 2021 22:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际足联确认2023年女足世界杯的比赛城市】 据新西兰媒体报道，新西兰时间4月1日上午，2023年女足世界杯的比赛城市经国际足联确认正式揭晓。这届世界杯将由新西兰和澳大利亚共同主办，比赛将在9个城市举行。其中新西兰有四个城市：奥克兰、但尼丁、汉密尔顿和惠灵顿；澳大利亚有五个城市：阿德莱德、布里斯班、墨尔本、珀斯和悉尼。 决赛将在澳大利亚悉尼举行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0405414.d.html</link>
+            <guid>2098144</guid>
+            <pubDate>Wed, 31 Mar 2021 21:42:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚3月AIG/PWC制造业表现指数公布 59.9，前值 58.8。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0404032.d.html</link>
+            <guid>2098141</guid>
+            <pubDate>Wed, 31 Mar 2021 21:32:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登正在接受美国媒体ESPN的采访，将于周三晚上11点（北京时间周四上午11点）播出。]]></title>
+            <guid>2098139</guid>
+            <pubDate>Wed, 31 Mar 2021 21:28:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国总统拜登关于基建计划的讲话结束。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmyaawa3257681.d.html</link>
@@ -262,66 +291,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0292247.d.html</link>
             <guid>2098057</guid>
             <pubDate>Wed, 31 Mar 2021 17:47:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音CEO对美国航空业在2021年夏季重返正常状态感到乐观。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0291046.d.html</link>
-            <guid>2098054</guid>
-            <pubDate>Wed, 31 Mar 2021 17:45:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据CNBC：脸书删除了特朗普的采访视频。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmyaawa3148046.d.html</link>
-            <guid>2098053</guid>
-            <pubDate>Wed, 31 Mar 2021 17:44:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美油跌破60美元关口，刷新日低至59.96美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0290240.d.html</link>
-            <guid>2098052</guid>
-            <pubDate>Wed, 31 Mar 2021 17:43:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国计划对从印度、巴林、土耳其进口的铝板征收反补贴税。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0290141.d.html</link>
-            <guid>2098051</guid>
-            <pubDate>Wed, 31 Mar 2021 17:43:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国一季度投资级债券发行规模仅略低于去年一季度的纪录水平，今年一季度的发行量达4350亿美元，而去年创下的纪录为4800亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0290098.d.html</link>
-            <guid>2098050</guid>
-            <pubDate>Wed, 31 Mar 2021 17:43:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄外交部：意大利驱逐俄外交人员不符合两国关系水平】据外媒报道，针对意大利驱逐两名俄外交人员一事，俄罗斯外交部当天发表声明称，意大利此举不符合两国关系水平，可能的回应措施将在此后宣布。声明强调，俄方对意大利驱逐俄外交人员一事感到遗憾。我们正在调查当时的情况。俄总统新闻秘书佩斯科夫当天表示，俄方还不清楚相关细节，但希望俄意之间保持积极且具有建设性的关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0288704.d.html</link>
-            <guid>2098049</guid>
-            <pubDate>Wed, 31 Mar 2021 17:41:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【缅甸联邦议会代表委员会宣布废除缅甸2008年宪法】缅甸联邦议会代表委员会（CRPH）于当地时间3月31日发布通告称，废除缅甸现行的2008年宪法。同时，该委员会起草并公布了《联邦民主宪章》（Federal Democracy Charter of CRPH）。温敏领导的民盟政府于3月31日届满，联邦议会代表委员会称将于4月1日组建新政府“民族团结政府”（National Unity Government）。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmyaawa3141079.d.html</link>
-            <guid>2098048</guid>
-            <pubDate>Wed, 31 Mar 2021 17:31:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：欧佩克+联合部长级监督委员会（JMMC）与会代表对减产执行率和减产赔偿表达了担忧，从2020年5月到2021年2月，总过剩产量略高于300万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0280438.d.html</link>
-            <guid>2098043</guid>
-            <pubDate>Wed, 31 Mar 2021 17:25:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美、布两油期货短线走低0.3美元，现分别报60.40美元/桶和63.88美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0280060.d.html</link>
-            <guid>2098042</guid>
-            <pubDate>Wed, 31 Mar 2021 17:24:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：欧佩克+联合部长级监督委员会（JMMC）会议上没有给出任何建议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0276977.d.html</link>
-            <guid>2098038</guid>
-            <pubDate>Wed, 31 Mar 2021 17:19:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
