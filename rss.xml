@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 31 Mar 2021 18:38:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Mar 2021 19:24:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  微软供应商Intevac飙涨42%后再次熔断，现报7.72美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmyaawa3204944.d.html</link>
+            <guid>2098091</guid>
+            <pubDate>Wed, 31 Mar 2021 19:21:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软目前涨1.4%，暂报235.63美元。微软与美国军方达成价值220亿美元的合同，为期五年。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmyaawa3192330.d.html</link>
+            <guid>2098083</guid>
+            <pubDate>Wed, 31 Mar 2021 19:01:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  流利说涨幅扩大至20%，报2.74美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0331014.d.html</link>
+            <guid>2098081</guid>
+            <pubDate>Wed, 31 Mar 2021 18:55:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  特斯拉盘中涨幅扩大至5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0330392.d.html</link>
+            <guid>2098080</guid>
+            <pubDate>Wed, 31 Mar 2021 18:54:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  富途控股涨幅扩大至15%，报158.6美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmyaawa3178681.d.html</link>
+            <guid>2098079</guid>
+            <pubDate>Wed, 31 Mar 2021 18:40:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  Moderna股价日内涨幅达10%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0317498.d.html</link>
@@ -276,36 +306,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-31/detail-ikmyaawa3076049.d.html</link>
             <guid>2097994</guid>
             <pubDate>Wed, 31 Mar 2021 15:31:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  探索频道-Series B(DISCB.O)涨超84%，盘中多次触发熔断。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-31/detail-ikmxzfmk0216793.d.html</link>
-            <guid>2097992</guid>
-            <pubDate>Wed, 31 Mar 2021 15:28:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【王毅同新加坡外长维文举行会谈】2021年3月31日，国务委员兼外长王毅在福建南平同新加坡外长维文举行会谈。王毅表示，双方要共同为提升中国－东盟关系水平作出努力。中方愿同包括新加坡在内的东盟国家一道，办好中国－东盟建立对话关系30周年纪念活动，推动区域全面经济伙伴关系协定早日生效实施，继续深化互联互通、数字经济、产业链供应链合作。中方坚定支持以东盟为中心的区域合作架构，加快推进东亚共同体建设。 http://t.cn/A6cApOzQ]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-31/detail-ikmxzfmk0215371.d.html</link>
-            <guid>2097988</guid>
-            <pubDate>Wed, 31 Mar 2021 15:25:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  能源咨询机构JBC：欧佩克3月原油产量增加14.2万桶/日至2529.5万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-31/detail-ikmyaawa3072678.d.html</link>
-            <guid>2097987</guid>
-            <pubDate>Wed, 31 Mar 2021 15:25:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【专家认为中化集团与中国化工联合重组将促进化学工业高质量发展】经国务院批准，中国中化集团有限公司(中化集团)与中国化工集团有限公司（中国化工）31日实施联合重组。业内专家认为，这有利于整合资源、发挥协同效应，打造世界一流的综合性化工企业，促进我国化学工业高质量发展。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-31/detail-ikmxzfmk0212373.d.html</link>
-            <guid>2097982</guid>
-            <pubDate>Wed, 31 Mar 2021 15:20:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧佩克+的一名高级官员称，他认为对所有成员国来说延长目前的减产规模将是最好的选择。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-31/detail-ikmxzfmk0212330.d.html</link>
-            <guid>2097981</guid>
-            <pubDate>Wed, 31 Mar 2021 15:20:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
