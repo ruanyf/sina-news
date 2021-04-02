@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 02 Apr 2021 17:53:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Apr 2021 18:42:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国国会警察：将在当地时间下午2:45（北京时间凌晨2:45）就国会大厦发生的事件召开新闻发布会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4720714.d.html</link>
+            <guid>2101799</guid>
+            <pubDate>Fri, 02 Apr 2021 18:23:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据The Information：自动驾驶技术公司Argo AI预计今年晚些时候或2022年初进行IPO。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4716909.d.html</link>
+            <guid>2101798</guid>
+            <pubDate>Fri, 02 Apr 2021 18:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[媒体援引美国执法部门消息人士：开车袭击国会警察的嫌疑人已经死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk1854310.d.html</link>
+            <guid>2101797</guid>
+            <pubDate>Fri, 02 Apr 2021 18:13:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【年内已有32家企业终止了科创板IPO审核】据统计，包括京东数科在内，年内已有32家企业终止了科创板IPO审核，其中还包括AI明星企业依图科技、柔宇科技等。有业内人士表示，这些企业终止的原因不外有二：一是IPO监管审核从严；二是企业内部变动。（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4704722.d.html</link>
+            <guid>2101795</guid>
+            <pubDate>Fri, 02 Apr 2021 18:00:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据外媒，在美国国会大厦外开车撞击国会警察的嫌疑人在持刀下车后被警察开枪击中。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4699937.d.html</link>
+            <guid>2101794</guid>
+            <pubDate>Fri, 02 Apr 2021 17:53:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【苏伊士运河管理局称排队的船只已接近全部通过】苏伊士运河管理局(SCA)周五表示，此前因巨型集装箱船搁浅而在排队的船只已接近全部通过。SCA主席Osama Rabie对埃及Extra News TV表示，仍有61艘船只在等待，它们将于周六通过运河，周一集装箱船刚脱困时排队的船只有422艘。SCA在一份声明中称，周五约有80艘船只双向通过运河，其中包括一艘美国航空母舰、一艘液化天然气油轮和一艘油轮。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk1836477.d.html</link>
@@ -302,12 +332,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmyaawa4572750.d.html</link>
             <guid>2101682</guid>
             <pubDate>Fri, 02 Apr 2021 14:54:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【阿富汗路边炸弹袭击造成5死7伤】阿富汗当地时间4月2日发生两起路边炸弹袭击，造成5名平民死亡，7名平民受伤。阿南部赫尔曼德省政府发言人奥马尔·兹瓦克2日对媒体表示，当天中午，一辆汽车遭路边炸弹袭击，车上5名乘客全部当场死亡。尚无组织或个人声称制造了这两起袭击事件。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmyaawa4570570.d.html</link>
-            <guid>2101679</guid>
-            <pubDate>Fri, 02 Apr 2021 14:51:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
