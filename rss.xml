@@ -4,11 +4,28 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 03 Apr 2021 02:43:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Apr 2021 03:32:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【北京：链家、我爱我家等6家涉嫌炒作学区房的中介门店被停业整改】根据北京市政府部署，北京市住建委会同相关部门开展房地产经纪机构专项执法检查，针对群众反映强烈的房地产经纪机构炒作学区房行为，对海淀区万柳、翠微，西城区德胜、金融街，东城区交道口等价格快速上涨区域进行专项执法检查，包括链家、我爱我家等6家炒作学区房的门店暂停营业整改。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2251919.d.html</link>
+            <guid>2102433</guid>
+            <pubDate>Sat, 03 Apr 2021 03:23:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今日全国铁路预计发送旅客1435万人次】从中国国家铁路集团有限公司获悉，4月2日，全国铁路发送旅客1179.2万人次，创今年单日旅客发送量新高，加开旅客列车1040列，运输安全平稳有序。4月3日是清明小长假第一天，铁路客流迎来最高峰，全国铁路预计发送旅客1435万人次，计划加开旅客列车944列。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5105365.d.html</link>
+            <guid>2102432</guid>
+            <pubDate>Sat, 03 Apr 2021 03:16:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【生猪产能显著恢复市场供应充足，肉价连续九周回落】对于今年猪价走势，中国农业科学院北京畜牧兽医研究所副研究员朱增勇认为，国内生猪供给将持续恢复性增长，政府储备猪肉将继续投放，市场供应充裕，猪肉价格在节日效应下可能短期止跌回升，但回落的总体趋势不变。今年三季度猪价或将出现季节性回升，但回升空间和时间有限，之后仍会继续回落。鉴于玉米等饲料成本、管理成本和防疫成本明显提升，生猪自繁自养平均成本已经提高到每公斤16元以上，外购仔猪成本在每公斤28元上下，后期投机性育肥机会不多。]]></title>
+            <guid>2102427</guid>
+            <pubDate>Sat, 03 Apr 2021 02:48:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【国产超大直径同步掘进机“兴业号”下线】近日，国产超大直径同步掘进机“兴业号”在中交集团所属中交天和江苏常熟基地下线，它能够在掘进的同时拼装管片，提升隧道施工效率。该机各部件4月将陆续运抵广东，服务珠海兴业快线工程。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5081211.d.html</link>
@@ -74,6 +91,12 @@
             <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2152604.d.html</link>
             <guid>2102144</guid>
             <pubDate>Sat, 03 Apr 2021 01:13:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【前2月规模以上互联网企业完成业务收入同比增长29%】新华网消息，记者近日从工信部获悉，1至2月，我国规模以上互联网企业完成业务收入同比增长达29%，各类平台蓬勃发展，互联网平台服务企业实现业务收入同比增长达84.8%。网络销售平台企业的业务收入快速提升，以提供生产制造和生产物流平台服务为主的企业收入增长迅猛。1至2月，互联网数据服务收入同比增长45.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5011223.d.html</link>
+            <guid>2102143</guid>
+            <pubDate>Sat, 03 Apr 2021 01:11:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【蔚来：ET7首台生产线车身正式下线】蔚来消息，4月1日，ET7的首台生产线车身，已经在合肥先进制造基地正式下线。生产线车身是指车身结构件及覆盖件焊接总成，这是ET7在验证生产制造流程过程中非常重要的一环，可以充分识别并解决车身在制造阶段的问题，对持续推进ET7的生产有着积极作用。同时，合肥先进制造基地为ET7专门打造的全新焊装生产线也将正式投入使用。]]></title>
@@ -314,60 +337,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4767805.d.html</link>
             <guid>2101818</guid>
             <pubDate>Fri, 02 Apr 2021 19:30:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至3月30日当周，COMEX铜期货投机性净多头头寸削减2362手至43179手。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4767515.d.html</link>
-            <guid>2101817</guid>
-            <pubDate>Fri, 02 Apr 2021 19:30:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至3月30日当周，COMEX白银期货投机性净多头头寸减少1659手至21236手。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk1907649.d.html</link>
-            <guid>2101816</guid>
-            <pubDate>Fri, 02 Apr 2021 19:29:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至3月30日当周，COMEX黄金期货投机性净多头头寸削减5548手至50463手。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk1907433.d.html</link>
-            <guid>2101815</guid>
-            <pubDate>Fri, 02 Apr 2021 19:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[因美国乔治亚州新的限制性投票法，美国职业棒球大联盟主席Robert Manfred宣布，2021年全明星赛将不会在美国亚特兰大举行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4762008.d.html</link>
-            <guid>2101814</guid>
-            <pubDate>Fri, 02 Apr 2021 19:22:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉CEO埃隆·马斯克：新的大型超级充电站即将登陆（加州城市）圣莫尼卡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4759506.d.html</link>
-            <guid>2101813</guid>
-            <pubDate>Fri, 02 Apr 2021 19:18:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国会大厦警方表示，国会大厦的安全威胁已经解除。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk1897252.d.html</link>
-            <guid>2101812</guid>
-            <pubDate>Fri, 02 Apr 2021 19:14:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国国会大厦的封锁已经结束。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4753914.d.html</link>
-            <guid>2101811</guid>
-            <pubDate>Fri, 02 Apr 2021 19:10:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[有民航业内人士透露，仅就国内航线的运力投放而言，今年清明节的国内出港航班料比2019年超出。在3月28日开始的夏秋新航季，不少航空公司的国内航线航班量均比2019年高出20%以上。（21世纪经济报道）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk1892443.d.html</link>
-            <guid>2101810</guid>
-            <pubDate>Fri, 02 Apr 2021 19:07:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据美国证券交易委员会文件：生物技术公司Rain Therapeutics申请IPO，筹资达1亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk1891399.d.html</link>
-            <guid>2101809</guid>
-            <pubDate>Fri, 02 Apr 2021 19:06:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
