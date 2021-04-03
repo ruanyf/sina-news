@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 03 Apr 2021 15:28:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Apr 2021 16:50:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【民生宏观：拜登的加税计划将对美股形成利空】民生证券认为，拜登的加税计划将对美股形成利空。其背后的逻辑是提高公司税会拖累企业财政状况，同时加税相当于政府从市场中抽走资金。具体来看，提高企业所得税最高税率和企业海外分支机构的利润税率，将对美国科技股形成抑制。另外拜登曾在接受采访时点名亚马逊，称这家电商巨头应该开始纳税。根据美银美林测算，拜登加税方案意味着股市整体EPS下降7%，其中科技和医疗行业受打击最大。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk2832099.d.html</link>
+            <guid>2103518</guid>
+            <pubDate>Sat, 03 Apr 2021 16:42:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据俄罗斯卫星网：美国空军称，一颗俄罗斯军事卫星在太平洋上空解体。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa5681612.d.html</link>
+            <guid>2103479</guid>
+            <pubDate>Sat, 03 Apr 2021 16:31:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【法国外长：呼吁伊朗以建设性姿态参加伊核问题维也纳会议】当地时间4月3日，法国外长勒德里昂表示，法国呼吁伊朗以建设性姿态参加下周在维也纳举行的伊核问题会议。据法国外交部的新闻公报报道，勒德里昂3日上午与伊朗外长扎里夫就下周的伊核问题会议进行电话交谈。勒德里昂说，法国对重开伊核问题会议表示欢迎。在伊核协议各方都对进行谈判表现出诚意，期望尽早达成协议的背景下，法国呼吁伊朗不要采取进一步违反核协议的行动，以免破坏谈判恢复的势头。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5652663.d.html</link>
+            <guid>2103390</guid>
+            <pubDate>Sat, 03 Apr 2021 15:49:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【美国马里兰州连续发生枪击案 已有四人死亡】当地时间4月3日早，美国马里兰州发生枪击案，导致三人死亡。马里兰州乔治王子郡（PrinceGeorge’sCounty）警方称，警察在当地社区巡逻时听到枪声，随后在一辆汽车内发现两名成年男性，车外发现一名女性，三人均已身带枪伤死亡。警方表示，目前正在搜索嫌疑人并确定其动机。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5633104.d.html</link>
@@ -252,30 +270,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2520240.d.html</link>
             <guid>2102916</guid>
             <pubDate>Sat, 03 Apr 2021 09:13:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小米宣布造车，武汉网友喊话：来这里，官方回应了！】在小米官宣准备造车消息传出后，不少网友在武汉城市留言板里留言：抓住机会，把小米智能电动汽车引入武汉，为武汉注入更多活力。武汉市有部门回复称：会积极对接小米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5353758.d.html</link>
-            <guid>2102906</guid>
-            <pubDate>Sat, 03 Apr 2021 08:41:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【台铁公布列车出轨事故赔偿方案：每位死者赔偿540万新台币】台铁“太鲁阁号”408次列车昨天发生出轨意外，造成至少50人死亡。台湾“中央社”刚刚消息称，台铁局今天（3日）在官网上设置“台铁408次太鲁阁号事故”专区，公布死伤者名单，并公布赔偿方案,对每位罹难者的死亡赔偿金额共计540万元新台币（约124万元人民币）。（环球时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2488524.d.html</link>
-            <guid>2102903</guid>
-            <pubDate>Sat, 03 Apr 2021 08:31:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华为撤销云与计算BG部门】华为内部发文对云业务再次做调整，任命张平安为Cloud BU总裁，同时取消云与计算BG,更名为"Cloud BU"。据悉，华为计算产品线、数据存储与机器视觉产品线整建制切入网络产品与解决方案部。后续再根据业务变迁做进一步的组织优化。网络产品与解决方案部更名为"CT产品与解决方案部"。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2487594.d.html</link>
-            <guid>2102901</guid>
-            <pubDate>Sat, 03 Apr 2021 08:30:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国最大芯片代工厂CEO：芯片短缺可能持续到2022年】 美国最大芯片代工厂，也是全球第三大晶圆代工厂GlobalFoundries首席执行官Tom Caulfield在接受CNBC采访时表示，今年计划投资14亿美元建设工厂，明年可能会将投资金额翻一番。Caufield表示，公司的生产线已经满载，整个行业的半导体供应紧缺可能会持续直到2022年或更晚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2485819.d.html</link>
-            <guid>2102900</guid>
-            <pubDate>Sat, 03 Apr 2021 08:27:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
