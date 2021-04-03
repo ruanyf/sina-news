@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 03 Apr 2021 16:50:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Apr 2021 17:51:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  据俄罗斯卫星网：索马里摩加迪沙发生自杀式炸弹袭击，造成5人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk2854941.d.html</link>
+            <guid>2103630</guid>
+            <pubDate>Sat, 03 Apr 2021 17:15:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【四大行砸钱超800亿！银行纷纷重金投向这一领域，实际回报如何？】近年来，金融科技已成为银行业发展绕不开的话题。在近期密集披露的上市银行2020年年报中，金融科技已然是高频词汇，多家银行在人力和财力方面都加大了投入。同时，金融科技在赋能传统业务方面成效显著。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk2843175.d.html</link>
+            <guid>2103569</guid>
+            <pubDate>Sat, 03 Apr 2021 16:58:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【民生宏观：拜登的加税计划将对美股形成利空】民生证券认为，拜登的加税计划将对美股形成利空。其背后的逻辑是提高公司税会拖累企业财政状况，同时加税相当于政府从市场中抽走资金。具体来看，提高企业所得税最高税率和企业海外分支机构的利润税率，将对美国科技股形成抑制。另外拜登曾在接受采访时点名亚马逊，称这家电商巨头应该开始纳税。根据美银美林测算，拜登加税方案意味着股市整体EPS下降7%，其中科技和医疗行业受打击最大。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk2832099.d.html</link>
@@ -252,24 +264,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2537937.d.html</link>
             <guid>2102921</guid>
             <pubDate>Sat, 03 Apr 2021 09:33:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州白云机场迎来出行高峰：日均运输旅客17万人次】从广州白云机场了解到，清明假期期间，这里日均起降航班达到1310架次，平均每天运输旅客17万人次左右，整个假期预计运输旅客超50万人次。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5389880.d.html</link>
-            <guid>2102919</guid>
-            <pubDate>Sat, 03 Apr 2021 09:26:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[雅典国家天文台：当地时间周六上午9点10分，克里特岛查尼亚海域发生里氏4.7级轻微地震；震中位于古乔拉以西95公里处，震源深度12公里。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2525735.d.html</link>
-            <guid>2102918</guid>
-            <pubDate>Sat, 03 Apr 2021 09:19:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【4月3日0-12时全国高速公路流量1789.89万辆次】清明假期首日，全国路网运行总体平稳，车流量明显高于平日，4月3日0-12时全国高速公路流量1789.89万辆次，预计下午总体流量回落，但仍明显高于平日。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2520240.d.html</link>
-            <guid>2102916</guid>
-            <pubDate>Sat, 03 Apr 2021 09:13:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
