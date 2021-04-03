@@ -4,11 +4,22 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 03 Apr 2021 17:51:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Apr 2021 18:40:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【苏伊士运河运输拥堵状况已经疏通】媒体援引苏伊士运河管理局的声明报道，因“长赐号”货轮搁浅而导致的运输拥堵状况已经疏通，截至周六所有422艘船只均已通过苏伊士运河。由日本船东正荣汽船(Shoei Kisen Kaisha Ltd.)所有、船身长达400米的“长赐号”于3月23日在运河南端搁浅，六天后得以脱浅。]]></title>
+            <guid>2103818</guid>
+            <pubDate>Sat, 03 Apr 2021 18:38:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【迪拜酋长宣布《迪拜创意经济战略》】当地时间4月3日，阿联酋副总统、总理兼迪拜酋长谢赫·穆罕默德·本·拉希德·阿勒马克图姆宣布《迪拜创意经济战略》，旨在使创意产业对迪拜的GDP贡献率在未来5年里比2020年底的2.6％增长一倍，力争在2025年达到5％。据介绍，该项战略目标还包括：在未来5年内，迪拜创意产业中的公司和机构数量从目前的8300家增长到15000家，创意产业提供的工作岗位数量从目前的7万个增加到14万个。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk2893750.d.html</link>
+            <guid>2103765</guid>
+            <pubDate>Sat, 03 Apr 2021 18:10:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  据俄罗斯卫星网：索马里摩加迪沙发生自杀式炸弹袭击，造成5人死亡。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk2854941.d.html</link>
@@ -246,24 +257,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5408674.d.html</link>
             <guid>2102925</guid>
             <pubDate>Sat, 03 Apr 2021 09:51:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据英国金融时报：英国首相约翰逊将于周一公布有关居民国外度假的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5398010.d.html</link>
-            <guid>2102923</guid>
-            <pubDate>Sat, 03 Apr 2021 09:36:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【优步拒载盲人被判赔110万美元】据媒体报道，优步因拒载失明人士被判赔110万美元。报道称，对当事人的赔偿为32.4万美元，80万美元是律师费和诉讼费。来自美国旧金山的丽莎·欧文与其导盲犬在2016年至2018年间被优步司机拒载或辱骂14次。她还曾因被拒载，导致上班迟到被辞退。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2539488.d.html</link>
-            <guid>2102922</guid>
-            <pubDate>Sat, 03 Apr 2021 09:35:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国北卡罗来纳州深夜突发枪击案，已致3人死亡、4人受伤】美国有线电视新闻网（CNN）刚刚消息，当地时间周六（4月2日）午夜左右，美国北卡罗来纳州威尔明顿突发枪击事件，导致3人死亡、4人受伤。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2537937.d.html</link>
-            <guid>2102921</guid>
-            <pubDate>Sat, 03 Apr 2021 09:33:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
