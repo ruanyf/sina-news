@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 03 Apr 2021 21:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Apr 2021 22:30:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【索马里首都发生自杀式炸弹袭击】当地时间4月3日，索马里政府官员称，索马里首都摩加迪沙3日晚发生一起自杀式炸弹袭击事件，造成包括袭击者在内6人死亡、4人受伤。袭击事件发生在当晚7时，一名自杀式袭击者在摩加迪沙尚加尼区一家餐厅外引爆身上炸弹，死者中还包括一名婴儿。目前尚无任何组织宣称制造了此次袭击事件。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa5930256.d.html</link>
+            <guid>2103845</guid>
+            <pubDate>Sat, 03 Apr 2021 22:27:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  据以色列《国土报》：谷歌将在以色列建造数据中心。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk3003600.d.html</link>
@@ -221,24 +227,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2608446.d.html</link>
             <guid>2102954</guid>
             <pubDate>Sat, 03 Apr 2021 11:12:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南非航空再度拖欠员工薪水 南非国家工会介入】南非国家工会3日证实：尽管目前正处于重组阶段，但即将迎来“新生”的南非航空公司(SAA)依旧未能如期向员工支付此前拖欠的薪水。对此，南非国家工会声称，由于南非政府层面目前尚未公布针对南非航空员工的有关救助计划，因此南非国家工会计划采取必要的法律行动，指派律师帮助南非航空员工维护正当权益。此前，南非航空员工已经组织相关抗议游行活动。截至记者发稿时，南非航空尚未就此事作出回应。(中新网)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5448085.d.html</link>
-            <guid>2102946</guid>
-            <pubDate>Sat, 03 Apr 2021 10:47:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外媒：最后一批受阻船只将于今日通过苏伊士运河】苏伊士运河管理局局长乌萨马·拉比耶当地时间3日说，最后一批因巨型货轮搁浅而行程受阻的船只将在3日通过运河。据报道，拉比耶说，3日当天将有85艘船从两个方向通过运河，包括“长赐号”集装箱货轮搁浅期间被迫排队的422艘船中最后61艘尚未通过运河的船只。（参考消息）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5442131.d.html</link>
-            <guid>2102945</guid>
-            <pubDate>Sat, 03 Apr 2021 10:39:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京将从今年12月起实施“国四非道路机械标准”】北京市生态环境局2日晚表示，自2021年12月1日起，在北京市生产、销售的560kW以下（含560kW）的非道路移动机械及其装用的柴油机须满足“国四非道路机械标准”要求。北京市生态环境局表示，从北京市细颗粒物（PM2.5）源解析看，本地排放贡献中移动源污染占比最大，达45%，其中非道路移动机械排放污染占移动源的14%，是北京市移动源排放污染的重要来源之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5440751.d.html</link>
-            <guid>2102944</guid>
-            <pubDate>Sat, 03 Apr 2021 10:37:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
