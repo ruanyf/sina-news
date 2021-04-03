@@ -4,11 +4,51 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 03 Apr 2021 13:30:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Apr 2021 14:25:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【我国部分地区气象干旱持续发展】①新华社消息，国家气候中心副主任贾小龙日前介绍，目前云南等地干旱持续，华南干旱露头并发展；②贾小龙表示，3月，云南中北部、四川南部、贵州西部等地干旱持续发展，普遍达中到重度气象干旱，云南西北部和东北部有特旱；福建南部、广东东部、广西南部气象干旱露头并发展，出现中旱和重旱。]]></title>
+            <guid>2103099</guid>
+            <pubDate>Sat, 03 Apr 2021 14:24:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交通运输部：清明假期全国高速公路网总流量将达1.51亿辆】①据央视新闻消息，交通运输部预计，今年清明假期，全国高速公路网总流量达1.51亿辆。全国公路出行群体以返乡流与旅游流为主；②预计4月3日路网交通量达到假期最高值，约5300万辆。从4月3日0时~4月5日24时，全国收费公路将继续免收7座及以下小型客车通行费。普通收费公路以车辆通过收费站收费车道的时间为准，高速公路以车辆驶离出口收费车道的时间为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5596830.d.html</link>
+            <guid>2103098</guid>
+            <pubDate>Sat, 03 Apr 2021 14:23:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【埃及苏伊士运河管理局：所有滞留船只已全部通过运河】据法新社、路透社当地时间4月3日报道，埃及苏伊士运河管理局（SCA）表示，所有422艘因苏伊士运河堵塞而滞留在运河两端的船只已经在3日当天全部通过苏伊士运河。]]></title>
+            <guid>2103092</guid>
+            <pubDate>Sat, 03 Apr 2021 14:22:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普开通美国第45任总统官网 承接各种红白喜事祝词】近日，美国前总统特朗普被多个社交媒体噤声后，推出自创的“第45任总统官方网站”（45office.com），以继续推进“美国优先”议程。在该网站“联系我们”选项下，任何登录者都可以填写表格，邀请前总统夫妇出席相关活动。若网友选择“定制业务”，则可以邀请特朗普和梅拉尼娅对红白喜事、光荣退役、毕业典礼或儿女降生等场合献上祝福或问候。（中国国际电视台）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5590061.d.html</link>
+            <guid>2103060</guid>
+            <pubDate>Sat, 03 Apr 2021 14:13:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据日经新闻：由于半导体芯片供应短缺，铃木汽车在日本的三个工厂中，有两个将暂时停产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2712423.d.html</link>
+            <guid>2103030</guid>
+            <pubDate>Sat, 03 Apr 2021 13:44:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【腾讯视频VIP宣布涨价】4月3日，腾讯视频VIP发布通知，宣布自4月10日零点起实行新的VIP价格，新价格将调整为连续包月20元、包季58元、包年218元，非连续VIP月卡30元、季卡68元、年卡253元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5570548.d.html</link>
+            <guid>2103029</guid>
+            <pubDate>Sat, 03 Apr 2021 13:43:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：法国电力集团（EDF）将于4月4日至4月5日停止在法国的GRAVELINES 3号反应堆。据悉2月27日该反应堆曾发生计划外停机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2708080.d.html</link>
+            <guid>2103022</guid>
+            <pubDate>Sat, 03 Apr 2021 13:37:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【埃及苏伊士运河管理局：所有滞留船只已全部通过】据法新社、路透社当地时间4月3日报道，埃及苏伊士运河管理局（SCA）表示，所有422艘因苏伊士运河堵塞而滞留在运河两端的船只已于3日当天全部通过苏伊士运河。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5536088.d.html</link>
@@ -242,30 +282,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5322117.d.html</link>
             <guid>2102889</guid>
             <pubDate>Sat, 03 Apr 2021 07:57:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【道路交通安全法修改公开征求意见 拟加大毒驾、代扣分等处罚力度】据公安部网站消息，道路交通安全法修改公开征求意见，拟加大毒驾、代扣分等处罚力度。此次修改着力突出教育引导功能，还明确了每年12月2日为“全国交通安全日”。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5319121.d.html</link>
-            <guid>2102885</guid>
-            <pubDate>Sat, 03 Apr 2021 07:53:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄方称“北溪-2”作业船险遭波兰船撞击，补给船果断用船体阻挡】俄罗斯“北溪-2”天然气管道项目运营商代表安德烈·米宁表示，管道施工船队经常遭到来自外国民用和军用船只的挑衅，这对项目船只的安全构成了直接威胁。米宁指出，参与这些“有预谋的挑衅行动”的有渔船、军舰、潜艇以及飞机，“这可能是历史上第一次出现这样前所未有的事情”。（环球时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2456038.d.html</link>
-            <guid>2102883</guid>
-            <pubDate>Sat, 03 Apr 2021 07:46:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：印度可能重新制定向国营Bharat Sanchar Nigam有限公司供应第四代电信设备的招标，以阻止华为技术有限公司和中兴公司参与投标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2442139.d.html</link>
-            <guid>2102879</guid>
-            <pubDate>Sat, 03 Apr 2021 07:28:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【谷歌旗下Waymo CEO突然离职 跟马斯克“互怼”的旧帅去向成疑】全球自动驾驶“先驱”Waymo 首席执行官约翰·科拉菲克宣布辞职。继任者则为Waymo的最高执行官Tekedra Mawakana和Dmitri Dolgov，他们将成为公司的联合首席执行官，二人分别为公司的COO与CTO。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2441707.d.html</link>
-            <guid>2102878</guid>
-            <pubDate>Sat, 03 Apr 2021 07:27:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
