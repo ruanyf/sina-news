@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 03 Apr 2021 18:40:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Apr 2021 19:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【美国会大厦袭击警员案最新进展 犯罪嫌疑人为仇恨组织虔诚追随者】美国多家媒体4月3日报道称，开车袭击国会警员的非裔犯罪嫌疑人诺亚·格林（Noah Green）被认定为极端仇恨组织-伊斯兰民族组织（Nation of Islam）虔诚的追随者，生前曾在社交平台上多次发表仇恨言论。据犯罪嫌疑人格林的家属透露，格林长久以来存在心理健康问题，并怀疑和其宗教信仰有关。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk2935609.d.html</link>
+            <guid>2103821</guid>
+            <pubDate>Sat, 03 Apr 2021 19:10:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网自动测定：04月04日02时42分在印尼班达海附近发生6.0级左右地震，最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk2921653.d.html</link>
+            <guid>2103820</guid>
+            <pubDate>Sat, 03 Apr 2021 18:50:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【光大证券：OPEC+增产是对全球石油需求有着更为乐观的预期】光大证券认为，虽然OPEC+在7月将增产超过100万桶/天，但其增产的幅度仍满足不了全球石油产品需求的增加幅度，国际石油市场仍处于供需紧平衡状态。即OPEC+本次增产决议并非是为了压低油价，也并非是对石油市场的利空，而是因为对全球石油需求有着更为乐观的预期。目前油价快速下跌的几率不大，虽然可能有短期的扰动，比如美伊关系的缓和，全球流动性的收缩，个别国家产能的短期增产，但是在全球需求大幅回暖的预期下，供需格局紧张的局面还将持续，全年油价仍将位于55-65美元/桶的中枢位置。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa5772470.d.html</link>
+            <guid>2103819</guid>
+            <pubDate>Sat, 03 Apr 2021 18:40:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【苏伊士运河运输拥堵状况已经疏通】媒体援引苏伊士运河管理局的声明报道，因“长赐号”货轮搁浅而导致的运输拥堵状况已经疏通，截至周六所有422艘船只均已通过苏伊士运河。由日本船东正荣汽船(Shoei Kisen Kaisha Ltd.)所有、船身长达400米的“长赐号”于3月23日在运河南端搁浅，六天后得以脱浅。]]></title>
             <guid>2103818</guid>
@@ -251,12 +269,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2560379.d.html</link>
             <guid>2102931</guid>
             <pubDate>Sat, 03 Apr 2021 10:05:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国银保监会关于筹建山西银行股份有限公司的批复 批准山西省五家银行合并重组】中国银保监会对《关于筹建山西银行股份有限公司的请示》批复：同意大同银行、长治银行、晋城银行、晋中银行、阳泉市商业银行合并重组设立山西银行股份有限公司，银行类别为城市商业银行，股东资格由山西银保监局按照有关法律法规审批。（中国银行保险监督管理委员会网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5408674.d.html</link>
-            <guid>2102925</guid>
-            <pubDate>Sat, 03 Apr 2021 09:51:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
