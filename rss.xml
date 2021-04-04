@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 04 Apr 2021 20:27:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Apr 2021 21:24:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[韩国3月外汇储备为4461.3亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3510187.d.html</link>
+            <guid>2105097</guid>
+            <pubDate>Sun, 04 Apr 2021 21:01:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据中国地震台网正式测定，4月5日4时9分在新疆喀什地区塔什库尔干县发生3.8级地震，震源深度10千米，震中位于北纬36.79度，东经75.89度。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3492707.d.html</link>
+            <guid>2105045</guid>
+            <pubDate>Sun, 04 Apr 2021 20:37:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【联合资信：拜登基建和税收计划有望改善美国基本面】联合资信指出，拜登征税计划主要集中在提高企业税、打击海外避税以及污染企业增税三方面，起到调节财富二次分配、缓解政府债务压力以及提振国际油价的作用。拜登基建与征税计划有望带动美国经济未来八年平均增长1.2个百分点，基建计划提振市场风险偏好，有效带动美股市场走高、长期美债收益率上升、以及地产市场虚假繁荣。基建和加税计划的通过存在一定阻碍，如果顺利落地可能加速美国救市方案向“宽财政+紧货币”策略转移，把美国释放的大量通胀泡沫转移给新兴发展中经济体。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3472643.d.html</link>
@@ -273,24 +285,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa6181304.d.html</link>
             <guid>2104485</guid>
             <pubDate>Sun, 04 Apr 2021 11:52:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  印度尼西亚国家抗灾署发言人4日说，当天凌晨该国东努沙登加拉省暴雨引发的山洪已造成至少44人死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa6179690.d.html</link>
-            <guid>2104484</guid>
-            <pubDate>Sun, 04 Apr 2021 11:37:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【塞内加尔将于5月启用全国首个大型数据中心】据当地媒体4月4日报道，塞内加尔总统马基·萨勒近日宣布该国将于今年5月在贾姆尼亚贾市启用首个全国大型数据中心，并表示这将是该国数字主权的重大革命。据报道，该数据中心将为该国行政管理部门及私营部门以“负担得起的价格”提供其在信息技术方面的需求。此外，该数据中心将会和4600多家科技公司进行合作，并创造超过15000个工作岗位。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa6179130.d.html</link>
-            <guid>2104481</guid>
-            <pubDate>Sun, 04 Apr 2021 11:33:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【缅甸克钦独立武装再度与政府军发生冲突】当地时间4月4日上午，缅甸克钦独立武装8旅与政府军在克钦邦莫宁镇区附近发生冲突。此前一天，上述两支武装在克钦邦南莫迪镇附近发生冲突。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa6178650.d.html</link>
-            <guid>2104480</guid>
-            <pubDate>Sun, 04 Apr 2021 11:26:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
