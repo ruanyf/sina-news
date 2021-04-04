@@ -4,11 +4,22 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 04 Apr 2021 18:40:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Apr 2021 19:25:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国地质勘探局：墨西哥拉里维拉地区东北偏东99公里处发生5.4级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6282406.d.html</link>
+            <guid>2104680</guid>
+            <pubDate>Sun, 04 Apr 2021 19:02:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印尼发生洪灾至少造成41人遇难】印度尼西亚国家抗灾署4日傍晚向媒体通报，印尼东努沙登加拉省当天凌晨发生洪灾，目前已造成41人死亡、27人失踪。印尼国家抗灾署说，随着搜救和统计工作的继续，预计本次灾害导致的人员伤亡及财产损失还将进一步增加。（新华社）]]></title>
+            <guid>2104620</guid>
+            <pubDate>Sun, 04 Apr 2021 18:47:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  阿联酋国家通讯社：阿联酋方面表示正向伊拉克投资30亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3401702.d.html</link>
@@ -288,18 +299,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk3314201.d.html</link>
             <guid>2104470</guid>
             <pubDate>Sun, 04 Apr 2021 10:35:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【粤港澳大湾区首个大容量海上风电项目全容量并网发电】4月2日，中国能建广东院EPC总承包建设的粤港澳大湾区首个大容量海上风电场项目——珠海金湾海上风电场项目全容量并网发电。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk3312391.d.html</link>
-            <guid>2104466</guid>
-            <pubDate>Sun, 04 Apr 2021 10:17:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据以色列《国土报》：脸书计划在以色列开设芯片设计中心。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk3310237.d.html</link>
-            <guid>2104463</guid>
-            <pubDate>Sun, 04 Apr 2021 10:04:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
