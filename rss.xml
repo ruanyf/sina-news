@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 04 Apr 2021 17:51:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Apr 2021 18:40:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  阿联酋国家通讯社：阿联酋方面表示正向伊拉克投资30亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3401702.d.html</link>
+            <guid>2104569</guid>
+            <pubDate>Sun, 04 Apr 2021 18:31:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士称，美国纽约市的百万富翁将面临美国最高的地方所得税税率。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3401243.d.html</link>
+            <guid>2104567</guid>
+            <pubDate>Sun, 04 Apr 2021 18:30:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士称，美国纽约州议员接近达成预算协议，将把企业税和个人所得税增收至少40亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6259257.d.html</link>
+            <guid>2104566</guid>
+            <pubDate>Sun, 04 Apr 2021 18:30:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  阿富汗安全部队对多省塔利班采取行动，击毙166名塔利班成员。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6251636.d.html</link>
+            <guid>2104565</guid>
+            <pubDate>Sun, 04 Apr 2021 18:20:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  沙特国家通讯社：沙特国王萨勒曼致电约旦国王阿卜杜拉。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3382469.d.html</link>
+            <guid>2104564</guid>
+            <pubDate>Sun, 04 Apr 2021 18:02:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  俄外交部：北约扩大军费开支的方针会导致军备竞赛升级。（俄罗斯卫星网）]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6222474.d.html</link>
@@ -270,12 +300,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk3310237.d.html</link>
             <guid>2104463</guid>
             <pubDate>Sun, 04 Apr 2021 10:04:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  迪拜航空将从4月8日起恢复波音公司737Max机型的商业运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa6164482.d.html</link>
-            <guid>2104452</guid>
-            <pubDate>Sun, 04 Apr 2021 09:28:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
