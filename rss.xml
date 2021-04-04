@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 04 Apr 2021 16:50:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Apr 2021 17:51:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  俄外交部：北约扩大军费开支的方针会导致军备竞赛升级。（俄罗斯卫星网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6222474.d.html</link>
+            <guid>2104555</guid>
+            <pubDate>Sun, 04 Apr 2021 17:32:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【约旦副首相：境外势力参与危害约旦安全与稳定的活动】当地时间4月4日，约旦副首相萨法迪召开新闻发布会，通报关于约旦亲王哈姆扎·本·侯赛因危害国家安全稳定活动的初步调查结果。萨法迪表示，初步调查显示哈姆扎亲王以及身边的人与自称“外部反对派”的境外势力有直接联系，进行旨在破坏约旦的国家安全和稳定的活动。此外，哈姆扎亲王还试图动员国内的人员参与到其活动中。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6202163.d.html</link>
@@ -270,18 +276,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa6164482.d.html</link>
             <guid>2104452</guid>
             <pubDate>Sun, 04 Apr 2021 09:28:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中国人保财险：密切关注沈海高速重大交通事故进展 积极做好后续理赔等工作】人保财险表示，将继续密切关注事故进展，竭尽全力保证各项应急服务举措落实到位，积极配合当地政府做好后续理赔和其他各项工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa6163060.d.html</link>
-            <guid>2104449</guid>
-            <pubDate>Sun, 04 Apr 2021 09:20:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江苏盐城4车相撞事故19名伤员正住院治疗 其中4名伤员在ICU抢救】2021年4月4日0时51分许，沈海高速江苏盐城段898公里处发生4车相撞交通事故。目前，江苏已派出多路国家、省、市专家医疗组成员，赶到盐城响水参与伤员救治。总台央视记者刚刚从参与这次救治的江苏省医疗救治专家组组长邱海波了解到，共有19位伤员正在响水县人民医院住院治疗，其中，15例病人是相对比较稳定的，另外4例现在在ICU抢救。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk3304638.d.html</link>
-            <guid>2104447</guid>
-            <pubDate>Sun, 04 Apr 2021 09:18:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
