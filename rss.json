@@ -6,6 +6,125 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 2105613,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6848902.d.html",
+            "title": "【缅甸民盟中央执行委员会发表声明 宣布废除缅甸2008年宪法】当地时间4月3日，缅甸民盟中央执行委员会发表声明，宣布废除缅甸2008年宪法，并将与缅甸各政治力量合作，为了缅甸更好的未来而努力。目前实行的缅甸联邦共和国宪法是在2004年召开国民大会起草的，并于2008年通过全民投票通过。（央视新闻）",
+            "date_modified": "2021-04-05T07:24:08.000Z"
+        },
+        {
+            "id": 2105612,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3990995.d.html",
+            "title": "【全球集运行业正迎来订单潮】近日，中国船舶集团宣布签下单笔金额最大的集装箱船订单，将分别由中国船舶和中国重工旗下船企承建。与此同时，全球集装箱船订单增速处于近10年来的最高点。有业内人士表示，在近期诸多大手笔订单的刺激下，全球集运行业有可能掀起新一轮的竞赛。 (上海证券报)",
+            "date_modified": "2021-04-05T07:21:41.000Z"
+        },
+        {
+            "id": 2105610,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6844379.d.html",
+            "title": "  日本公明党党首山口那津男：不认为日本政府年金投资基金（GPIF）会扰乱日本股市。",
+            "date_modified": "2021-04-05T07:18:21.000Z"
+        },
+        {
+            "id": 2105609,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6844105.d.html",
+            "title": "【沃尔沃品牌整车出口基地落户辽宁大连口岸】随着121辆沃尔沃S90型商品车5日在大连汽车码头装船出海，将搭乘日本邮船“格蕾丝领袖”轮(GRACEFULLEADER)发往欧洲，标志着沃尔沃品牌整车出口基地正式在辽宁大连口岸落户。（证券时报）",
+            "date_modified": "2021-04-05T07:17:58.000Z"
+        },
+        {
+            "id": 2105603,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3983948.d.html",
+            "title": "俄罗斯外交部副部长：俄罗斯应该推广银行间支付系统，作为环球银行金融电信协会（SWIFT）的替代品，并且独立于美国。",
+            "date_modified": "2021-04-05T07:12:17.000Z"
+        },
+        {
+            "id": 2105602,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6836860.d.html",
+            "title": "俄新社：俄罗斯表示由于合作，决定不封锁推特。",
+            "date_modified": "2021-04-05T07:08:24.000Z"
+        },
+        {
+            "id": 2105601,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6836566.d.html",
+            "title": "俄罗斯外交官：拉丁美洲和非洲国家对在与俄罗斯的贸易中增加本国货币的份额表现出越来越大的兴趣。",
+            "date_modified": "2021-04-05T07:08:04.000Z"
+        },
+        {
+            "id": 2105600,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3979974.d.html",
+            "title": "  市场消息：从5月1日起，前往新加坡的旅客需要提供国际航空运输协会的旅行通行证。",
+            "date_modified": "2021-04-05T07:07:19.000Z"
+        },
+        {
+            "id": 2105598,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6832066.d.html",
+            "title": "俄新社：俄罗斯决定将减缓推特流量的措施延长到5月15日。",
+            "date_modified": "2021-04-05T07:02:48.000Z"
+        },
+        {
+            "id": 2105596,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6831017.d.html",
+            "title": "土耳其3月CPI录得16.19%，市场预期为16.2%。",
+            "date_modified": "2021-04-05T07:01:33.000Z"
+        },
+        {
+            "id": 2105593,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3973811.d.html",
+            "title": "【退出智能手机市场后 LG电子将重新调配3700名手机业务人员】LG电子今日宣布退出智能手机市场，并对3700多名移动（MC）业务部门人员进行大规模人事调动。据预测，上述人员可能被调动到人力资源需求较大的部门，包括旗下庆尚南道昌原家电厂和研究所、汽车零部件（VS）业务部门、与汽车零部件生产商麦格纳国际公司携手设立的生产电动汽车传动系统的合资公司、LG能源解决方案等。考虑到LG电子将继续研发移动通信核心技术，部分人员有可能被调动至6G原创技术研发等领域。",
+            "date_modified": "2021-04-05T07:00:00.000Z"
+        },
+        {
+            "id": 2105591,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3973171.d.html",
+            "title": "马来西亚与文莱签署交通合作谅解备忘录。",
+            "date_modified": "2021-04-05T06:59:12.000Z"
+        },
+        {
+            "id": 2105588,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6827003.d.html",
+            "title": "马来西亚和文莱同意构建互惠绿道。",
+            "date_modified": "2021-04-05T06:56:42.000Z"
+        },
+        {
+            "id": 2105585,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3967853.d.html",
+            "title": "俄罗斯银行将于4月5日举行为期1天的卢布存款拍卖。",
+            "date_modified": "2021-04-05T06:52:28.000Z"
+        },
+        {
+            "id": 2105580,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3959662.d.html",
+            "title": "赫兹环球控股有限公司Hertz Global 已经从公司债券持有人和私募股权投资者那里选择了一份重组方案，他们同意为这家破产的汽车租赁提供商提供脱离破产保护所需的数十亿美元股权资本。",
+            "date_modified": "2021-04-05T06:41:55.000Z"
+        },
+        {
+            "id": 2105579,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3955996.d.html",
+            "title": "马来西亚国家石油公司与文莱签订油田一体化协议。",
+            "date_modified": "2021-04-05T06:37:12.000Z"
+        },
+        {
+            "id": 2105578,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3955219.d.html",
+            "title": "马来西亚和文莱方面表示，两国领导人同意举行东盟领导人会晤，讨论缅甸目前的事态发展。",
+            "date_modified": "2021-04-05T06:36:07.000Z"
+        },
+        {
             "id": 2105577,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6808078.d.html",
@@ -176,76 +295,6 @@
             "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3865853.d.html",
             "title": "【特斯拉空头GLJ Research：尽管在中国有工厂 特斯拉的交付量已经不再增长】GLJ Research分析师Gordon Johnson认为，尽管特斯拉在中国的工厂已经全面开工，而且还进行了多次降价，但特斯拉的交付量“基本上”已经不再增长。他认为，将2021年第一季度与2020年第一季度进行比较已经“无关紧要”，恰当的比较应该是和2020年第四季度，那时特斯拉在中国的降价行动已经全面展开，在中国的生产也已经成熟。这位分析师预计，随着“开盘后可能出现的上涨”，那些“精明的投资者”将会削弱特斯拉的股价。该分析师对该股票的评级是卖出。",
             "date_modified": "2021-04-05T04:40:40.000Z"
-        },
-        {
-            "id": 2105505,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6712206.d.html",
-            "title": "俄“BCS全球投资”公司战略投资部门首席专家表示，俄罗斯可能需要4-5年时间才能脱离美元进行结算，所有条件均已呈现。",
-            "date_modified": "2021-04-05T04:28:13.000Z"
-        },
-        {
-            "id": 2105476,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6705702.d.html",
-            "title": "印尼国家石油公司发言人：巴隆干炼油厂火灾后逐步启动，已于3月31日开始运营。",
-            "date_modified": "2021-04-05T04:19:45.000Z"
-        },
-        {
-            "id": 2105455,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3843069.d.html",
-            "title": "【微软将美国办公室的重开时间由7月改为最早9月】据The Verge消息，微软证实自己计划中的办公室重开时间将会由原来的7月改为最早9月。据发言人称，此举是“持续咨询健康、数据专家”后得出的结果。在发给员工的电邮中执行副总裁Kurt DelBene也表示，这么做是为了给员工的夏季安排提供“额外的弹性”，并确认各地主管在判断所在地存在风险时亦可进一步延后重开日期。（界面）",
-            "date_modified": "2021-04-05T04:10:32.000Z"
-        },
-        {
-            "id": 2105448,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6696108.d.html",
-            "title": "东帝汶山体滑坡和洪水死亡人数达21人。",
-            "date_modified": "2021-04-05T04:07:29.000Z"
-        },
-        {
-            "id": 2105447,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3840424.d.html",
-            "title": "据外媒：马来西亚东海岸铁路线路从640公里延长至665公里，高铁预计将于2027年开始运营。",
-            "date_modified": "2021-04-05T04:07:13.000Z"
-        },
-        {
-            "id": 2105420,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3830684.d.html",
-            "title": "【全国铁路迎来返程客流高峰 今日预计发送旅客1425万人次】记者从中国国家铁路集团有限公司获悉，4月4日，全国铁路发送旅客933.2万人次，加开旅客列车497列，运输安全平稳有序。4月5日是清明小长假最后一天，全国铁路迎来返程客流高峰，预计发送旅客1425万人次，计划加开旅客列车1180列。 (澎湃)",
-            "date_modified": "2021-04-05T03:54:59.000Z"
-        },
-        {
-            "id": 2105372,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6669899.d.html",
-            "title": "泰国3月份消费者价格同比下跌0.08%，预期上涨 0.21%。泰国3月核心CPI同比上涨0.09%，预期上涨 0.09%。",
-            "date_modified": "2021-04-05T03:33:52.000Z"
-        },
-        {
-            "id": 2105361,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3811742.d.html",
-            "title": "俄副外长表示，俄罗斯方面不排除在新技术基础上建立新系统取代环球同业银行金融电讯协会（SWIFT）的可能性。",
-            "date_modified": "2021-04-05T03:31:04.000Z"
-        },
-        {
-            "id": 2105335,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3798483.d.html",
-            "title": "【全球央妈的变化：美元储备占比创25年新低，人民币创历史新高】IMF数据显示，去年第四季，全球外汇储备升至纪录新高12.7万亿美元，美元外汇储备占比跌至1995年以来最低水平，人民币占比则持续攀升，创2016年三季度被单列占比数据以来新高。IMF官方外汇储备货币构成（COFER）季度数据显示，全球外汇储备去年第四季增至12.7万亿美元创新高，按季增加3.7%。其中美元占比为59%，按季下跌1.5%，比重连续第三季下降，创1995年以来最低。数据显示，1995年美元的比重为58%，2001年则为73%。",
-            "date_modified": "2021-04-05T03:14:56.000Z"
-        },
-        {
-            "id": 2105332,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6649400.d.html",
-            "title": "【巴西前总统卢拉：不排除参加2022年总统选举的可能】此前一直避谈是否参加2022年总统选举的巴西前总统卢拉，于当地时间4月2日接受葡萄牙广播电视公司采访时表示，他将视巴西的政治局势决定是否参加2022年总统选举，若有必要且身体状况允许，不排除参选的可能。（央视新闻）",
-            "date_modified": "2021-04-05T03:08:16.000Z"
         }
     ]
 }
