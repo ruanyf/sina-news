@@ -4,11 +4,59 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 05 Apr 2021 18:42:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Apr 2021 19:27:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【媒体：英特尔CEO将参加拜登政府讨论芯片短缺问题的会议】 据悉，英特尔首席执行官Pat Gelsinger将于下周一（4月12日）通过线上参加拜登政府召开的会议，讨论使美国汽车业生产受到扰乱的半导体供应链问题。此前，拜登的经济和国家安全幕僚确定4月12日举行峰会讨论芯片短缺。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4507372.d.html</link>
+            <guid>2106188</guid>
+            <pubDate>Mon, 05 Apr 2021 19:12:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西经济部长盖德斯：经济已经取得了V型复苏，这是不可否认的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7362765.d.html</link>
+            <guid>2106187</guid>
+            <pubDate>Mon, 05 Apr 2021 19:11:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【爆款助力，招行工行一季度新基金托管规模超千亿】 Wind数据显示，一季度总计有37家托管机构累计托管新基金规模1.07万亿元。其中，招商银行延续去年四季度势头，今年新托管的60只基金总规模1568.74亿元，市场占比14.66%，位居榜首；工商银行以1234.52亿元规模紧随其后，占比为11.53%；建设银行、中国银行托管规模均超过930亿元，分列三、四位；交通银行、兴业银行、农业银行同期托管规模超过800亿元，位居第二梯队。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7355436.d.html</link>
+            <guid>2106185</guid>
+            <pubDate>Mon, 05 Apr 2021 19:01:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士：印度国有炼油商预计5月份购买的沙特石油将比平均月度购买量少36%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7352675.d.html</link>
+            <guid>2106184</guid>
+            <pubDate>Mon, 05 Apr 2021 18:58:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  标普：将游戏驿站(GME.N)前景展望从“稳定”调整为“积极”，评级为B-不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4489941.d.html</link>
+            <guid>2106182</guid>
+            <pubDate>Mon, 05 Apr 2021 18:48:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  谷歌：已经意识到航班信息软件ITA中断的问题，正在进行修复。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7345386.d.html</link>
+            <guid>2106181</guid>
+            <pubDate>Mon, 05 Apr 2021 18:48:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  智利国家铜业公司：与RT工厂工会达成薪资协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4488321.d.html</link>
+            <guid>2106180</guid>
+            <pubDate>Mon, 05 Apr 2021 18:46:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西经济部长盖德斯：围绕巴西2021年预算的政治讨论是建设性的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7342531.d.html</link>
+            <guid>2106178</guid>
+            <pubDate>Mon, 05 Apr 2021 18:44:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  乌克兰总统泽连斯基：俄罗斯最近的行动对乌克兰安全构成严重挑战。 与英国首相通了电话，认为乌克兰在面对问题时并不孤单。 加入北约的行动计划是当务之急。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4477841.d.html</link>
@@ -259,53 +307,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4382743.d.html</link>
             <guid>2106103</guid>
             <pubDate>Mon, 05 Apr 2021 16:22:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国务院声明：美国国务卿布林肯和苏丹总理在周一就推动和平进程和推动政治改革进行了会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7233571.d.html</link>
-            <guid>2106097</guid>
-            <pubDate>Mon, 05 Apr 2021 16:14:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：油服公司斯伦贝谢与苏丹石油部门签署协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4375890.d.html</link>
-            <guid>2106095</guid>
-            <pubDate>Mon, 05 Apr 2021 16:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国民主党的计划将提高对外国公司利润的税收。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7230343.d.html</link>
-            <guid>2106094</guid>
-            <pubDate>Mon, 05 Apr 2021 16:10:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国民主党议员WYDEN、BROWN和WARNER支持全球税收计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7229340.d.html</link>
-            <guid>2106092</guid>
-            <pubDate>Mon, 05 Apr 2021 16:08:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[逸仙电商(YSG.N)盘中跌超10%，报11.43美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4367049.d.html</link>
-            <guid>2106086</guid>
-            <pubDate>Mon, 05 Apr 2021 16:01:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据中国地震台网正式测定：04月05日23时20分在不丹(北纬27.15度，东经88.85度)发生4.8级地震，震源深度28千米。]]></title>
-            <guid>2106082</guid>
-            <pubDate>Mon, 05 Apr 2021 15:57:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国总统拜登：完全不担心增税会损害经济。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4358524.d.html</link>
-            <guid>2106079</guid>
-            <pubDate>Mon, 05 Apr 2021 15:49:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国10年期国债收益率下跌约1.5个基点，重返1.71下方，逼近亚太盘初录得的日低1.6948%；五年期美债收益率刷新日低至0.9350%下方，日内当前跌幅超过4个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4358445.d.html</link>
-            <guid>2106078</guid>
-            <pubDate>Mon, 05 Apr 2021 15:49:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
