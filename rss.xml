@@ -4,11 +4,221 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 06 Apr 2021 15:30:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Apr 2021 16:51:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【摩根大通：瑞信可能因Greensill和Archegos事件遭受87亿美元的损失】摩根大通在一份研报中称，Greensill和Archegos问题对瑞信的影响可能会达到87亿美元，将瑞信评级从超配下调至中性。除了Archegos事件造成的47亿美元打击，分析师Kian和Amit Ranjan估计Greensill的问题会导致20亿美元的诉讼拨备，另外还有更高的监管要求导致的20亿美元资本支出。分析师们写道，尚不清楚该行如何为主经纪商业务的一名客户列支44亿瑞郎，他们估计该业务年收入不到10亿瑞郎。预计瑞信股票近期继续相对同行折价；将目标价从12瑞郎下调至11瑞郎。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5345343.d.html</link>
+            <guid>2107851</guid>
+            <pubDate>Tue, 06 Apr 2021 16:51:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[博彩控股公司派迪鲍尔必发ADR（PDYPY）涨幅收窄至不足1.0%，退守109.50美元下方，美股盘初曾涨至109.97美元，3月18日曾冲高至119.41美元创历史新高，高盛通过簿记建档出售大约230万股Flutter Entertainment的股票。该公司在英国伦敦证交所挂牌交易，且是英国富时100指数的成分股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5345098.d.html</link>
+            <guid>2107849</guid>
+            <pubDate>Tue, 06 Apr 2021 16:46:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国电商公司Revolve Group上涨9.5%，现报48美元，此前keybanc将其目标价提高至58美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5345074.d.html</link>
+            <guid>2107848</guid>
+            <pubDate>Tue, 06 Apr 2021 16:46:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫新闻秘书珍·普萨基：拜登不会容忍在基础设施方面的不作为。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8202320.d.html</link>
+            <guid>2107843</guid>
+            <pubDate>Tue, 06 Apr 2021 16:42:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  加密数字货币公司Paxos：本公司将向美国证券交易委员会（SEC）申请正式的清算所牌照，此前瑞士信贷和野村旗下Instinet通过本公司平台进行了美国股票的当天交易结算测试。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8202313.d.html</link>
+            <guid>2107842</guid>
+            <pubDate>Tue, 06 Apr 2021 16:42:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  高盛通过BOOKBUILD出售约230万股FLUTTER ENTERTAINMENT的股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5344699.d.html</link>
+            <guid>2107834</guid>
+            <pubDate>Tue, 06 Apr 2021 16:40:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：乌克兰一直渴望加入北约。美国长期以来一直在与乌克兰讨论这一愿景。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8202163.d.html</link>
+            <guid>2107833</guid>
+            <pubDate>Tue, 06 Apr 2021 16:40:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  小牛电动现涨4.23%，第一季度电动车销量同比增长272.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5344525.d.html</link>
+            <guid>2107832</guid>
+            <pubDate>Tue, 06 Apr 2021 16:37:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[针对长安汽车要接手一汽马自达的消息，长安汽车回应称，不能否认，但具体的变动形式暂不知情，且对外界有关一汽东风厂与长安汽车要合并的消息予以否认。（每经网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5344420.d.html</link>
+            <guid>2107831</guid>
+            <pubDate>Tue, 06 Apr 2021 16:35:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：通讯软件SIGNAL APP增加了MobileCoin支付功能。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8201665.d.html</link>
+            <guid>2107830</guid>
+            <pubDate>Tue, 06 Apr 2021 16:31:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ICE欧盟碳排放交易许可（期货价格）收涨3.96%，报44.08欧元/吨，突破3月17日收盘位，并创收盘历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5343785.d.html</link>
+            <guid>2107829</guid>
+            <pubDate>Tue, 06 Apr 2021 16:25:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国联合航空(UAL.O)CEO：航空业需要在可持续燃料方面加大投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5343763.d.html</link>
+            <guid>2107828</guid>
+            <pubDate>Tue, 06 Apr 2021 16:25:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫新闻秘书珍·普萨基：本周与民主党新党团会议会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5343256.d.html</link>
+            <guid>2107826</guid>
+            <pubDate>Tue, 06 Apr 2021 16:19:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  伊朗方面表示，除非美国恢复遵守协议，否则不会改变核政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5342796.d.html</link>
+            <guid>2107824</guid>
+            <pubDate>Tue, 06 Apr 2021 16:12:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  联合航空首席执行官：商务旅行仍然减少了80%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5342781.d.html</link>
+            <guid>2107823</guid>
+            <pubDate>Tue, 06 Apr 2021 16:12:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EIA短期能源展望报告：预计2021年美国原油产量为1104万桶/日，此前预期为1115万桶/日。预计2022年美国原油产量为1186万桶/日，此前预计为1202万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5342592.d.html</link>
+            <guid>2107822</guid>
+            <pubDate>Tue, 06 Apr 2021 16:10:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EIA短期能源展望报告：预计2021年天然气价格为3.15美元/千立方英尺，此前预期为3.27美元/千立方英尺。预计2022年天然气价格为3.23美元/千立方英尺，此前预期为3.28美元/千立方英尺。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5342103.d.html</link>
+            <guid>2107821</guid>
+            <pubDate>Tue, 06 Apr 2021 16:06:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  EIA短期能源展望报告：预计2022年美国原油产量将增加82万桶/日，此前预计为增加87万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5341986.d.html</link>
+            <guid>2107820</guid>
+            <pubDate>Tue, 06 Apr 2021 16:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  通用汽车小幅走高，现涨1%。公司计划到2025年在全球交付超过100万辆电动汽车。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8199447.d.html</link>
+            <guid>2107819</guid>
+            <pubDate>Tue, 06 Apr 2021 16:04:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  EIA短期能源展望报告：预计2021年美国原油产量将减少27万桶/日，此前预计为减少16万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8199390.d.html</link>
+            <guid>2107818</guid>
+            <pubDate>Tue, 06 Apr 2021 16:04:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EIA短期能源展望报告：2022年全球原油需求增速预期为365万桶/日，此前预计为383万桶/日。预计2021年美国原油需求增速为132万桶/日，此前为141万桶/日。预计2022年美国原油需求增速为98万桶/日，此前为100万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8199332.d.html</link>
+            <guid>2107817</guid>
+            <pubDate>Tue, 06 Apr 2021 16:04:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国4月EIA次年短期前景美国原油产量预期(万桶/日)公布 1186，前值 1202。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5341771.d.html</link>
+            <guid>2107816</guid>
+            <pubDate>Tue, 06 Apr 2021 16:03:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国4月EIA次年天然气产量预期(亿立方英尺/日)公布 932.9，前值 928.3。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8199232.d.html</link>
+            <guid>2107815</guid>
+            <pubDate>Tue, 06 Apr 2021 16:03:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国4月EIA当年短期前景美国原油产量预期(万桶/日)公布 1104，前值 1115。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5341714.d.html</link>
+            <guid>2107814</guid>
+            <pubDate>Tue, 06 Apr 2021 16:03:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国4月EIA当年天然气产量预期(亿立方英尺/日)公布 914.1，前值 913.5。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8199177.d.html</link>
+            <guid>2107813</guid>
+            <pubDate>Tue, 06 Apr 2021 16:03:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  EIA短期能源展望报告：预计2022年布伦特原油价格为60.49美元/桶，此前预期为58.51美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5341668.d.html</link>
+            <guid>2107812</guid>
+            <pubDate>Tue, 06 Apr 2021 16:02:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  EIA短期能源展望报告：预计2022年WTI原油价格为56.74美元/桶，此前预期为54.75美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8199124.d.html</link>
+            <guid>2107811</guid>
+            <pubDate>Tue, 06 Apr 2021 16:02:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据法新社：以色列总理内塔尼亚胡承诺尽一切努力结束以色列的“选举周期”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk5341306.d.html</link>
+            <guid>2107808</guid>
+            <pubDate>Tue, 06 Apr 2021 15:59:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  爱奇艺短线走高，涨幅扩大至10%，报18.72美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa8198747.d.html</link>
+            <guid>2107807</guid>
+            <pubDate>Tue, 06 Apr 2021 15:58:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  捷克政府批准部分学校在4月12日复课。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa8198743.d.html</link>
+            <guid>2107806</guid>
+            <pubDate>Tue, 06 Apr 2021 15:57:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利据悉面临推迟泛欧交易所与意大利证券交易所合并的压力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa8198528.d.html</link>
+            <guid>2107805</guid>
+            <pubDate>Tue, 06 Apr 2021 15:53:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据《卫报》：外卖平台Deliveroo的骑手正策划罢工，反对薪酬和工作条件不良。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk5340913.d.html</link>
+            <guid>2107804</guid>
+            <pubDate>Tue, 06 Apr 2021 15:50:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美、布两油期货回落，现涨幅分别收窄至2.17%和1.8%，报59.86美元/桶和63.3美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk5340599.d.html</link>
+            <guid>2107803</guid>
+            <pubDate>Tue, 06 Apr 2021 15:44:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  交易员：俄罗斯将4月从波罗的海港口出口的乌拉尔石油上调了10万吨至440万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk5339971.d.html</link>
+            <guid>2107799</guid>
+            <pubDate>Tue, 06 Apr 2021 15:34:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国地质勘探局：伊拉克Baynjiwayn北部2公里处发生5.3级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa8197385.d.html</link>
+            <guid>2107797</guid>
+            <pubDate>Tue, 06 Apr 2021 15:33:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【浙商银行回应被自律调查：应该是几年前承销的项目，将积极配合】浙商银行因涉嫌违反银行间债券市场自律管理规则被调查。对此，浙商银行回应称，作为主承销商，该行一直努力按照债券承销的相关要求履行中介机构职责。对于协会本次自律调查，应该是几年前该行承销的项目，发行人注册发行文件涉嫌虚假记载等事项，该行将积极配合，若有问题将迅速落实整改。目前，自律调查正在进行中，如有进展，该行将在监管许可范围内第一时间与媒体沟通。（澎湃）]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa8197067.d.html</link>
@@ -133,89 +343,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa8192602.d.html</link>
             <guid>2107742</guid>
             <pubDate>Tue, 06 Apr 2021 14:33:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据Zillow Group Inc数据，2020年美国房地产市场为2007年来最火热，数十个大都市区的中位数销售价格较上年同期增长了两位数。同时，据Realtor.com的数据，今年3月份待售房屋数量约为一年前的一半。高盛图表显示，今年住房库存将继续下滑。低库存加上低抵押贷款利率导致房价飞涨，使得购房者买房变得更加困难。此外，可供出售的单户住宅数量已达到了30年来的最低点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa8192429.d.html</link>
-            <guid>2107740</guid>
-            <pubDate>Tue, 06 Apr 2021 14:31:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF首席经济学家戈皮纳特：没有看到任何系统性的债务危机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa8191597.d.html</link>
-            <guid>2107730</guid>
-            <pubDate>Tue, 06 Apr 2021 14:22:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会主席冯德莱恩：我们将努力使关税联盟框架现代化。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk5334078.d.html</link>
-            <guid>2107725</guid>
-            <pubDate>Tue, 06 Apr 2021 14:21:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF首席经济学家戈皮纳特：6500亿美元特别提款权“一个良好的开端”，还有更多工作要做。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk5334063.d.html</link>
-            <guid>2107724</guid>
-            <pubDate>Tue, 06 Apr 2021 14:20:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲理事会主席米歇尔：能否抓住这个机会取决于土耳其。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa8191351.d.html</link>
-            <guid>2107723</guid>
-            <pubDate>Tue, 06 Apr 2021 14:20:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会主席冯德莱恩：会见土耳其总统埃尔多安是为了给双边关系带来“新动力”。]]></title>
-            <guid>2107722</guid>
-            <pubDate>Tue, 06 Apr 2021 14:20:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲理事会主席米歇尔：土耳其退出伊斯坦布尔公约引起严重关切。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk5333762.d.html</link>
-            <guid>2107720</guid>
-            <pubDate>Tue, 06 Apr 2021 14:18:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲理事会主席米歇尔：我们乐见土耳其和希腊之间的会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk5333619.d.html</link>
-            <guid>2107716</guid>
-            <pubDate>Tue, 06 Apr 2021 14:15:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[缅甸军政府首脑：目前为止已有248名抗议者和16名警察死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk5333148.d.html</link>
-            <guid>2107709</guid>
-            <pubDate>Tue, 06 Apr 2021 14:10:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：西方石油(OXY.N)CEO表示可能让员工永久远程办公。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa8189751.d.html</link>
-            <guid>2107704</guid>
-            <pubDate>Tue, 06 Apr 2021 14:05:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国2月JOLTS职位空缺增至736.7万人，创最近两年新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa8189576.d.html</link>
-            <guid>2107703</guid>
-            <pubDate>Tue, 06 Apr 2021 14:03:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：伊朗方面称，核问题谈判将在专家级别的会谈中继续。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa8189411.d.html</link>
-            <guid>2107701</guid>
-            <pubDate>Tue, 06 Apr 2021 14:02:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国2月JOLTS职位空缺 736.7万人，预期 690万人，前值 691.7万人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk5331958.d.html</link>
-            <guid>2107698</guid>
-            <pubDate>Tue, 06 Apr 2021 14:00:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[金川公司于2021年4月6日将金川镍出厂价由125500元/吨上调至127800元/吨，涨幅2300元。 (长江有色网)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk5331780.d.html</link>
-            <guid>2107695</guid>
-            <pubDate>Tue, 06 Apr 2021 13:58:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
