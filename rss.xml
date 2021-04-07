@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 07 Apr 2021 23:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Apr 2021 23:30:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[广东省卫健委：4月7日0-24时，全省新增境外输入确诊病例1例，佛山报告，来自伊拉克。新增境外输入无症状感染者3例，广州报告2例，均来自马来西亚；佛山报告1例，来自尼泊尔。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8427443.d.html</link>
+            <guid>2110559</guid>
+            <pubDate>Wed, 07 Apr 2021 23:26:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲地中海地震中心：阿根廷内乌肯发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8427190.d.html</link>
+            <guid>2110557</guid>
+            <pubDate>Wed, 07 Apr 2021 23:23:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【多家头部券商发力布局基金市场 持有公募基金牌照的券商系队伍已达14家】目前，公募基金业务已成为券商资管业务转型的重要发力点之一。近期，多家券商发力布局公募基金市场。其中，中信证券、中金公司拟设立资管子公司并申请公募牌照，中信建投对中信建投基金的持股比例将由55%增加至75%。（证券日报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8426758.d.html</link>
@@ -247,30 +259,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8415070.d.html</link>
             <guid>2110475</guid>
             <pubDate>Wed, 07 Apr 2021 19:26:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  加拿大安大略省宣布从周四开始实施为期四周的居家令，关闭除杂货店和药房外的所有零售商店。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8413605.d.html</link>
-            <guid>2110458</guid>
-            <pubDate>Wed, 07 Apr 2021 18:52:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  推特小幅拉升，涨幅扩大至3.66%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8413542.d.html</link>
-            <guid>2110457</guid>
-            <pubDate>Wed, 07 Apr 2021 18:50:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  推特：人们最终可能会在推特上完成购物交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5556261.d.html</link>
-            <guid>2110456</guid>
-            <pubDate>Wed, 07 Apr 2021 18:49:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  巴西总统博索纳罗：计划重新提出取消商业流转燃油税的法案。会干涉巴西国家石油公司，但有可能改变定价政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5556231.d.html</link>
-            <guid>2110455</guid>
-            <pubDate>Wed, 07 Apr 2021 18:48:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
