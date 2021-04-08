@@ -4,13 +4,20 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 08 Apr 2021 23:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Apr 2021 23:28:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[7时01分，我国在太原卫星发射中心用长征四号乙运载火箭，成功将试验六号03星发射升空，卫星顺利进入预定轨道。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8629166.d.html</link>
+            <guid>2111875</guid>
+            <pubDate>Thu, 08 Apr 2021 23:26:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【二倍体粮食作物黑麦基因组图谱绘成】目前世界上二倍体粮食作物中最复杂的黑麦基因组的高质量精细物理图谱，由河南农业大学科研团队牵头绘制完成。相关论文在最新一期的国际学术期刊《自然·遗传学》上发麦。有关专家认为，图谱的构建对麦类等作物遗传改良有重要指导作用，未来有望更加高效地培育出拥有高产、抗病、抗寒等优秀性状的小麦新品种。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5770655.d.html</link>
             <guid>2111874</guid>
             <pubDate>Thu, 08 Apr 2021 23:24:58 GMT</pubDate>
         </item>
