@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 08 Apr 2021 01:08:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Apr 2021 01:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：新西兰克马德克群岛发生5.1级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5590503.d.html</link>
+            <guid>2110641</guid>
+            <pubDate>Thu, 08 Apr 2021 01:16:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[人民币中间价报6.5463，下调79点，上一交易日中间价报6.5384，在岸人民币上一交易日收报6.5460。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5590155.d.html</link>
+            <guid>2110640</guid>
+            <pubDate>Thu, 08 Apr 2021 01:15:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[从海南海事局获悉，该局近日向海南莱福士海洋工程管理有限公司核发了符合证明，这表明该公司通过了安全管理体系审核，可开展相关业务。这是海南自贸港首家获批相关业务资质的外商独资航运企业。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8447562.d.html</link>
+            <guid>2110639</guid>
+            <pubDate>Thu, 08 Apr 2021 01:14:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中国银行间市场交易商协会发布关于银行间市场信用违约互换指数编制及交易有关事项的通知（试行）。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8445163.d.html</link>
@@ -259,18 +277,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8422599.d.html</link>
             <guid>2110528</guid>
             <pubDate>Wed, 07 Apr 2021 22:29:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【优布局调结构 国企兼并重组提速】近段时间，作为国有资本布局优化和产业结构调整的重要方式之一，新一轮国企兼并重组提速，更多新动作正在酝酿。业内指出，今年是“十四五”开局之年，也是国企改革三年行动的关键之年，国有企业有望迎来持续的并购重组高潮，尤其是地方国资将有更大的动作和步伐。从产业来看，化工、钢铁、煤电、信息、医疗健康等将是重点领域，战略新兴产业也将加码布局。（经参）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8422199.d.html</link>
-            <guid>2110527</guid>
-            <pubDate>Wed, 07 Apr 2021 22:20:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【白宫正考虑将奥巴马时代承诺的温室气体减排目标提高近一倍】知情人士透露，白宫正考虑承诺在本十年结束时将美国温室气体排放量减少50%或更多，这一目标将比该国先前的承诺提高近一倍，并且需要在电力、交通等领域实现巨大变化。知情者表示，上述减排目标仍处于制定阶段，并有可能出现变动。该计划是白宫推动世界采取行动以保持全球平均温度相比工业化前水平上升不超过1.5摄氏度努力的一部分。拜登政府料将在本月晚些时候举行的气候峰会之前公布该目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5564728.d.html</link>
-            <guid>2110524</guid>
-            <pubDate>Wed, 07 Apr 2021 22:16:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
