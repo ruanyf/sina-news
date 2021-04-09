@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 09 Apr 2021 18:33:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Apr 2021 19:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[生物制药公司Sorrento Therapeutics(SRNE.O)小幅拉涨，此前美国食品药品监督管理局批准公司的止疼贴片ZTlido的扩大生产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8814757.d.html</link>
+            <guid>2112999</guid>
+            <pubDate>Fri, 09 Apr 2021 19:10:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：希望可以看到一份两党支持的预算。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8814243.d.html</link>
+            <guid>2112988</guid>
+            <pubDate>Fri, 09 Apr 2021 18:59:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：沃尔玛任命JULIA UNGER为金融服务副总裁，发言人表示，UNGER不会加入金融科技公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8814237.d.html</link>
+            <guid>2112986</guid>
+            <pubDate>Fri, 09 Apr 2021 18:58:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据外媒，Greensill基金贷款中使用的可疑发票引发了欺诈担忧。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8813808.d.html</link>
+            <guid>2112984</guid>
+            <pubDate>Fri, 09 Apr 2021 18:48:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国参议员桑德斯：担心国防预算膨胀。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8813515.d.html</link>
+            <guid>2112983</guid>
+            <pubDate>Fri, 09 Apr 2021 18:41:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：道达尔位于德州亚瑟港的催化裂化装置将关闭四至五周进行维修。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk5954742.d.html</link>
@@ -336,29 +366,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8800211.d.html</link>
             <guid>2112888</guid>
             <pubDate>Fri, 09 Apr 2021 15:17:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：美国就菲利普亲王的逝世向女王、王室和所有英国人表示“最深切的哀悼”。]]></title>
-            <guid>2112886</guid>
-            <pubDate>Fri, 09 Apr 2021 15:17:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  消息人士：美国总统拜登下周一将与美国国会议员就2.3万亿美元的基础设施和就业方案举行会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5941876.d.html</link>
-            <guid>2112885</guid>
-            <pubDate>Fri, 09 Apr 2021 15:17:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国家药监局：祛斑美白化妆品须通过人体功效评价试验】据国家药监局官网9日发布的《#化妆品功效宣称评价规范#》，具有祛斑美白、防晒、防脱发、祛痘、滋养和修护功效的化妆品，应当通过人体功效评价试验方式进行功效宣称评价。具有祛斑美白、防晒和防脱发功效的化妆品，应当由化妆品注册和备案检验机构按照强制性国家标准、技术规范的要求开展人体功效评价试验，并出具报告。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8799637.d.html</link>
-            <guid>2112879</guid>
-            <pubDate>Fri, 09 Apr 2021 15:09:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登的预算寻求在2022财年增加7690亿美元的非国防可自由支配支出，比2021财年水平增加16%；增加7530亿美元的国防支出，较2021财年增加1.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8799558.d.html</link>
-            <guid>2112877</guid>
-            <pubDate>Fri, 09 Apr 2021 15:07:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
