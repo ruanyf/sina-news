@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 10 Apr 2021 21:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Apr 2021 22:29:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【白马股玩闪崩“接力赛”！业绩披露期“抱团股”走势分化，基本面成试金石！】从美年健康4月6日“闪崩”跌停开始，近期已经有美年健康、华海药业、顺丰控股等行业龙头接连出现股价大幅下跌的“接力赛”。从市场分分析来看，业绩不达预期成为资金出逃的主要理由。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-11/detail-ikmyaawa8972805.d.html</link>
+            <guid>2114035</guid>
+            <pubDate>Sat, 10 Apr 2021 22:23:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【突遭利空！苹果被诉专利侵权 iPhone 12躺枪】近期，苹果等公司成为了专利侵权诉讼的“热门被告”。据媒体报道称，日前，专利授权公司Red Rock向美国得州南区地方法院提起诉讼，指控高通5G无线收发器侵犯该公司的专利。由于iPhone 12和iPhone 12 Pro使用了高通5G基带，也集成了被指控侵权的收发器技术，因此苹果也被列为被告。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-11/detail-ikmxzfmk6112379.d.html</link>
+            <guid>2114032</guid>
+            <pubDate>Sat, 10 Apr 2021 21:47:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【净流出超50亿元！北向资金大调仓】本周市场震荡下跌，上证指数、深证成指、创业板指分别累计下跌0.97%、2.19%、2.42%。北向资金在4月1日-4月6日暂停交易。Choice数据显示，4月7日开始恢复交易的北向资金本周持续减仓，累计净流出53.25亿元。其中沪股通资金净流出57.57亿元，深股通资金净流入4.32亿元。（中国证券报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-11/detail-ikmyaawa8970065.d.html</link>
@@ -269,18 +281,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6077140.d.html</link>
             <guid>2113936</guid>
             <pubDate>Sat, 10 Apr 2021 11:56:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【今年或继续创下新高 户用光伏“十四五”有望加速跑】在9日举行的首届户用光伏创新发展论坛上，中国光伏行业协会名誉理事长王勃华表示，去年户用光伏市场蓬勃发展，纳入补贴规模的户用项目已达10.1吉瓦，创下了历史新高，成为光伏新增装机中最大的亮点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8934245.d.html</link>
-            <guid>2113932</guid>
-            <pubDate>Sat, 10 Apr 2021 11:33:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【公募大佬最新持仓变动曝光 傅鹏博青睐周期股、赵诣加仓芯片股】随着上市公司一季报披露，部分基金经理持仓情况也得以曝光。睿远基金傅鹏博加仓高能环境、新进万华化学成为前十大流通股股东，表现出对周期股的青睐。去年股基冠军赵诣大幅加仓振芯科技。但在医药股通策医疗的操作上，明星基金经理操作略显分化，张坤、归凯减持，但葛兰却加了仓，此外，高毅资产孙庆瑞管理的高毅庆瑞6号瑞行基金，新进成为通策医疗前十大股东。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8933879.d.html</link>
-            <guid>2113931</guid>
-            <pubDate>Sat, 10 Apr 2021 11:28:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
