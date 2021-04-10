@@ -4,11 +4,40 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 10 Apr 2021 14:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Apr 2021 15:28:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【也门政府军和胡塞武装交火致58人死亡】也门联合政府一名官员10日说，过去24小时，政府军与胡塞武装在也门中部马里卜省发生激烈交火，至少25名政府军士兵和33名胡塞武装成员死亡。这名不愿透露姓名的官员还说，在沙特阿拉伯主导的多国联军空中火力支援下，政府军“成功击退了胡塞武装”。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6093896.d.html</link>
+            <guid>2113976</guid>
+            <pubDate>Sat, 10 Apr 2021 15:23:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟提议美欧互免部分关税，为期6个月】据德国《明镜》杂志当地时间4月9日报道，负责欧盟贸易事务的专员瓦尔迪斯·东布罗夫斯基斯表示，欧盟已经向美国提议互免6个月的部分商品关税。（央视新闻客户端）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8951605.d.html</link>
+            <guid>2113971</guid>
+            <pubDate>Sat, 10 Apr 2021 15:02:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【海马汽车与航天科技集团签署氢能战略合作协议】海马汽车与中国航天科技集团有限公司101研究所在海口签署战略合作协议，将共建海南首座水制氢及高压加氢一体化站，并计划于今年10月前建成投放运营。此外，双方还将在制氢设施和加氢站建设、液氢制备与储运技术应用、氢能汽车开发和示范推广以及海南自贸港氢能产业建设发展等方面开展合作。]]></title>
+            <guid>2113969</guid>
+            <pubDate>Sat, 10 Apr 2021 14:53:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[云南瑞丽市4月11日起开展第三轮全员核酸检测，此次核酸检测的对象为瑞丽市全体居民。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8949736.d.html</link>
+            <guid>2113968</guid>
+            <pubDate>Sat, 10 Apr 2021 14:35:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【IDC：2021年第一季度全球传统PC出货量同比增长55.2%】IDC全球季度个人计算设备跟踪报告的初步结果显示，2021年第一季度全球传统PC出货量同比增长55.2%，其中包括台式机、笔记本和工作站。2021年第一季度，全球PC出货量达到8400万台，较2020年第四季度小幅下降8%。虽然环比下跌是第一季度的典型表现，但自2012年第一季度PC市场环比下跌7.5%以来，还未出现过如此小的跌幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6090584.d.html</link>
+            <guid>2113967</guid>
+            <pubDate>Sat, 10 Apr 2021 14:33:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【熙菱信息：2021年第一季度预盈1900万元-2050万元 同比扭亏】①熙菱信息(300588)4月10日发布业绩预告，公司2021年第一季度归属上市公司股东的净利润为1900万元-2050万元，同比扭亏；②主要因第一季度客户回款理想，及公司转让杭州熙菱信息部分股权产生的投资收益。]]></title>
             <guid>2113965</guid>
@@ -300,29 +329,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6044882.d.html</link>
             <guid>2113857</guid>
             <pubDate>Sat, 10 Apr 2021 07:18:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印尼气象、气候和地球物理局：（印尼）地震暂无海啸威胁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6044810.d.html</link>
-            <guid>2113856</guid>
-            <pubDate>Sat, 10 Apr 2021 07:17:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【肖钢：中国经济并不属于“K型”发展，而是整体向上增长趋势】 证监会原主席肖钢表示，同时也应当看到，我国经济恢复仍然存在不平衡的情况。他指出，我国经济存在结构性不平衡的现象，既有与全球经济发展共同的原因，也有自身独特的因素。（中证网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6043273.d.html</link>
-            <guid>2113849</guid>
-            <pubDate>Sat, 10 Apr 2021 07:02:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【习近平夫妇就菲利普亲王逝世向英国女王伊丽莎白二世致唁电】2021年4月10日，国家主席习近平和夫人彭丽媛向英国女王伊丽莎白二世致唁电，对菲利普亲王逝世表示深切的哀悼，并向女王及家人致以诚挚的慰问。（央视新闻）]]></title>
-            <guid>2113845</guid>
-            <pubDate>Sat, 10 Apr 2021 06:49:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【习近平夫妇就菲利普亲王逝世向英国女王伊丽莎白二世致唁电】2021年4月10日，国家主席习近平和夫人彭丽媛向英国女王伊丽莎白二世致唁电，对菲利普亲王逝世表示深切的哀悼，并向女王及家人致以诚挚的慰问。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6041894.d.html</link>
-            <guid>2113844</guid>
-            <pubDate>Sat, 10 Apr 2021 06:48:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
