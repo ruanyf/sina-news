@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 10 Apr 2021 20:26:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Apr 2021 21:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【净流出超50亿元！北向资金大调仓】本周市场震荡下跌，上证指数、深证成指、创业板指分别累计下跌0.97%、2.19%、2.42%。北向资金在4月1日-4月6日暂停交易。Choice数据显示，4月7日开始恢复交易的北向资金本周持续减仓，累计净流出53.25亿元。其中沪股通资金净流出57.57亿元，深股通资金净流入4.32亿元。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-11/detail-ikmyaawa8970065.d.html</link>
+            <guid>2114030</guid>
+            <pubDate>Sat, 10 Apr 2021 21:16:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国工业协会主席：再次封锁和停产将对德国造成巨大损失】4月10日，德国工业协会BDI主席鲁斯乌尔姆在接受德国媒体采访时表示，再次封锁和停产将对德国经济造成巨大损失，“关闭工业生产需要至少一周的时间，因为仍有许多卡车已经在运输的路上，化工厂不能在一夜之间关闭，高温炉也不能紧急关闭，这些都需要时间。而等到锁定结束后，受影响的供应链又将需要数周的时间才能恢复正常。四周的工业停产损失的不仅是时间，而是更多。这很容易使我们今年的国内生产总值（GDP）增长遭受重大打击，这样我们将无法弥补去年所受的损失。”（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-11/detail-ikmxzfmk6109993.d.html</link>
+            <guid>2114022</guid>
+            <pubDate>Sat, 10 Apr 2021 20:26:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【安哥拉延长国家公共灾难状态至5月10日】据安哥拉通讯社当地时间9日报道，安哥拉总统洛伦索颁布总统令，将该国的公共灾难状态延长至5月10日，总统令于4月11日0时生效。此外，该总统令规定，在公共灾难状态期间继续延长罗安达省的卫生防疫封锁状态，同时还公布了安哥拉公共服务、私人服务部门以及社会机构的运营规定。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-11/detail-ikmyaawa8967989.d.html</link>
@@ -269,36 +281,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8933879.d.html</link>
             <guid>2113931</guid>
             <pubDate>Sat, 10 Apr 2021 11:28:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯副外长：俄罗斯希望美国遏制乌克兰方面加剧冲突的政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8931545.d.html</link>
-            <guid>2113924</guid>
-            <pubDate>Sat, 10 Apr 2021 11:05:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯副外长：莫斯科没有也不打算与华盛顿就乌克兰问题进行外长和防长级别接触。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6072255.d.html</link>
-            <guid>2113920</guid>
-            <pubDate>Sat, 10 Apr 2021 10:59:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯副外长：俄罗斯敦促美国对乌克兰周边局势采取更负责任的态度，而非加剧紧张局势。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6071994.d.html</link>
-            <guid>2113919</guid>
-            <pubDate>Sat, 10 Apr 2021 10:55:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加密货币交易所Coinbase：目前正在调查导致提币延迟的问题，存币未受影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6069909.d.html</link>
-            <guid>2113916</guid>
-            <pubDate>Sat, 10 Apr 2021 10:35:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“超级供地”模式开启！金额可能上万亿】 近期，包括杭州、长沙、重庆、北京、天津、广州等在内的多个城市公布了第一批次的商品住宅用地出让安排。多数城市一次供地数量超过30宗，有的甚至达到上百宗，部分城市一次挂牌土地金额就达到或接近千亿元。今年的第一批次集中供地，就有可能形成价值上万亿元的土地交易。同策研究院研究总监宋红卫表示，截至4月2日，已有16城出台了集中供地相关政策。传统楼市成交“小阳春”（3月、4月）及“金九银十”（9月、10月）是集中供地期。（国是直通车）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6068800.d.html</link>
-            <guid>2113913</guid>
-            <pubDate>Sat, 10 Apr 2021 10:22:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
