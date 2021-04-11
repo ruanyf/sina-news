@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 11 Apr 2021 19:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Apr 2021 20:26:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【北京整顿虚假签收等快递末端服务问题】为切实加强快递末端投递服务规范管理，维护用户合法权益，保障快递服务质量，日前，北京市邮政管理局印发通知，在全市范围内组织开展为期3个月的快递末端投递服务专项治理工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-12/detail-ikmyaawa9115650.d.html</link>
+            <guid>2116091</guid>
+            <pubDate>Sun, 11 Apr 2021 20:24:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯索契机场发布消息称，飞往圣彼得堡的客机于22点24分在索契机场成功降落，机组人员之前报告客机发生失封故障。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-12/detail-ikmyaawa9114935.d.html</link>
+            <guid>2116086</guid>
+            <pubDate>Sun, 11 Apr 2021 20:05:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【IC封测企业业绩大爆发 百亿扩产正密集筹划】半导体产业的高景气度，在日前陆续披露的芯片上市公司年报以及一季报业绩陆续彰显。不仅晶圆厂，下游芯片封装测试厂也多表示产能供不应求。与此同时，记者注意到，自2020年以来，多家封测厂已经披露了定增募资计划，总规模超过百亿元，用于存储、车载等封测领域。同时，上游设计厂也积极参与封测厂定增。 (证券时报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-12/detail-ikmyaawa9114178.d.html</link>
+            <guid>2116083</guid>
+            <pubDate>Sun, 11 Apr 2021 19:47:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Google秘密执行过"伯南克计划" 用第三方竞价数据为广告系统牟利】据报道，Google曾经秘密执行过一个名为 “伯南克计划”的秘密项目，该项目依靠从使用从广告商那里收集的竞价数据来为公司自己的广告系统牟利。这一计划首先由新闻通讯社MLex发现，该项目名称在Google在德克萨斯州反垄断诉讼的一部分提交的一份未编辑的文件中可见。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-12/detail-ikmyaawa9114102.d.html</link>
+            <guid>2116082</guid>
+            <pubDate>Sun, 11 Apr 2021 19:44:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟和英国在北爱尔兰地区的贸易规则问题上正取得进展】英国和欧盟就脱欧之后如何在北爱尔兰实施贸易规则的谈判正在取得进展，这让人们燃起了达成协议的希望，该协议可能有助于缓解贝尔法斯特街头暴力升级的紧张局势。双方官员表示，近几天的密切接触让人有理由乐观地认为，英欧双方能够就如何实施《北爱尔兰议定书》拟定一份工作计划，该协定为北爱尔兰地区与大不列颠之间的货物流动设定了脱欧后的条款。欧盟脱欧事务专员Sefcovic和英国脱欧事务专员Frost可能于本周会面，评估进展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-12/detail-ikmyaawa9113886.d.html</link>
+            <guid>2116081</guid>
+            <pubDate>Sun, 11 Apr 2021 19:37:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国参议员KLOBUCHAR和LEE在早些时候在信中批评了苹果公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-12/detail-ikmxzfmk6254302.d.html</link>
+            <guid>2116080</guid>
+            <pubDate>Sun, 11 Apr 2021 19:27:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[以色列国防部长GANTZ：伊朗对以色列和整个中东构成威胁。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-12/detail-ikmyaawa9113465.d.html</link>
@@ -252,52 +288,6 @@
             <title><![CDATA[  科兴中维：克尔来福在全球接种近1.3亿剂次，未观察到抗体依赖性增强效应。（海外网）]]></title>
             <guid>2115856</guid>
             <pubDate>Sun, 11 Apr 2021 13:53:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源部长格兰霍姆：拜登总统愿意就支出计划的结构进行谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-11/detail-ikmyaawa9092381.d.html</link>
-            <guid>2115781</guid>
-            <pubDate>Sun, 11 Apr 2021 13:42:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源部长格兰霍姆：拜登总统希望在夏季之前完成基建计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-11/detail-ikmyaawa9091957.d.html</link>
-            <guid>2115740</guid>
-            <pubDate>Sun, 11 Apr 2021 13:37:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国基民盟和基社盟将于周一举行高层领导会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-11/detail-ikmyaawa9091642.d.html</link>
-            <guid>2115709</guid>
-            <pubDate>Sun, 11 Apr 2021 13:33:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国基社盟党首Soeder：已经准备好竞选总理。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-11/detail-ikmyaawa9091430.d.html</link>
-            <guid>2115681</guid>
-            <pubDate>Sun, 11 Apr 2021 13:30:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国基社盟党首Soeder：消极的民调结果对基民盟而言是切实的挑战。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-11/detail-ikmyaawa9091303.d.html</link>
-            <guid>2115675</guid>
-            <pubDate>Sun, 11 Apr 2021 13:29:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  从大数据公司奥维云网获悉，苏泊尔灶具2020年全网销售额第一。 （家电消费网）]]></title>
-            <guid>2115650</guid>
-            <pubDate>Sun, 11 Apr 2021 13:26:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新东方发布2022考研白皮书：预计未来考研人数将持续增长】4月10日，新东方《2022中国大学生考研白皮书》发布会在京举行。易观分析总裁刘怡在会上表示，考研人数的逐年攀升，是政策、经济、社会、技术等因素共同驱动的结果。易观分析预测，在上述因素驱动下，未来研究生报考人数还将继续保持增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-11/detail-ikmxzfmk6230975.d.html</link>
-            <guid>2115598</guid>
-            <pubDate>Sun, 11 Apr 2021 13:20:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  金时科技：2020年实现营业收入6.39亿元，同比增长9.37%；实现归属于上市公司股东的净利润1.89亿元，同比增长4.86%；基本每股收益0.47元。公司拟向全体股东每10股派发现金红利1.5元（含税）。]]></title>
-            <guid>2115530</guid>
-            <pubDate>Sun, 11 Apr 2021 13:14:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
