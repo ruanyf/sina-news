@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 12 Apr 2021 18:40:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Apr 2021 19:27:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[法拉第未来宣布将在其定位于极致奢华旗舰产品FF 91电动车上搭载英伟达NVIDIA Drive Orin平台。FF将在未来的FF 81和FF 71车型上配备更先进的自动驾驶和停车功能。这两款同样搭载NVIDIA DRIVE Orin自动驾驶平台的车型预计分别于2023年和2024年上市。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6455613.d.html</link>
+            <guid>2117922</guid>
+            <pubDate>Mon, 12 Apr 2021 19:19:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利准备新的400亿欧元经济刺激方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6455572.d.html</link>
+            <guid>2117921</guid>
+            <pubDate>Mon, 12 Apr 2021 19:17:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士：高盛(GS.N)的风险部门正在研究2021年主要市场事件以吸取教训，高盛合规、风险管理人士希望更好地为像ARCHEGOS爆仓这样的市场事件做好准备。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9314404.d.html</link>
+            <guid>2117919</guid>
+            <pubDate>Mon, 12 Apr 2021 19:09:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[热塑型树脂生产商Braskem S.A.(BAK.N)盘中涨超7%，此前金融博客网站《巴西日报》报道有潜在的竞标者。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6453829.d.html</link>
@@ -301,18 +319,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-12/detail-ikmyaawa9301772.d.html</link>
             <guid>2117714</guid>
             <pubDate>Mon, 12 Apr 2021 15:52:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【湖南省与国务院发展研究中心签署战略合作框架协议】今天下午，湖南省与国务院发展研究中心签署战略合作框架协议。省委书记、省人大常委会主任许达哲，省委副书记、省长毛伟明会见了国务院发展研究中心党组书记马建堂一行。马建堂、毛伟明分别代表双方签约。根据协议，双方将本着“优势互补、资源共享、合作共赢、共同发展”的原则，在推进重大战略决策咨询、联合举办重要会议论坛、基层调研点建设、经济形势监测网络建设、干部人才交流培养等方面深化合作，并建立沟通联络、交流合作机制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-12/detail-ikmyaawa9301487.d.html</link>
-            <guid>2117712</guid>
-            <pubDate>Mon, 12 Apr 2021 15:48:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：爱立信(ERIC.O)、沃达丰(VOD.O)将在德国主要城市部署5G独立网络。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-12/detail-ikmyaawa9300334.d.html</link>
-            <guid>2117704</guid>
-            <pubDate>Mon, 12 Apr 2021 15:32:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

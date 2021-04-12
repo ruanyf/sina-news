@@ -6,6 +6,27 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 2117922,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6455613.d.html",
+            "title": "法拉第未来宣布将在其定位于极致奢华旗舰产品FF 91电动车上搭载英伟达NVIDIA Drive Orin平台。FF将在未来的FF 81和FF 71车型上配备更先进的自动驾驶和停车功能。这两款同样搭载NVIDIA DRIVE Orin自动驾驶平台的车型预计分别于2023年和2024年上市。",
+            "date_modified": "2021-04-12T19:19:11.000Z"
+        },
+        {
+            "id": 2117921,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6455572.d.html",
+            "title": "  意大利准备新的400亿欧元经济刺激方案。",
+            "date_modified": "2021-04-12T19:17:54.000Z"
+        },
+        {
+            "id": 2117919,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9314404.d.html",
+            "title": "  消息人士：高盛(GS.N)的风险部门正在研究2021年主要市场事件以吸取教训，高盛合规、风险管理人士希望更好地为像ARCHEGOS爆仓这样的市场事件做好准备。",
+            "date_modified": "2021-04-12T19:09:59.000Z"
+        },
+        {
             "id": 2117882,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6453829.d.html",
@@ -347,20 +368,6 @@
             "url": "https://finance.sina.cn/7x24/2021-04-12/detail-ikmyaawa9301772.d.html",
             "title": "  Piper Sandler：将麦当劳(MCD.N)的目标价从209美元上调至225美元，同时维持中性评级。",
             "date_modified": "2021-04-12T15:52:46.000Z"
-        },
-        {
-            "id": 2117712,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-12/detail-ikmyaawa9301487.d.html",
-            "title": "  【湖南省与国务院发展研究中心签署战略合作框架协议】今天下午，湖南省与国务院发展研究中心签署战略合作框架协议。省委书记、省人大常委会主任许达哲，省委副书记、省长毛伟明会见了国务院发展研究中心党组书记马建堂一行。马建堂、毛伟明分别代表双方签约。根据协议，双方将本着“优势互补、资源共享、合作共赢、共同发展”的原则，在推进重大战略决策咨询、联合举办重要会议论坛、基层调研点建设、经济形势监测网络建设、干部人才交流培养等方面深化合作，并建立沟通联络、交流合作机制。",
-            "date_modified": "2021-04-12T15:48:55.000Z"
-        },
-        {
-            "id": 2117704,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-12/detail-ikmyaawa9300334.d.html",
-            "title": "  市场消息：爱立信(ERIC.O)、沃达丰(VOD.O)将在德国主要城市部署5G独立网络。",
-            "date_modified": "2021-04-12T15:32:56.000Z"
         }
     ]
 }
