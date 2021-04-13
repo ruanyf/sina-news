@@ -4,11 +4,22 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 13 Apr 2021 23:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Apr 2021 23:26:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【35家手机产业链公司一季度业绩预喜】数据显示，截至4月13日晚间，A股手机产业链已有35家公司发布一季度业绩预告，全部预喜。券商预计，今年智能手机出货量将迎来高增长，5G手机渗透率将进一步提升，射频、元器件等领域公司业绩增长确定性较高。]]></title>
+            <guid>2120379</guid>
+            <pubDate>Tue, 13 Apr 2021 23:26:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国得州电网运营商不认为需要进入电网紧急情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmyaawa9528773.d.html</link>
+            <guid>2120377</guid>
+            <pubDate>Tue, 13 Apr 2021 23:21:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【今日在售高收益银行理财产品一览】今日业绩比较基准在4%以上的银行人民币理财产品共3款。理财非存款、产品有风险、投资须谨慎！]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmxzfmk6668831.d.html</link>
@@ -192,12 +203,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmxzfmk6659892.d.html</link>
             <guid>2120278</guid>
             <pubDate>Tue, 13 Apr 2021 20:19:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据苏丹国家通讯社(SUNA)：苏丹总理呼吁埃及和埃塞俄比亚总统在10天内举行三国峰会，就埃塞俄比亚复兴大坝谈判进行评估。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmxzfmk6659797.d.html</link>
-            <guid>2120275</guid>
-            <pubDate>Tue, 13 Apr 2021 20:16:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
