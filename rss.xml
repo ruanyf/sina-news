@@ -4,11 +4,65 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 13 Apr 2021 18:38:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Apr 2021 19:25:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coinbase(COIN.O)：A类普通股预计将于2021年4月14日在纳斯达克开始交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmxzfmk6657397.d.html</link>
+            <guid>2120249</guid>
+            <pubDate>Tue, 13 Apr 2021 19:17:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coinbase(COIN.O)：截至2021年4月12日，已发行的A类普通股有1.307亿股，已发行的B类普通股有6850万股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmxzfmk6657385.d.html</link>
+            <guid>2120248</guid>
+            <pubDate>Tue, 13 Apr 2021 19:17:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coinbase(COIN.O)：宣布发行1.307亿股A类股票，完全稀释后，流通股为2.613亿股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmxzfmk6657355.d.html</link>
+            <guid>2120247</guid>
+            <pubDate>Tue, 13 Apr 2021 19:16:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国“赖特案”涉事警察、警察局长递交辞职信】当地时间4月13日，明尼苏达州布鲁克林中心市长迈克·埃利奥特（Mike Elliott）在新闻发布会上表示，开枪射击非洲裔男子当特·赖特并致其身亡的警察金·波特（Kim Potter）和布鲁克林中心警察局局长蒂姆·加农（Tim Gannon）已经递交辞职信。埃利奥特表示，他尚未接受波特的辞职，市长办公室正在对该案件进行进一步审查。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmxzfmk6656972.d.html</link>
+            <guid>2120240</guid>
+            <pubDate>Tue, 13 Apr 2021 19:04:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大卫生部：将继续对过去14天到过巴西的旅客加强审查措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmxzfmk6656966.d.html</link>
+            <guid>2120239</guid>
+            <pubDate>Tue, 13 Apr 2021 19:04:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[媒体消息：美国贸易代表会见了美国工会领导人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmyaawa9515587.d.html</link>
+            <guid>2120236</guid>
+            <pubDate>Tue, 13 Apr 2021 18:52:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股AI板块涨幅居前，Palantir(PLTR.N)涨4.41%，人工智能技术公司Veritone(VERI.O)涨2.86%，C3.ai(AI.N)涨2.29%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmxzfmk6656402.d.html</link>
+            <guid>2120235</guid>
+            <pubDate>Tue, 13 Apr 2021 18:50:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ICE布伦特6月原油期货实盘价格周二收涨0.39美元，涨幅0.62%，报63.67美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmxzfmk6656006.d.html</link>
+            <guid>2120233</guid>
+            <pubDate>Tue, 13 Apr 2021 18:41:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国NYMEX 5月原油期货实盘价格周二收涨0.48美元，涨幅0.8%，报60.18美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmyaawa9515134.d.html</link>
+            <guid>2120232</guid>
+            <pubDate>Tue, 13 Apr 2021 18:41:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【水泥价格持续调涨迎旺季，多家上市公司一季度业绩大增】清明节后，水泥价格再次提涨。受需求增加、价格普涨的影响，多家水泥行业上市公司交出亮眼的2021年一季度成绩单或业绩预告。浙江晓德律师事务所创始人陈文明主任接受《证券日报》记者采访时表示：“进入二季度，全国基建项目集中开工，且重大项目较多，水泥作为必需品，价格上涨是必然的。”（证券日报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmxzfmk6655296.d.html</link>
@@ -145,54 +199,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmxzfmk6650977.d.html</link>
             <guid>2120165</guid>
             <pubDate>Tue, 13 Apr 2021 16:56:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[路威酩轩CFO：葡萄酒和烈酒可能受益于美国的经济刺激。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmyaawa9509670.d.html</link>
-            <guid>2120148</guid>
-            <pubDate>Tue, 13 Apr 2021 16:48:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：印尼特尔纳特以西143千米处发生5.1级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmxzfmk6650322.d.html</link>
-            <guid>2120144</guid>
-            <pubDate>Tue, 13 Apr 2021 16:44:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【秘鲁一长途客车发生翻车事故 造成至少20死14伤】当地时间12日，一辆长途客车在秘鲁北部安卡什省发生交通事故，造成至少20人死亡，14人受伤。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmxzfmk6650076.d.html</link>
-            <guid>2120143</guid>
-            <pubDate>Tue, 13 Apr 2021 16:41:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议员Toomey：可能会在基础设施上花费更多资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmyaawa9508882.d.html</link>
-            <guid>2120140</guid>
-            <pubDate>Tue, 13 Apr 2021 16:38:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[丰田汽车小幅走低，涨幅缩窄至0.37%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmxzfmk6649483.d.html</link>
-            <guid>2120135</guid>
-            <pubDate>Tue, 13 Apr 2021 16:34:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【吉利据悉考虑路特斯进军中国电动汽车市场 最早或于明年IPO】吉利汽车正考虑融资约10亿美元，以帮助其标志性的英国运动赛车业务路特斯进军中国电动汽车市场。知情人士称，吉利汽车正在与顾问们合作，试探潜在投资者对一轮融资的兴趣，该轮融资对路特斯电动汽车业务的估值可能在50亿美元左右。除了此次融资，吉利还考虑最早于明年让路特斯或其电动汽车业务进行IPO，如果上市，整个业务估值可能超过150亿美元。知情人士称，目前相关事项仍在考虑中，规模和时间等细节可能发生变化。对此，吉利的一名代表拒绝置评，路特斯没有立即置评。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmyaawa9508554.d.html</link>
-            <guid>2120134</guid>
-            <pubDate>Tue, 13 Apr 2021 16:34:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：丰田汽车正在对VENZA威飒汽车进行安全召回，本次召回约27.9万辆VENZA威飒汽车。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmxzfmk6649465.d.html</link>
-            <guid>2120133</guid>
-            <pubDate>Tue, 13 Apr 2021 16:33:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  路威酩轩CFO：蒂芙尼公布的第一季度销售额以美元计算增长了约8%至9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmyaawa9508512.d.html</link>
-            <guid>2120132</guid>
-            <pubDate>Tue, 13 Apr 2021 16:33:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
