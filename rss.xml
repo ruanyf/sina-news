@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 14 Apr 2021 20:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Apr 2021 21:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  戴尔盘后一度涨超9%，现涨8.14%，报100.25美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmyaawa9723575.d.html</link>
+            <guid>2122627</guid>
+            <pubDate>Wed, 14 Apr 2021 21:00:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全国加码楼市调控“一天一策”，强力“输出”缓解楼市躁动 】中原地产研究中心统计数据显示，今年以来，全国楼市调控政策发布数量已经超过140条，单月数量超过40条，平均每天1.3条。据观察，在“房住不炒”总基调下，这些政策核心聚焦在严查经营贷等违规资金流入、人才落户、土地供应、整顿中介等方面。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk6864209.d.html</link>
+            <guid>2122626</guid>
+            <pubDate>Wed, 14 Apr 2021 21:00:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫：美国总统拜登与德国总理默克尔今日就俄罗斯、乌克兰以及阿富汗问题进行了谈话。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmyaawa9723556.d.html</link>
+            <guid>2122625</guid>
+            <pubDate>Wed, 14 Apr 2021 20:59:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[富国银行CFO：预计第二季度抵押贷款发放规模将强劲。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmyaawa9722624.d.html</link>
@@ -216,29 +234,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmyaawa9718817.d.html</link>
             <guid>2122536</guid>
             <pubDate>Wed, 14 Apr 2021 18:34:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[得克萨斯州电力可靠性委员会（ERCOT）：电网形势严峻，目前大约有33000兆瓦的发电机停止运行。]]></title>
-            <guid>2122530</guid>
-            <pubDate>Wed, 14 Apr 2021 18:25:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reddit表示了解到问题并正在修复。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk6858712.d.html</link>
-            <guid>2122528</guid>
-            <pubDate>Wed, 14 Apr 2021 18:23:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福特汽车(F.N)：全球芯片短缺导致工厂在4月19日和26日这两周停工。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk6858490.d.html</link>
-            <guid>2122527</guid>
-            <pubDate>Wed, 14 Apr 2021 18:20:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  苹果跌1.9%，特斯拉跌2.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmyaawa9717401.d.html</link>
-            <guid>2122518</guid>
-            <pubDate>Wed, 14 Apr 2021 18:11:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
