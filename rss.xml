@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 15 Apr 2021 20:26:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Apr 2021 21:24:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  市场消息：提供网站排名和竞争性数据分析的网络平台SimilarWeb提交IPO申请文件，拟申请将其普通股在纽交所上市，代码为SMWB。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmxzfmk7074284.d.html</link>
+            <guid>2124699</guid>
+            <pubDate>Thu, 15 Apr 2021 21:19:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：俄罗斯（通往欧洲西部的）天然气输送管道项目北溪二号仍然是一个问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmxzfmk7073365.d.html</link>
+            <guid>2124695</guid>
+            <pubDate>Thu, 15 Apr 2021 21:06:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰证交所（NZX）：将延长周五（4月16日）的交易时段，以适应标普清洁能源指数的再平衡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawa9931610.d.html</link>
+            <guid>2124692</guid>
+            <pubDate>Thu, 15 Apr 2021 20:49:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国将敦促印度削减针对威士忌和汽车的关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmxzfmk7072571.d.html</link>
+            <guid>2124691</guid>
+            <pubDate>Thu, 15 Apr 2021 20:49:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家橄榄球联盟(NFL)与DraftKings(DKNG.O)、凯撒娱乐(CZR.O)以及体育游戏公司FanDuel达成新的博彩协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawa9931587.d.html</link>
+            <guid>2124690</guid>
+            <pubDate>Thu, 15 Apr 2021 20:48:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【摩根大通将发行130亿美元债券 创银行发债纪录最大规模】摩根大通将发行130亿美元的债券，从而创下银行发债历史最大规模。一位知情者表示，此次发债将分五部分进行，其中期限最长的是31年期债券，预计收益率将比美国国债高出107个基点。此次发债的一天前，摩根大通公布了强劲的第一季度业绩。竞争对手高盛也在周四发行债券。据知情人士透露，此次发行的认购金额达到约260亿美元。包括今天的发行在内，摩根大通今年已在投资级美元债券市场募集了220亿美元，超过其他任何美国的主要银行。彭博行业研究分析师Arnold Kakuda认为，此次巨额债券发行可能与摩根大通的法定流动资金比率要求有关，此前补充杠杆比率（SLR）的宽免措施在3月份到期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmxzfmk7072555.d.html</link>
+            <guid>2124689</guid>
+            <pubDate>Thu, 15 Apr 2021 20:48:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  市场消息：软银为瑞士信贷(CS.N)的投资者提供的现金流向了Greensill Capital。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmxzfmk7071655.d.html</link>
@@ -270,17 +306,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmxzfmk7057074.d.html</link>
             <guid>2124600</guid>
             <pubDate>Thu, 15 Apr 2021 16:07:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国抵押贷款利率降至一个月以来的最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawa9915484.d.html</link>
-            <guid>2124596</guid>
-            <pubDate>Thu, 15 Apr 2021 16:04:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国贸易代表Tai：工作是推动“大胆的”贸易改革，以应对气候变化，确保整个供应链使用清洁能源。美墨加协定（USMCA）在解决环境挑战的经济成本和气候变化的影响方面做得还不够。制止非法采伐和解决过度捕捞是世贸组织面临的重大挑战。投资界要求更多关于公司气候和环境风险的信息。我的工作是推动“大胆的”贸易改革，以应对气候变化，确保整个供应链使用清洁能源。]]></title>
-            <guid>2124595</guid>
-            <pubDate>Thu, 15 Apr 2021 16:03:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
