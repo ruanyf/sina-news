@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 15 Apr 2021 18:40:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Apr 2021 19:26:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  据Fox Business：美国共和党就拜登的基建计划提出了6500亿美元的提案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawa9928122.d.html</link>
+            <guid>2124668</guid>
+            <pubDate>Thu, 15 Apr 2021 19:20:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴黎地铁出现一人自焚 目前状况不详】据法国《费加罗报》报道，当地时间4月15日17时50分（北京时间15日23时50分）左右，巴黎地铁二号线皮嘉乐站（Pigalle）一人自焚，一位乘客立即拿起灭火器进行扑救。消防员，救生员等随后达到现场。目前法国警方暂没有对该事件表态。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmxzfmk7068456.d.html</link>
+            <guid>2124666</guid>
+            <pubDate>Thu, 15 Apr 2021 19:06:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【刹不住车的“铜牛”，成本传导致白电价格淡季反涨】 工业金属、塑料等原材料的大幅上涨，直接推升了家电等下游行业成本的提升。走访发现，空调、冰箱等白色家电产品价格均有不同程度上调，同时包括美的、格力、奥克斯等企业也从去年末开始陆续上调产品价格。据奥维云网、德邦研究所数据显示，按线上渠道统计，2020年二季度美的冰箱销售均价为2252元，至今年一季度（前11周）均价已升至2539元，同期格力空调销售均价则从2821元涨至3546元。（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawa9927438.d.html</link>
+            <guid>2124665</guid>
+            <pubDate>Thu, 15 Apr 2021 19:05:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【腾讯将分四部分发行价值41.5亿美元的债券】腾讯据悉将发行41.5亿美元的美元债券，这是亚洲今年规模最大的美元债券发行之一。据一位知情人士透露，截至纽约时间早上10点，腾讯收到了略高于220亿美元的需求，从而得以收紧了这宗由四部分组成的交易的定价。对美元债券发行的需求一开始低迷，后来有所改善，因为据说相关公司已准备好资金偿还4月27日到期的债券。知情人士说，发行期限最长的40年期债券将比美国国债高出165个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawa9926355.d.html</link>
+            <guid>2124660</guid>
+            <pubDate>Thu, 15 Apr 2021 18:47:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  摩根大通(JPM.N)现涨0.23%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawa9926244.d.html</link>
+            <guid>2124659</guid>
+            <pubDate>Thu, 15 Apr 2021 18:44:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国总统拜登：零售销售和汽车销售数据的情况正在发生变化。 我们还有很长的路要走，但是美国正在复苏。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawa9926003.d.html</link>
@@ -252,60 +282,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmyaawa9911682.d.html</link>
             <guid>2124572</guid>
             <pubDate>Thu, 15 Apr 2021 15:10:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【覆铜板大厂起火，目前新埔厂已全厂断电并停工】综合媒体报道，4月14凌晨，铜箔基板厂（CCL）联茂新埔厂一楼前段生产区发生火警，所幸事故并无造成人员伤亡，火势已在14日03:45完全控制。联茂执行长蔡馨暳指出，目前新埔厂已全厂断电并停工。该公司直言，新埔厂的部分产能短期势必会受到影响，但由于江西新工厂的产能持续开出中，可支援新埔厂转单，认为此次火灾造成的冲击不大。据了解，联茂新埔厂约占联茂集团总产能5％到6％，目前新埔厂因火灾停产， 4月开始加入量产的联茂江西二期新厂可望弥补新埔厂停工的产能。（国际电子商情）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk7052019.d.html</link>
-            <guid>2124568</guid>
-            <pubDate>Thu, 15 Apr 2021 15:03:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【花旗大幅收缩亚洲、欧洲、中东、非洲零售银行业务】花旗将退出在澳大利亚、巴林、中国、印度、印度尼西亚、韩国、马来西亚、菲律宾、波兰、俄罗斯、泰国和越南的零售银行业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk7051976.d.html</link>
-            <guid>2124567</guid>
-            <pubDate>Thu, 15 Apr 2021 15:02:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：Apple Fitness+将为孕妇和老年人提供运动锻炼服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk7051853.d.html</link>
-            <guid>2124566</guid>
-            <pubDate>Thu, 15 Apr 2021 15:01:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【吉利打造电动汽车Zeekr  与苹果等科技巨头争锋】吉利汽车(00175.HK)将凭借新的Zeekr 电动汽车，挑战同样有意进军电动汽车市场的苹果和小米等科技巨头。吉利总裁安聪慧接受彭博电视采访时表示，公司将Zeekr 汽车视为移动终端，目标是为用户提供超出预期的产品和体验。吉利用四年时间研发出第一辆Zeekr 001汽车，并将于9月开始交付，目标是第四季度销售最高8,000辆。安聪慧称，在新增两款车型后，预计2022年销量将增至超过5万辆。中国电动汽车新贵蔚来汽车去年销量约为43,700辆，小鹏汽车约为27,000辆。安聪慧表示，公司目标是将Zeekr打造为全球品牌，计划2022年底或2023年初开始向欧洲出口，然后是美国。他表示，再接下来，公司有可能在海外进行首次公开募股。安聪慧称，首次公开募股是未来潜在选择之一，Zeekr是一个全球品牌，理应对所有上市地点持开放态度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk7051656.d.html</link>
-            <guid>2124565</guid>
-            <pubDate>Thu, 15 Apr 2021 14:59:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：美国旅游业的全面需求和收入复苏预计要到2024年才会实现。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk7051351.d.html</link>
-            <guid>2124562</guid>
-            <pubDate>Thu, 15 Apr 2021 14:56:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股抗癌医药股集体上涨，Merrimack制药涨超8%，Inovio制药盘中一度涨17%，Seagen涨超4%，精密科学涨超2%，Biogen制药涨近2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk7050895.d.html</link>
-            <guid>2124560</guid>
-            <pubDate>Thu, 15 Apr 2021 14:51:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰外交部长：欢迎美国对俄罗斯的制裁，以追究俄罗斯在克里米亚的占领和侵犯人权行为的责任。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk7050881.d.html</link>
-            <guid>2124559</guid>
-            <pubDate>Thu, 15 Apr 2021 14:51:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波罗的海干散货运价指数升至逾一年来的最高水平】因各类船舶的需求走强，波罗的海干散货运价指数周四涨145点或6.7%，至2323点，为2019年9月12日以来的最高水平。海岬型船运价指数上涨232点或7.4%至3383点，为去年10月9日以来的最高水平，海岬型船日均获利上涨1925美元至28056美元。巴拿马型船运价指数上涨217点或10.8%，报2234点，为4月7日以来的最高水平，巴拿马型船日均获利上涨1953美元至20110美元。超灵便型船运价指数上涨28点，报1811点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmyaawa9909591.d.html</link>
-            <guid>2124558</guid>
-            <pubDate>Thu, 15 Apr 2021 14:49:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货黄金涨幅扩大到1.69%，续刷2月26日以来高点至1765.79美元/盎司，较日低回升超31美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk7050575.d.html</link>
-            <guid>2124557</guid>
-            <pubDate>Thu, 15 Apr 2021 14:49:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
