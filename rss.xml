@@ -4,11 +4,63 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 15 Apr 2021 19:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Apr 2021 20:26:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  市场消息：软银为瑞士信贷(CS.N)的投资者提供的现金流向了Greensill Capital。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmxzfmk7071655.d.html</link>
+            <guid>2124687</guid>
+            <pubDate>Thu, 15 Apr 2021 20:26:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国铝业公司(AA.N)盘后涨1.89%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawa9930281.d.html</link>
+            <guid>2124682</guid>
+            <pubDate>Thu, 15 Apr 2021 20:12:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国铝业公司(AA.N)：第一季度销售额28.7亿美元，市场预估26.2亿美元。第一季度调整后每股收益79美分，市场预估44美分。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmxzfmk7071131.d.html</link>
+            <guid>2124681</guid>
+            <pubDate>Thu, 15 Apr 2021 20:12:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：ROKU(ROKU.O)完成收购尼尔森AVA业务的交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmxzfmk7070896.d.html</link>
+            <guid>2124680</guid>
+            <pubDate>Thu, 15 Apr 2021 20:06:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FAANMG均收涨，苹果领涨，涨约1.8%；芯片股普涨，半导体板块ETF涨1.6%，英伟达、AMD涨超5%。新能源汽车行业股普遍收跌，遭沽空固态电池公司QuantumScape跌12%。]]></title>
+            <guid>2124678</guid>
+            <pubDate>Thu, 15 Apr 2021 20:06:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本2月所持美国国债减少185亿美元至1.26万亿美元，为最近七个月里第六次录得减少。中国2月所持美债规模增至2019年7月以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmxzfmk7070744.d.html</link>
+            <guid>2124677</guid>
+            <pubDate>Thu, 15 Apr 2021 20:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国北达科他州2月石油产量较1月份下降6.4万桶/日至108.3万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmxzfmk7069698.d.html</link>
+            <guid>2124673</guid>
+            <pubDate>Thu, 15 Apr 2021 19:35:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[台积电目前下跌2.5%，该公司一季度净利润超预期；该公司Fab14 P7厂区14日因邻近工程不慎挖断管线造成跳电。集邦咨询表示，目前该厂区平均月产能占台积电12英寸总产能约4%；占全球12英寸产能约2%。该公司称正在评估停电的影响。]]></title>
+            <guid>2124672</guid>
+            <pubDate>Thu, 15 Apr 2021 19:34:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国在线券商Robinhood：完全打算继续为广大客户服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawa9928545.d.html</link>
+            <guid>2124670</guid>
+            <pubDate>Thu, 15 Apr 2021 19:29:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  据Fox Business：美国共和党就拜登的基建计划提出了6500亿美元的提案。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawa9928122.d.html</link>
@@ -229,59 +281,6 @@
             <title><![CDATA[美国贸易代表Tai：工作是推动“大胆的”贸易改革，以应对气候变化，确保整个供应链使用清洁能源。美墨加协定（USMCA）在解决环境挑战的经济成本和气候变化的影响方面做得还不够。制止非法采伐和解决过度捕捞是世贸组织面临的重大挑战。投资界要求更多关于公司气候和环境风险的信息。我的工作是推动“大胆的”贸易改革，以应对气候变化，确保整个供应链使用清洁能源。]]></title>
             <guid>2124595</guid>
             <pubDate>Thu, 15 Apr 2021 16:03:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GBS(GBS.O)涨超5%，获批准开始SARS-CoV-2快速诊断试验的验证性临床研究。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmyaawa9913424.d.html</link>
-            <guid>2124583</guid>
-            <pubDate>Thu, 15 Apr 2021 15:35:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州住建部门严肃查处一批房地产市场违法违规行为】近期，广州市住建部门在全市范围内开展房地产市场专项检查行动，进一步整顿和规范房地产市场秩序，促进行业依法规范经营，切实维护购房群众合法权益。今年以来，广州市住建部门已组织开展日常房地产市场检查231次，检查在售项目669个，发出整改通知书20份；共检查中介机构576家，发出整改通知书47份。其中：3月18-25日开展了房地产市场乱象整治行动专项检查，重点检查涉及乱象的房地产开发项目7个。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk7054013.d.html</link>
-            <guid>2124582</guid>
-            <pubDate>Thu, 15 Apr 2021 15:28:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【花旗一季度利润创纪录高位 得益于股票交易和SPAC上市承销业务】花旗集团(C.N)股票交易业务虽在一众华尔街巨头中规模较小，但事实证明其实力不容小觑，提振公司季度盈利达到前所未见的水平。花旗一季度股票交易收入达2009年以来最高，股票承销费用收入增长三倍，得益于该行在特殊目的收购公司(SPAC)上市业务中的主导地位。这抵消了花旗固定收益交易部门收入下滑的影响。花旗表示，作为首席执行官Jane Fraser评估公司战略的一部分，将退出亚洲、欧洲、中东和非洲地区13个市场的零售银行业务。这两则消息提振花旗股价在纽约早盘一度上涨3%。2021年初另一个亮点是花旗银行卡消费止跌回升，一季度增长1%。尽管如此，由于消费者进行储蓄并避免积累新债，这家全球最大信用卡发行商的卡类业务余额仍下降了14%。]]></title>
-            <guid>2124581</guid>
-            <pubDate>Thu, 15 Apr 2021 15:27:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【海洋王：预计上半年净利润同比增长25%-45%】海洋王发布2021年一季报、上半年业绩预报、2020年年报，2021年上半年预计净利润约7124.6万元~8264.52万元，同比增长25%-45%。公司重点聚焦LED等新光源、新技术在传统市场的换代升级，发挥LED、激光等新光源、新技术产品的组合优势。2021年一季度净利润2731.06万元，同比增长103.37%。2020年净利润3.01亿元，同比增长16.9%；营业收入17.04亿元，同比增长14.03%；基本每股收益0.4011元；拟10派1.5388元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmyaawa9912739.d.html</link>
-            <guid>2124580</guid>
-            <pubDate>Thu, 15 Apr 2021 15:24:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯延长飞往英国航班禁令至6月1日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmyaawa9912730.d.html</link>
-            <guid>2124579</guid>
-            <pubDate>Thu, 15 Apr 2021 15:24:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【受天气影响 首都机场已取消航班29架次】北京首都机场航班起降受到天气影响，截至22时，首都机场全天计划保障航班1065架次，目前已取消29架次，已执行843架次。首都机场提示广大旅客关注往来目的地的天气和航班动态，及时与所乘航班的航空公司取得联系，合理安排出行计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmyaawa9912724.d.html</link>
-            <guid>2124578</guid>
-            <pubDate>Thu, 15 Apr 2021 15:23:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国民主党议员要求美国疾病控制与预防中心(CDC)执行巡航限制措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmyaawa9912685.d.html</link>
-            <guid>2124576</guid>
-            <pubDate>Thu, 15 Apr 2021 15:23:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[文件草案：意大利将把政府对贷款的担保从此前的6月底延长到今年年底。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk7053151.d.html</link>
-            <guid>2124575</guid>
-            <pubDate>Thu, 15 Apr 2021 15:15:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【苹果发起成立2亿美元碳清除基金：有适合项目会考虑在华投资】4月15日，苹果(AAPL.O)宣布了一项名为 Restore Fund 的碳清除计划，该计划将投资于森林保护项目，从而清除大气中的碳，同时为投资者带来财务回报。苹果副总裁、大中华区董事总经理葛越在接受记者采访时表示，尽管苹果已经在全球的运营排放实现碳中和，但公司还有一个宏大的目标，到 2030 年要在整个供应链和产品实现 100% 的碳中和。“我们计划在 2030 年前将供应链和 产品碳排放减少75%。至于剩下25%的碳排放，将由这个基金通过从大气中清除等量的碳来解决。”葛越称，新基金会在全球范围内寻求满足在生态保护，碳减排和经济回报上的要求的合适项目，如果有适合的项目肯定会考虑在中国投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmyaawa9911682.d.html</link>
-            <guid>2124572</guid>
-            <pubDate>Thu, 15 Apr 2021 15:10:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
