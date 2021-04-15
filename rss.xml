@@ -4,11 +4,59 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 15 Apr 2021 16:50:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Apr 2021 17:45:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：基建计划可能会以较小的规模获得通过，国会将制定出下一步的方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmxzfmk7063575.d.html</link>
+            <guid>2124640</guid>
+            <pubDate>Thu, 15 Apr 2021 17:27:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apollo考虑在美国佛罗里达州拓展业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmxzfmk7063562.d.html</link>
+            <guid>2124638</guid>
+            <pubDate>Thu, 15 Apr 2021 17:27:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quantumscape(QS.N)跌幅扩大至15%，此前遭Scorpion Capital的沽空，Scorpion Capital称这家公司与最近曝光的其他SPAC欺诈没有什么不同。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmxzfmk7062228.d.html</link>
+            <guid>2124632</guid>
+            <pubDate>Thu, 15 Apr 2021 17:06:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫：美国总统拜登和韩国总统文在寅将在五月下旬举行会晤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawa9920784.d.html</link>
+            <guid>2124630</guid>
+            <pubDate>Thu, 15 Apr 2021 17:01:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国共和党议员Collins：拜登总统的基建提议有三个问题。 拜登总统的基建计划成本太高了。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmxzfmk7061378.d.html</link>
+            <guid>2124629</guid>
+            <pubDate>Thu, 15 Apr 2021 16:54:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ICE欧盟碳排放交易许可（期货价格）收涨1.46%，报44.40欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmxzfmk7061075.d.html</link>
+            <guid>2124628</guid>
+            <pubDate>Thu, 15 Apr 2021 16:50:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经参头版头条：重磅举措连发，开放高地建设按下“加速键”】 据悉，包括继续完善市场准入制度、推进贸易自由化便利化、制定跨境服务贸易负面清单、优化调整进口税收等一系列开放政策已排上日程。深圳、横琴等承载国家重大区域战略的地区，以及自贸试验区、自由贸易港等开放平台将在更多领域加快探索。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawa9919941.d.html</link>
+            <guid>2124627</guid>
+            <pubDate>Thu, 15 Apr 2021 16:50:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【部分城市银行二手房贷款“暂停接单”，房贷利率上浮最高达6%以上】 调查获悉，个别二三线城市房贷不仅利率有上浮，甚至有暂停受理二手房房贷业务的情况。“额度控制的很严，放款时间至少要三个月到六个月。”不少银行工作人员表示：“我们行也只与指定的一两家中介公司进行合作。”融360大数据研究院对全国41个重点城市674家银行分支机构房贷利率的监测数据显示，2021年2月20日至2021年3月18日，全国首套房贷款平均利率为5.28%，环比上涨2BP；二套房贷款平均利率为5.57%，环比上涨1BP。从某国有行个贷经理口中得知，该行的房贷利率近期已经上调，目前首套和二套房利率上调之后均在6%以上。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawa9919467.d.html</link>
+            <guid>2124623</guid>
+            <pubDate>Thu, 15 Apr 2021 16:44:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【媒体调查：拜登基建计划的支持率远低于1.9万亿美元刺激计划】 CNBC最新“全美经济调查”结果显示，仅仅36%的受访美国民众支持总统拜登规模为2.25万亿美元的整体性基建开支计划，反对人数占比为39%，31%的受访对象称所知不多、所以无法发表看法，受访样本数为802人；但民众似乎压倒性地支持基建计划的所有细节，比如，对道路和桥梁问题解决方案的支持率为87%，对老年人护理机构加薪的支持率为82%，对改善“信息高速公路”的支持率为78%。相比之下，刺激计划（ARPA）的支持率高达72%左右。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmxzfmk7060146.d.html</link>
@@ -264,66 +312,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmyaawa9906873.d.html</link>
             <guid>2124542</guid>
             <pubDate>Thu, 15 Apr 2021 14:25:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利官员：2021年意大利债务将达到GDP的159.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmyaawa9906746.d.html</link>
-            <guid>2124539</guid>
-            <pubDate>Thu, 15 Apr 2021 14:24:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全局、美国联邦调查局、美国中央情报局正式谴责俄罗斯情报机构。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk7047588.d.html</link>
-            <guid>2124538</guid>
-            <pubDate>Thu, 15 Apr 2021 14:23:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国警告称俄罗斯正在对五个漏洞进行黑客攻击。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk7047509.d.html</link>
-            <guid>2124537</guid>
-            <pubDate>Thu, 15 Apr 2021 14:23:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股新能源汽车股集体下跌，理想汽车、小鹏汽车跌超6%，蔚来汽车跌超4%，特斯拉跌近1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmyaawa9906573.d.html</link>
-            <guid>2124536</guid>
-            <pubDate>Thu, 15 Apr 2021 14:22:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  维珍银河跌超10%，维珍集团董事长理查德·布兰森出售了价值超过1.5亿美元的股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmyaawa9906383.d.html</link>
-            <guid>2124535</guid>
-            <pubDate>Thu, 15 Apr 2021 14:21:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利官员：预计意大利2021年GDP增长4.1%，目标为4.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmyaawa9905993.d.html</link>
-            <guid>2124533</guid>
-            <pubDate>Thu, 15 Apr 2021 14:18:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：意大利的目标是在2022年将债务与GDP之比降至156.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmyaawa9905985.d.html</link>
-            <guid>2124532</guid>
-            <pubDate>Thu, 15 Apr 2021 14:18:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Coinbase(COIN.O)盘中转跌1.7%，今日一度涨近5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk7046777.d.html</link>
-            <guid>2124530</guid>
-            <pubDate>Thu, 15 Apr 2021 14:16:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：乌克兰方面表示，俄罗斯使黑海局势升级。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk7046720.d.html</link>
-            <guid>2124529</guid>
-            <pubDate>Thu, 15 Apr 2021 14:16:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货黄金站上1760美元/盎司，美股黄金板块普涨，哈莫尼黄金(HMY.N)涨超5%，巴里克黄金(GOLD.N)、纽蒙特矿业(NEM.N)涨超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmyaawa9905236.d.html</link>
-            <guid>2124524</guid>
-            <pubDate>Thu, 15 Apr 2021 14:11:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
