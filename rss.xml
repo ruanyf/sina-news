@@ -4,11 +4,58 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 16 Apr 2021 19:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Apr 2021 20:26:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美股经纪商Robinhood：此前系统中断的原因是狗狗币交易激增。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0137222.d.html</link>
+            <guid>2126721</guid>
+            <pubDate>Fri, 16 Apr 2021 20:23:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  水滴公司：计划申请在纽交所上市，代码为“WDH”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0137196.d.html</link>
+            <guid>2126720</guid>
+            <pubDate>Fri, 16 Apr 2021 20:22:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  水滴公司表示农银国际、招商证券(香港)、华兴资本、高盛、摩根士丹利、美银证券等将是此次IPO的承销商。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0137195.d.html</link>
+            <guid>2126719</guid>
+            <pubDate>Fri, 16 Apr 2021 20:22:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家航空航天局（NASA）：将选择SpaceX负责登月计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmxzfmk7276643.d.html</link>
+            <guid>2126717</guid>
+            <pubDate>Fri, 16 Apr 2021 20:10:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  加拿大信用评级公司DBRS：确认法国评级为AA，前景展望稳定]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0136761.d.html</link>
+            <guid>2126716</guid>
+            <pubDate>Fri, 16 Apr 2021 20:10:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据美国证券交易委员会文件：空白支票公司Golden Path Acquisition Corp.提交IPO申请，拟筹资5000万美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmxzfmk7276002.d.html</link>
+            <guid>2126713</guid>
+            <pubDate>Fri, 16 Apr 2021 19:53:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：4月13日当周，投机者所持NYMEX WTI原油净多头头寸增加8,274手合约，至368,921手合约。投机者所持布伦特和WTI原油净多头头寸增加24,816手合约，至641,931手合约。所持NYMEX汽油净多头头寸减少7,227手合约，至55,957手合约，创最近六周新低；所持NYMEX取暖油净多头头寸增加252手合约，至16,894手合约。所持NYMEX天然气净多头头寸增加17,992手合约，至315,920手合约。]]></title>
+            <guid>2126705</guid>
+            <pubDate>Fri, 16 Apr 2021 19:36:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧盟官员称，预计在维也纳举行的伊核协议谈判将再持续几天，美国和伊朗的代表将回国寻求获得进一步的指示，目前已经到了决策权重返各国的阶段。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmxzfmk7274883.d.html</link>
+            <guid>2126702</guid>
+            <pubDate>Fri, 16 Apr 2021 19:29:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国总统拜登下周将承诺向发展中国家提供气候救助。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmxzfmk7274103.d.html</link>
@@ -240,54 +287,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawc0122233.d.html</link>
             <guid>2126614</guid>
             <pubDate>Fri, 16 Apr 2021 15:23:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Workhorse(WKHS.O)持续拉涨，现涨超17%，投行B. Riley首予Workhorse“买入”评级，目标价20美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmxzfmk7260163.d.html</link>
-            <guid>2126608</guid>
-            <pubDate>Fri, 16 Apr 2021 15:05:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国在线券商Robinhood：大多数客户已经恢复加密货币交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawc0120137.d.html</link>
-            <guid>2126604</guid>
-            <pubDate>Fri, 16 Apr 2021 15:01:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据Electrek：在加州弗里蒙特工厂测试轨道上发现一辆全新的特斯拉Semi原型车和一辆Model X Plaid版。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmxzfmk7259733.d.html</link>
-            <guid>2126603</guid>
-            <pubDate>Fri, 16 Apr 2021 15:01:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：赫兹对冲基金Knighthead的交易持怀疑态度，称提案无法接受。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawc0119608.d.html</link>
-            <guid>2126601</guid>
-            <pubDate>Fri, 16 Apr 2021 14:55:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  明年以前，英国将停止对新的航空航天项目的投标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmxzfmk7259208.d.html</link>
-            <guid>2126600</guid>
-            <pubDate>Fri, 16 Apr 2021 14:54:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【三诺生物：一季度净利润同比减少29.23%】三诺生物发布一季报，一季度归母净利润4496.1万元，同比减少29.23%；营业收入5.03亿元，同比增长18.85%。同日发布2020年年报，归母净利润1.87亿元，同比减少25.45%；营业收入20.15亿元，同比增长13.33%；基本每股收益0.3341元；拟10派2元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawc0119253.d.html</link>
-            <guid>2126599</guid>
-            <pubDate>Fri, 16 Apr 2021 14:50:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[亿邦国际(EBON.O)盘中涨幅持续扩大，现涨超20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawc0118869.d.html</link>
-            <guid>2126597</guid>
-            <pubDate>Fri, 16 Apr 2021 14:47:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小米集团公告，今日回购637.4万股，耗资1.65亿港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-16/detail-ikmyaawc0118726.d.html</link>
-            <guid>2126592</guid>
-            <pubDate>Fri, 16 Apr 2021 14:45:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
