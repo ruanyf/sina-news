@@ -4,11 +4,94 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 16 Apr 2021 23:27:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Apr 2021 01:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coinbase官网显示，Coinbase此前遭遇部分加密货币存取款延迟问题。目前该问题已修复。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0157808.d.html</link>
+            <guid>2127010</guid>
+            <pubDate>Sat, 17 Apr 2021 00:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广西新增1例境外输入无症状感染者 已追踪密接者32例】4月16日0至24时，广西无新增确诊病例、疑似病例和无症状感染者，新增境外输入无症状感染者1例，为入境国际航班中国籍乘客，入境后全程闭环管理，追踪到密切接触者32例。广西现有境外输入确诊病例3例，无症状感染者2例，密切接触者63例。广西累计报告确诊病例270例，累计治愈出院265例，正在治疗3例，死亡2例。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0157222.d.html</link>
+            <guid>2126983</guid>
+            <pubDate>Sat, 17 Apr 2021 00:55:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[推特方面表示，一些用户可能无法加载推文，正在解决此问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0156956.d.html</link>
+            <guid>2126971</guid>
+            <pubDate>Sat, 17 Apr 2021 00:54:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【集运行业淡季变旺 产业链景气度上升】随着全球贸易的强势复苏，波罗的海干散货指数（BDI）近1年来涨幅超过2倍；航运价格以及集装箱量价齐升，新船订单也明显增长，航运板块的周期复苏景象备受关注。记者发现，今年一季度集装箱运输行业淡季不淡，无论是航运企业还是集装箱制造企业，预计景气度有望延续到今年三季度。另一方面，油轮市场海内外市场分化，船舶企业订单增加，不过业绩弹性相对弱于航运与集装箱。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0156940.d.html</link>
+            <guid>2126970</guid>
+            <pubDate>Sat, 17 Apr 2021 00:54:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据监测网络状况的网站DownDetector：用户报告推特出现问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0155186.d.html</link>
+            <guid>2126906</guid>
+            <pubDate>Sat, 17 Apr 2021 00:42:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国家卫健委：昨日报告新增无症状感染者19例（均为境外输入）；当日转为确诊病例2例（均为境外输入）；当日解除医学观察10例（境外输入8例）；尚在医学观察的无症状感染者326例（境外输入309例）。]]></title>
+            <guid>2126800</guid>
+            <pubDate>Sat, 17 Apr 2021 00:16:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今年一季度山东对上合组织成员国进出口超495亿元】记者从海关部门了解到，今年一季度山东对上合组织其他成员国进出口495.1亿元，同比增长22.9%。其中，出口237.5亿元，增长39%；进口257.6亿元，增长11%。（央视新闻客户端）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0149828.d.html</link>
+            <guid>2126773</guid>
+            <pubDate>Sat, 17 Apr 2021 00:02:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[云南省卫健委：4月16日0至24时，云南省新增确诊病例1例，在瑞丽市重点人群核酸检测中发现。确诊病例治愈出院1例（本土病例）、无症状感染者解除隔离医学观察2例（均为本土病例）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0149743.d.html</link>
+            <guid>2126772</guid>
+            <pubDate>Sat, 17 Apr 2021 00:02:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【水滴提交招股书 沈鹏等核心管理层持股比例为26.4% 腾讯持股22.1%】据水滴公司最新披露的招股书显示，IPO前，水滴公司创始人兼CEO沈鹏、水滴保总经理杨光、水滴筹总经理胡尧核心管理层持有26.4%股权。腾讯持股22.1%，此外，博裕资本、高榕资本、瑞士再保险三家机构分别持股11.9%、6.5%、5.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0149423.d.html</link>
+            <guid>2126771</guid>
+            <pubDate>Fri, 16 Apr 2021 23:59:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京连续77天本地0新增】4月16日0时至24时，北京无新增本地确诊病例、疑似病例和无症状感染者；无新增境外输入确诊病例、疑似病例和无症状感染者。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0148691.d.html</link>
+            <guid>2126766</guid>
+            <pubDate>Fri, 16 Apr 2021 23:51:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯禁止8名美国现任和前任官员入境俄罗斯】俄罗斯外交部当地时间16日发布公告，禁止8名美国现任和前任官员入境俄罗斯，包括总检察长加兰德、监狱管理局局长卡瓦哈尔、国土安全部部长马约卡斯、联邦调查局局长瑞伊等。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmxzfmk7288315.d.html</link>
+            <guid>2126765</guid>
+            <pubDate>Fri, 16 Apr 2021 23:48:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息，日本三菱住友（SUMCO）株式会社考虑修建新的晶圆厂。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmxzfmk7287557.d.html</link>
+            <guid>2126764</guid>
+            <pubDate>Fri, 16 Apr 2021 23:39:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马斯克从NASA手中抢得29亿美元载人登月商业合同当天，SpaceX道路偷工减料造成致命事故的案件从州法庭移交至联邦法院】 “钢铁侠”马斯克旗下太空探索公司SpaceX被美国得克萨斯州一个家庭起诉，原告指控马斯克公司的筹备工作造价太低，造成得州一条用于载人登月航天活动的道路安全质量不过关，使得35岁的当地男子Carlos Venegas（原告家人）在一起交通事故中因头部重伤而丧生，其妻子和三名小孩的脊柱和腿部严重受伤。诉状已于2021年4月16日从州法庭移交至联邦法庭。4月16日当天，SpaceX击败贝索斯的蓝色起源（Blue Origin），从美国国家航空航天局（NASA）中标“到2024年将两名美国宇航员送上月球”的商业合同。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0147720.d.html</link>
+            <guid>2126763</guid>
+            <pubDate>Fri, 16 Apr 2021 23:37:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：1、李克强对全国食品安全工作先进集体和先进个人表彰电视电话会议作出重要批示强调，毫不松懈抓好食品安全工作，确保人民群众吃得安全、吃得放心，韩正出席会议并讲话；2、韩正同美国总统气候问题特使克里举行视频会见；3、凝聚发展共识 提振增长信心——国际社会期待博鳌亚洲论坛为世界发展提供新动力；4、胡春华强调，切实抓好春耕生产和抗灾夺丰收工作；5、巩固“稳”的基础，积蓄“进”的力量，守住“保”的底线，一季度国民经济开局良好（经济新方位·一季度数据怎么看）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0147647.d.html</link>
+            <guid>2126762</guid>
+            <pubDate>Fri, 16 Apr 2021 23:36:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【土地市场“两集中” 出让政策效果显现】土地市场近期上演“冰与火”行情。实行“两集中”出让政策地区，土地市场成交趋于平淡。而没有实行该政策的热点地区，土地市场热度不减，超高溢价率地块频繁出现。有的地区除了实施“两集中”政策，还设置了“熔断”“摇号”等机制，为土地市场降温。（中国证券报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmxzfmk7286223.d.html</link>
@@ -235,94 +318,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmxzfmk7272694.d.html</link>
             <guid>2126688</guid>
             <pubDate>Fri, 16 Apr 2021 18:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【被约谈8天后 浙江宁波发布房产调控新政】4月16日晚，浙江宁波住建局等六部门联合发布《关于进一步加强房地产市场调控促进房地产市场平稳健康发展的通知》。《通知》通过扩大限购区域、加强住房交易管理、加大住宅用地供应、严审购房首付资金来源等方式，更好贯彻落实“房子是用来住的、不是用来炒的”定位，坚决抑制房地产投资投机行为，落实“稳地价、稳房价、稳预期”目标，促进宁波市房地产市场平稳健康发展。该《通知》自4月17日起实施。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0131981.d.html</link>
-            <guid>2126681</guid>
-            <pubDate>Fri, 16 Apr 2021 17:58:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通将布伦特原油和WTI原油2022年价格预期分别下调4美元至70美元/桶和66美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0131897.d.html</link>
-            <guid>2126680</guid>
-            <pubDate>Fri, 16 Apr 2021 17:55:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  加密货币投资公司Galaxy Digital创始人Novogratz：狗狗币“确实没有用途”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmxzfmk7270992.d.html</link>
-            <guid>2126677</guid>
-            <pubDate>Fri, 16 Apr 2021 17:46:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：SpaceX公司赢得美国国家航空航天局(NASA)的合同，将建造载宇航员飞往月球的航天器。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmxzfmk7270990.d.html</link>
-            <guid>2126676</guid>
-            <pubDate>Fri, 16 Apr 2021 17:46:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  加密货币投资公司Galaxy Digital创始人Novogratz：NFT（非同质化代币）空间存在一些“疯狂的价格”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0131375.d.html</link>
-            <guid>2126675</guid>
-            <pubDate>Fri, 16 Apr 2021 17:45:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[洲际交易所（ICE）：4月13日当周，投机者所持布伦特原油净多头头寸最近22,654手合约，至292,155手合约，创最近四周新高。投机者所持布伦特汽油净多头头寸增加2,811手合约，至103,063手合约，也创最近四周新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0131290.d.html</link>
-            <guid>2126673</guid>
-            <pubDate>Fri, 16 Apr 2021 17:43:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  加密货币投资公司Galaxy Digital创始人Novogratz：预计在未来几年内，加密货币将占全球财富的3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmxzfmk7270853.d.html</link>
-            <guid>2126672</guid>
-            <pubDate>Fri, 16 Apr 2021 17:42:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会贸易事务主管Dombrovskis：欧盟复苏计划已经进入最终阶段。部分成员国还需额外数周时间来敲定其复苏计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0131120.d.html</link>
-            <guid>2126671</guid>
-            <pubDate>Fri, 16 Apr 2021 17:39:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音(BA.N)直线走低，现跌1.62%。 消息称检查发现，一些波音(BA.N)737 MAX飞机部件存在更广泛的电气接地问题。]]></title>
-            <guid>2126667</guid>
-            <pubDate>Fri, 16 Apr 2021 17:28:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国内政部表示，已下令撤销特朗普政府的12项政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0129552.d.html</link>
-            <guid>2126665</guid>
-            <pubDate>Fri, 16 Apr 2021 17:05:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗外交部发言人谴责美国对俄罗斯施加制裁】据伊朗官方通讯社伊通社当地时间16日报道，伊朗外交部发言人哈蒂布扎德表示，美国针对俄罗斯的制裁是在错误道路上的错误行为，是违反国际准则的，伊朗对此表示谴责。同时他表示，美国惯以虚假借口对其他国家施加制裁，这已经成为了美国的制度化做法。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0129464.d.html</link>
-            <guid>2126664</guid>
-            <pubDate>Fri, 16 Apr 2021 17:03:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase目前涨4%，盘中一度涨超7%；该股被添加至复兴资本（Renaissance Capital）的美国新股ETF-Renaissance中。]]></title>
-            <guid>2126663</guid>
-            <pubDate>Fri, 16 Apr 2021 17:03:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至4月16日当周石油钻井总数为344口，预期为343口，前值为337口。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmxzfmk7268956.d.html</link>
-            <guid>2126662</guid>
-            <pubDate>Fri, 16 Apr 2021 17:02:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ICE欧盟碳排放交易许可（期货价格）收涨1.13%，报44.60欧元，本周累涨2.34%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmyaawc0129057.d.html</link>
-            <guid>2126660</guid>
-            <pubDate>Fri, 16 Apr 2021 16:57:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：Squarespace将以“SQSP”为代码，申请在纽交所上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-17/detail-ikmxzfmk7268354.d.html</link>
-            <guid>2126659</guid>
-            <pubDate>Fri, 16 Apr 2021 16:51:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
