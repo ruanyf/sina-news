@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 18 Apr 2021 18:36:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Apr 2021 19:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据媒体消息，俄罗斯驱逐20名捷克外交官，限其必须在4月19日前离开俄罗斯。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-19/detail-ikmyaawc0440518.d.html</link>
+            <guid>2128976</guid>
+            <pubDate>Sun, 18 Apr 2021 18:55:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[埃及卫生部：火车脱轨事故造成11人死亡，98人受伤。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-19/detail-ikmxzfmk7578228.d.html</link>
@@ -241,12 +247,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0404318.d.html</link>
             <guid>2128825</guid>
             <pubDate>Sun, 18 Apr 2021 11:57:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯方面称将对捷克驱逐俄罗斯外交官的行为是敌对行为。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0403752.d.html</link>
-            <guid>2128816</guid>
-            <pubDate>Sun, 18 Apr 2021 11:54:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
