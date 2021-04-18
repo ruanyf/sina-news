@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 18 Apr 2021 20:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Apr 2021 21:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据美国科技媒体Recode：Facebook计划推出音频社交产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-19/detail-ikmyaawc0443650.d.html</link>
+            <guid>2129062</guid>
+            <pubDate>Sun, 18 Apr 2021 20:30:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[当地时间4月18日，尼日利亚东南部贝努埃州发生一起油罐车爆炸事故，造成至少12人死亡。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-19/detail-ikmxzfmk7582600.d.html</link>
