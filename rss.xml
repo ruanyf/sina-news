@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 18 Apr 2021 16:46:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Apr 2021 17:41:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[媒体消息：周六晚上一辆特斯拉汽车在得州休斯顿北部撞上一棵树，事故导致两名男子死亡。警方初步调查确定该车为无人驾驶车辆，目前调查尚未完成。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-19/detail-ikmyaawc0435019.d.html</link>
+            <guid>2128960</guid>
+            <pubDate>Sun, 18 Apr 2021 17:33:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：克马德克群岛发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-19/detail-ikmyaawc0434773.d.html</link>
+            <guid>2128959</guid>
+            <pubDate>Sun, 18 Apr 2021 17:27:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【海南省政府与中石油、中海油分别签订战略合作协议】据海南日报，4月18日下午，海南省政府在海口分别与中国石油天然气集团有限公司、中国海洋石油集团有限公司签订战略合作协议，根据协议，签约方将在海洋经济、清洁能源、金融贸易、人才服务等领域进行深层次、全方位长期战略合作，建立协同创新、共同发展的合作机制，实现合作共赢。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-19/detail-ikmxzfmk7570272.d.html</link>
@@ -247,42 +259,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7532857.d.html</link>
             <guid>2128654</guid>
             <pubDate>Sun, 18 Apr 2021 10:35:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【腾讯发布自研第四代数智融合计算平台】4月18日，在 “腾讯大数据高峰论坛”上，腾讯正式发布自研第四代数智融合计算平台“腾讯大数据-天工”，该平台以最新的“数据协同、技术互通、平台大脑”技术理念为基础，在确保数据安全这一重要前提下，真正实现万亿级数据分析无人“自动驾驶”，进而推动大数据和人工智能技术融合为一。（36氪）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7532795.d.html</link>
-            <guid>2128651</guid>
-            <pubDate>Sun, 18 Apr 2021 10:34:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列宣布与希腊签署价值16亿美元的国防协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7531875.d.html</link>
-            <guid>2128643</guid>
-            <pubDate>Sun, 18 Apr 2021 10:29:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【总投资30亿元 阿特斯年产10GW单晶硅棒项目落地青海西宁】总投资30亿元的西宁阿特斯光伏科技有限公司年产10GW单晶项目在西宁（国家级）经济技术开发区南川工业园区开工。其中一期建设年产5GW单晶硅棒生产线、二期建设年产5GW单晶硅棒生产线，该项目总投资约30亿元人民币，项目建成达产后，预计实现年产值50亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7530588.d.html</link>
-            <guid>2128642</guid>
-            <pubDate>Sun, 18 Apr 2021 10:23:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家金融与发展实验室理事长李扬：正研究在海南建专利和知识产权交易所】国家金融与发展实验室理事长李扬透露，在海南我们想建一个专利和知识产权的交易所，面向全球的。我们要用金融的手段让专利、知识产权能够可交易。今后我们在海南想做这个事情，用海南自贸港的政策，企业在这里15%的所得税，就有很多头部的可以做这类交易的企业到这里注册，然后他们创造出或者依托他们创造出一些金融产品可以在这里交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7529442.d.html</link>
-            <guid>2128636</guid>
-            <pubDate>Sun, 18 Apr 2021 10:13:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[百度港交所公告：于稳定价格期间在市场按每股200.40港元至252.00港元的价格（不包括1.0%经纪佣金，0.0027%证监会交易徵费及0.005%香港联交所交易费）先后购买合共14,250,000股股份（相当于根据全球发售初步发售的发售股份15%），以向百度控股有限公司退还根据借股协议借入的全部股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0389280.d.html</link>
-            <guid>2128635</guid>
-            <pubDate>Sun, 18 Apr 2021 10:10:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[百度港交所公告：根据国际发售超额分配合共14,250,000股股份，相当于根据全球发售初步发售的发售股份15%（假设并无行使任何超额配股权）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0389230.d.html</link>
-            <guid>2128634</guid>
-            <pubDate>Sun, 18 Apr 2021 10:10:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
