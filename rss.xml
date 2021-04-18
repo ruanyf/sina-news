@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 18 Apr 2021 15:28:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Apr 2021 16:46:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【海南省政府与中石油、中海油分别签订战略合作协议】据海南日报，4月18日下午，海南省政府在海口分别与中国石油天然气集团有限公司、中国海洋石油集团有限公司签订战略合作协议，根据协议，签约方将在海洋经济、清洁能源、金融贸易、人才服务等领域进行深层次、全方位长期战略合作，建立协同创新、共同发展的合作机制，实现合作共赢。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-19/detail-ikmxzfmk7570272.d.html</link>
+            <guid>2128947</guid>
+            <pubDate>Sun, 18 Apr 2021 16:09:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据媒体消息：俄罗斯方面召见捷克大使。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-19/detail-ikmyaawc0429465.d.html</link>
+            <guid>2128945</guid>
+            <pubDate>Sun, 18 Apr 2021 16:03:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据法国当地媒体18日报道，法兰西岛大区（大巴黎地区）的塞纳—马恩省当天发生一起轻型飞机坠毁事故，导致至少4人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0428834.d.html</link>
+            <guid>2128942</guid>
+            <pubDate>Sun, 18 Apr 2021 15:52:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【明起北方多地气温将刷今年新高，最高将达27℃】随着北方多地气温逐渐回暖，中央气象台预计，未来三天，北方大部风力逐渐减弱，以晴好天气为主，明天，华北、东北等多地气温可能会刷新今年以来的新高，预计北京、天津等地最高气温将达到27℃左右。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0427115.d.html</link>
@@ -265,78 +283,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0389230.d.html</link>
             <guid>2128634</guid>
             <pubDate>Sun, 18 Apr 2021 10:10:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华为和奇瑞将基于iDVP合作推出更多新车型】华为车BU于今年3月，与奇瑞集团达成iDVP（智能汽车数字平台）定点合作，联合构建基于SOA的新一代电子电气架构，以加速向软件定义汽车时代迈进，给用户带来常用常新、千车千面的智能化驾乘体验。未来，双方将基于iDVP平台推出更多智能新车型。（选股宝）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7528787.d.html</link>
-            <guid>2128633</guid>
-            <pubDate>Sun, 18 Apr 2021 10:09:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  久之洋：预计2021年一季度归属于上市公司股东的净利润盈利1311.1万元-1359.07万元，比上年同期增长720%-750%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0388770.d.html</link>
-            <guid>2128632</guid>
-            <pubDate>Sun, 18 Apr 2021 10:08:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列2020年全年经济萎缩2.6%，2019年为增长3.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0388527.d.html</link>
-            <guid>2128631</guid>
-            <pubDate>Sun, 18 Apr 2021 10:07:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列计划到2025年停止使用煤炭发电。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7527909.d.html</link>
-            <guid>2128629</guid>
-            <pubDate>Sun, 18 Apr 2021 10:05:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【下周将有13只新股申购 “大肉签”明天上市】根据新股发行安排，下周（4月19日至4月23日）A股将有13只新股申购。其中，下周一可申购的新股数量多达7只。创业板第一高价新股——达瑞电子，将在下周一挂牌上市。达瑞电子的发行价高达168元/股，上市后若涨幅达到100%的话，中一签可赚8.4万元，若涨幅达到120%的话，中一签可赚10万元。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0386882.d.html</link>
-            <guid>2128627</guid>
-            <pubDate>Sun, 18 Apr 2021 10:00:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列设定了2050年能源行业部温室气体排放的目标，计划到2050年将排放降低80％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0385821.d.html</link>
-            <guid>2128625</guid>
-            <pubDate>Sun, 18 Apr 2021 09:55:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗发生5.9级地震，驻伊大使馆：没有中国公民伤亡报告。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7525261.d.html</link>
-            <guid>2128623</guid>
-            <pubDate>Sun, 18 Apr 2021 09:53:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外媒：沙特和伊朗正在直接谈判，或恢复五年前断绝的外交关系】据英国《金融时报》18日报道，据三名知情官员透露，沙特阿拉伯和伊朗的高级官员正就恢复五年前断绝的外交关系进行直接谈判。据报道，4月9日，在伊拉克总理穆斯塔法·卡迪米的斡旋下，在巴格达举行的首轮会谈是两国自2016年以来的“首次重要政治讨论”。知情官员称，会谈内容包括胡塞武装等，进展“积极”，下一轮会谈定于下周举行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0385405.d.html</link>
-            <guid>2128622</guid>
-            <pubDate>Sun, 18 Apr 2021 09:53:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[叙利亚议会称总统选举将于5月26日举行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7522859.d.html</link>
-            <guid>2128617</guid>
-            <pubDate>Sun, 18 Apr 2021 09:38:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【五一发售火车票315万张 是2019年同期的3倍以上】截至17日下午六点，共发售5月1日车票315万张，是2019年同期的3倍以上。今年五一假期，以跨省游为主的长线游非常明显，根据相关数据统计显示，约七成人群选择跨省游。当前，预订五一出行的租车订单比较2019年同期已达到126%的增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0382266.d.html</link>
-            <guid>2128601</guid>
-            <pubDate>Sun, 18 Apr 2021 09:33:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：印度政府将禁止加密货币，对在该国交易甚至持有此类资产的人处以罚款。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7520395.d.html</link>
-            <guid>2128560</guid>
-            <pubDate>Sun, 18 Apr 2021 09:25:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【鸿博股份：将取得广州科语的控制权】鸿博股份公告，拟以现金向广州科语机器人有限公司增资4000万元，占增资后广州科语股权比例为5%，并通过受让广州科语46%股权进而收购广州科语的控制权，广州科语主营业务将增加家庭清洁机器人的生产销售。若公司最终完成本次股权交易，将构成重大资产重组。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0379622.d.html</link>
-            <guid>2128540</guid>
-            <pubDate>Sun, 18 Apr 2021 09:20:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
