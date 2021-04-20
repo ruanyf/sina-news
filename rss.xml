@@ -4,11 +4,131 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 20 Apr 2021 15:29:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Apr 2021 16:49:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[俄罗斯经济部：俄罗斯3月GDP同比增长0.5%，第一季度萎缩1.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-21/detail-ikmyaawc0847107.d.html</link>
+            <guid>2132188</guid>
+            <pubDate>Tue, 20 Apr 2021 16:40:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特斯拉2021年汽车产量、交付量或达100万辆】特斯拉或对2021年实际汽车生产和交付目标保持沉默，供应链消息显示，特斯拉2021年的目标似乎是达到100万辆汽车的产量、交付量。特斯拉供应链的减速齿轮制造商、蓝牙胎压监测系统提供商的信息显示，特斯拉2021年供应目标达100万辆。其2020年产量近51万辆，交付量略低于50万辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-21/detail-ikmyaawc0846825.d.html</link>
+            <guid>2132186</guid>
+            <pubDate>Tue, 20 Apr 2021 16:36:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【媒体：欧盟拟加大AI罚款力度】一份文件草案显示，欧盟可能会根据人工智能（AI）监管规则对一家科技公司处以最高为销售额6%的罚款；欧盟委员会将于周三（4月21日）递交新版AI监管制度。根据旧版草案，欧盟罚款上限为4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-21/detail-ikmxzfmk7987229.d.html</link>
+            <guid>2132185</guid>
+            <pubDate>Tue, 20 Apr 2021 16:31:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：欧盟可能会根据人工智能（AI）监管规则对一家科技公司处以最高为销售额6%的罚款。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-21/detail-ikmxzfmk7987093.d.html</link>
+            <guid>2132184</guid>
+            <pubDate>Tue, 20 Apr 2021 16:30:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：Hulu Live TV服务将提供全国橄榄球联盟电视网频道及直播节目NFL RedZone。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-21/detail-ikmyaawc0846112.d.html</link>
+            <guid>2132183</guid>
+            <pubDate>Tue, 20 Apr 2021 16:27:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度政府发表声明称，印度免除瑞德西韦、瑞德西韦API及其注射剂的关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-21/detail-ikmyaawc0845726.d.html</link>
+            <guid>2132176</guid>
+            <pubDate>Tue, 20 Apr 2021 16:24:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据美国媒体报道，纽约州长岛一超市20日发生枪击事件，造成1死2伤。目前枪手在逃，当地学校已采取封闭措施。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-21/detail-ikmxzfmk7986391.d.html</link>
+            <guid>2132170</guid>
+            <pubDate>Tue, 20 Apr 2021 16:22:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国首相约翰逊：如有必要，将寻求通过立法来阻止欧洲超级联赛。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-21/detail-ikmyaawc0845462.d.html</link>
+            <guid>2132169</guid>
+            <pubDate>Tue, 20 Apr 2021 16:20:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲超级联赛主席弗洛伦蒂诺：欧超联赛将拯救足球。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-21/detail-ikmyaawc0845353.d.html</link>
+            <guid>2132165</guid>
+            <pubDate>Tue, 20 Apr 2021 16:20:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【监管要求瑞信提供Archegos相关股票出售消息】知情人士称，最近几日，瑞士和美国的监管机构要求瑞士信贷提供更多与Archegos资管公司爆仓相关的额外股票出售信息。出售相关股票可能导致额外亏损，超过本月早些时候该行披露的47亿美元，但相比之前的金额，任何额外损失都将是很小的。自披露亏损以来，瑞信一直寻求出售与Archegos相关的大约40亿美元股票，最近一次出售在上周。监管要求提供有关股票出售及潜在损失的信息，以及该行如何管理对Archegos的风险敞口。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-21/detail-ikmxzfmk7986139.d.html</link>
+            <guid>2132164</guid>
+            <pubDate>Tue, 20 Apr 2021 16:19:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国首相约翰逊：旅行禁令名单持续接受审查。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-21/detail-ikmxzfmk7986056.d.html</link>
+            <guid>2132163</guid>
+            <pubDate>Tue, 20 Apr 2021 16:18:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：瑞士信贷出售股票可能导致超出已披露的47亿美元的额外损失。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-21/detail-ikmxzfmk7985343.d.html</link>
+            <guid>2132148</guid>
+            <pubDate>Tue, 20 Apr 2021 16:10:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国监管机构就最近与Archegos Capital相关的股票交易对瑞士信贷进行了质询。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-21/detail-ikmyaawc0844448.d.html</link>
+            <guid>2132146</guid>
+            <pubDate>Tue, 20 Apr 2021 16:09:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SOS跌幅缩窄至1%，签订了575个加密货币矿机的购买协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-21/detail-ikmyaawc0843738.d.html</link>
+            <guid>2132133</guid>
+            <pubDate>Tue, 20 Apr 2021 16:03:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[洛克希德马丁CFO：将在第四季度完成收购美国火箭引擎制造商Aerojet的交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-21/detail-ikmyaawc0843293.d.html</link>
+            <guid>2132124</guid>
+            <pubDate>Tue, 20 Apr 2021 16:00:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉股价反弹，现涨0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0842640.d.html</link>
+            <guid>2132103</guid>
+            <pubDate>Tue, 20 Apr 2021 15:49:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：意大利罗马足球俱乐部强烈反对组建超级俱乐部的计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0842500.d.html</link>
+            <guid>2132097</guid>
+            <pubDate>Tue, 20 Apr 2021 15:47:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[开云集团古驰品牌一季度可比销售增长24.6%，分析师预期增长19.0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7983137.d.html</link>
+            <guid>2132096</guid>
+            <pubDate>Tue, 20 Apr 2021 15:46:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：微软正在为Windows 10开发新的应用商店。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0842300.d.html</link>
+            <guid>2132090</guid>
+            <pubDate>Tue, 20 Apr 2021 15:43:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股抗疫概念股多数走弱，诺瓦瓦克斯医药跌近9%，Moderna跌超5%，BioNTech SE跌近3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0841684.d.html</link>
+            <guid>2132071</guid>
+            <pubDate>Tue, 20 Apr 2021 15:36:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  洛克希德马丁公司：预计2021年的运营现金将超过89亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7981429.d.html</link>
@@ -116,170 +236,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0838695.d.html</link>
             <guid>2132011</guid>
             <pubDate>Tue, 20 Apr 2021 15:00:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  波音CEO米伦伯格：正在与客户和监管机构一起解决737 MAX的电气问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7978921.d.html</link>
-            <guid>2132003</guid>
-            <pubDate>Tue, 20 Apr 2021 14:58:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财务研究与分析中心：将强生目标价上调17美元至177美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7978787.d.html</link>
-            <guid>2131996</guid>
-            <pubDate>Tue, 20 Apr 2021 14:55:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据港交所文件：Battery Metals Technologies向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7978518.d.html</link>
-            <guid>2131990</guid>
-            <pubDate>Tue, 20 Apr 2021 14:53:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[两油期货短线跳水，WTI原油期货扩大至2%，现报62.08美元/桶；布油期货跌1.34%，现报66.06美元/桶。]]></title>
-            <guid>2131987</guid>
-            <pubDate>Tue, 20 Apr 2021 14:53:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联合航空CEO：3月份的销售额比上月增长了69%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7978366.d.html</link>
-            <guid>2131984</guid>
-            <pubDate>Tue, 20 Apr 2021 14:51:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联合航空CEO：在3月份看到了需求出现“拐点”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7978349.d.html</link>
-            <guid>2131983</guid>
-            <pubDate>Tue, 20 Apr 2021 14:51:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音CEO米伦伯格：窄体飞机需求增加显示出国内业务复苏的迹象。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7978173.d.html</link>
-            <guid>2131980</guid>
-            <pubDate>Tue, 20 Apr 2021 14:50:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  哔哩哔哩(BILI.O)：将于美国东部时间2021年5月13日美国股市开盘前（北京时间5月13日晚）发布2021年第一季度财报。财报发布后，管理团队将于美国东部时间5月13日上午8点（北京时间5月13日上午8点）召开电话会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7977893.d.html</link>
-            <guid>2131973</guid>
-            <pubDate>Tue, 20 Apr 2021 14:46:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恐慌指数VIX涨超10%，现报19.08。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0837489.d.html</link>
-            <guid>2131972</guid>
-            <pubDate>Tue, 20 Apr 2021 14:46:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  高盛将中国人保H股评级上调至买入，目标价为3.10港元； 高盛将新华保险H股评级上调至买入，目标价为30.20港元。 高盛将中国太保A股评级下调至卖出，目标价为29.90元人民币。]]></title>
-            <guid>2131969</guid>
-            <pubDate>Tue, 20 Apr 2021 14:45:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中信集团与华为公司签署战略合作协议】今日，中信集团与华为公司在深圳签署战略合作协议。中信集团将为华为公司及其广泛的客户和生态伙伴提供综合金融服务、数字化基础设施建设支持及产业应用与生态创新支持，华为公司将助力中信集团加速数字化转型发展及金融科技创新。双方将在过去合作基础上，发挥各自核心竞争力，谱写紧密合作新篇章。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7977756.d.html</link>
-            <guid>2131968</guid>
-            <pubDate>Tue, 20 Apr 2021 14:45:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【远洋集团将2050年实现“碳中和”写进可持续发展报告】今日，《远洋集团2020年度可持续发展报告》正式发布。报告从健康管理、健康品质、健康环境、健康职场、健康社会五个维度，全面总结与展示了远洋集团“建筑·健康”战略的落地推进。远洋集团承诺，到2050年成为一家“净零排放”的地产企业。在此基础上，远洋集团正式披露了环境中期目标。至2025年，碳排放/能源强度减少35%（以2018年为基准）。2020年度，远洋集团总能源消耗强度较上一年度减少约16.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0837122.d.html</link>
-            <guid>2131963</guid>
-            <pubDate>Tue, 20 Apr 2021 14:41:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中概音视频、内容股集体下跌，腾讯音乐、趣头条、哔哩哔哩跌超4%，爱奇艺跌近4%，欢聚时代跌超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7977174.d.html</link>
-            <guid>2131960</guid>
-            <pubDate>Tue, 20 Apr 2021 14:40:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  ICE欧盟碳排放交易许可（期货价格）上涨1.7%，刷新盘中历史高位至45.12欧元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0835318.d.html</link>
-            <guid>2131942</guid>
-            <pubDate>Tue, 20 Apr 2021 14:24:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【我国最大新能源运行监测服务平台上线运行】今日，全国最大新能源运行监测服务平台，国家电网新能源云正式上线运营，将大大加速我国光伏、风电等新能源的发展。全新上线的国网新能源云，将涉及新能源生产、消费、传输、设备制造、补贴发放等各个环节打通整合，形成了全新的数字化平台。实现了光伏、风电等新能源从规划、建设、并网、消纳、补贴等全流程业务的一站式办理，不仅大大压缩了流程、节约了时间，更为国家加快发展新能源提供了科学参考数据。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0835248.d.html</link>
-            <guid>2131941</guid>
-            <pubDate>Tue, 20 Apr 2021 14:23:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉涨幅扩大至3%，报736.5美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7975004.d.html</link>
-            <guid>2131939</guid>
-            <pubDate>Tue, 20 Apr 2021 14:19:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟方面表示，伊朗核协议参与者将组建第三个专家组。]]></title>
-            <guid>2131937</guid>
-            <pubDate>Tue, 20 Apr 2021 14:16:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：赞比亚预计铜产量将于2024年升至100万吨。]]></title>
-            <guid>2131936</guid>
-            <pubDate>Tue, 20 Apr 2021 14:16:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新西兰至4月20日全球乳制品贸易价格指数公布 -0.1%，前值 0.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0834392.d.html</link>
-            <guid>2131935</guid>
-            <pubDate>Tue, 20 Apr 2021 14:16:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  红宝丽4月20日晚间披露年报，公司2020年实现营业收入为26.11亿元，同比增长9.57%；归母净利润1.2亿元，同比增长34.63%；基本每股收益0.20元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7974452.d.html</link>
-            <guid>2131933</guid>
-            <pubDate>Tue, 20 Apr 2021 14:13:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟方面表示，伊朗核协议参与者将组建第三个专家组。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0834145.d.html</link>
-            <guid>2131932</guid>
-            <pubDate>Tue, 20 Apr 2021 14:13:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：赞比亚预计铜产量将于2024年升至100万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0834086.d.html</link>
-            <guid>2131931</guid>
-            <pubDate>Tue, 20 Apr 2021 14:12:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新华社快讯：菲律宾海岸警卫队20日说，一艘货船在菲律宾东南部海岸搁浅，20名船员失踪。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0833999.d.html</link>
-            <guid>2131930</guid>
-            <pubDate>Tue, 20 Apr 2021 14:12:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据盖洛普调查，去年创纪录的68％的美国成年人表示赞成大麻合法化。在过去十年中，这一数字增长了逾20个百分点，与此同时，美国越来越多的州通过了支持合法大麻的投票倡议。目前美国已有36个州和4个地区批准将大麻用于医疗目的，17个州批准将大麻用于娱乐用途。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0833518.d.html</link>
-            <guid>2131929</guid>
-            <pubDate>Tue, 20 Apr 2021 14:09:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股新能源车股普涨，图森未来、特斯拉涨超2%，蔚来、理想、小鹏汽车均涨超1%；固态电池生产商QuantumScape涨超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0833511.d.html</link>
-            <guid>2131928</guid>
-            <pubDate>Tue, 20 Apr 2021 14:09:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国DAX指数日内下跌1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7973862.d.html</link>
-            <guid>2131927</guid>
-            <pubDate>Tue, 20 Apr 2021 14:08:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世界银行：农产品价格预计较2020年上涨近14%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7973411.d.html</link>
-            <guid>2131924</guid>
-            <pubDate>Tue, 20 Apr 2021 14:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  QuantumScape(QS.N)涨6%，此前大摩称QuantumScape在技术及测试等方面取得积极进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0832820.d.html</link>
-            <guid>2131922</guid>
-            <pubDate>Tue, 20 Apr 2021 14:03:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
