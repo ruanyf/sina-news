@@ -4,11 +4,65 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 23 Apr 2021 18:42:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Apr 2021 19:28:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国白宫气候特使克里：已经针对气候变化问题作出减碳承诺的那些国家的经济体量在全球总体GDP中占比达到55%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1471799.d.html</link>
+            <guid>2139264</guid>
+            <pubDate>Fri, 23 Apr 2021 19:23:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国加州州长纽森：要求研究在2045年之前逐步停止原油开采。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1471497.d.html</link>
+            <guid>2139249</guid>
+            <pubDate>Fri, 23 Apr 2021 19:13:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国加州州长纽森采取措施逐步停止加州原油开采。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8612044.d.html</link>
+            <guid>2139248</guid>
+            <pubDate>Fri, 23 Apr 2021 19:13:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Ocugen(OCGN.O)恢复交易后继续下行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8612040.d.html</link>
+            <guid>2139247</guid>
+            <pubDate>Fri, 23 Apr 2021 19:13:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ocugen(OCGN.O)触及熔断，此前短线下挫，涨幅缩窄至13%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1471487.d.html</link>
+            <guid>2139246</guid>
+            <pubDate>Fri, 23 Apr 2021 19:13:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Ocugen(OCGN.O)宣布1亿美元的注册直接发行计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1471475.d.html</link>
+            <guid>2139245</guid>
+            <pubDate>Fri, 23 Apr 2021 19:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国加州州长纽森：将在2024年之前停止（发放）裂解许可。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1471473.d.html</link>
+            <guid>2139244</guid>
+            <pubDate>Fri, 23 Apr 2021 19:12:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：特斯拉CEO埃隆·马斯克的SpaceX更接近获得使用低轨道提供网络服务的批准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8611490.d.html</link>
+            <guid>2139236</guid>
+            <pubDate>Fri, 23 Apr 2021 18:57:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【德国经济部宣布特斯拉将很快获得柏林电池超级工厂的投资文件】美港电讯APP 24日讯，德国经济部表示，对特斯拉在柏林超级工厂的投资决定即将做出。文件正在定稿中，很快就会交给该制造商。德国联邦经济部宣布，在参与“欧洲共同利益重要项目”(IPCEI)计划资助项目的11家公司中，有5家已经收到了资助通知。与此同时，向包括特斯拉在内的其他公司移交文件的准备工作仍在继续。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8611207.d.html</link>
+            <guid>2139233</guid>
+            <pubDate>Fri, 23 Apr 2021 18:48:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[欧元兑美元EUR/USD日内涨0.57%，报1.2084，为3月3日以来新高。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8608849.d.html</link>
@@ -215,30 +269,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1454373.d.html</link>
             <guid>2139079</guid>
             <pubDate>Fri, 23 Apr 2021 14:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【激智科技：2020年净利润1.37亿元 同比增111.52%】激智科技(300566)4月23日晚间披露年报，公司2020年实现营业收入为14.2亿元，同比增长29.55%；归母净利润1.37亿元，同比增长111.52%；基本每股收益0.88元。每10股派发现金红利1元（含税）；以资本公积金向全体股东每10股转增5股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1453167.d.html</link>
-            <guid>2139072</guid>
-            <pubDate>Fri, 23 Apr 2021 14:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EEX：德国光伏发电达到33.6GW，创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8593133.d.html</link>
-            <guid>2139068</guid>
-            <pubDate>Fri, 23 Apr 2021 14:15:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安诺其：2020年净利润1.15亿元 同比降27.98%】安诺其(300067)4月23日晚间披露年报，公司2020年实现营业收入为9.95亿元，同比下滑11.51%；归母净利润1.15亿元，同比下滑27.98%；基本每股收益0.12元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1452908.d.html</link>
-            <guid>2139067</guid>
-            <pubDate>Fri, 23 Apr 2021 14:15:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[越南希望从美国和其他国家获得气候融资援助。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8592593.d.html</link>
-            <guid>2139064</guid>
-            <pubDate>Fri, 23 Apr 2021 14:10:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
