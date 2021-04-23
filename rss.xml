@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 23 Apr 2021 20:28:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Apr 2021 21:25:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[在美上市iShares安硕MSCI印度ETF收涨0.63%，报40.05美元，但3月11日以43.79美元创收盘历史新高之后，持续走软，目前已经走出倒V看跌形态。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8614939.d.html</link>
+            <guid>2139334</guid>
+            <pubDate>Fri, 23 Apr 2021 20:30:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【德国奥委会：德国体育界正遭受数十亿欧元的损失】 当地时间4月23日，德国奥委会主席阿尔方斯·霍尔曼在接受媒体采访时表示，由于防疫措施给体育活动带来的限制，德国体育界正遭受巨大的损失。他指出：“多项分析表明，全国范围内的体育损失已达数十亿欧元。”据霍尔曼透露，越来越多的体育俱乐部职员被迫离职，而许多赞助商的撤离也让俱乐部损失惨重：“我们三分之二的成员组织不确定他们能否在今年继续保持稳定运营。”他呼吁采取更加差异化的体育开放政策，尤其是针对非接触式的户外体育运动。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8614429.d.html</link>
@@ -297,18 +303,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8598927.d.html</link>
             <guid>2139102</guid>
             <pubDate>Fri, 23 Apr 2021 15:10:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京海淀区入学政策“下猛料”】 4月23日，北京海淀区、西城区、东城区三大主流学区的教育招生考试中心同时发布《2021年义务教育阶段入学工作的实施意见》）。从内容看，海淀区在招生政策中下猛料，提出“自2022年1月1日后，户籍从外省市或本市其他区迁入海淀区的适龄儿童申请入小学时，不再对应登记入学划片学校，在区内协调解决。自2022年起，所有用于九年一贯制学校登记入学的住房，九年内只提供一个入学学位（符合国家生育政策的除外）。”相比之下，西城、东城的入学政策符合此前预期。分析人士表示，根据最新规定，未来想通过户口投靠的方式在海淀入学的适龄儿童，不单一对应某一所学校。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1458276.d.html</link>
-            <guid>2139097</guid>
-            <pubDate>Fri, 23 Apr 2021 15:07:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【顺丰房托通过上市聆讯 拟下周一预路演】顺丰控股(002352.SZ)分拆顺丰房托在港上市，顺丰房托已通过港交所上市聆讯。外电引述消息人士指，顺丰房托计划下周一开始预路演，拟在香港集资3亿美元，意味公司最快可于5月上市。星展为顺丰房托独家保荐人，瑞信及摩根大通是联席全球协调人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1458250.d.html</link>
-            <guid>2139096</guid>
-            <pubDate>Fri, 23 Apr 2021 15:07:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
