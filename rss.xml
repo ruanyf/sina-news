@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 24 Apr 2021 17:50:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Apr 2021 18:39:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DownDector网站：用户反馈脸书即时通讯软件Facebook Messenger的服务出现问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmyaawc1610023.d.html</link>
+            <guid>2140147</guid>
+            <pubDate>Sat, 24 Apr 2021 18:28:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国地质勘探局：菲律宾萨兰加尼省以东117公里处发生5.0级地震。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmyaawc1608388.d.html</link>
@@ -334,24 +340,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8696113.d.html</link>
             <guid>2140021</guid>
             <pubDate>Sat, 24 Apr 2021 08:57:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多位知名基金经理于今年一季度增持了医药股】日前披露的上市公司一季报和公募基金一季报显示，多位知名基金经理于今年一季度增持了医药股。据统计，包括张坤、刘彦春、谢治宇、刘格菘等在内的多位“顶流”基金经理都将医药医疗板块作为挖掘投资机会的重要方向，布局相关个股。公募人士认为，当前医药板块估值压力正被逐渐消化，行业主要公司基本面情况仍长期向好。作为目前公募基金持仓市值较大的板块，医药仍是价值投资的主赛道。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1555824.d.html</link>
-            <guid>2140020</guid>
-            <pubDate>Sat, 24 Apr 2021 08:54:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【陕西发布便携式卫星运维设备“备战”商业卫星需求】西安中科天塔科技股份有限公司23日公开发布了一款卫星测控数传一体化处理平台——天枢G100。该公司负责人曾伟刚表示，天枢G100能在保障工作效率的同时，极大降低商业卫星用户的建设和运营成本，更好应对快速增长的我国卫星商业需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1555382.d.html</link>
-            <guid>2140017</guid>
-            <pubDate>Sat, 24 Apr 2021 08:49:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国西部大片区域遭遇大旱】当地时间4月23日，美国加州圣克拉拉县一处河床干涸龟裂。近期，美国西部大约75%的区域处于“大旱”之中。过去几个月，包括内华达、亚利桑那、新墨西哥和犹他在内的多个州经历了自2000年干旱监测仪开始工作以来最为严重的干旱时期。加州水资源局说，今年是该州有记录以来第四干旱的年份。白宫21日宣布成立一个工作组，以解决美国西部日益严峻的旱情。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8695375.d.html</link>
-            <guid>2140016</guid>
-            <pubDate>Sat, 24 Apr 2021 08:48:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
