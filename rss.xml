@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 24 Apr 2021 19:24:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Apr 2021 20:27:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【一油轮在叙利亚西北部港口附近遭袭起火】叙利亚石油部表示，一艘油轮在叙利亚西北部港口城市巴尼亚斯附近海域疑似遭无人机袭击起火，目前大火已被扑灭。此次袭击被认为是来自黎巴嫩水域的一架无人机发动的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmxzfmk8753185.d.html</link>
+            <guid>2140317</guid>
+            <pubDate>Sat, 24 Apr 2021 20:03:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[世卫组织网站最新数据显示，截至北京时间21时10分，全球确诊病例较前一日增加849130例，达到145216414例；死亡病例增加13120例，达到3079390例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmxzfmk8751904.d.html</link>
@@ -333,24 +339,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8698926.d.html</link>
             <guid>2140031</guid>
             <pubDate>Sat, 24 Apr 2021 09:26:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度政府将免除氧气相关设备的关税。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8698843.d.html</link>
-            <guid>2140030</guid>
-            <pubDate>Sat, 24 Apr 2021 09:25:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山西2021年将投资455亿元支持农业重点项目】记者从近日召开的山西省金融服务乡村产业工作对接会上获悉，山西今年将深入推进金融精准服务乡村振兴，总投资455亿元支持粮食、畜牧等行业重点项目，推动第一产业高质高速发展。数据显示，“十三五”时期，山西农村金融合作机构存款余额从5650.1亿元增长到9379.6亿元，贷款余额从3620.9亿元增长到5888.7亿元；农业保费达到15.12亿元，风险保障709亿元。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8698636.d.html</link>
-            <guid>2140027</guid>
-            <pubDate>Sat, 24 Apr 2021 09:23:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【光大银行行长定了：原集团副总经理接棒，曾在交行任职近26年】 4月23日晚间，光大集团官网显示，该集团原副总经理付万军将接任光大银行行长一职，目前正在候任状态。记者发现，付万军在光大集团官网的个人资料已更新为“现任中国光大集团股份公司党委委员、执行董事（候任），兼任中国光大银行股份有限公司党委副书记、行长（候任）”。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8698367.d.html</link>
-            <guid>2140025</guid>
-            <pubDate>Sat, 24 Apr 2021 09:20:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
