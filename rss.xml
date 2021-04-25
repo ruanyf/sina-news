@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 25 Apr 2021 18:41:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Apr 2021 19:26:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【基金一季报披露完毕 金融、化工行业获大幅增配】公募基金一季报已全部披露完毕。同花顺数据显示，截至一季度末，公募基金股票资产持仓总市值超过5万亿元，重仓A股和港股上市公司数量达1800家。尽管A股市场一季度大幅震荡，但公募基金整体依然保持高仓位运作，持股市值占比相比去年末有所提升。行业方面，银行、化工、采掘等板块均获公募基金大幅增持，整体行业配置更为均衡。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-26/detail-ikmyaawc1792342.d.html</link>
+            <guid>2142048</guid>
+            <pubDate>Sun, 25 Apr 2021 18:55:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[希腊国家公共卫生组织当地时间4月25日宣布，将放宽对宵禁和控制跨地域旅行等防疫措施的限制。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-26/detail-ikmxzfmk8928781.d.html</link>
@@ -252,11 +258,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmyaawc1741457.d.html</link>
             <guid>2141515</guid>
             <pubDate>Sun, 25 Apr 2021 10:27:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中飞股份：孙公司红外光学与激光器件产业化一期项目投产】中飞股份公告，此前，控股孙公司安徽光智实施及运营“红外光学与激光器件产业化项目”。红外光学与激光器件产业化一期项目总投资20亿元，用地100亩，建筑面积10.3万平方米，产品包括红外光学材料、红外光学镜头、激光器件及红外成像整机，具备材料生长、芯片设计、器件制备、系统集成的完整产业化能力。一期项目于2020年4月正式开工建设，计划于2021年4月28日实现竣工投产。]]></title>
-            <guid>2141510</guid>
-            <pubDate>Sun, 25 Apr 2021 10:10:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
