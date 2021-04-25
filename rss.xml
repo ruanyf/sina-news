@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 25 Apr 2021 15:30:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Apr 2021 16:51:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中保协要求险企报送2021年一季度市场运行分析报告】近日，中国保险行业协会向各保险公司下发通知称，为深入研究保险市场运行情况，了解会员单位近期经营过程中存在的困难、应对措施以及对行业发展的意见建议，保险公司应认真分析总结公司2021年一季度经营状况，形成市场分析报告，并报送至中国保险行业协会。（中国证券网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-26/detail-ikmyaawc1782793.d.html</link>
+            <guid>2142027</guid>
+            <pubDate>Sun, 25 Apr 2021 16:18:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【吉林辽源市东丰县发生3.0级地震】中国地震台网正式测定：04月25日23时11分在吉林辽源市东丰县（北纬42.96度，东经125.64度）发生3.0级地震，震源深度8千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmyaawc1779574.d.html</link>
+            <guid>2142023</guid>
+            <pubDate>Sun, 25 Apr 2021 15:35:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[卡塔尔石油公司据悉计划发行70-100亿美元的债券，为其液化天然气（LNG）项目融资。]]></title>
             <guid>2142008</guid>
@@ -268,36 +280,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmxzfmk8873263.d.html</link>
             <guid>2141497</guid>
             <pubDate>Sun, 25 Apr 2021 09:40:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【海伦哲：持股12%以上股东计划减持不超5.9995%股份】海伦哲公告，持股12.16%的股东美通公司计划减持不超5.9995%股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmyaawc1732342.d.html</link>
-            <guid>2141494</guid>
-            <pubDate>Sun, 25 Apr 2021 09:38:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哈工智能：拟3000万元至6000万元回购股份】哈工智能(000584)4月25日晚间公告，拟回购股份用于后续实施股权激励或员工持股计划，拟回购金额为3000万元至6000万元，回购价格不超过12.09元/股(含)。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmyaawc1731467.d.html</link>
-            <guid>2141491</guid>
-            <pubDate>Sun, 25 Apr 2021 09:33:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【姚记科技：2020年净利润同比增长217%】姚记科技发布2020年年报称，2020年归属于母公司所有者的净利润10.93亿元，同比增长217.06%；营业收入25.62亿元，同比增长47.52%；基本每股收益2.745元，同比增长215.88%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmxzfmk8870584.d.html</link>
-            <guid>2141489</guid>
-            <pubDate>Sun, 25 Apr 2021 09:27:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊拉克内政部：一所巴格达医院发生火灾，死亡人数上升至82人，11人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmxzfmk8870464.d.html</link>
-            <guid>2141488</guid>
-            <pubDate>Sun, 25 Apr 2021 09:26:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【银保监会：五家大型银行要努力实现普惠型小微企业贷款全年增长30%以上】《中国银保监会办公厅关于2021年进一步推动小微企业金融服务高质量发展的通知》指出，要继续将单户授信总额1000万元以下（含）的普惠型小微企业贷款作为投放重点，2021年努力实现此类贷款较年初增速不低于各项贷款增速，有贷款余额的户数不低于年初水平的“两增”目标。五家大型银行要努力实现普惠型小微企业贷款全年增长30%以上。大型银行、股份制银行要努力实现2021年新增小型微型企业“首贷户”数量高于2020年。大型银行要将小型微型企业“首贷户”占比纳入内部绩效指标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmxzfmk8870266.d.html</link>
-            <guid>2141487</guid>
-            <pubDate>Sun, 25 Apr 2021 09:25:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
