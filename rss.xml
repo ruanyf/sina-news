@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 25 Apr 2021 19:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Apr 2021 20:27:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【四川凉山州木里县发生2.9级地震】中国地震台网正式测定：04月26日04时00分在四川凉山州木里县（北纬28.09度，东经101.19度）发生2.9级地震，震源深度15千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-26/detail-ikmyaawc1795692.d.html</link>
+            <guid>2142058</guid>
+            <pubDate>Sun, 25 Apr 2021 20:11:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：美国决心在印度需要的时候帮助印度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-26/detail-ikmyaawc1794404.d.html</link>
+            <guid>2142053</guid>
+            <pubDate>Sun, 25 Apr 2021 19:36:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【超二成主动偏股型基金一季度净值增长率为正】随着基金2021年一季报的收官，投资者关心的主动偏股型基金（包括普通股票型和偏股混合型基金）重仓股悉数亮相。有数据可查的2240只偏股型基金中有542只的一季度净值增长率为正，占比24.20%。增长率前十的主动偏股型基金的前十大重仓股涉及68只个股，从行业来看，涉及22类申万一级行业，其中，化工、有色金属和电子等三行业基金重仓股最多，分别有11只、7只和6只。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-26/detail-ikmxzfmk8934783.d.html</link>
+            <guid>2142052</guid>
+            <pubDate>Sun, 25 Apr 2021 19:31:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【支付行业分化加剧 “挂牌潮”与“摘牌潮”共存】支付行业目前分化态势加剧，一边是包括银联商务、连连支付等在内的多家支付机构积极筹备上市，另一边却是支付机构退市现象频现。零壹研究院院长于百程认为，支付行业“退市潮”与“上市潮”共存，反映出支付行业分化加剧的特征。一方面，近年来支付行业受监管趋严和业务变化等因素的影响，业内竞争愈加激烈；另一方面，一些支付机构把握住了支付市场的变化趋势，在差异化发展中获得了更大的发展机会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-26/detail-ikmyaawc1794084.d.html</link>
+            <guid>2142050</guid>
+            <pubDate>Sun, 25 Apr 2021 19:29:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【基金一季报披露完毕 金融、化工行业获大幅增配】公募基金一季报已全部披露完毕。同花顺数据显示，截至一季度末，公募基金股票资产持仓总市值超过5万亿元，重仓A股和港股上市公司数量达1800家。尽管A股市场一季度大幅震荡，但公募基金整体依然保持高仓位运作，持股市值占比相比去年末有所提升。行业方面，银行、化工、采掘等板块均获公募基金大幅增持，整体行业配置更为均衡。（经参）]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-26/detail-ikmyaawc1792342.d.html</link>
@@ -217,47 +241,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmxzfmk8885175.d.html</link>
             <guid>2141525</guid>
             <pubDate>Sun, 25 Apr 2021 10:49:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄新社援引克里姆林宫消息人士称，普京和拜登或在6月会面。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmxzfmk8884854.d.html</link>
-            <guid>2141524</guid>
-            <pubDate>Sun, 25 Apr 2021 10:47:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【俄媒：美国和北约开始从阿富汗基地撤军】俄罗斯卫星网刚刚消息，美国和北约开始从阿富汗的几个基地撤军。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmyaawc1744194.d.html</link>
-            <guid>2141522</guid>
-            <pubDate>Sun, 25 Apr 2021 10:45:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【大商所与南京市政府及相关单位签署合作协议】大商所与南京市人民政府签署战略合作协议，并分别同江北新区管委会及南京数字金融产业研究院、江苏南京国家农业高新技术产业示范区签署合作协议。大商所相关负责人表示，加大大商所对地方实体经济的支持力度，引导南京企业更便捷更有效地使用期货、期权等金融衍生工具，促进南京经济发展和产业升级。]]></title>
-            <guid>2141521</guid>
-            <pubDate>Sun, 25 Apr 2021 10:43:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【微信：对组织欺诈群、恶意收款号将进行封禁等处理，多次违规者将加重处罚】据“微信安全中心”微信公众号4月25日消息，针对持续高发的网络诈骗犯罪，微信平台始终保持对黑色产业链严厉打击的态度，致力于以实际行动保护用户权益和网络生态安全。直接参与和间接参与实施欺诈犯罪的行为，如贷款诈骗、刷单诈骗、“杀猪盘”诈骗、网络投资诈骗、免费送返利类诈骗等将受到坚决遏制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmxzfmk8884241.d.html</link>
-            <guid>2141520</guid>
-            <pubDate>Sun, 25 Apr 2021 10:43:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【珠三角干线高速公路广佛肇高速全线通车】广佛肇高速25日全线通车，它横贯广州、佛山、肇庆三座城市，让珠三角地区再添一条高速通道。该高速还使广州到广西梧州的行车时间缩短约1.5小时，有利于发挥粤港澳大湾区的辐射带动作用。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmxzfmk8884147.d.html</link>
-            <guid>2141519</guid>
-            <pubDate>Sun, 25 Apr 2021 10:42:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【锦和商业：拟1.6亿元收购同昌盛业60%股权】锦和商业公告，公司拟以1.6亿元人民币收购上海韧慕持有的同昌盛业(北京)科技发展有限公司60%股权。收购完成后公司按股权比例向目标公司提供股东贷款6130.75万元人民币，用于支付目标公司各项应付款项或对外债务。标的公司以承租运营模式经营社区商业项目，目前通过2个控股子公司运营2个成熟项目，通过参股子公司运营2个在建项目。4个项目均位于北京市区核心地段。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmxzfmk8881922.d.html</link>
-            <guid>2141516</guid>
-            <pubDate>Sun, 25 Apr 2021 10:28:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国数字经济总量跃居世界第二】国家网信办在第四届数字中国建设峰会主论坛上发布《数字中国发展报告(2020年)》。报告指出，我国数字经济总量跃居世界第二，数字经济核心产业增加值占GDP的比重达到7.8%。固定宽带和手机流量平均资费水平相比2015年下降幅度超过95%，平均网络速率提升7倍以上。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmyaawc1741457.d.html</link>
-            <guid>2141515</guid>
-            <pubDate>Sun, 25 Apr 2021 10:27:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
