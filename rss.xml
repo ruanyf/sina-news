@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 29 Apr 2021 20:26:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Apr 2021 21:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  软银愿景基金将对Guardant Health（GH）的持股削减至5.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2638688.d.html</link>
+            <guid>2151793</guid>
+            <pubDate>Thu, 29 Apr 2021 20:40:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Facebook领涨FAANMG，收涨超7%。谷歌涨超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmxzfmk9778473.d.html</link>
+            <guid>2151788</guid>
+            <pubDate>Thu, 29 Apr 2021 20:30:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【西部数据第三财季盈利、营收及第四采集指引均超预期 股价盘后涨近7%】西部数据第三财季经调整EPS 1.02美元，市场预期0.68美元。 第三财季净营收41亿美元，市场预期39.7亿美元。 该公司预期第四财季经调整EPS 1.30-1.60美元，市场预期1.01美元。 该公司预期第四财季销售44-46亿美元，市场预期42.5亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmxzfmk9778268.d.html</link>
@@ -210,41 +222,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmxzfmk9766815.d.html</link>
             <guid>2151612</guid>
             <pubDate>Thu, 29 Apr 2021 16:30:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北约已开始从阿富汗撤军】当地时间4月29日，据法新社援引北约官员的消息，北约已开始从阿富汗撤离“坚定支持特派团”的军事力量，撤军以有序、协调且审慎的方式展开。此前，北约秘书长斯托尔滕贝格宣布今年5月1日前随美国一起开始从阿富汗撤军，整个过程将持续数月时间。北约在14日发表的一份声明中称，在撤军期间，北约盟国部队如果受到任何来自塔利班的袭击都将予以有力还击。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmxzfmk9765734.d.html</link>
-            <guid>2151607</guid>
-            <pubDate>Thu, 29 Apr 2021 16:19:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国第二大信用保险公司The Fortegra Group(FRF.N)正式登陆纽交所，开跌超2%，报23.5美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2625625.d.html</link>
-            <guid>2151606</guid>
-            <pubDate>Thu, 29 Apr 2021 16:18:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【龙韵股份：5月6日起实施风险警示，股票停牌一天】龙韵股份公告，公司股票将于4月30日停牌1天，5月6日起实施风险警示，实施风险警示后股票简称为“ST龙韵”，股票价格的日涨跌幅限制为5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2625403.d.html</link>
-            <guid>2151604</guid>
-            <pubDate>Thu, 29 Apr 2021 16:16:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据CoinDesk平台：根据交易所的设置页面，Coinbase美国用户现在每天最多可以使用Paypal购买25000美元的加密货币，他们将为此支付近4％的PayPal专用费用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2625027.d.html</link>
-            <guid>2151601</guid>
-            <pubDate>Thu, 29 Apr 2021 16:11:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：智利安托法加斯塔发生5.1级地震。 、]]></title>
-            <guid>2151600</guid>
-            <pubDate>Thu, 29 Apr 2021 16:08:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据CoinDesk平台：Coinbase允许美国用户使用paypal账户购买加密货币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2624246.d.html</link>
-            <guid>2151595</guid>
-            <pubDate>Thu, 29 Apr 2021 16:04:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
