@@ -4,11 +4,71 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 29 Apr 2021 21:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Apr 2021 22:31:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[数据显示，医药相关主题基金（Wind医疗行业）已累计165只，基金规模超过2000亿元。今年以来，几乎所有医药主题基金均斩获正收益。其中，金鹰医疗健康产业A以27.19%的阶段收益率领涨。（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2643415.d.html</link>
+            <guid>2151821</guid>
+            <pubDate>Thu, 29 Apr 2021 22:26:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【万亿级投资大幕开启 绿色产业项目落地跑出“加速度”】据了解，辽宁、浙江、内蒙古等地区接连发布“十四五”时期绿色产业投资规划图，围绕清洁能源、生态环保、绿色制造等重点领域，一批重大工程浮出水面。在资金来源上，银行、债券等多元化融资正加速开启。业内人士表示，“十四五”时期预计绿色产业年均投资约3万亿元，多层次投融资体系的建立将推动绿色产业进入高质量发展的快车道。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmxzfmk9783256.d.html</link>
+            <guid>2151820</guid>
+            <pubDate>Thu, 29 Apr 2021 22:23:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据日本放送协会NHK：日本政府将向印度提供医疗设备。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2642966.d.html</link>
+            <guid>2151819</guid>
+            <pubDate>Thu, 29 Apr 2021 22:18:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据日本读卖新闻：松下将把中型电视生产外包给TCL。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmxzfmk9782211.d.html</link>
+            <guid>2151817</guid>
+            <pubDate>Thu, 29 Apr 2021 22:04:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  通用汽车将在墨西哥投资10亿美元，以生产电动汽车。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2641804.d.html</link>
+            <guid>2151814</guid>
+            <pubDate>Thu, 29 Apr 2021 21:56:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  蔚来汽车：第一季度整车毛利率为21.2%，去年同期为负7.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmxzfmk9781228.d.html</link>
+            <guid>2151811</guid>
+            <pubDate>Thu, 29 Apr 2021 21:38:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[蔚来汽车：将于2021年6月3日召开特别股东大会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmxzfmk9781162.d.html</link>
+            <guid>2151810</guid>
+            <pubDate>Thu, 29 Apr 2021 21:36:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[蔚来美股盘后转涨，现涨1.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmxzfmk9781148.d.html</link>
+            <guid>2151809</guid>
+            <pubDate>Thu, 29 Apr 2021 21:35:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[蔚来汽车：第一季度汽车销售收入74.06亿元，去年同期为12.56亿元，同比大增489.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmxzfmk9781123.d.html</link>
+            <guid>2151808</guid>
+            <pubDate>Thu, 29 Apr 2021 21:35:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[蔚来汽车：预计第二季度营收在81.5亿元至85亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2641011.d.html</link>
+            <guid>2151807</guid>
+            <pubDate>Thu, 29 Apr 2021 21:34:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  软银愿景基金将对Guardant Health（GH）的持股削减至5.7%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2638688.d.html</link>
@@ -187,41 +247,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2630241.d.html</link>
             <guid>2151641</guid>
             <pubDate>Thu, 29 Apr 2021 17:17:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  五大行第一季度经营业绩显示，单季度五大行归母净利润共计3106.41亿元人民币，即第一季度五大行平均日赚34.5亿元。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2629971.d.html</link>
-            <guid>2151636</guid>
-            <pubDate>Thu, 29 Apr 2021 17:12:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[爱尔兰总理米歇尔·马丁：继续开放经济是安全的。]]></title>
-            <guid>2151633</guid>
-            <pubDate>Thu, 29 Apr 2021 17:09:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[爱尔兰总理米歇尔·马丁：继续开放经济是安全的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2629775.d.html</link>
-            <guid>2151632</guid>
-            <pubDate>Thu, 29 Apr 2021 17:09:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国纽约州州长科莫：希望纽约市能在7月之前全面开放。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmxzfmk9767770.d.html</link>
-            <guid>2151617</guid>
-            <pubDate>Thu, 29 Apr 2021 16:42:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：美国中央司令部将对局势进行评估，并在必要时灵活调动更多的部队进出阿富汗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2626950.d.html</link>
-            <guid>2151614</guid>
-            <pubDate>Thu, 29 Apr 2021 16:33:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：美国军队已经开始从阿富汗撤军。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmxzfmk9766815.d.html</link>
-            <guid>2151612</guid>
-            <pubDate>Thu, 29 Apr 2021 16:30:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
