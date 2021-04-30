@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 30 Apr 2021 21:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Apr 2021 22:31:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国延长公共交通系统口罩令至9月13日】当地时间4月30日，美国交通安全管理局（TSA）宣布扩大强制口罩令覆盖全部公共交通系统并延长期限至9月13日。据悉，美国交通安全管理局的规定涵盖航空飞机、公共汽车、轮船以及铁路系统的乘客以及工作人员，原定于5月11日到期。美国联邦航空局也延长了其于3月30日到期的政策，并表示无限期延长对不遵守防疫指令的乘客的“零容忍政策”。尽管美国已有多州解除了强制口罩令，但是联邦航空局局长表示，将继续按照美国疾控中心的指导延长公共防疫政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmk9990229.d.html</link>
+            <guid>2153513</guid>
+            <pubDate>Fri, 30 Apr 2021 22:20:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  水滴筹将美国IPO股票的发行价指导区间设在每份ADS 10-12美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmk9987959.d.html</link>
+            <guid>2153502</guid>
+            <pubDate>Fri, 30 Apr 2021 21:25:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【平均温度为6.1度，德国经历近四十年最冷四月】据世界报报道，德国正在经历四十年以来最冷的四月份。德国气象局的统计数据显示，今年的四月是1980年以来最冷的四月，此外，霜冻等气候现象异常频繁。今年四月的平均温度为6.1度，比1961年到1990年国际有效参考期的温度值要低1.3度。气象局发言人介绍，2021年已经统计到13次霜冻日，成为继1929年后德国霜冻日最多的一年。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2847748.d.html</link>
@@ -191,53 +203,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmk9975095.d.html</link>
             <guid>2153300</guid>
             <pubDate>Fri, 30 Apr 2021 16:44:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家航空航天局（NASA）：火星探测器预计在7月收集第一份采样。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmk9974451.d.html</link>
-            <guid>2153299</guid>
-            <pubDate>Fri, 30 Apr 2021 16:37:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务卿布林肯今日与以色列外长进行了谈话。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2834541.d.html</link>
-            <guid>2153297</guid>
-            <pubDate>Fri, 30 Apr 2021 16:34:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【火速驰援印度 复星新一批10万只KN95口罩启程运往孟买】昨日下午，复星驰援印度的新一批医疗防护物资——10万只KN95口罩由上海启程运往孟买。这是继去年3月复星向孟买捐赠5000件防疫物资后，再一次火速进行人道主义驰援。与此同时，由复星一家成员企业印度制药公司Gland Pharma捐赠的150台Breas呼吸机也将于本周运往印度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmk9973970.d.html</link>
-            <guid>2153296</guid>
-            <pubDate>Fri, 30 Apr 2021 16:32:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江苏南通出现冰雹和大范围雷暴大风，最大风力14级】据江苏南通气象部门通报，受东北冷涡影响，30日傍晚起南通市出现雷暴大风、冰雹等强对流天气。截至21时，最大风力陆上和沿江9到11级、沿海12到14级；南通市自动站最大风力超过10级的站点有50个，其中11级16个，12级5个，13级3个，14级1个；海安城东镇和大公镇、通州十总镇、如东阳光岛等地出现直径1到3厘米的冰雹。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2834060.d.html</link>
-            <guid>2153294</guid>
-            <pubDate>Fri, 30 Apr 2021 16:28:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全顾问沙利文：美国和伊朗在维也纳就伊朗核协议进行的间接谈判“情况不明朗”。]]></title>
-            <guid>2153290</guid>
-            <pubDate>Fri, 30 Apr 2021 16:12:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国汽车工人联合会表示，正在与拜登政府磋商修订电动汽车的税收优惠措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmk9972220.d.html</link>
-            <guid>2153288</guid>
-            <pubDate>Fri, 30 Apr 2021 16:11:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  深交所：2021年4月30日，本所决定广东舜喆股票终止上市。公司股票因触及交易类强制退市指标被本所作出终止上市决定，不设退市整理期，本所将在作出终止上市决定后十五个交易日内对公司股票予以摘牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmk9972072.d.html</link>
-            <guid>2153287</guid>
-            <pubDate>Fri, 30 Apr 2021 16:09:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：重新关注联邦基础设施支出对美国基建来说是一个积极的发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmk9971505.d.html</link>
-            <guid>2153286</guid>
-            <pubDate>Fri, 30 Apr 2021 16:04:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
