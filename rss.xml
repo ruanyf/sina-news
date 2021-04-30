@@ -4,11 +4,58 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 30 Apr 2021 04:32:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Apr 2021 05:28:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[雀巢将以57.5亿美元的价格收购美国膳食补充剂品牌自然之宝的生产商、全球三大膳食补充剂公司之一的The Bountiful Company的核心品牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2732550.d.html</link>
+            <guid>2152581</guid>
+            <pubDate>Fri, 30 Apr 2021 05:20:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法巴银行CFO：德意志银行很好地管理了Archegos基金的风险。预计欧洲经济将在第三季度回升。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2731930.d.html</link>
+            <guid>2152580</guid>
+            <pubDate>Fri, 30 Apr 2021 05:17:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中央汇金集中退出热门白马股】年初的机构抱团行情成为市场焦点话题，不少蓝筹白马股在机构资金的助力下股价创出新高。从一季度持股数据看，“国家队”退出了不少白马股十大股东名单，其中以中央汇金的持仓变化最为明显。山西汾酒是去年下半年以来的白酒板块明星品种，山西汾酒今年一季报十大流通股东名单中已不见中央汇金身影。此外，光伏细分龙头阳光电源，锂电池细分龙头天赐材料等，相较去年年报，今年一季报十大流通股东名单中均已没有了中央汇金身影。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2730300.d.html</link>
+            <guid>2152574</guid>
+            <pubDate>Fri, 30 Apr 2021 05:08:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国巴黎银行第一季度净利润17.7亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmxzfmk9869038.d.html</link>
+            <guid>2152571</guid>
+            <pubDate>Fri, 30 Apr 2021 04:59:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  永安药业：拟以8000万元对武汉低维材料研究院有限公司进行增资及收购股权；公司将成为武汉低维新进股东，并持有其40%的股权。]]></title>
+            <guid>2152569</guid>
+            <pubDate>Fri, 30 Apr 2021 04:49:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[川恒股份：实控人李进4月29日增持33.93万股公司股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2726546.d.html</link>
+            <guid>2152568</guid>
+            <pubDate>Fri, 30 Apr 2021 04:48:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【顺丰控股子公司参与设立物流开发基金】顺丰控股公告，子公司拟与HCRE共同设立顺丰物流开发基金并投资于物流产业园开发项目，基金首次交割认缴出资目标预计为3亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmxzfmk9866893.d.html</link>
+            <guid>2152567</guid>
+            <pubDate>Fri, 30 Apr 2021 04:48:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【景峰医药控股股东拟减持公司股份】景峰医药午间公告称，控股股东叶湘武计划拟集中竞价减持公司不超1%股份，拟大宗交易减持公司不超2%股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2726444.d.html</link>
+            <guid>2152566</guid>
+            <pubDate>Fri, 30 Apr 2021 04:48:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[日本经济产业省METI：日本3月原油进口量同比萎缩25.0%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2723018.d.html</link>
@@ -284,96 +331,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2690606.d.html</link>
             <guid>2152473</guid>
             <pubDate>Fri, 30 Apr 2021 02:23:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：新西兰克马德克群岛发生5.3级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2689552.d.html</link>
-            <guid>2152471</guid>
-            <pubDate>Fri, 30 Apr 2021 02:20:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科技部、农业银行：加大现代农业科技信贷支持力度】据科技部网站消息，为进一步加强现代农业科技金融服务，科技部、中国农业银行联合制定并印发《关于加强现代农业科技金融服务 创新支撑乡村振兴战略实施的意见》。意见提出，加大现代农业科技信贷支持力度。未来3年，中国农业银行将向现代农业科技和基层创新领域提供总金额不低于人民币1000亿元的意向信用额度，强化金融支持农业高新技术产业发展、将更多的金融资源引入农科园区、县域和科技企业，助力推进农业农村现代化。]]></title>
-            <link>https://finance.sina.cn/money/bank/bank_hydt/2021-04-30/detail-ikmyaawc2690352.d.html</link>
-            <guid>2152470</guid>
-            <pubDate>Fri, 30 Apr 2021 02:19:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中信证券：给予百胜中国超配的初始评级，目标价70美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2688853.d.html</link>
-            <guid>2152467</guid>
-            <pubDate>Fri, 30 Apr 2021 02:17:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海四个楼盘被投诉违反认购规则，房管部门暂停认购】4月29日晚，上海市房地产交易中心官网公告：接群众投诉反映，静安福新名苑，浦东海富城市花园，嘉定云上名邸，南山虹桥领峯四个楼盘存在违反认购规则等行为。其中福新名苑楼盘已认购公示。相关区房管部门正在调查核实，调查核实整改期间，暂停福新名苑楼盘认购。（上观新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2688146.d.html</link>
-            <guid>2152466</guid>
-            <pubDate>Fri, 30 Apr 2021 02:14:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【携程加入数字人民币支付场景】数字人民币APP日前更新显示，工、农、中、建、交、邮储六大国有银行项下均新增了携程、邮储生活两个子钱包。据悉，数字人民币可在携程预订交通出行酒店旅游等产品，可在邮储生活APP邮储食堂支付时使用。（中证网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2686587.d.html</link>
-            <guid>2152463</guid>
-            <pubDate>Fri, 30 Apr 2021 02:09:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【成都与中国华电集团签署战略合作框架协议】据成都日报报道，成都市与中国华电集团签署战略合作框架协议，将在清洁能源开发利用、氢能产业生态圈打造等领域深化合作，共同探索生态优先、绿色低碳高质量发展路径，助力成都率先实现碳达峰、打造碳中和“先锋城市”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2686472.d.html</link>
-            <guid>2152462</guid>
-            <pubDate>Fri, 30 Apr 2021 02:08:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本称将向印度提供医疗设备。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2686285.d.html</link>
-            <guid>2152461</guid>
-            <pubDate>Fri, 30 Apr 2021 02:08:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【消息称福布斯Forbes拟透过SPAC合并上市】有消息人士透露，据报福布斯媒体集团正与特殊目的收购公司（SPAC）商谈合并上市。福布斯发言人回应有关报道指，对有关报道不予置评。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2686248.d.html</link>
-            <guid>2152460</guid>
-            <pubDate>Fri, 30 Apr 2021 02:08:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【新疆企业员工驳“强迫劳动”：我们追求美好生活难道有错吗】在外交部30日举行的涉疆问题新闻发布会上，伊犁服饰企业的员工代表艾丽达·吐尔阿合买提说，工作3年多，她不仅学会使用电脑，学会统计，更成为了公司的人事主管，生活有了很大改善。“一些别有用心的人不顾事实，污蔑我们有‘强迫劳动’，打压我们的公司，干涉我们的生活，我们非常愤慨！”她说，“我们是自愿选择到公司上班的，我们在厂里没有受到任何歧视，宗教信仰、生活习俗、使用民族语言的权利都得到极大尊重，怎么说是‘强迫劳动’呢？我想问问那些人，我们靠自己的双手养活自己、补贴家人，追求美好的生活难道有错吗？”（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmxzfmk9825770.d.html</link>
-            <guid>2152459</guid>
-            <pubDate>Fri, 30 Apr 2021 02:05:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本内阁官房长官加藤胜信：奥运会不能成为地区医疗系统的负担。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2685376.d.html</link>
-            <guid>2152458</guid>
-            <pubDate>Fri, 30 Apr 2021 02:04:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A股三大股指走势分化，创业板指涨1％，沪指跌0.5％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmxzfmk9825517.d.html</link>
-            <guid>2152456</guid>
-            <pubDate>Fri, 30 Apr 2021 02:04:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[数字货币板块持续下挫，北信源跌近10%，旗天科技、御银股份、创识科技、智度股份跟跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmxzfmk9825331.d.html</link>
-            <guid>2152455</guid>
-            <pubDate>Fri, 30 Apr 2021 02:03:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[信达证券：给予士兰微买进的初始评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2684931.d.html</link>
-            <guid>2152452</guid>
-            <pubDate>Fri, 30 Apr 2021 02:03:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中国石油：油价每上升1美元/桶 公司利润增加40亿元左右】中国石油在上交所E互动平台回答投资者提问称，油价每上升1美元/桶，公司利润增加40亿元左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2684669.d.html</link>
-            <guid>2152450</guid>
-            <pubDate>Fri, 30 Apr 2021 02:02:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【经济日报再谈特斯拉现象：不从更深层次上反省 就很难确保下次不重演类似过激维权事件】如何加强数据监管和畅通消费者维权通道，是我们从汽车大国迈向汽车强国，构建良好汽车消费生态和文明进程中必须作答的考题。与真相如何、数据是否真实相比，此次“车顶维权”最令人担忧的是，它在某种程度上又强化了“越闹才会越被重视”的维权错误认知。维权车主踩的不仅是特斯拉一辆车，而是汽车产业快速发展和消费维权中的多个痛点，全社会都在为此交学费。如果我们只是满足于看热闹，不能从更深层次上反省特斯拉现象，从而进行系统改进，就很难确保下次不重演类似过激维权事件。这个学费交得就很不值！]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2684433.d.html</link>
-            <guid>2152449</guid>
-            <pubDate>Fri, 30 Apr 2021 02:01:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
