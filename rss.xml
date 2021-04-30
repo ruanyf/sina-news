@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 30 Apr 2021 18:37:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Apr 2021 19:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国总统拜登：美国在交通基础设施方面落后于世界。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmk9982933.d.html</link>
+            <guid>2153354</guid>
+            <pubDate>Fri, 30 Apr 2021 19:10:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国国家航空航天局（NASA）拟定SpaceX龙飞船将在本周日返航。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmk9982506.d.html</link>
+            <guid>2153350</guid>
+            <pubDate>Fri, 30 Apr 2021 19:02:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[白宫方面证实美国将于5月4日开始对印度实施旅行限制。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2841364.d.html</link>
@@ -244,18 +256,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmxzfmk9968772.d.html</link>
             <guid>2153256</guid>
             <pubDate>Fri, 30 Apr 2021 15:24:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国取消了此前为应对埃博拉病毒对刚果旅客的旅行限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmxzfmk9967338.d.html</link>
-            <guid>2153250</guid>
-            <pubDate>Fri, 30 Apr 2021 15:07:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度尼西亚军方：希望中国海军参与打捞沉没潜艇】印度尼西亚海军上将尤多（Yudo Margono）当地时间4月30日向媒体透露了打捞沉没潜艇KRI Nanggala-402号的进展情况。他说，新加坡海军搜救设备只能打捞该潜艇的轻型部件。至于重型部件，希望属于中国海军的舰船能够提供帮助。目前，中国海军的舰船正在前往印尼协助打捞。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2827541.d.html</link>
-            <guid>2153249</guid>
-            <pubDate>Fri, 30 Apr 2021 15:05:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
