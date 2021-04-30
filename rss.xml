@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 30 Apr 2021 19:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Apr 2021 20:26:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[加拿大权威信用评级公司DBRS：确认加拿大评级为BBB（高），前景展望仍为负面。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmk9984981.d.html</link>
+            <guid>2153428</guid>
+            <pubDate>Fri, 30 Apr 2021 20:08:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至4月27日当周，投机者将美元净空头头寸规模增至3月末以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmk9984053.d.html</link>
+            <guid>2153397</guid>
+            <pubDate>Fri, 30 Apr 2021 19:41:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国拜登政府将对美国所有交通方式的乘客的口罩佩戴要求延长至9月13日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2844342.d.html</link>
+            <guid>2153387</guid>
+            <pubDate>Fri, 30 Apr 2021 19:35:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国总统拜登：美国在交通基础设施方面落后于世界。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmk9982933.d.html</link>
@@ -208,54 +226,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmxzfmk9970566.d.html</link>
             <guid>2153275</guid>
             <pubDate>Fri, 30 Apr 2021 15:50:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：就“莫兰山”事件向以色列表示哀悼。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmxzfmk9970475.d.html</link>
-            <guid>2153274</guid>
-            <pubDate>Fri, 30 Apr 2021 15:49:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家航空航天局（NASA）：所有火星直升机系统运行正常。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2830706.d.html</link>
-            <guid>2153272</guid>
-            <pubDate>Fri, 30 Apr 2021 15:46:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家航空航天局（NASA）：火星直升机的测试用于空中侦察和科学研究。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmxzfmk9970186.d.html</link>
-            <guid>2153271</guid>
-            <pubDate>Fri, 30 Apr 2021 15:44:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国家航空航天局（NASA）：火星直升机将进一步运行30天。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmxzfmk9970182.d.html</link>
-            <guid>2153270</guid>
-            <pubDate>Fri, 30 Apr 2021 15:44:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【满帮集团回应被约谈：将进一步把企业主体责任落实到位】满帮集团回应称，将与交通运输新业态协同监管部际联席会议办公室保持联系机制。进一步将企业主体责任落实到位，切实保障货车司机合法权益，维护道路货运行业健康稳定发展。（新京报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2830387.d.html</link>
-            <guid>2153267</guid>
-            <pubDate>Fri, 30 Apr 2021 15:41:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉涨势持续，现涨超4%，报704.33美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmxzfmk9969923.d.html</link>
-            <guid>2153266</guid>
-            <pubDate>Fri, 30 Apr 2021 15:41:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿富汗官员：阿富汗东部洛加尔省省会发生爆炸，造成至少25人死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmyaawc2830164.d.html</link>
-            <guid>2153264</guid>
-            <pubDate>Fri, 30 Apr 2021 15:39:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美尚生态：5月7日起被实施退市风险警示叠加其他风险警示】美尚生态公告，股票被实施退市风险警示叠加其他风险警示。5月6日开市起停牌1天，5月7日（星期五）开市起复牌，同时被实施退市风险警示，股票简称由“美尚生态”变更为“*ST美尚”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-30/detail-ikmxzfmk9968772.d.html</link>
-            <guid>2153256</guid>
-            <pubDate>Fri, 30 Apr 2021 15:24:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
