@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 01 May 2021 17:47:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 May 2021 18:36:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[法国新增确诊病例25670例，累计确诊5642359例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0131837.d.html</link>
+            <guid>2154179</guid>
+            <pubDate>Sat, 01 May 2021 18:07:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[伯克希尔旗下的非保险业务副董事长格雷格·阿贝尔和保险业务副董事长阿吉特·贾因也出席了年度大会。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0130119.d.html</link>
@@ -262,59 +268,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0086416.d.html</link>
             <guid>2153950</guid>
             <pubDate>Sat, 01 May 2021 09:17:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【欧盟首次对苹果发起反垄断诉讼 罚金或达其全球营收10%】当地时间4月30日，欧盟正式对苹果发起反垄断诉讼，这是欧盟首次对苹果公司提起反垄断诉讼，这可能导致苹果公司被处以相当于其全球营收10%的罚款。苹果2020财年营收为2745.15亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0083802.d.html</link>
-            <guid>2153947</guid>
-            <pubDate>Sat, 01 May 2021 08:58:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  丰田、大发工业与铃木据悉将联合开发电动汽车。 (日本共同社)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0083259.d.html</link>
-            <guid>2153946</guid>
-            <pubDate>Sat, 01 May 2021 08:53:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【克而瑞：房企新增货值百强门槛同比上升6%】据克而瑞地产研究消息，截止4月末，新增货值百强门槛为55.3亿元，同比上涨6%，共有23家房企新增货值超过300亿元，新增货值TOP10房企的新增货值均超过500亿元。碧桂园、保利、融创、万科分列前四，年内新增货值均已破千亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0082140.d.html</link>
-            <guid>2153944</guid>
-            <pubDate>Sat, 01 May 2021 08:45:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国国防部：关于联合战斗机的问题仍在讨论中，计划在下周达成共识。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0081324.d.html</link>
-            <guid>2153943</guid>
-            <pubDate>Sat, 01 May 2021 08:39:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【券商一季度业绩分化大 自营业务成分水岭】随着4月29日晚上市券商一季报披露完毕，各家券商自营收入也暴露了出来。整体来说，券商一季度业绩分化较大，其中过半券商的自营业务收入均出现下滑，主因是一季度股债市场波动加大，自营业务不好做。国泰君安一季度自营收入达到41.22亿元，相比去年的8028万暴增了50倍，海通证券则以近50亿的投资收益排在首位；但同时也有三家券商自营收入为负，另有21家自营收入均比同期减少。（证券时报）]]></title>
-            <guid>2153942</guid>
-            <pubDate>Sat, 01 May 2021 08:31:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国国防部：在最后期限到期后，德国、法国和西班牙仍未就联合战斗机研制问题达成协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0079625.d.html</link>
-            <guid>2153941</guid>
-            <pubDate>Sat, 01 May 2021 08:28:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【券商一季度业绩分化大 自营业务成分水岭】国泰君安一季度自营收入达到41.22亿元，相比去年的8028万暴增了50倍，海通证券则以近50亿的投资收益排在首位；但同时也有三家券商自营收入为负，另有21家自营收入均比同期减少。 (证券时报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0079420.d.html</link>
-            <guid>2153940</guid>
-            <pubDate>Sat, 01 May 2021 08:27:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【云南多地发现黄脊竹蝗幼虫，当地全力开展防治工作】近日，在云南省普洱市江城县、墨江县，西双版纳州勐腊县等地，工作人员在部分竹林发现少量黄脊竹蝗幼虫出现，为防止黄脊竹蝗爆发成灾，目前，相关部门正全力开展防控工作。根据黄脊竹蝗的生物学特性，它们集中产卵，主要在4月初到5月初这段时间集中孵化。孵化过程中，它们将会分段分批地孵化。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0078990.d.html</link>
-            <guid>2153939</guid>
-            <pubDate>Sat, 01 May 2021 08:24:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南：实施国土空间用途转用和规划审批制度改革试点 设立自贸港建设投资基金】4月30日，海南省委书记、省委深改委（省委自贸港工委）主任沈晓明主持召开省委深改委暨自贸港工委会议，研究实施国土空间用途转用和规划审批制度改革试点等事项。会议审议通过《关于在洋浦经济开发区等重点园区实施国土空间用途转用和规划审批制度改革试点的意见》、《海南自由贸易港建设投资基金设立方案》等。会议还研究了全岛封关准备工作，审议通过《海南省产业园区有关问题解决细化方案》等文件。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0075856.d.html</link>
-            <guid>2153933</guid>
-            <pubDate>Sat, 01 May 2021 08:01:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
