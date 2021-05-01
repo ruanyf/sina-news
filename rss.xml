@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 01 May 2021 21:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 May 2021 22:31:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【伊朗副外长：伊核谈判共识和分歧更加明确】伊朗副外长阿拉格希5月1日在接受媒体采访时说，伊朗核问题全面协议相关方当天在奥地利首都维也纳举行新一轮会谈，各方围绕美伊恢复履约问题进一步明确了有关共识和分歧。伊朗新闻电视台援引阿拉格希的话报道说，在部分已经达成共识的问题上，条文起草工作正在进行，但这项工作进展缓慢。他说，根据目前达成的共识，美国针对伊朗能源、金融、银行和保险等行业的制裁必须取消，将被解除制裁的个人和机构名单仍在商议中。（新华网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0140338.d.html</link>
+            <guid>2154340</guid>
+            <pubDate>Sat, 01 May 2021 22:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伯克希尔哈撒韦年度股东大会结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0139260.d.html</link>
+            <guid>2154338</guid>
+            <pubDate>Sat, 01 May 2021 21:29:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沃伦·巴菲特：很可能在明年4月30日在奥马哈举行股东大会，希望能够迎来创纪录的股东人数。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0139226.d.html</link>
+            <guid>2154337</guid>
+            <pubDate>Sat, 01 May 2021 21:28:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【巴菲特和芒格对投资富国银行有分歧？两人回应：没有任何冲突】对于外界传闻的芒格和巴菲特在投资好事多（Costco）和富国银行上面有不同的意见的提问，芒格称，“我们没有那么多不同点，其实还是差不多的。好事多公司，我非常尊敬他，而且也非常享受好事多公司的一切。伯克希尔也是如此，所以这中间并没有任何冲突。沃伦跟我不是每一个事情完完全全一致的，我们两个相处的非常和谐。”沃伦·巴菲特也回应称，二人有的时候是有不同点，但没有什么大的争执。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0135167.d.html</link>
@@ -174,35 +192,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2971869.d.html</link>
             <guid>2154000</guid>
             <pubDate>Sat, 01 May 2021 13:27:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网自动测定：05月01日21时17分在云南大理州宾川县附近（北纬25.94度，东经100.88度）发生3.0级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>2153999</guid>
-            <pubDate>Sat, 01 May 2021 13:20:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[追踪油轮运输的咨询公司PetroLogistcis：伊朗原油产量的增长趋势总体上仍在持续。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0110763.d.html</link>
-            <guid>2153998</guid>
-            <pubDate>Sat, 01 May 2021 13:16:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【格力公开“可穿戴空调”专利】天眼查APP显示，4月30日，珠海格力电器股份有限公司公开“可穿戴空调”专利，公开号为CN112728668A，申请日期为2020年12月。该专利摘要显示，本申请提供一种可穿戴空调。该专利摘要显示，本申请提供一种可穿戴空调。该可穿戴空调包括壳体、冷热送风模块和音频模块，根据本申请的可穿戴空调，能够避免冷热风掺混，提高用户的舒适性体验。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2970546.d.html</link>
-            <guid>2153997</guid>
-            <pubDate>Sat, 01 May 2021 13:11:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伯克希尔哈撒韦：流通股在3月31日至4月22日期间下跌，公司在此期间回购了超过10亿美元的股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0109240.d.html</link>
-            <guid>2153994</guid>
-            <pubDate>Sat, 01 May 2021 12:59:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【水滴公司估值超50亿美元 王慧文、博裕资本等投资】5月1日，自两周前向美国证券交易委员会(SEC)提交IPO申请后，近日水滴公司再次更新招股书，透露出了最新信息。最新的F-1招股书文件上，确定水滴公司发行价格区间为每份ADS（美国存托证券）10到12美元，计划发行3000万股ADS（行使超额配股权前）,行使绿鞋机制后，预计初始募资额最高为4.14亿美元，公司估值超过50亿美元。 （21世纪）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2968062.d.html</link>
-            <guid>2153992</guid>
-            <pubDate>Sat, 01 May 2021 12:42:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
