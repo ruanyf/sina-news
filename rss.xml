@@ -4,11 +4,65 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 01 May 2021 15:29:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 May 2021 16:45:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[伊朗首席核谈判代表：（伊朗与美国）就解除针对石油、银行等部门的制裁达成了协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0126714.d.html</link>
+            <guid>2154143</guid>
+            <pubDate>Sat, 01 May 2021 16:40:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国总统拜登将在周四访问路易斯安那州之时讨论就业计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc2985807.d.html</link>
+            <guid>2154110</guid>
+            <pubDate>Sat, 01 May 2021 16:20:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗：与美国就多数制裁达成共识】伊朗副外长阿巴斯·阿奇表示，伊朗和美国就许多针对伊朗个人和经济部门的制裁准备好了协议。阿巴斯·阿奇说：“已经在取消针对伊朗能源、汽车、金融和港口部门的制裁方面达成了共识，而且针对个人制裁的谈判也在继续。无论是有争议的问题，还是有共识的问题，双方对话都达到了成熟的水平。”]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0125214.d.html</link>
+            <guid>2154103</guid>
+            <pubDate>Sat, 01 May 2021 16:16:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗首席核谈判代表：尚未就所有被制裁的个人问题达成协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc2985108.d.html</link>
+            <guid>2154094</guid>
+            <pubDate>Sat, 01 May 2021 16:09:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗首席核谈判代表：维也纳会谈的趋势“自然有些放缓”，但仍在向前发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc2985027.d.html</link>
+            <guid>2154092</guid>
+            <pubDate>Sat, 01 May 2021 16:08:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗方面表示，正在研究核协议的文本和措辞。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc2984939.d.html</link>
+            <guid>2154087</guid>
+            <pubDate>Sat, 01 May 2021 16:06:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登将前往路易斯安那州的莱克查尔斯和新奥尔良。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc2984657.d.html</link>
+            <guid>2154081</guid>
+            <pubDate>Sat, 01 May 2021 16:03:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗副外长：核谈判向着正确的方向缓慢迈进。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0123364.d.html</link>
+            <guid>2154075</guid>
+            <pubDate>Sat, 01 May 2021 15:46:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：伊朗核协议谈判仍有很多工作要做，时间所剩无几。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0122894.d.html</link>
+            <guid>2154062</guid>
+            <pubDate>Sat, 01 May 2021 15:40:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据天空新闻：英国可能从5月17日起恢复非必要的国际旅行。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2982550.d.html</link>
@@ -291,42 +345,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0069632.d.html</link>
             <guid>2153922</guid>
             <pubDate>Sat, 01 May 2021 07:08:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京铁路：京广高铁部分列车晚点2小时以上】北京铁路称，因京广高铁大风影响铁路供电，去往保定以远各站高铁晚点。铁路部门正在抢修，线路将尽快开通，预计晚点2小时以上，请旅客稍侯或改签后续列车，掌握上车时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0067473.d.html</link>
-            <guid>2153917</guid>
-            <pubDate>Sat, 01 May 2021 06:49:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“五一”首日长三角铁路预计发送旅客360万人次，或创新高】5月1日是“五一”假期首日，长三角铁路将再次迎来客流高峰，预计当日发送旅客360万人次，有望创下单日客发量历史新高。据悉，今年“五一”假期运输期限为4月29日至5月6日共计8天，长三角铁路发送旅客将超过2200万人次，日均发送旅客275万以上。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0067244.d.html</link>
-            <guid>2153916</guid>
-            <pubDate>Sat, 01 May 2021 06:47:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国4月新车注册量为140428辆，较2019年4月下降25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0063481.d.html</link>
-            <guid>2153911</guid>
-            <pubDate>Sat, 01 May 2021 06:22:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：巴拿马发生5.7级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2923879.d.html</link>
-            <guid>2153910</guid>
-            <pubDate>Sat, 01 May 2021 06:21:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[习近平在中共中央政治局第二十九次集体学习时强调，要抓住产业结构调整这个关键，推动战略性新兴产业、高技术产业、现代服务业加快发展，推动能源清洁低碳安全高效利用，持续降低碳排放强度。要支持绿色低碳技术创新成果转化，支持绿色技术创新。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0061470.d.html</link>
-            <guid>2153906</guid>
-            <pubDate>Sat, 01 May 2021 06:09:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据土耳其阿纳多卢通讯社：土耳其将发电厂的天然气价格上调12%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0060837.d.html</link>
-            <guid>2153904</guid>
-            <pubDate>Sat, 01 May 2021 06:05:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
