@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 02 May 2021 16:45:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 May 2021 17:44:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【日本静冈县遭暴风袭击致逾百栋建筑受损】日本静冈县5月1日遭遇暴风袭击。静冈县政府部门2日公布，截至当晚暴风已致该县3人受伤，牧之原、菊川和沼津3市共129栋建筑受损。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmyaawc3135903.d.html</link>
+            <guid>2154806</guid>
+            <pubDate>Sun, 02 May 2021 17:42:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：英国首相约翰逊将于周二同印度总理莫迪会谈。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0272516.d.html</link>
@@ -329,30 +335,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc3091175.d.html</link>
             <guid>2154468</guid>
             <pubDate>Sun, 02 May 2021 08:32:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【2020年八成创业板公司盈利】截至2021年4月30日，创业板共有947家上市公司，均已披露2020年年报或经营数据。深交所创业板2020年业绩报告显示，创业板公司复苏态势良好、业绩表现亮眼。数据显示，创业板公司2020年平均实现营业收入21.16亿元，同比增长7.3%，平均实现净利润1.35亿元，同比增长43.00%，平均实现扣除非经常性损益后净利润1亿元，同比增长57.15%，创近年来最好水平。947家创业板公司中，790家实现盈利，占比83.42%；557家公司实现净利润增长，占比58.82%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0229560.d.html</link>
-            <guid>2154463</guid>
-            <pubDate>Sun, 02 May 2021 08:16:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马来西亚外长：马来西亚首相访问新加坡的行程将会推迟。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0229316.d.html</link>
-            <guid>2154462</guid>
-            <pubDate>Sun, 02 May 2021 08:13:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马来西亚与新加坡外长同意继续就边境开放问题展开对话。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0229208.d.html</link>
-            <guid>2154461</guid>
-            <pubDate>Sun, 02 May 2021 08:12:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【A股2020年现金分红金额1.52万亿元 再创新高】截至4月30日，沪深两市有3003家公司发布2020年现金分红方案，占A股上市公司总数约70.1%，累计分红总额1.52万亿元（含当年季报、半年报、年报分红，下同），相比2019年度的1.36万亿元增长11.76%，再创新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc3088409.d.html</link>
-            <guid>2154458</guid>
-            <pubDate>Sun, 02 May 2021 08:05:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
