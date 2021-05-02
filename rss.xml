@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 02 May 2021 18:36:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 May 2021 19:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【热门动画电影《恶魔杀手》(Demon Slayer)票房超过640万美元 夺得北美周末票房冠军】日本动画电影本周末《恶魔杀手》票房超过640万美元，称霸票房，结束了《真人快打》(Mortal Kombat)的霸主地位。该片上映第二周票房超过640万美元，北美总票房达到3410万美元。这部电影改编自电视剧，讲述了一组主要人物调查穆根列车上40多人失踪的故事。今年10月，该片在日本的首映票房创下纪录。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0280052.d.html</link>
+            <guid>2154817</guid>
+            <pubDate>Sun, 02 May 2021 18:56:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英特尔将投资6亿美元扩大在以色列的研发】据悉，英特尔将在以色列再投资6亿美元，以扩大其研发。该公司首席执行官帕特·吉尔辛格周日在对以色列进行为期一天的访问期间宣布了这一消息。该公司还证实，将斥资100亿美元建设一座新的芯片工厂，第一阶段的建设已经开始。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0279518.d.html</link>
+            <guid>2154816</guid>
+            <pubDate>Sun, 02 May 2021 18:44:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[消息人士：至少两枚火箭弹落在伊拉克巴格达国际机场附近，无人员伤亡。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0278759.d.html</link>
@@ -311,18 +323,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0238382.d.html</link>
             <guid>2154481</guid>
             <pubDate>Sun, 02 May 2021 09:42:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特斯拉德国柏林工厂项目恐延期至2022年1月】据德国汽车杂志《Automobile Woche》报道，特斯拉位于德国柏林的超级工厂项目正式投产的日期将继续推迟6个月，直至2022年1月末。工厂缺乏最终建造许可是推迟的原因之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0237292.d.html</link>
-            <guid>2154479</guid>
-            <pubDate>Sun, 02 May 2021 09:31:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  人民银行北京营管部4月30日发布的行政处罚信息显示，网银在线（北京）科技有限公司因未按规定办理变更事项被处罚款3万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0236555.d.html</link>
-            <guid>2154476</guid>
-            <pubDate>Sun, 02 May 2021 09:23:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
