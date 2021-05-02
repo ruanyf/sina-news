@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 02 May 2021 03:35:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 May 2021 04:33:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【五一首日全国铁路发送旅客创新高】从中国国家铁路集团有限公司获悉，5月1日，全国铁路发送旅客1882.6万人次，较2019年同期增长9.2%，创下单日客流历史新高。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc3059160.d.html</link>
+            <guid>2154415</guid>
+            <pubDate>Sun, 02 May 2021 04:27:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[猫眼专业版数据显示，截至2021年5月2日12时04分，2021年五一档总票房（含预售）破6亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0196763.d.html</link>
+            <guid>2154413</guid>
+            <pubDate>Sun, 02 May 2021 04:13:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[浙江金华一入境人员解除隔离后核酸阳性，曾乘火车。目前，该感染者已在定点医院隔离医学观察，已排查密切接触者均已按要求落实管控措施，涉及场所均落实了有效消毒。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc3053854.d.html</link>
+            <guid>2154410</guid>
+            <pubDate>Sun, 02 May 2021 03:57:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【5月2日全国铁路预计发送旅客1420万人次】从中国国家铁路集团有限公司获悉，5月1日，全国铁路发送旅客1882.6万人次，较2019年同期增长9.2%。5月2日，全国铁路预计发送旅客1420万人次，较2019年同期增长7.7%。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0193617.d.html</link>
+            <guid>2154409</guid>
+            <pubDate>Sun, 02 May 2021 03:56:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据日本共同社：美国国务卿布林肯和日本外相茂木敏充将于下周一在伦敦举行会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc3052714.d.html</link>
+            <guid>2154408</guid>
+            <pubDate>Sun, 02 May 2021 03:51:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【首单含ESG条款的人民币利率衍生品出炉】日前，恒生中国宣布正式完成首笔包含环境、社会及治理（ESG）条款的人民币利率衍生品交易，成为首家完成此类交易的银行。恒生中国环球市场部企业财资业务总监许婕介绍，该笔交易是挂钩人民币利率掉期的一个衍生品，主要目的在于帮助企业防止市场利率波动。（新华财经）]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc3047949.d.html</link>
@@ -222,12 +252,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc2993729.d.html</link>
             <guid>2154196</guid>
             <pubDate>Sat, 01 May 2021 18:44:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴菲特：伯克希尔在2020年底持有雪佛龙的股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc2993530.d.html</link>
-            <guid>2154194</guid>
-            <pubDate>Sat, 01 May 2021 18:41:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
