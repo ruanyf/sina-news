@@ -4,11 +4,45 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 03 May 2021 16:47:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 May 2021 17:49:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【英特尔将投资35亿美元升级位于新墨西哥州的生产基地】作为全球最大芯片制造商，英特尔在美国有三座生产基地，其中位于新墨西哥州Rio Rancho的工厂将获得此次投资以支持英特尔的芯片封装技术。首席执行官Gelsinger正试图推动英特尔重新获得制造技术方面的领先地位，同时还在扩大生产能力，以向包括竞争对手在内的其他芯片制造商提供代工服务。Gelsinger承诺将为此投入200亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3288039.d.html</link>
+            <guid>2155473</guid>
+            <pubDate>Mon, 03 May 2021 17:44:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  小鹏汽车小幅下挫，跌幅扩大至3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0426618.d.html</link>
+            <guid>2155468</guid>
+            <pubDate>Mon, 03 May 2021 17:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：德国汉莎航空购买了5架空客a350-900和5架波音(BA.N)787-9飞机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0426365.d.html</link>
+            <guid>2155467</guid>
+            <pubDate>Mon, 03 May 2021 17:20:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：亚马逊(AMZN.O)将比预期提前一年获得美国国家橄榄球联盟(NFL)独家播放权。]]></title>
+            <guid>2155465</guid>
+            <pubDate>Mon, 03 May 2021 17:06:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  CFRA Research：将Facebook(FB.O)的评级从买入下调为持有。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0425297.d.html</link>
+            <guid>2155464</guid>
+            <pubDate>Mon, 03 May 2021 17:02:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞信允许Archegos进行10倍杠杆交易 导致自己的损失远超同行】一位知情人士说，瑞信借钱给Bill Hwang的这个家族理财室，允许其进行十倍押注，只要求相当于所借资金10%的抵押品。在某些情况下，瑞信向Hwang提供的杠杆率是其他经纪公司的两倍。结果，Archegos在3月份爆仓后，瑞信蒙受大约55亿美元损失。相比之下，野村控股损失29亿美元，其他向Hwang提供主经纪商业务服务的银行（包括德意志银行）损失更低，甚至没有损失。瑞信对此拒绝置评。]]></title>
+            <guid>2155463</guid>
+            <pubDate>Mon, 03 May 2021 16:57:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[英国外交大臣拉布：对于北爱尔兰协议，我们必须以平衡的方式实施。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0423790.d.html</link>
@@ -222,48 +256,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0412266.d.html</link>
             <guid>2155374</guid>
             <pubDate>Mon, 03 May 2021 14:06:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[雷神科技(RTX.N)：雷神资讯及太空公司与美国运输安全管理局签署了一份为期5年、价值3.18亿美元的合同，将扩大机场筛查设备合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0412171.d.html</link>
-            <guid>2155370</guid>
-            <pubDate>Mon, 03 May 2021 14:05:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  数据公布后，道指涨幅缩窄至0.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0412080.d.html</link>
-            <guid>2155369</guid>
-            <pubDate>Mon, 03 May 2021 14:03:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国4月ISM制造业指数降至60.7，脱离3月份以64.7录得的逾37年高位，供应链问题持续存在和原材料短缺都限制产能并加重工作积压。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0412052.d.html</link>
-            <guid>2155368</guid>
-            <pubDate>Mon, 03 May 2021 14:03:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国3月营建支出月率0.2%，前值-0.80%，预期2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmyaawc3272091.d.html</link>
-            <guid>2155366</guid>
-            <pubDate>Mon, 03 May 2021 14:01:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国4月ISM制造业PMI为60.7，前值64.7，预期65。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0411788.d.html</link>
-            <guid>2155365</guid>
-            <pubDate>Mon, 03 May 2021 14:00:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽元兑美元NZD/USD日内上涨0.50%，现报0.7192。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0411579.d.html</link>
-            <guid>2155363</guid>
-            <pubDate>Mon, 03 May 2021 13:58:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  戴姆勒因芯片问题而在两家工厂扩大州政府薪酬支持措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmyaawc3271695.d.html</link>
-            <guid>2155362</guid>
-            <pubDate>Mon, 03 May 2021 13:57:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
