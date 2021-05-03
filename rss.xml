@@ -4,11 +4,107 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 03 May 2021 05:28:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 May 2021 06:34:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：伊朗方面确认准备好与沙特举行任何级别的会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0365322.d.html</link>
+            <guid>2155079</guid>
+            <pubDate>Mon, 03 May 2021 06:32:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  高盛：上调渣打集团(02888.HK)目标价至66港元，评级买入。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmyaawc3224556.d.html</link>
+            <guid>2155076</guid>
+            <pubDate>Mon, 03 May 2021 06:25:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  摩根大通：将西南航空(LUV.N)目标价从44美元升至66美元，评级从跑输大市升至中性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmyaawc3223241.d.html</link>
+            <guid>2155074</guid>
+            <pubDate>Mon, 03 May 2021 06:16:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  摩根大通：将美国联合航空(UAL.O)目标价从43美元升至58美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmyaawc3222794.d.html</link>
+            <guid>2155072</guid>
+            <pubDate>Mon, 03 May 2021 06:12:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  摩根大通：将达美航空(DAL.N)目标价从49美元升至63美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0362429.d.html</link>
+            <guid>2155071</guid>
+            <pubDate>Mon, 03 May 2021 06:11:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  加拿大皇家银行：将菲利普斯66(PSX.N)目标价从85美元升至91美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmyaawc3222250.d.html</link>
+            <guid>2155069</guid>
+            <pubDate>Mon, 03 May 2021 06:09:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  杰富瑞：将高露洁棕榄(CL.N)目标价从83美元升至85美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmyaawc3221094.d.html</link>
+            <guid>2155064</guid>
+            <pubDate>Mon, 03 May 2021 06:02:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国3月实际零售销售年率11%，前值-9.00%，预期-0.3，修正-6.60%（前值）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmyaawc3221074.d.html</link>
+            <guid>2155063</guid>
+            <pubDate>Mon, 03 May 2021 06:02:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国3月实际零售销售月率7.7%，前值1.20%，预期3.2%，修正2.70%（前值）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0360745.d.html</link>
+            <guid>2155061</guid>
+            <pubDate>Mon, 03 May 2021 06:01:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  杰富瑞：将雷神科技(RTX.N)目标价从90美元升至95美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0360181.d.html</link>
+            <guid>2155060</guid>
+            <pubDate>Mon, 03 May 2021 05:57:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据伊朗新闻：伊朗与土库曼斯坦讨论了扩大石油合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0359814.d.html</link>
+            <guid>2155059</guid>
+            <pubDate>Mon, 03 May 2021 05:54:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印尼首席经济部长Airlangga Hartarto：印尼已经实现了经济复苏预算总额的22.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmyaawc3219487.d.html</link>
+            <guid>2155058</guid>
+            <pubDate>Mon, 03 May 2021 05:51:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印尼在延长限制措施中新增了五个省份。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmyaawc3218898.d.html</link>
+            <guid>2155054</guid>
+            <pubDate>Mon, 03 May 2021 05:48:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印尼首席经济部长Airlangga Hartarto：印尼将活动限制措施延长至5月17日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0358663.d.html</link>
+            <guid>2155052</guid>
+            <pubDate>Mon, 03 May 2021 05:47:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  华尔街资管公司科文：将雪佛龙(CVX.N)目标价从113美元降至110美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0357774.d.html</link>
+            <guid>2155050</guid>
+            <pubDate>Mon, 03 May 2021 05:42:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【孟加拉国一艘快艇与运沙船相撞 致26人死亡】当地时间5月3日上午7时，在孟加拉国马达里普尔西普乔尔地区的孟加拉巴扎轮渡码头附近，一艘快艇撞到运沙船船壁，造成26人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0357747.d.html</link>
+            <guid>2155049</guid>
+            <pubDate>Mon, 03 May 2021 05:41:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【Wolfire Games起诉Valve：利用Steam的垄断权 以三七分成规则获得巨大收益 】近日，独立游戏开发商Wolfire Games华盛顿州联邦法院提起针对Valve的集体诉讼，认为Valve正在利用Steam在PC游戏市场上的垄断权，“依赖三七分成规则从每笔游戏销售中获得巨大收益”。Wolfire声称，Valve现在控制着整个PC游戏市场大约75％的份额，仅凭游戏30％的分成就可带来约60亿美元的年收入，以Valve五年前披露的360名员工计算，每位Valve员工每年可分享超过1500万美元的收益。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmyaawc3214878.d.html</link>
@@ -162,84 +258,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmyaawc3191739.d.html</link>
             <guid>2154981</guid>
             <pubDate>Mon, 03 May 2021 03:14:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中国气象局启动四级应急响应 今明天南方迎大范围降水过程】来自中国气象局应急办消息，中国气象局5月3日9时30分启动四级应急响应。湖北、湖南、四川、重庆、贵州、江西、安徽、广东、广西及可能受影响的省级气象局根据实际研判启动或调整相应级别应急响应，指导市（县）气象局及时发布短临预警。据中央气象台预测，5月3日至4日，南方地区自西向东将有一次大范围降水天气过程，中央气象台3日早晨继续发布暴雨蓝色预警。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0330768.d.html</link>
-            <guid>2154979</guid>
-            <pubDate>Mon, 03 May 2021 03:11:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【韩国年底将试点电子驾照】韩国行政安全部和警察厅表示，移动端驾驶证项目将于6日发包。行政安全部和警察厅将与道路交通公团、韩国造币公社合作，年底在部分地区试点核发电子驾照，明年向全国推广。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmyaawc3190764.d.html</link>
-            <guid>2154978</guid>
-            <pubDate>Mon, 03 May 2021 03:09:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【金汇教育暴跌80% 公司拟折让约9.52%配股】金汇教育股价暴跌80%，报0.126港元，公司拟折让约9.52%配股最高净筹5740万港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmyaawc3189147.d.html</link>
-            <guid>2154975</guid>
-            <pubDate>Mon, 03 May 2021 03:01:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：目前美国国防部准备取消所有边境隔离墙的建设项目，此前前总统特朗普曾下令投入数十亿军事和国防资金用于修建隔离墙。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmyaawc3189025.d.html</link>
-            <guid>2154974</guid>
-            <pubDate>Mon, 03 May 2021 03:00:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【龙羊峡大型储能工厂项目预可行性报告通过审查】3日从国家电投黄河水电公司获悉，龙羊峡大型储能工厂项目预可行性研究报告审查通过，这也是全球首个梯级电站之间水能循环利用的储能示范项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmyaawc3186100.d.html</link>
-            <guid>2154969</guid>
-            <pubDate>Mon, 03 May 2021 02:45:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国内首个老龄慢病人群专属普惠保险保障计划发布】从我国首家相互保险社众惠财产相互保险社获悉，该机构近日发布国内首个老龄慢病人群专属普惠保险保障计划，为接受健康管理的老龄慢病患者提供风险保障。原保监会副主席周延礼认为，这一专属普惠保险保障计划填补了老龄慢病人群保障“空白”，能有效缓解患者大病负担，避免因病致贫或返贫。 （新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmyaawc3185555.d.html</link>
-            <guid>2154968</guid>
-            <pubDate>Mon, 03 May 2021 02:42:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【五一档总票房破9亿】据灯塔专业版实时数据，截至2021年5月3日9时51分39秒，2021年五一档总票房(含预售)已突破9亿元。 当前档期票房前三影片分别为：1.《你的婚礼》3.05亿；2.《悬崖之上》2.18亿；3.《秘密访客》1.35亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0323979.d.html</link>
-            <guid>2154963</guid>
-            <pubDate>Mon, 03 May 2021 02:35:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[复星医药涨幅扩大至8%，现报53.4港元，创历史新高，此前瑞士信贷上调复星医药目标价至52港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0317514.d.html</link>
-            <guid>2154951</guid>
-            <pubDate>Mon, 03 May 2021 02:01:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【科特迪瓦发生严重交通事故 至少17人死亡】科特迪瓦军方消防部门5月2日表示，该国中北部当天发生一起两车相撞的严重交通事故，造成至少17人死亡、14人受伤。军方消防部门说，一辆载货卡车2日在科特迪瓦中北部布瓦凯市至卡蒂奥拉市行驶途中与一辆载客巴士迎面相撞，造成上述人员伤亡。载客巴士被撞后受损严重，多名乘客被困车内，消防人员不得不使用重型机械施救。  （央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0316542.d.html</link>
-            <guid>2154949</guid>
-            <pubDate>Mon, 03 May 2021 01:56:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股区块链板块涨幅扩大，欧科云链涨10.1%，火币科技涨7.6%，雄岸科技涨4.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmyaawc3175315.d.html</link>
-            <guid>2154946</guid>
-            <pubDate>Mon, 03 May 2021 01:48:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[越南要求俱乐部和其他非必要的人群密集场所关闭。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0314705.d.html</link>
-            <guid>2154945</guid>
-            <pubDate>Mon, 03 May 2021 01:45:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联发科股价下跌8.4% 交易量放大】联发科下跌8.4%. 交易量为截至此时刻日均水平的四倍，股价从1185元台币下跌至1085元台币。台股加权指数下跌1.3%，MSCI AC 亚太指数下跌0.2%。该股过去52周上涨186%，相比之下同行业股票上涨219%，台股加权指数上涨60%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0313966.d.html</link>
-            <guid>2154942</guid>
-            <pubDate>Mon, 03 May 2021 01:41:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[杰富瑞：将太平洋航运评级上调至买进，目标价3.40港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0312974.d.html</link>
-            <guid>2154939</guid>
-            <pubDate>Mon, 03 May 2021 01:36:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
