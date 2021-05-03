@@ -6,6 +6,27 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 2155560,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0434224.d.html",
+            "title": "  据美国证券交易委员会文件：空白支票公司Catalyst Partners Acquisition首次公开募股筹资高达3亿美元。",
+            "date_modified": "2021-05-03T20:59:27.000Z"
+        },
+        {
+            "id": 2155559,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0434094.d.html",
+            "title": "  【拜登重申将提高企业税和高收入者税收以支付基础设施建设计划】美国总统拜登当地时间5月3日在弗吉尼亚州诺福克一所社区大学发表讲话，重申他将提高企业税和高收入者税收以支付他早前提出的基础设施建设计划。拜登呼吁高收入美国人和企业支付他们的“公平份额”，为工人提供免费的社区大学教育机会和其他福利。拜登3日参观了弗吉尼亚州的学校，强调其提出的基础设施建设计划将使低收入人群受益，并带来更多接受教育的机会以及安全的网络。（央视新闻）",
+            "date_modified": "2021-05-03T20:53:37.000Z"
+        },
+        {
+            "id": 2155558,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0433828.d.html",
+            "title": "福布斯富豪榜数据显示，比尔·盖茨目前的总身价为1305亿美元。",
+            "date_modified": "2021-05-03T20:41:39.000Z"
+        },
+        {
             "id": 2155554,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3293579.d.html",
@@ -66,39 +87,6 @@
             "url": "https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0425297.d.html",
             "title": "  CFRA Research：将Facebook(FB.O)的评级从买入下调为持有。",
             "date_modified": "2021-05-03T17:02:58.000Z"
-        },
-        {
-            "id": 2155463,
-            "content_html": "",
-            "title": "【瑞信允许Archegos进行10倍杠杆交易 导致自己的损失远超同行】一位知情人士说，瑞信借钱给Bill Hwang的这个家族理财室，允许其进行十倍押注，只要求相当于所借资金10%的抵押品。在某些情况下，瑞信向Hwang提供的杠杆率是其他经纪公司的两倍。结果，Archegos在3月份爆仓后，瑞信蒙受大约55亿美元损失。相比之下，野村控股损失29亿美元，其他向Hwang提供主经纪商业务服务的银行（包括德意志银行）损失更低，甚至没有损失。瑞信对此拒绝置评。",
-            "date_modified": "2021-05-03T16:57:09.000Z"
-        },
-        {
-            "id": 2155461,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0423790.d.html",
-            "title": "英国外交大臣拉布：对于北爱尔兰协议，我们必须以平衡的方式实施。",
-            "date_modified": "2021-05-03T16:44:03.000Z"
-        },
-        {
-            "id": 2155458,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0423055.d.html",
-            "title": "  Epic Games专家证人Ned Barnes：苹果应用商店2019财年的营业利润率为77.8%。",
-            "date_modified": "2021-05-03T16:36:54.000Z"
-        },
-        {
-            "id": 2155456,
-            "content_html": "",
-            "title": "美国国务卿布林肯：我们需要迎接气候变化的挑战；我们需要提高对气候排放的雄心。",
-            "date_modified": "2021-05-03T16:28:43.000Z"
-        },
-        {
-            "id": 2155455,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3282653.d.html",
-            "title": "  推特(TWTR.N)盘中直线拉升，跌幅缩窄至1.5%。",
-            "date_modified": "2021-05-03T16:27:25.000Z"
         }
     ]
 }
