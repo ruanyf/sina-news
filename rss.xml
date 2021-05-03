@@ -4,11 +4,52 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 03 May 2021 22:30:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 May 2021 23:26:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：1、庆祝《中俄睦邻友好合作条约》签署20周年专场音乐会举办，孙春兰与戈利科娃发表视频致辞；2、京新高速见证各族同胞亲如一家——团结互助，迈上小康路（沿着高速看中国）；3、中巴经济走廊网络研讨会在印尼举行——探讨三方合作 实现共同发展；4、第二十五届“中国青年五四奖章”评选揭晓。]]></title>
+            <guid>2155594</guid>
+            <pubDate>Mon, 03 May 2021 23:25:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据日经新闻，日本北海道要求政府采取防疫措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3301487.d.html</link>
+            <guid>2155592</guid>
+            <pubDate>Mon, 03 May 2021 23:22:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【3日接待超300万人次，北京旅游市场复苏明显】北京重点监测的202家旅游景区（地区）3日共接待游客306.9万人次，较2019年同期增长0.3%；营业收入则较2019年同期增长22.3%。此外，乡村游的复苏也较为显著。据统计，北京乡村游3日累计接待游客98.9万人次，较2019年同期增长22.6%；营业收入较2019年同期增长49.9%。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0440781.d.html</link>
+            <guid>2155591</guid>
+            <pubDate>Mon, 03 May 2021 23:17:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国官员：韩国将努力稳定物价。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0440223.d.html</link>
+            <guid>2155589</guid>
+            <pubDate>Mon, 03 May 2021 23:11:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国官员：4月CPI上涨是受供应因素和基础效应影响。年通胀率超过2％的可能性有限。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0439580.d.html</link>
+            <guid>2155588</guid>
+            <pubDate>Mon, 03 May 2021 23:05:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国官员：第二季度通胀可能暂时超过2％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3299815.d.html</link>
+            <guid>2155587</guid>
+            <pubDate>Mon, 03 May 2021 23:05:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[云南省卫健委：云南省新增境外陆路输入确诊病例1例，中国籍、缅甸输入。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0437781.d.html</link>
+            <guid>2155581</guid>
+            <pubDate>Mon, 03 May 2021 22:40:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：全球投资巨头KKR推出了一只185亿美元的新并购基金。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3297622.d.html</link>
