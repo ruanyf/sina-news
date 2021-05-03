@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 03 May 2021 17:49:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 May 2021 18:36:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[法国汽车供应商Valeo首席执行官：今年第二季度芯片短缺情况比第一季度更严重，第三季度情况会变好。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3288581.d.html</link>
+            <guid>2155474</guid>
+            <pubDate>Mon, 03 May 2021 17:56:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【英特尔将投资35亿美元升级位于新墨西哥州的生产基地】作为全球最大芯片制造商，英特尔在美国有三座生产基地，其中位于新墨西哥州Rio Rancho的工厂将获得此次投资以支持英特尔的芯片封装技术。首席执行官Gelsinger正试图推动英特尔重新获得制造技术方面的领先地位，同时还在扩大生产能力，以向包括竞争对手在内的其他芯片制造商提供代工服务。Gelsinger承诺将为此投入200亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3288039.d.html</link>
@@ -208,54 +214,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0415636.d.html</link>
             <guid>2155404</guid>
             <pubDate>Mon, 03 May 2021 14:46:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国航空协会表示美英之间的空中旅行可以安全恢复】美国航空协会表示，它对于跨大西洋的航空旅行能安全进行抱有信心，并寻求在6月初G7会议之前能有一项针对美国和英国民众全面重新开放空中旅行的联合声明。该协会致信给美国总统拜登和英国首相约翰逊表示，重新开放美英边界对两国经济复苏至关重要]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmyaawc3275802.d.html</link>
-            <guid>2155403</guid>
-            <pubDate>Mon, 03 May 2021 14:45:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  eBay CEO：正在研究包括加密货币在内的支付方式。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmyaawc3275376.d.html</link>
-            <guid>2155399</guid>
-            <pubDate>Mon, 03 May 2021 14:41:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南离岛免税两天卖出2.94亿元】据海口海关统计，5月1日至5月2日两天，海口海关共监管离岛免税购物金额2.94亿元，同比增长187.65%。今年五一，海南海口、三亚各个免税店都新增了部分品牌，并对热销商品提前备货。各免税店还推出加倍积分、发放代金券、打折等多项优惠活动。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0414915.d.html</link>
-            <guid>2155398</guid>
-            <pubDate>Mon, 03 May 2021 14:39:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[热门中概股走强，爱奇艺涨超4%，雾芯科技、拼多多、阿里巴巴涨超2%，达达集团涨近2%，京东涨超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0414139.d.html</link>
-            <guid>2155393</guid>
-            <pubDate>Mon, 03 May 2021 14:29:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世界卫生组织总干事谭德塞：G7国家可以调动行动的大部分资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0413678.d.html</link>
-            <guid>2155390</guid>
-            <pubDate>Mon, 03 May 2021 14:23:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CBOT软木期货触及美国芝加哥商业交易所（CME）涨停限制，涨超3%，刷新盘中历史高位至1418.50美元/1000板英尺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0412949.d.html</link>
-            <guid>2155380</guid>
-            <pubDate>Mon, 03 May 2021 14:13:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蔚来汽车(NIO.N)涨幅扩大至3%，4月交付量为7102辆，同比增长125%；此前获瑞穗上调目标价。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmyaawc3272829.d.html</link>
-            <guid>2155376</guid>
-            <pubDate>Mon, 03 May 2021 14:09:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[黑石集团(BX.N)任命高管彼得·华莱士为核心私募股权部门全球主管。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-03/detail-ikmxzfmm0412266.d.html</link>
-            <guid>2155374</guid>
-            <pubDate>Mon, 03 May 2021 14:06:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
