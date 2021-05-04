@@ -4,11 +4,59 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 04 May 2021 02:45:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 May 2021 03:31:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据Teslarati报道，对于此前特斯拉德国柏林工厂项目恐延期6个月的报道，德国勃兰登堡经济部长表示，他不知道推迟6个月的传言从何而来，但他预计该工厂项目将面临大约3个月的延期，特斯拉在德国柏林超级工厂GIGA BERLIN有望在夏末或秋初投产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0483832.d.html</link>
+            <guid>2156015</guid>
+            <pubDate>Tue, 04 May 2021 03:28:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马来西亚航空：计划从2024年开始在3到4年内接收25架波音737Max客机，有可能在2023年下半年提前交付。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3343237.d.html</link>
+            <guid>2156013</guid>
+            <pubDate>Tue, 04 May 2021 03:22:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  马来西亚航空公司尚未启动连续性延期计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0482463.d.html</link>
+            <guid>2156012</guid>
+            <pubDate>Tue, 04 May 2021 03:20:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印尼官员：印尼2022年GDP增长目标为5.2%-5.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0481649.d.html</link>
+            <guid>2156010</guid>
+            <pubDate>Tue, 04 May 2021 03:16:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印尼预计第一季度GDP同比增长-0.6%至-0.9%。将在第二季度开始正向增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3341529.d.html</link>
+            <guid>2156008</guid>
+            <pubDate>Tue, 04 May 2021 03:13:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟就建立“欧洲健康数据空间”公开征求意见】欧盟委员会3日就建立“欧洲健康数据空间”公开征求意见，征询截止时间为今年7月26日。 欧委会在当天发表的一份声明中说，建立“欧洲健康数据空间”是欧盟促进健康数据交换的一项重要计划，旨在充分利用健康数据，提供高质量的医疗保健，减少不平等现象，为预防、诊断和治疗，科研创新，决策和立法决定提供数据支持，同时确保欧盟公民对其个人健康数据享有更大的控制权。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3339748.d.html</link>
+            <guid>2156004</guid>
+            <pubDate>Tue, 04 May 2021 03:04:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股港口航运板块普涨，中远海控涨6.3%，中远海发涨3.6%，中国外运涨1.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0478147.d.html</link>
+            <guid>2156003</guid>
+            <pubDate>Tue, 04 May 2021 02:58:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马来西亚航空公司表示收入面临压力，预计到2022年才会复苏。2023年至2025年燃油价格将上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3338266.d.html</link>
+            <guid>2156002</guid>
+            <pubDate>Tue, 04 May 2021 02:56:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[复星医药持续拉升，现涨近5%，报62港元，日内最多跌5.6%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3334050.d.html</link>
@@ -241,53 +289,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3302506.d.html</link>
             <guid>2155595</guid>
             <pubDate>Mon, 03 May 2021 23:30:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：1、庆祝《中俄睦邻友好合作条约》签署20周年专场音乐会举办，孙春兰与戈利科娃发表视频致辞；2、京新高速见证各族同胞亲如一家——团结互助，迈上小康路（沿着高速看中国）；3、中巴经济走廊网络研讨会在印尼举行——探讨三方合作 实现共同发展；4、第二十五届“中国青年五四奖章”评选揭晓。]]></title>
-            <guid>2155594</guid>
-            <pubDate>Mon, 03 May 2021 23:25:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据日经新闻，日本北海道要求政府采取防疫措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3301487.d.html</link>
-            <guid>2155592</guid>
-            <pubDate>Mon, 03 May 2021 23:22:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【3日接待超300万人次，北京旅游市场复苏明显】北京重点监测的202家旅游景区（地区）3日共接待游客306.9万人次，较2019年同期增长0.3%；营业收入则较2019年同期增长22.3%。此外，乡村游的复苏也较为显著。据统计，北京乡村游3日累计接待游客98.9万人次，较2019年同期增长22.6%；营业收入较2019年同期增长49.9%。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0440781.d.html</link>
-            <guid>2155591</guid>
-            <pubDate>Mon, 03 May 2021 23:17:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国官员：韩国将努力稳定物价。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0440223.d.html</link>
-            <guid>2155589</guid>
-            <pubDate>Mon, 03 May 2021 23:11:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国官员：4月CPI上涨是受供应因素和基础效应影响。年通胀率超过2％的可能性有限。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0439580.d.html</link>
-            <guid>2155588</guid>
-            <pubDate>Mon, 03 May 2021 23:05:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国官员：第二季度通胀可能暂时超过2％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3299815.d.html</link>
-            <guid>2155587</guid>
-            <pubDate>Mon, 03 May 2021 23:05:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[云南省卫健委：云南省新增境外陆路输入确诊病例1例，中国籍、缅甸输入。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0437781.d.html</link>
-            <guid>2155581</guid>
-            <pubDate>Mon, 03 May 2021 22:40:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：全球投资巨头KKR推出了一只185亿美元的新并购基金。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3297622.d.html</link>
-            <guid>2155579</guid>
-            <pubDate>Mon, 03 May 2021 22:29:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
