@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 04 May 2021 18:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 May 2021 19:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SpaceX猎鹰9号火箭成功降落在无人驾驶回收船上。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3443265.d.html</link>
+            <guid>2156525</guid>
+            <pubDate>Tue, 04 May 2021 19:14:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果的搜索广告引入了一种推广APP的新方式。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0582724.d.html</link>
+            <guid>2156524</guid>
+            <pubDate>Tue, 04 May 2021 19:14:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[欧洲地中海地震中心：日本本州东海岸附近发生5.3级地震。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0580833.d.html</link>
@@ -155,24 +167,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0568154.d.html</link>
             <guid>2156429</guid>
             <pubDate>Tue, 04 May 2021 15:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  通用电气CEO：通用电气目前没有提高股息的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3428068.d.html</link>
-            <guid>2156421</guid>
-            <pubDate>Tue, 04 May 2021 15:00:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[数据显示，今年“五一”期间，亲子游的订单占比超过三分之一。在采访中了解到，亲子游家庭的消费在1.2万-2万元不等，家人都觉得“这个花销不算高，一年出来一两次可以接受”。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3428019.d.html</link>
-            <guid>2156420</guid>
-            <pubDate>Tue, 04 May 2021 15:00:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国芝加哥市长：计划在7月全面重新开放芝加哥市。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0566593.d.html</link>
-            <guid>2156418</guid>
-            <pubDate>Tue, 04 May 2021 14:47:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
