@@ -4,11 +4,40 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 04 May 2021 17:39:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 May 2021 18:33:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：日本本州东海岸附近发生5.3级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0580833.d.html</link>
+            <guid>2156513</guid>
+            <pubDate>Tue, 04 May 2021 18:27:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国华盛顿州州长暂停重新开放计划两周。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0580827.d.html</link>
+            <guid>2156512</guid>
+            <pubDate>Tue, 04 May 2021 18:27:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：Wallstreetbets推出区块链驱动的应用程序以使指数去中心化。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3440764.d.html</link>
+            <guid>2156511</guid>
+            <pubDate>Tue, 04 May 2021 18:15:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股邮轮股、航空股全线下跌，嘉年华邮轮跌超5%，皇家加勒比邮轮跌4.37%，挪威邮轮跌3.75%，达美航空跌超5%，东方航空、夏威夷航空跌4.8%，美国联合航空跌4.13%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0580107.d.html</link>
+            <guid>2156510</guid>
+            <pubDate>Tue, 04 May 2021 18:11:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：拜登政府正在与立法者讨论美国各州和地方税（SALT）上限问题。]]></title>
+            <guid>2156501</guid>
+            <pubDate>Tue, 04 May 2021 17:46:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  CVR能源(CVI.N)：美国中西部汽油需求将回到2019年水平；美国精炼石油产品库存基本恢复正常。]]></title>
             <guid>2156499</guid>
@@ -144,47 +173,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0566593.d.html</link>
             <guid>2156418</guid>
             <pubDate>Tue, 04 May 2021 14:47:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[G20集团支持经合组织关于旅游安全和旅游业的指导方针。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3425702.d.html</link>
-            <guid>2156407</guid>
-            <pubDate>Tue, 04 May 2021 14:30:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中通快递回应网点违规寄“宠物盲盒”事件：涉事网点暂停快递揽收业务，中通快递四川管理中心相关负责人停职检查。（新京报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3425679.d.html</link>
-            <guid>2156406</guid>
-            <pubDate>Tue, 04 May 2021 14:30:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利总理德拉基：希望意大利的旅游业能在5月中旬开放。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3425492.d.html</link>
-            <guid>2156404</guid>
-            <pubDate>Tue, 04 May 2021 14:27:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 瑞银：将3M目标价从175美元上调至181美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0564664.d.html</link>
-            <guid>2156403</guid>
-            <pubDate>Tue, 04 May 2021 14:25:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国方面表示，英国和印度同意制定联合路线图，其中包括到2030年应对气候变化的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3425316.d.html</link>
-            <guid>2156402</guid>
-            <pubDate>Tue, 04 May 2021 14:25:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国3月工厂订单环比增长1.1%，低于预期1.3％；同比增长16.1％。3月份的反弹将工厂总订单量推高至2018年9月的周期峰值以上。]]></title>
-            <guid>2156401</guid>
-            <pubDate>Tue, 04 May 2021 14:24:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利总理德拉基：意大利方面已准备好再次欢迎游客到来。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0564479.d.html</link>
-            <guid>2156400</guid>
-            <pubDate>Tue, 04 May 2021 14:23:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
