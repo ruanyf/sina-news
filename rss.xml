@@ -4,11 +4,77 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 06 May 2021 18:36:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 May 2021 19:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IMF总裁格奥尔基耶娃：下一阶段的复苏需要政策的支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm0930677.d.html</link>
+            <guid>2159401</guid>
+            <pubDate>Thu, 06 May 2021 19:18:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IMF总裁格奥尔基耶娃：高债务国家可能会因利率上升而受到挤压。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3791371.d.html</link>
+            <guid>2159400</guid>
+            <pubDate>Thu, 06 May 2021 19:15:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：空白支票公司ARTISAN ACQUISITION提交IPO申请，拟筹资达3亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm0930342.d.html</link>
+            <guid>2159393</guid>
+            <pubDate>Thu, 06 May 2021 19:08:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：将企业税率降至25%至28%将有助于支付美国的投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3791004.d.html</link>
+            <guid>2159389</guid>
+            <pubDate>Thu, 06 May 2021 19:04:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IMF总裁格奥尔基耶娃：世界经济复苏面临巨大不平衡的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3790921.d.html</link>
+            <guid>2159385</guid>
+            <pubDate>Thu, 06 May 2021 19:02:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国能源部长Granholm：拜登团队对给核电站提供补贴持开放态度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3790822.d.html</link>
+            <guid>2159383</guid>
+            <pubDate>Thu, 06 May 2021 19:00:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：荷兰皇家壳牌(RDS.B.N)鹿园炼油厂将流化催化裂化（FCC）装置的周转时间推迟到2022年春季。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm0929969.d.html</link>
+            <guid>2159382</guid>
+            <pubDate>Thu, 06 May 2021 18:58:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[媒体消息：美国总统拜登表示，希望看到企业税率在25%到28%之间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm0929961.d.html</link>
+            <guid>2159381</guid>
+            <pubDate>Thu, 06 May 2021 18:58:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国成功发射遥感三十号08组卫星】北京时间2021年5月7日02时11分，我国在西昌卫星发射中心用长征二号丙运载火箭，成功将遥感三十号08组卫星发射升空，卫星进入预定轨道。遥感三十号08组卫星采用多星组网模式，主要用于开展电磁环境探测及相关技术试验。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3790619.d.html</link>
+            <guid>2159379</guid>
+            <pubDate>Thu, 06 May 2021 18:54:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  芝加哥期权交易所（CBOE）：正在积极调查期权交易出现的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm0929735.d.html</link>
+            <guid>2159377</guid>
+            <pubDate>Thu, 06 May 2021 18:53:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Uber跌超10%，Q1营收不及预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm0929436.d.html</link>
+            <guid>2159373</guid>
+            <pubDate>Thu, 06 May 2021 18:45:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国总统拜登：美国必须投资基础设施，为此美国企业需要支付相应的份额。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3789754.d.html</link>
@@ -114,168 +180,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3785593.d.html</link>
             <guid>2159302</guid>
             <pubDate>Thu, 06 May 2021 17:11:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Roku流媒体跌超7%，为连续第八日下跌。Square跌超2%，本周迄今累跌近8%。特斯拉目前跌0.4%，本周迄今累跌近6%。这几只股票的下跌都使得ARKK本周处境变得艰难。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3785104.d.html</link>
-            <guid>2159300</guid>
-            <pubDate>Thu, 06 May 2021 17:04:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国证交会主席根斯勒：美国证交会将重点关注社交媒体操纵市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm0924172.d.html</link>
-            <guid>2159298</guid>
-            <pubDate>Thu, 06 May 2021 16:59:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国证交会主席根斯勒：已经要求美国证交会的工作人员对掉期交易的规则做更多的说明。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm0923585.d.html</link>
-            <guid>2159294</guid>
-            <pubDate>Thu, 06 May 2021 16:48:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[淡水河谷盘中涨超5%，因近期铁矿石价格走强。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm0923426.d.html</link>
-            <guid>2159292</guid>
-            <pubDate>Thu, 06 May 2021 16:45:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国证交会主席根斯勒：美国国会可以解决加密交易保护问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm0923222.d.html</link>
-            <guid>2159291</guid>
-            <pubDate>Thu, 06 May 2021 16:42:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳楼市五一遇冷：新房成交创近五年新低，二手房降幅超八成】美联物业提供的一组近五年深圳“五一”假期的成交数据显示，深圳假期高峰成交在2017年，为817套，其次是2019年的724套，而今年“五一”假期成交数据为270套。诸葛找房数据研究中心分析师陈霄认为，深圳“五一”期间新房成交270套，环比下跌62.9%，同比下跌17.7%，是因为受到近期以来调控政策频频加码的影响，不少打算入市的购房者取消或者推迟了购房计划。“五一”期间北京、深圳、上海二手房日均成交量均同比下降。具体到深圳来看，成交降幅超八成。（每经网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3783825.d.html</link>
-            <guid>2159290</guid>
-            <pubDate>Thu, 06 May 2021 16:42:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳二手房网签量低位运行】深圳市房地产中介协会最新公布的数据显示，4月份深圳二手房网签4396套（含自助网签），环比下滑9.7%，周网签量呈现小幅波动，但不改整体低位平稳的运行状态。在深圳罗湖、福田多个片区调查时，多位购房者都表达出这样的感觉：急售的二手房房源越来越多，还有些业主要求一次性付款，价格下降空间更大。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm0923082.d.html</link>
-            <guid>2159288</guid>
-            <pubDate>Thu, 06 May 2021 16:40:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股白银股、黄金股涨幅居前，Endeavour Silver(EXK.N)涨超10%，First Majestic(AG.N)涨7.82%，泛美白银(PAAS.O)涨6.17%，赫克拉矿业(HL.N)涨14.72%，科尔戴伦矿业(CDE.N)涨6.31%，哈莫尼黄金(HMY.N)涨5.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3783643.d.html</link>
-            <guid>2159287</guid>
-            <pubDate>Thu, 06 May 2021 16:39:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富国银行直线走低，涨幅缩窄至0.65%，公司受到美国消费者金融保护局的调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3783552.d.html</link>
-            <guid>2159285</guid>
-            <pubDate>Thu, 06 May 2021 16:37:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：泛欧证交所股票衍生品交易量环比下降13.1％，同比减少14.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm0922767.d.html</link>
-            <guid>2159283</guid>
-            <pubDate>Thu, 06 May 2021 16:34:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：泛欧交易所4月现金市场总交易额环比减少25.6%，同比减少9.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3783366.d.html</link>
-            <guid>2159282</guid>
-            <pubDate>Thu, 06 May 2021 16:34:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[拼多多盘中涨幅扩大至5%，报137.8美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm0922454.d.html</link>
-            <guid>2159281</guid>
-            <pubDate>Thu, 06 May 2021 16:29:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马尔代夫当地媒体称，马尔代夫前总统MOHAMED NASHEED在家门口的爆炸中受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm0922159.d.html</link>
-            <guid>2159278</guid>
-            <pubDate>Thu, 06 May 2021 16:24:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西卫生部长Queiroga：巴西卫生系统目前的压力比较小。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3782694.d.html</link>
-            <guid>2159277</guid>
-            <pubDate>Thu, 06 May 2021 16:22:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纽约时报公司(NYT.N)现涨超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm0921856.d.html</link>
-            <guid>2159276</guid>
-            <pubDate>Thu, 06 May 2021 16:19:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：体育媒体机构the Athletic已经改变了寻找并购合作伙伴的方式，它与新闻初创公司Axios的合并谈判不再活跃，认为纽约时报公司是合并的主要竞争者。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3782502.d.html</link>
-            <guid>2159275</guid>
-            <pubDate>Thu, 06 May 2021 16:19:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯驻维也纳国际组织代表：关于恢复伊朗核协议的下一轮维也纳会谈将于5月7日开始。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm0921751.d.html</link>
-            <guid>2159274</guid>
-            <pubDate>Thu, 06 May 2021 16:18:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据监测网络状况的网站DownDetector：用户报告显示Facebook服务出现问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm0921660.d.html</link>
-            <guid>2159273</guid>
-            <pubDate>Thu, 06 May 2021 16:16:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大众汽车（拉美分公司）预计汽车零部件危机将在2021年下半年趋于稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm0921507.d.html</link>
-            <guid>2159269</guid>
-            <pubDate>Thu, 06 May 2021 16:13:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国官员：目前在维也纳举行的伊朗核协议谈判没有达成任何协议，在制裁步骤和先后顺序上仍有很多工作要做。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm0921470.d.html</link>
-            <guid>2159268</guid>
-            <pubDate>Thu, 06 May 2021 16:12:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国官员：美国认为如果伊朗恢复遵守伊朗核协议，这符合美国的国家安全利益。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm0921430.d.html</link>
-            <guid>2159267</guid>
-            <pubDate>Thu, 06 May 2021 16:12:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周四（5月6日）欧市尾盘，ICE欧盟碳排放交易许可（期货价格）上涨1.34%，报50.01欧元，美股盘前一度刷新历史高位至50.30欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm0921320.d.html</link>
-            <guid>2159266</guid>
-            <pubDate>Thu, 06 May 2021 16:10:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国官员：伊朗谈判的步伐必须加快，我们才能在未来几周内达成协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3781885.d.html</link>
-            <guid>2159264</guid>
-            <pubDate>Thu, 06 May 2021 16:08:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国国家统计与经济研究所：预计法国第二季度GDP环比增长0.25%，第一季度为0.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3781861.d.html</link>
-            <guid>2159263</guid>
-            <pubDate>Thu, 06 May 2021 16:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中概股爱奇艺目前下跌1.6%，为连续第三日下跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm0921001.d.html</link>
-            <guid>2159262</guid>
-            <pubDate>Thu, 06 May 2021 16:06:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[媒体消息：日本政府拟将印度入境旅客的自我隔离期延长至6天。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3781482.d.html</link>
-            <guid>2159261</guid>
-            <pubDate>Thu, 06 May 2021 16:04:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国总理默克尔领导的德国保守派联盟支持率为23%，绿党支持率为26%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3781452.d.html</link>
-            <guid>2159260</guid>
-            <pubDate>Thu, 06 May 2021 16:04:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
