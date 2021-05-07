@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 07 May 2021 16:46:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 May 2021 17:46:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[贝克休斯：美国钻井公司连续第二周增加石油和天然气钻井平台。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc3987867.d.html</link>
+            <guid>2161092</guid>
+            <pubDate>Fri, 07 May 2021 17:05:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至5月7日当周石油钻井总数(口)前值：342，预期：346，公布：344。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1126311.d.html</link>
+            <guid>2161090</guid>
+            <pubDate>Fri, 07 May 2021 17:01:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：希望在今年夏天之前通过基础设施和就业法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1126173.d.html</link>
+            <guid>2161089</guid>
+            <pubDate>Fri, 07 May 2021 16:59:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：4月份的就业报告并没有改变推动基础设施建设计划的重点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1125670.d.html</link>
+            <guid>2161086</guid>
+            <pubDate>Fri, 07 May 2021 16:53:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【险资首季投资股票与基金收益超千亿元，配置余额占比连降3个月】从相关渠道获悉，一季度险资投资股票与基金收益分别为686.56亿元、358.71亿元，合计1045亿元，投资收益率分别为3.73%、3.26%。这两项资产的投资收益率均高于其他大类资产。不过引人注意的是，险资对股票与基金的配置余额占险资运用总规模的比例，自今年1月份以来持续下降。据记者了解，今年1月份-3月份，险资对股票与基金的合计配置余额占比环比依次减少0.31个百分点、0.56个百分点、0.99个百分点，险资逐月兑现浮盈的迹象明显。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc3986590.d.html</link>
+            <guid>2161083</guid>
+            <pubDate>Fri, 07 May 2021 16:50:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[白宫经济顾问Bernstein：必须关注就业报告里的三个月平均水平。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1123136.d.html</link>
@@ -92,78 +122,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1116108.d.html</link>
             <guid>2161006</guid>
             <pubDate>Fri, 07 May 2021 15:07:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  洋葱集团恢复交易后涨幅缩窄至11.6%，现报8.09美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1115547.d.html</link>
-            <guid>2161000</guid>
-            <pubDate>Fri, 07 May 2021 15:02:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  水滴公司跌幅缩窄至3.83%，报11.525美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3976680.d.html</link>
-            <guid>2160999</guid>
-            <pubDate>Fri, 07 May 2021 15:01:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[洋葱集团正式登陆纽交所，首日上市开涨超55%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1115056.d.html</link>
-            <guid>2160997</guid>
-            <pubDate>Fri, 07 May 2021 14:58:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元兑美元EUR/USD涨超前高1.2152，为2月26日来首次，日内涨幅扩大至0.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3975263.d.html</link>
-            <guid>2160989</guid>
-            <pubDate>Fri, 07 May 2021 14:48:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  随着股市上涨，MSCI ACWI全球标准指数创下历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1113960.d.html</link>
-            <guid>2160988</guid>
-            <pubDate>Fri, 07 May 2021 14:48:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【惠州出台方案深度融入深圳都市圈，支持深圳地铁延伸】近日，惠州市委、市政府正式出台《惠州抢抓“双区”建设重大机遇 深度融入深圳都市圈的行动方案（2021—2023年）》。方案明确：加快深惠城际项目前期工作，推进莞惠城际小金口至惠州北段开工，支持深圳将城市轨道交通延伸至临深片区。协调助推赣深铁路、深汕铁路、广汕铁路建设，携手打造“轨道上的大湾区”。据悉，这是以惠州市委、市政府名义出台的首个专门聚焦深圳都市圈的方案文件。（惠州日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1113761.d.html</link>
-            <guid>2160987</guid>
-            <pubDate>Fri, 07 May 2021 14:45:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据港交所文件：清晰医疗集团控股有限公司向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3974815.d.html</link>
-            <guid>2160986</guid>
-            <pubDate>Fri, 07 May 2021 14:43:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  香港科学家研究发现猪胆酸有效防治2型糖尿病。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3974787.d.html</link>
-            <guid>2160985</guid>
-            <pubDate>Fri, 07 May 2021 14:43:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据港交所文件：Era Jade Media Limited向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1113324.d.html</link>
-            <guid>2160983</guid>
-            <pubDate>Fri, 07 May 2021 14:41:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[对冲基金已经累计了自2008年以来规模最大的垃圾债空头头寸。根据IHS Markit数据，全球约有550亿美元的高收益债券被卖空，而今年年初有350亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3974249.d.html</link>
-            <guid>2160981</guid>
-            <pubDate>Fri, 07 May 2021 14:38:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Tilray(TLRY.O)涨幅扩大至16%，此前获加通贝祥予买入评级及17美元的目标价。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1112846.d.html</link>
-            <guid>2160980</guid>
-            <pubDate>Fri, 07 May 2021 14:38:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CBOT软木期货触及美国芝加哥商业交易所（CME）涨停限制，刷新日高至1670.50美元/1000板英尺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3973736.d.html</link>
-            <guid>2160977</guid>
-            <pubDate>Fri, 07 May 2021 14:33:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
