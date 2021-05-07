@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 07 May 2021 22:31:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 May 2021 23:26:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【外媒：印暂停批准进口中国WiFi模组，多家企业被迫推迟产品发布】 继印度政府日前将华为、中兴等中资企业排除在该国5G商用试验名单之后，5月7日又有消息传出印度已暂停批准从中国进口WiFi模组。据路透社报道，两名行业消息人士透露，印度已经连续数月暂停批准自中国进口WiFi模组，导致戴尔、惠普、小米、OPPO、vivo、联想等厂商被迫推迟在印度发布产品。报道称，印度有关部门未回应针对有关消息的置评要求。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1149442.d.html</link>
+            <guid>2161427</guid>
+            <pubDate>Fri, 07 May 2021 23:23:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息，日本可能会在2021年秋季举行大选，届时，（推迟一年举办的）东京奥运会已经结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1149387.d.html</link>
+            <guid>2161426</guid>
+            <pubDate>Fri, 07 May 2021 23:22:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【《青你3》打投产品退货方案出炉：部分系列5月10日起开退】据“真果粒”微博消息，7日晚，蒙牛真果粒发布声明称，经《青春有你3》节目组与真果粒品牌共同协商，对未饮用的活动产品或未使用的助粒值制定了退货方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1146104.d.html</link>
+            <guid>2161422</guid>
+            <pubDate>Fri, 07 May 2021 23:01:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【因破坏资源或污染环境，去年以来超50家A股公司被罚】2020年以来已有超50家A股公司披露，受到生态环境部门、自然资源部门、市场监督管理局、药品监管局、应急管理局等非银部门处罚。其中，环境污染问题依然突出，有21家公司被生态环境部门出具“环保罚单”；处罚力度最大的则是资源破坏类处罚，违法成本高达上亿元。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4004017.d.html</link>
+            <guid>2161420</guid>
+            <pubDate>Fri, 07 May 2021 22:32:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美联航5月31日至6月30日将暂停美国芝加哥与印度新德里之间的航班。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4003843.d.html</link>
@@ -170,12 +194,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1132630.d.html</link>
             <guid>2161122</guid>
             <pubDate>Fri, 07 May 2021 18:31:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国总统拜登在国务院设立了气候变化办公室。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc3990624.d.html</link>
-            <guid>2161104</guid>
-            <pubDate>Fri, 07 May 2021 17:48:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
