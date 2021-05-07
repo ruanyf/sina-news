@@ -4,11 +4,65 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 07 May 2021 21:24:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 May 2021 22:31:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美联航5月31日至6月30日将暂停美国芝加哥与印度新德里之间的航班。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4003843.d.html</link>
+            <guid>2161419</guid>
+            <pubDate>Fri, 07 May 2021 22:29:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【养老基金重点增持交通运输等三类行业】同花顺数据显示，一季度养老基金共现身110家上市公司前十大流通股东名单，合计持股量达10.78亿股，持股市值191.77亿元。养老基金一季度新进46只，增持26只，减持19只，19只持股量不变。养老基金对9类行业进行了增仓，其中，交通运输、公用事业、食品饮料等3类行业养老基金增仓数据最高。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1140588.d.html</link>
+            <guid>2161406</guid>
+            <pubDate>Fri, 07 May 2021 21:47:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【险资一季度新进增持140只个股，银行股仍是重点持有对象但降低了仓位】根据同花顺数据统计发现，今年一季度，险资重仓持有293家上市公司股票，总计持股数量为9015809.87万股，持仓市值约为1.43万亿元。持股数量来看，银行股仍然是险资的重点持有对象。需要注意的是，险资已经降低了银行股的仓位。截至一季度末，险资持有9家上市银行股份数量未变，仅增持了工商银行，但是对包括招商银行、农业银行、华夏银行、中国银行、邮储银行等在内的5家银行进行了不同程度的减持。从新进增持角度来看，一季度，险资新进增持140家公司股票。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4001498.d.html</link>
+            <guid>2161405</guid>
+            <pubDate>Fri, 07 May 2021 21:45:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：巴西足球前锋内马尔将与巴黎圣日耳曼队续约四年。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4001289.d.html</link>
+            <guid>2161402</guid>
+            <pubDate>Fri, 07 May 2021 21:41:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【483只个股一季度被社保基金持有，近九成公司净利润同比增长】根据同花顺数据统计发现，社保基金2021年一季度末持有483只个股，持股市值合计达3811.03亿元，较上一期增加336.58亿元。上述483只个股主要扎堆在四个行业。社保基金持有医药生物、化工、机械设备、电子等四大行业股票数最多。从持股数量来看，农业银行、工商银行、中国人保、京沪高铁获社保基金持股数居前。从持仓变动来看，今年一季度社保基金新进了113只个股，其中，京沪高铁、国信证券、宝钢股份、南京银行、中兴通讯等5只个股新进持仓量均超4000万股。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4001257.d.html</link>
+            <guid>2161401</guid>
+            <pubDate>Fri, 07 May 2021 21:40:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：05月08日05时24分在台湾台东县发生4.3级地震，震源深度10千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1140229.d.html</link>
+            <guid>2161399</guid>
+            <pubDate>Fri, 07 May 2021 21:38:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利总理德拉基：在获得大量公共援助后，制药公司必须回馈社会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4001074.d.html</link>
+            <guid>2161397</guid>
+            <pubDate>Fri, 07 May 2021 21:35:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【退市新规威力初显：沪市退市公司将达10家，75家公司“披星戴帽”】截至2021年4月30日，沪市除1家公司外，其余上市公司均已完成2020年度报告披露工作。数据显示，原6家暂停上市公司均触及终止上市条件，由此，从目前情况看，2021年沪市被作出终止上市决定的公司数量将达到10家；39家公司将被实施退市风险警示（即*ST）；36家公司将被实施其他风险警示（即ST）。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4000838.d.html</link>
+            <guid>2161395</guid>
+            <pubDate>Fri, 07 May 2021 21:32:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[贝佐斯本周第二次出售亚马逊的股票，总值24亿美元，本周累计出售近50亿美元亚马逊的股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1139475.d.html</link>
+            <guid>2161393</guid>
+            <pubDate>Fri, 07 May 2021 21:26:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国商务部长雷蒙多：一直在和汽车以及半导体公司保持联系。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1139244.d.html</link>
@@ -122,36 +176,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc3990624.d.html</link>
             <guid>2161104</guid>
             <pubDate>Fri, 07 May 2021 17:48:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝克休斯：美国钻井公司连续第二周增加石油和天然气钻井平台。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc3987867.d.html</link>
-            <guid>2161092</guid>
-            <pubDate>Fri, 07 May 2021 17:05:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至5月7日当周石油钻井总数(口)前值：342，预期：346，公布：344。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1126311.d.html</link>
-            <guid>2161090</guid>
-            <pubDate>Fri, 07 May 2021 17:01:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书珍·普萨基：希望在今年夏天之前通过基础设施和就业法案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1126173.d.html</link>
-            <guid>2161089</guid>
-            <pubDate>Fri, 07 May 2021 16:59:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书珍·普萨基：4月份的就业报告并没有改变推动基础设施建设计划的重点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1125670.d.html</link>
-            <guid>2161086</guid>
-            <pubDate>Fri, 07 May 2021 16:53:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【险资首季投资股票与基金收益超千亿元，配置余额占比连降3个月】从相关渠道获悉，一季度险资投资股票与基金收益分别为686.56亿元、358.71亿元，合计1045亿元，投资收益率分别为3.73%、3.26%。这两项资产的投资收益率均高于其他大类资产。不过引人注意的是，险资对股票与基金的配置余额占险资运用总规模的比例，自今年1月份以来持续下降。据记者了解，今年1月份-3月份，险资对股票与基金的合计配置余额占比环比依次减少0.31个百分点、0.56个百分点、0.99个百分点，险资逐月兑现浮盈的迹象明显。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc3986590.d.html</link>
-            <guid>2161083</guid>
-            <pubDate>Fri, 07 May 2021 16:50:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
