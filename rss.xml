@@ -4,13 +4,43 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 07 May 2021 19:49:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 May 2021 20:26:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[  金太阳递交美国IPO申请，寻求在纳斯达克交易所挂牌交易。]]></title>
+            <title><![CDATA[市场消息：美国政府将恢复白宫的访客登记政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc3998363.d.html</link>
+            <guid>2161333</guid>
+            <pubDate>Fri, 07 May 2021 20:24:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[因马斯克的法律团队调整，SpaceX的法律总顾问退出了团队。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc3997926.d.html</link>
+            <guid>2161290</guid>
+            <pubDate>Fri, 07 May 2021 20:09:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普确认授予埃及B/B评级，前景展望为稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1136846.d.html</link>
+            <guid>2161277</guid>
+            <pubDate>Fri, 07 May 2021 20:07:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  热门中概股中，图森未来涨超4%，达达涨超3%。陆金所跌近6%，爱奇艺跌超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc3997661.d.html</link>
+            <guid>2161272</guid>
+            <pubDate>Fri, 07 May 2021 20:03:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：投机者将美元净空头押注增加至3月中旬以来的最高水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc3997267.d.html</link>
+            <guid>2161248</guid>
+            <pubDate>Fri, 07 May 2021 19:50:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【金太阳教育递交IPO材料 申请纳斯达克上市】金太阳教育集团提交首次公开募股(IPO)不超2500万美元的申请材料，称计划寻求在纳斯达克上市，股票代码为“GSUN”。将以预计每股4至5美元发行500万股股票；该公司是一家总部位于上海的高端私立教育服务机构。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1135872.d.html</link>
             <guid>2161221</guid>
             <pubDate>Fri, 07 May 2021 19:38:35 GMT</pubDate>
@@ -104,24 +134,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1123050.d.html</link>
             <guid>2161062</guid>
             <pubDate>Fri, 07 May 2021 16:24:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：与俄罗斯总统普京会晤的时间和地点仍在研究中。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1122289.d.html</link>
-            <guid>2161057</guid>
-            <pubDate>Fri, 07 May 2021 16:16:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国交通大臣夏普斯：将土耳其、马尔代夫和尼泊尔加入旅游禁止名单。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc3983055.d.html</link>
-            <guid>2161051</guid>
-            <pubDate>Fri, 07 May 2021 16:10:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国交通大臣夏普斯：英国将葡萄牙和以色列列入最安全的目的地名单。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1121724.d.html</link>
-            <guid>2161050</guid>
-            <pubDate>Fri, 07 May 2021 16:10:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
