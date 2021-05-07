@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 07 May 2021 20:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 May 2021 21:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国商务部长雷蒙多：一直在和汽车以及半导体公司保持联系。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1139244.d.html</link>
+            <guid>2161392</guid>
+            <pubDate>Fri, 07 May 2021 21:19:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商务部长雷蒙多：已经讨论了有关宽带、芯片的法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1139016.d.html</link>
+            <guid>2161391</guid>
+            <pubDate>Fri, 07 May 2021 21:12:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉确认法国AA评级，前景展望负面。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc3999641.d.html</link>
+            <guid>2161389</guid>
+            <pubDate>Fri, 07 May 2021 21:03:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国得州陪审团：腾讯旗下的SUPERCELL游戏公司在庭审中被告知须向日本游戏公司GREE支付9220万美元，因SUPERCELL侵犯了GREE6项专利。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1138504.d.html</link>
+            <guid>2161387</guid>
+            <pubDate>Fri, 07 May 2021 20:59:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[贝佐斯根据10b5-1交易计划出售了亚马逊的股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc3998860.d.html</link>
+            <guid>2161366</guid>
+            <pubDate>Fri, 07 May 2021 20:40:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：美国政府将恢复白宫的访客登记政策。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc3998363.d.html</link>
@@ -122,18 +152,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc3986590.d.html</link>
             <guid>2161083</guid>
             <pubDate>Fri, 07 May 2021 16:50:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫经济顾问Bernstein：必须关注就业报告里的三个月平均水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1123136.d.html</link>
-            <guid>2161063</guid>
-            <pubDate>Fri, 07 May 2021 16:25:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫经济顾问Bernstein：一个月的就业数据不会产生新的趋势。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1123050.d.html</link>
-            <guid>2161062</guid>
-            <pubDate>Fri, 07 May 2021 16:24:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
