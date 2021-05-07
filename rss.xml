@@ -4,11 +4,65 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 07 May 2021 15:30:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 May 2021 16:46:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[白宫经济顾问Bernstein：必须关注就业报告里的三个月平均水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1123136.d.html</link>
+            <guid>2161063</guid>
+            <pubDate>Fri, 07 May 2021 16:25:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫经济顾问Bernstein：一个月的就业数据不会产生新的趋势。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1123050.d.html</link>
+            <guid>2161062</guid>
+            <pubDate>Fri, 07 May 2021 16:24:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：与俄罗斯总统普京会晤的时间和地点仍在研究中。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1122289.d.html</link>
+            <guid>2161057</guid>
+            <pubDate>Fri, 07 May 2021 16:16:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国交通大臣夏普斯：将土耳其、马尔代夫和尼泊尔加入旅游禁止名单。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc3983055.d.html</link>
+            <guid>2161051</guid>
+            <pubDate>Fri, 07 May 2021 16:10:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国交通大臣夏普斯：英国将葡萄牙和以色列列入最安全的目的地名单。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1121724.d.html</link>
+            <guid>2161050</guid>
+            <pubDate>Fri, 07 May 2021 16:10:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  洋葱集团跌幅扩大至6.6%，现报6.77美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1120111.d.html</link>
+            <guid>2161035</guid>
+            <pubDate>Fri, 07 May 2021 15:52:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美媒：研究显示气候变化致地轴偏移】据美国《新闻周刊》网站近日报道，最新研究显示，气候变化导致地球自转轴发生了偏移。报道称，地球的地理南北两极——地球自转轴与地球表面的交汇处——并不是固定的。地球质量分布的变化会导致地轴和两极的移动。报道还称，冰川融化导致大量的水发生移动。科学家们现在认为，这促使地球两极的位置加速东移。据估计，自1980年以来，两极的位置移动了约4米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3981326.d.html</link>
+            <guid>2161034</guid>
+            <pubDate>Fri, 07 May 2021 15:51:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  空客4月份获交付45架飞机，包括34架A320飞机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3981109.d.html</link>
+            <guid>2161032</guid>
+            <pubDate>Fri, 07 May 2021 15:48:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：麦夸里岛西部发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1118658.d.html</link>
+            <guid>2161022</guid>
+            <pubDate>Fri, 07 May 2021 15:33:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【特斯拉承认其完全自动驾驶仍处于L2水平】据外媒报道，特斯拉“告诉加州监管机构，它可能不会在今年年底前实现完全自动驾驶”。这份备忘录最初是法律网站PlainSite发现的。特斯拉表示，在谈到L5能力时，马斯克是在根据改进的速度进行推断的。特斯拉无法说明其效率是否能使L5在本财年前实现。声明继续写道：特斯拉表示，他们仍在L2水平。正如特斯拉所意识到的，公众对这项技术的局限性的误解及其误用可能会产生悲惨的后果。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1117859.d.html</link>
@@ -110,168 +164,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3973736.d.html</link>
             <guid>2160977</guid>
             <pubDate>Fri, 07 May 2021 14:33:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  巴里克黄金(GOLD.N)短线下挫，涨幅缩窄至1.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1112256.d.html</link>
-            <guid>2160975</guid>
-            <pubDate>Fri, 07 May 2021 14:32:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  巴里克黄金(GOLD.N)申请混合储架发行，规模至多40亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3973537.d.html</link>
-            <guid>2160974</guid>
-            <pubDate>Fri, 07 May 2021 14:31:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  生物技术公司Anebulo Pharmaceuticals(ANEB.O)首日上市开涨1.5%，发行价7美元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3972427.d.html</link>
-            <guid>2160968</guid>
-            <pubDate>Fri, 07 May 2021 14:22:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  互联网保险平台水滴公司(WDH.N)开盘价预计在10-11美元之间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3972253.d.html</link>
-            <guid>2160967</guid>
-            <pubDate>Fri, 07 May 2021 14:21:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股大麻股集体上涨，Tilray涨超16%，杰富瑞将该公司评级从弱于大盘直接上调至买入。Veru、Organigram涨超10%，Sundial Growers涨6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1110871.d.html</link>
-            <guid>2160966</guid>
-            <pubDate>Fri, 07 May 2021 14:21:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  热门中概股走强，老虎证券(TIGR.O)与好未来教育集团(TAL.N)涨约5%，高途(GOTU.N)涨4.6%，网易有道(DAO.N)涨3.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3972083.d.html</link>
-            <guid>2160964</guid>
-            <pubDate>Fri, 07 May 2021 14:20:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【林毅夫：中国2035年中等收入人群或达8亿】 全球消费创新暨免税与旅游零售大会7日在首届消博会上举行。北京大学国家发展研究院名誉院长、新结构经济学研究院院长林毅夫在出席大会时表示，到2035年，中国中等收入人群可能会达到8亿，这样巨大的市场是中国的机遇，也是世界上所有国家的机遇。林毅夫表示，中国有条件实现2035年的GDP规模或城乡人均收入水平在2020年的基础上翻一番，2035年人均GDP应该可以达到22000美元，甚至更高，而目前中国的4亿中等收入人群也有可能在2035年翻一番。（中新社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1110159.d.html</link>
-            <guid>2160961</guid>
-            <pubDate>Fri, 07 May 2021 14:17:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Nikola(NKLA.O)：电池供应商推迟了2022年的承诺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3971297.d.html</link>
-            <guid>2160959</guid>
-            <pubDate>Fri, 07 May 2021 14:15:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Nikola(NKLA.O)：预计2021年电动卡车的产量只有50辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1109866.d.html</link>
-            <guid>2160958</guid>
-            <pubDate>Fri, 07 May 2021 14:14:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  印度卡纳塔克邦将于5月10日到24日实行全面封锁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3971007.d.html</link>
-            <guid>2160956</guid>
-            <pubDate>Fri, 07 May 2021 14:12:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据港交所文件：中国旭光高新材料集团有限公司向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1109585.d.html</link>
-            <guid>2160954</guid>
-            <pubDate>Fri, 07 May 2021 14:12:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Nikola(NKLA.O)：虽然芯片、触摸屏短缺，但仍坚持生产计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1109362.d.html</link>
-            <guid>2160952</guid>
-            <pubDate>Fri, 07 May 2021 14:10:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  戴姆勒将停止生产E级汽车直至5月中旬。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1109180.d.html</link>
-            <guid>2160951</guid>
-            <pubDate>Fri, 07 May 2021 14:09:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑巴西雷亚尔USD/BRL跌超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1109163.d.html</link>
-            <guid>2160950</guid>
-            <pubDate>Fri, 07 May 2021 14:09:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国劳工部长：在4月的就业报告中看到积极的迹象。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1108475.d.html</link>
-            <guid>2160947</guid>
-            <pubDate>Fri, 07 May 2021 14:04:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国3月批发销售月率4.6%，前值-0.80%，预期1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3969325.d.html</link>
-            <guid>2160946</guid>
-            <pubDate>Fri, 07 May 2021 14:00:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  互联网保险平台水滴公司(WDH.N)开盘价预计在13-15美元之间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1106985.d.html</link>
-            <guid>2160941</guid>
-            <pubDate>Fri, 07 May 2021 13:53:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  标普500医疗保健指数创历史新高，涨1.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1106906.d.html</link>
-            <guid>2160939</guid>
-            <pubDate>Fri, 07 May 2021 13:52:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫经济顾问Bernstein（被问及公司税提案时）：美国总统拜登一直表示愿意进行谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1106107.d.html</link>
-            <guid>2160934</guid>
-            <pubDate>Fri, 07 May 2021 13:46:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫经济顾问Bernstein：没有发现失业救济金和失业之间存在关联的证据。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1105912.d.html</link>
-            <guid>2160932</guid>
-            <pubDate>Fri, 07 May 2021 13:45:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国劳工部长：失业救济金的增加并没有阻止人们重返工作岗位。 随着经济复苏，美国人将进入劳动力市场。 需要提高工资，以激励人们重返工作岗位。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3966774.d.html</link>
-            <guid>2160929</guid>
-            <pubDate>Fri, 07 May 2021 13:41:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫经济顾问委员Boushey：看到就业取得强劲和稳定的进步。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1105461.d.html</link>
-            <guid>2160928</guid>
-            <pubDate>Fri, 07 May 2021 13:41:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫经济顾问Bernstein：仍然有感染高发地区，学校还没有完全开放，我们仍然有医疗方面的限制，这导致了我们目前所看到的（数据）错位。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3966751.d.html</link>
-            <guid>2160927</guid>
-            <pubDate>Fri, 07 May 2021 13:41:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股资源股走强，麦克莫兰铜金(FCX.N)涨2.09%，美国钢铁(X.N)涨近3%，克里夫斯天然资源公司(CLF.N)涨超2%，纽柯钢铁(NUE.N)微涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1105411.d.html</link>
-            <guid>2160926</guid>
-            <pubDate>Fri, 07 May 2021 13:41:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫经济顾问Bernstein：就业报告显示情况有所改善，但需要平均后才能看到潜在趋势，即过去三个月就业人数超50万人。 没有必要调整（经济政策的）方向。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1104943.d.html</link>
-            <guid>2160923</guid>
-            <pubDate>Fri, 07 May 2021 13:38:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股银行股走低，富国银行(WFC.N)跌1.5%，摩根大通(JPM.N)跌1.26%，花旗集团(C.N)跌1.15%，高盛(GS.N)跌近1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1104821.d.html</link>
-            <guid>2160921</guid>
-            <pubDate>Fri, 07 May 2021 13:37:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  道指转涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm1104771.d.html</link>
-            <guid>2160920</guid>
-            <pubDate>Fri, 07 May 2021 13:37:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
