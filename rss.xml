@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 08 May 2021 14:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 May 2021 15:28:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[阿富汗首都发生爆炸已致25人死亡，另有52人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1305670.d.html</link>
+            <guid>2161947</guid>
+            <pubDate>Sat, 08 May 2021 15:12:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天马显示科技第6代柔性AMOLED生产线项目主厂房顺利封顶】天马显示科技第6代柔性AMOLED项目主厂房封顶仪式已于日前顺利举行。据了解，上述项目设计产能为月加工柔性显示基板48千张，是目前国内单体最大、全球最先进的柔性AMOLED单体工厂，也是厦门史上投资最大的单体高科技制造项目，建成后将助力天马运营管理的柔性AMOLED产能规模跻身全球前三。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4165146.d.html</link>
+            <guid>2161943</guid>
+            <pubDate>Sat, 08 May 2021 15:00:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国成功研制62比特量子计算原型机“祖冲之号”】从中国科学技术大学获悉，该校潘建伟院士团队近期成功研制了目前国际上超导量子比特数量最多的量子计算原型机“祖冲之号”，操纵的超导量子比特达到62个，并在此基础上实现了可编程的二维量子行走。日前，国际权威学术期刊《科学》发表了该研究成果。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1302064.d.html</link>
+            <guid>2161941</guid>
+            <pubDate>Sat, 08 May 2021 14:33:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  印度的外交部官员表示，欧盟-印度自由贸易协定的时间表尚未决定。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1300632.d.html</link>
@@ -247,41 +265,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1242259.d.html</link>
             <guid>2161591</guid>
             <pubDate>Sat, 08 May 2021 07:11:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【腾讯、B站关联公司入股青瓷数码】天眼查App显示，近日，厦门青瓷数码技术有限公司发生多项工商变更，投资人新增广西腾讯创业投资有限公司、上海幻电信息科技有限公司等。厦门青瓷数码技术有限公司成立于2012年3月，注册资本约1427万人民币，法定代表人及最大股东为杨煦，持股比例约37%。经营范围含软件开发、经营各类商品和技术的进出口等。官网信息显示，该公司为一家从事网络游戏研发、运营的互联网科技有限公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4098513.d.html</link>
-            <guid>2161583</guid>
-            <pubDate>Sat, 08 May 2021 06:48:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿富汗安全部队打死250名塔利班成员】当地时间5月8日，阿富汗国防部发布声明表示，在过去24小时内，阿安全部队在楠格哈尔、拉格曼、加兹尼、坎大哈等多省与塔利班发生冲突，打死250名、打伤106名塔利班成员。此外安全部队销毁了大量武器和弹药，清除了塔利班此前埋设的29种不同类型的地雷。（央视新闻）]]></title>
-            <guid>2161582</guid>
-            <pubDate>Sat, 08 May 2021 06:47:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联军表示，无人机对驻扎在伊拉克阿萨德空军基地的美军进行了袭击，没有造成人员伤亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4097800.d.html</link>
-            <guid>2161581</guid>
-            <pubDate>Sat, 08 May 2021 06:44:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【旅游与零售业白皮书出炉，中免集团成全球最大免税零售商】7日下午，首届消博会的主题论坛——全球消费创新暨免税与旅游零售大会发布了白皮书。报告显示，2020年，我国的免税龙头中免集团超越了Dufry，成为全球最大的免税零售商。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1236456.d.html</link>
-            <guid>2161579</guid>
-            <pubDate>Sat, 08 May 2021 06:42:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【最高1亿元！河南与山东签订黄河流域省际生态保护补偿协议】记者从河南省财政厅、河南省生态环境厅了解到，近日，河南省与山东省正式签订了《山东省人民政府、河南省人民政府黄河流域（豫鲁段）横向生态保护补偿协议》 。这是黄河流域第一个省际横向生态补偿协议，对黄河全流域健全完善“保护责任共担、流域环境共治、生态效益共享”的横向生态补偿机制，探索开展生态产品价值计量，加快探索绿水青山就是金山银山的转化路径具有示范意义。《补偿协议》明确最高补偿资金规模达1亿元，分为水质基本补偿和水质变化补偿两部分。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4097218.d.html</link>
-            <guid>2161578</guid>
-            <pubDate>Sat, 08 May 2021 06:41:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南消博会：开展首日人流量近5万人，2万多人观展】今天（5月8日）是首届消博会的第二天。从今天入场的人员情况来看，客流量还是较大，但是观展依然平稳有序，入口安检处也没有长时间的排队现象出现。根据我们拿到的数据，在开展的第一天，也就是昨天，消博会的人流量近5万，其中参展人员有1.3万多人，观展人员有2.3万多人。根据今天的情况来看，人流量应该不会少于昨日，可见各采购商的热情还是很高。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1235155.d.html</link>
-            <guid>2161576</guid>
-            <pubDate>Sat, 08 May 2021 06:36:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
