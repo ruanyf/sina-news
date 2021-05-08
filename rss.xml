@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 08 May 2021 21:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 May 2021 22:29:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【萨迪克·汗成功连任英国伦敦市长】当地时间5月8日，在英国地方选举中，现任伦敦市长，来自英国工党的萨迪克·汗击败主要对手保守党候选人肖恩·贝利（Shaun Bailey）再次成功当选下任市长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1325544.d.html</link>
+            <guid>2161996</guid>
+            <pubDate>Sat, 08 May 2021 22:26:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【消博会“零关税”游艇首单税费优惠近400万元】5月8日上午，首届中国国际消费品博览会上首艘享受“零关税”政策进口游艇订单签出，客户订购的博纳多蒙地卡罗MC6动力艇含税售价约1400万元，但得益于海南自由贸易港交通工具及游艇“零关税”政策，游艇购置减免38%的关税及进口环节税，客户节省税费近400万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4185906.d.html</link>
+            <guid>2161995</guid>
+            <pubDate>Sat, 08 May 2021 22:21:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一季度上市银行不良“一升一降” 警惕风险暴露滞后】截至4月30日，38家A股上市银行已全部公布了2021年第一季度业绩报告。从报告数据看，多数银行实现营业收入、净利润增长，不良贷款率下降的“开门红”局面。就资产质量来看，不良贷款率方面，38家A股上市银行中，超九成银行不良贷款率在一季度有所下降或与去年末水平持平。而不良贷款余额方面，披露数据的37家银行中，仅有12家银行实现不良贷款余额较去年末下降或持平。（中国经营报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1324172.d.html</link>
+            <guid>2161994</guid>
+            <pubDate>Sat, 08 May 2021 21:53:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【伊朗外交部长：美国应承担起自身责任】当地时间8日，正值美国单方面退出伊核协议三周年之际，伊朗外交部长扎里夫在社交媒体发文表示，在各方共同付出努力以全面恢复履行伊核协议的同时，也应牢记问题是因何而起。针对美国前总统特朗普于2018年5月8日宣布退出伊核协议，扎里夫表示：这是一个“黑脸的小丑”同时违反了美国的承诺和联合国安理会2231号决议。同时他强调，美国现任总统拜登需要决定美国是否将继续违反法律还是将回归合法道路，美国需要承担起自身的责任。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4183928.d.html</link>
@@ -234,12 +252,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4133708.d.html</link>
             <guid>2161648</guid>
             <pubDate>Sat, 08 May 2021 10:18:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国一般情形商标注册周期年底将压缩至7个月】从8日举行的国务院政策例行吹风会上获悉，我国持续压缩专利审查、商标注册周期，到2021年底，将实现高价值专利申请审查周期压缩至13.8个月，一般情形商标注册周期压缩至7个月。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4131466.d.html</link>
-            <guid>2161645</guid>
-            <pubDate>Sat, 08 May 2021 10:04:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
