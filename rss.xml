@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 08 May 2021 10:27:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 May 2021 11:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【今日钢厂大面积涨价钢坯大涨130元 95家钢厂上调废钢采购价10-200元】今日，截至发稿，共95家钢厂上调废钢采购价，涨价区间10-200元。5月8日，国内钢材市场大幅上涨，唐山地区主流钢厂普方坯出厂报价再次累计上调130元报5350元/吨。 (我的钢铁网)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4136205.d.html</link>
+            <guid>2161650</guid>
+            <pubDate>Sat, 08 May 2021 10:36:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【IDC：2021年全球半导体营收预计激增12.5% 达到5220亿美元】市场研究机构IDC称，在消费、计算、5G和汽车半导体的持续强劲增长的推动下，2021年全球半导体营收预计将激增12.5%，达到5220亿美元。自2020年下半年以来，芯片短缺问题就成为半导体行业的主旋律，该问题已经影响了包括汽车、手机、游戏机、PC在内的产业。 (TechWeb)]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4133708.d.html</link>
@@ -323,18 +329,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4061151.d.html</link>
             <guid>2161523</guid>
             <pubDate>Sat, 08 May 2021 03:22:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【冀中能源集团：加大物流业务债权清收工作 债务集中兑付压力有效缓解】据河北国资委网站，5月7日，冀中能源集团召开债权清收推进部署大会，全面落实省委省政府主要领导和分管领导对国际物流集团债权清收工作的重要指示批示精神，进一步加快债权清收工作进度，对全集团物流业务债权清收工作进行总体部署。冀中能源集团党委书记、董事长郝竹山在大会上作动员讲话，郝竹山指出，省委省政府支持冀中能源集团的各项措施正在有序落地，企业刚性集中兑付取得阶段性胜利，随着债务集中兑付压力有效缓解，要把工作重心全面转移到抓企业内部改革调整和转型发展上来。今天会议主要任务就是对国际物流集团债权清收工作进行再发动、再部署、再加码，最大限度维护企业利益，维护国有资产安全，坚决打赢国际物流集团债权清收攻坚战。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1200386.d.html</link>
-            <guid>2161522</guid>
-            <pubDate>Sat, 08 May 2021 03:22:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州拟对承办重大电竞赛事单位最高资助800万】近日，广州市工信局起草了《广州市加快发展电竞产业的若干措施（征求意见稿）》，面向社会公开征求意见。意见稿提出，加速将广州打造成为粤港澳大湾区游戏研发高地、中国电竞直播之都、世界电竞名城。加快重大赛事落地。对承办国际、国家级或广州自主品牌电竞知名赛事的企事业单位，给予最高不超过800万元的办赛资助。支持企业加强原创游戏产品及衍生文化类精品电影、电视剧、广播剧和舞台艺术创作生产、节目制作和产业经营项目产品研发。对拥有自主知识产权或合法取得国内原创作品版权进行研发的网络游戏产品给予资金扶持。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4057995.d.html</link>
-            <guid>2161516</guid>
-            <pubDate>Sat, 08 May 2021 03:10:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
