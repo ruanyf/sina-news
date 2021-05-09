@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 09 May 2021 10:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 May 2021 11:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【保利地产：1-4月签约金额同比增长61.57%】保利地产公告，4月，公司实现签约面积330.91万平方米，同比增加35.62%；实现签约金额512.02亿元，同比增加36.22%。2021年1-4月，公司实现签约面积1049.16万平方米，同比增加42.89%；实现签约金额1754.84亿元，同比增加61.57%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1435345.d.html</link>
+            <guid>2162538</guid>
+            <pubDate>Sun, 09 May 2021 10:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【ST山水：公司股票撤销其他风险警示】ST山水公告，公司涉及其他风险警示的情形已消除，公司也不触及其他退市风险警示的情形。公司认为，目前业务规模得到扩大，盈利能力增强，已具备可持续发展能力，符合申请撤销其他风险警示的条件。经公司董事会同意，公司已于4月27日向上海证券交易所提出了撤销对公司股票实施其他风险警示的申请。5月7日，上海证券交易所同意撤销对公司股票实施其他风险警示的申请。5月10日公司股票停牌1天。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1435114.d.html</link>
+            <guid>2162537</guid>
+            <pubDate>Sun, 09 May 2021 10:55:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【日辰股份：拟与呷哺呷哺在天津市共同投资成立公司】日辰股份公告，与呷哺呷哺拟在天津市共同投资成立有限责任公司，生产经营调味料、火锅底料及即食和冷冻调理品等。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1435082.d.html</link>
+            <guid>2162536</guid>
+            <pubDate>Sun, 09 May 2021 10:54:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【ST国重装：公司股票撤销其他风险警示 明日停牌1天】ST国重装公告，2020年度，公司实现营业收入88.24亿元，实现归属于上市公司股东的净利润为3.37亿元。公司主营业务为国内外重大技术装备制造及重大工程建设，主营业务突出，有明确的战略规划和经营计划，公司股票已符合申请撤销其他风险警示的条件。经公司申请，上海证券交易所于2021年5月7日同意公司股票撤销其他风险警示。公司股票将于2021年5月10日停牌1天。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1434370.d.html</link>
+            <guid>2162533</guid>
+            <pubDate>Sun, 09 May 2021 10:47:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【赤子城科技：与字节跳动旗下流量平台达成全线合作传闻不实】赤子城科技发布澄清公告称，集团2019年起在字节跳动的巨量引擎平台和穿山甲平台开展流量运营。虽然集团与巨量引擎平台和穿山甲平台在日常业务过程中有合作，但网传“赤子城科技与字节跳动旗下流量平台达成全线合作”信息不实。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4294237.d.html</link>
+            <guid>2162531</guid>
+            <pubDate>Sun, 09 May 2021 10:37:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【全国首家碳中和学院揭牌 西北大学与榆林共建碳中和科创中心】今日，西北大学与榆林市人民政府共建西北大学榆林碳中和科创中心签约仪式暨西北大学榆林碳中和学院揭牌仪式在榆林举行。据介绍，西北大学榆林碳中和学院是全国第一所培养碳中和领域专门人才的新型研究型学院。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1430044.d.html</link>
@@ -301,47 +331,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4232783.d.html</link>
             <guid>2162423</guid>
             <pubDate>Sun, 09 May 2021 03:18:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据中国载人航天工程办公室消息，经监测分析，2021年5月9日10时24分，长征五号B遥二运载火箭末级残骸已再入大气层，落区位于东经72.47°，北纬2.65°周边海域，绝大部分器件在再入大气层过程中烧蚀销毁。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4229939.d.html</link>
-            <guid>2162421</guid>
-            <pubDate>Sun, 09 May 2021 03:01:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【米兰-海口货运航线预计5月中下旬开通 欧洲奢侈品可36小时飞抵海南】记者9日在首届消博会上获悉，“中欧时尚快线”— 意大利米兰直飞海口货运包机航线预计5月中下旬开通，将结束欧洲最主要的时尚消费品产地——意大利瑞士产业聚集区与海南没有直飞航班的历史。意大利伦巴第大区的高端精品厂家的产品，从厂家集货到国际直飞到海南免税品销售柜台，全程耗时可低至36小时。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4228567.d.html</link>
-            <guid>2162419</guid>
-            <pubDate>Sun, 09 May 2021 02:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【内蒙古启动重大生态工程实施情况专题监督式协商】内蒙古自治区政协8日召开新闻发布会称，今年自治区、盟市、旗县三级政协将联合开展“国家和自治区重大生态工程实施情况”专题监督式协商，围绕“三北”防护林建设、京津风沙源治理、天然林资源保护、退牧还草、退耕还林还草等重大生态工程实施情况开展调研和监督式协商。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4226281.d.html</link>
-            <guid>2162417</guid>
-            <pubDate>Sun, 09 May 2021 02:40:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【发改委下达2021年中央预算内投资计划支持采煤沉陷区、独立工矿区转型发展】国家发改委于近期下达2021年资源型地区转型发展中央预算内投资41亿元，用于支持有关地方实施采煤沉陷区综合治理工程和独立工矿区改造提升工程。本次资金安排重点向重大战略区域倾斜，努力做到“一钱多用”“多钱一用”，提高资金使用效益，共下达长江经济带有关省份21.8亿元、占年度资金规模53%，黄河流域有关省份14.6亿元、占年度资金规模36%。]]></title>
-            <guid>2162413</guid>
-            <pubDate>Sun, 09 May 2021 02:20:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：美国阿拉斯加州边境地区爱尔肯东南偏南146公里处发生5.0级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4221484.d.html</link>
-            <guid>2162404</guid>
-            <pubDate>Sun, 09 May 2021 02:13:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【无人驾驶巴士亮相消博会 具备L4级自动驾驶和5G平行驾驶功能】5月9日，记者在首届消博会的湖北馆看到一款无人驾驶巴士，该车具备L4级自动驾驶和5G平行驾驶2套方案，整车最大载客人数12-17人，主要用于城市、园区、景区等道路的无人接泊服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4221048.d.html</link>
-            <guid>2162403</guid>
-            <pubDate>Sun, 09 May 2021 02:11:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波音公司在美国南卡罗来纳州一工厂起火】当地时间8日中午，美国南卡罗来纳州的一个波音公司工厂起火。波音公司随后发表声明，确认是工厂起火，火灾已经被扑灭。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4220839.d.html</link>
-            <guid>2162402</guid>
-            <pubDate>Sun, 09 May 2021 02:10:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
