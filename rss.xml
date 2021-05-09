@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 09 May 2021 04:31:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 May 2021 05:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【今年以来新三板挂牌公司成交金额超410亿元】根据全国中小企业股份转让系统（新三板）数据，截至5月7日收盘时，今年以来新三板挂牌公司累计成交金额414.75亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4251836.d.html</link>
+            <guid>2162445</guid>
+            <pubDate>Sun, 09 May 2021 05:13:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Robinhood交易平台：加密货币交易已经恢复正常。由于交易量和波动性较大，部分客户可能会间歇性遇到故障。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4249743.d.html</link>
+            <guid>2162441</guid>
+            <pubDate>Sun, 09 May 2021 04:57:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【湖南出台措施促进产业链金融发展】人民银行长沙中心支行联合十三部门出台《关于促进湖南省供应链金融规范发展的若干措施》，每年安排不低于100亿元再贷款、再贴现专用额度，支持省内金融机构提升供应链金融服务能力，引导金融机构积极为供应链票据提供贴现、质押融资服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4248428.d.html</link>
+            <guid>2162440</guid>
+            <pubDate>Sun, 09 May 2021 04:46:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：有用户报告称，Robinhood交易平台的狗狗币交易遇到技术故障。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1385112.d.html</link>
@@ -335,18 +353,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4178208.d.html</link>
             <guid>2161973</guid>
             <pubDate>Sat, 08 May 2021 18:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苏格兰首席大臣斯特金再次强调将举行第二次独立公投】当地时间5月8日，苏格兰首席大臣斯特金接受当地媒体采访时再次强调进行第二次独立公投的决心。她还警告英国首相鲍里斯·约翰逊称，不要和苏格兰人民的意志作对，只有苏格兰人民可以决定苏格兰的未来，再次举行独立公投是苏格兰议会的事情，不是首相或任何政治家的事情。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4177657.d.html</link>
-            <guid>2161971</guid>
-            <pubDate>Sat, 08 May 2021 18:16:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统洛佩斯：4月份曾发生火灾的Minatitlan炼油厂已经恢复生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1315521.d.html</link>
-            <guid>2161969</guid>
-            <pubDate>Sat, 08 May 2021 17:45:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
