@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 09 May 2021 03:31:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 May 2021 04:31:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：有用户报告称，Robinhood交易平台的狗狗币交易遇到技术故障。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1385112.d.html</link>
+            <guid>2162438</guid>
+            <pubDate>Sun, 09 May 2021 04:29:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【三只松鼠开口松子过氧化值超标，监管排查称运输公司存放不当所致】场监管总局发布关于20批次食品抽检不合格情况的通告显示，三只松鼠1批次开口松子产品过氧化值（以脂肪计）超标。此前市场监管部门排查其抽检不合格原因是上级经销实际履行人运输过程中未按产品包装标示的要求存放。目前三只松鼠方面尚未对此事作出回应。（新京报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1383972.d.html</link>
+            <guid>2162437</guid>
+            <pubDate>Sun, 09 May 2021 04:22:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【武汉举办首场农业农村招商引资专场活动 51个农业项目集中签约】武汉举办2021年农业农村招商引资专场活动，包括正大集团华中总部项目、复星集团如意情现代高科技食用菌产业园等在内的51个重点项目现场集中签约。签约项目涵盖农文旅融合、高科技食用菌、现代种业、现代农业种养殖、生物育种等特色农业产业领域。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4243028.d.html</link>
+            <guid>2162434</guid>
+            <pubDate>Sun, 09 May 2021 04:11:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[监测网络状况的网站DownDetector：用户报告显示Robinhood出现问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4241650.d.html</link>
+            <guid>2162433</guid>
+            <pubDate>Sun, 09 May 2021 04:04:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：也门军队与胡塞叛军在马里布发生冲突，造成50人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4239404.d.html</link>
+            <guid>2162429</guid>
+            <pubDate>Sun, 09 May 2021 03:51:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【金太阳教育递交招股书，拟赴美上市】2021年5月7日，来自上海的金太阳教育集团的实质控股公司Golden Sun Education Group Limited向美国证监会(SEC)提交招股书，拟在美国纳斯达克上市，股票代码“GSUN”。招股书显示，在过去的2019年、2020年两个财政年度(财政年度截止日期为每年9月30日)，金太阳教育的收入分别为1,516.59万、1,395.96万美元，相应的净利润分别为363.60万、-29.22万美元。（界面新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4236695.d.html</link>
+            <guid>2162427</guid>
+            <pubDate>Sun, 09 May 2021 03:38:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【地平线征程5芯片一次性流片成功并顺利点亮】今日，地平线宣布第三代车规级产品一次性流片成功并顺利点亮。该款产品是面向L4高等级自动驾驶的大算力征程5系列芯片。该公司透露，基于J5将推出算力达200-1000T，同时拥有业界最高fps（frame per second）性能，并且是最低功耗的一系列智能驾驶中央计算机。随着今年J5推出，地平线也成为业界唯一的覆盖从L2到L4的全场景整车智能芯片方案提供商。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1375026.d.html</link>
+            <guid>2162426</guid>
+            <pubDate>Sun, 09 May 2021 03:33:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【国家邮政局：预计2021年快递业务收入将超万亿元，同比增长18%】5月9日，国家邮政局数据显示，2020年，快递企业日均服务4.5亿人次，相当于全国每天有1/3的人享受快递服务；2020人均快递59件，同比增加14件，增幅明显。预计2021年快递业务量将超千亿件，同比增长20%。预计2021年快递业务收入将超万亿元，同比增长18%。（中证网）]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1372811.d.html</link>
@@ -305,12 +347,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1315521.d.html</link>
             <guid>2161969</guid>
             <pubDate>Sat, 08 May 2021 17:45:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苏格兰民族党党首斯特金誓言进行独立公投】苏格兰议会选举结果显示，苏格兰民族党赢下苏格兰议会选举。虽然该党未能获得多数席位，但选举结果显示，赞成苏格兰独立的苏格兰民族党与苏格兰绿党将在议会占据多数席位。苏格兰民族党党首斯特金表示，她将推动新的独立公投计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1312065.d.html</link>
-            <guid>2161958</guid>
-            <pubDate>Sat, 08 May 2021 16:41:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
