@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 09 May 2021 06:31:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 May 2021 07:25:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【外贸企业再现缺舱缺箱，全球近8成海运航线运价指数上涨】数据显示，在全球21条海运航线中，有16条海运航线运价指数上涨，只有5条海运航线运价指数下跌。“海上丝绸之路”沿线地区主要港口中，12个港口运价指数上涨。业内人士分析，今年9月以前，集装箱海运价格很难下降。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1409897.d.html</link>
+            <guid>2162472</guid>
+            <pubDate>Sun, 09 May 2021 07:21:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国信证券：4月外资大幅净流入，加科技周期、减金融消费】4月市场北上资金大幅净流入，市场流动性仍在持续改善。主板占比下降，创业板占比上升。外资加仓电气设备、医药生物和电子等行业，减仓食品饮料、交通运输和家用电器等行业。展望后市，我们认为当前A股整体估值较低，并且当前经济复苏以及上市公司盈利改善依然较为强劲，因此我们对后市依然保持乐观，外资整体净流入的趋势同样有望继续维持。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1405693.d.html</link>
+            <guid>2162466</guid>
+            <pubDate>Sun, 09 May 2021 06:52:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[叙利亚国家电视台：叙利亚当局正在扑灭霍姆斯炼油厂的大火。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4262962.d.html</link>
@@ -301,46 +313,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4183928.d.html</link>
             <guid>2161993</guid>
             <pubDate>Sat, 08 May 2021 21:22:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国住房大臣詹里克：约翰逊首相致信苏格兰民族党党魁斯特金，向她表示现在应该合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1322010.d.html</link>
-            <guid>2161990</guid>
-            <pubDate>Sat, 08 May 2021 20:40:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Colonial Pipeline公司聘请美国麦迪安网络安全公司 (Mandiant)调查网络攻击事件。]]></title>
-            <guid>2161989</guid>
-            <pubDate>Sat, 08 May 2021 20:32:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：政府正在研究帮助该公司恢复管道运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4182247.d.html</link>
-            <guid>2161988</guid>
-            <pubDate>Sat, 08 May 2021 20:31:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：拜登总统听取了有关Colonial Pipeline关闭管道的简报。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4182200.d.html</link>
-            <guid>2161987</guid>
-            <pubDate>Sat, 08 May 2021 20:30:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苏格兰议会选举结果出炉 苏格兰民族党未能获得多数席位】当地时间5月8日，英国天空新闻报道称，苏格兰议会选举结果出炉，现任苏格兰首席大臣斯特金领导的苏格兰民族党在129个议会席位中赢得64席，没有取得多数席位所要求的65席。苏格兰民族党此前一再宣称，如果取得议会多数席位将举行第二次独立公投。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4181850.d.html</link>
-            <guid>2161985</guid>
-            <pubDate>Sat, 08 May 2021 20:20:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：联邦政府正积极行动，避免（Colonial Pipeline关闭管道导致的）供应中断。]]></title>
-            <guid>2161984</guid>
-            <pubDate>Sat, 08 May 2021 20:19:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国总统拜登批准田纳西州进入重大灾难状态】当地时间5月8日，美国总统拜登通过白宫声明宣布，田纳西州存在重大灾难，拜登下令联邦政府提供援助，以帮助州政府和地方政府恢复及修缮在2021年3月25日至4月3日期间遭受严重风暴和洪水影响的地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4181446.d.html</link>
-            <guid>2161983</guid>
-            <pubDate>Sat, 08 May 2021 20:06:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
