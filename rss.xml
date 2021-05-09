@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 09 May 2021 19:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 May 2021 20:25:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【美国2020年新生儿数量360万人 为41年来最少】美国疾病控制和预防中心近日发布的一份报告显示，2020年全美有360万人出生，低于2019年的374万人，同比下降4%，这是美国出生人数连续第六年下降，也是自1979年以来新生儿数量最少的一年。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmyaawc4340281.d.html</link>
+            <guid>2163828</guid>
+            <pubDate>Sun, 09 May 2021 20:20:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东京奥林匹克体育场举办田径测试赛 世界田联主席坚称奥运会将如期举行】东京奥运会田径测试赛9日在奥林匹克体育场举行，世界田联主席塞巴斯蒂安·科到现场观战，并再次表达了奥运会如期举办的决心。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmyaawc4338714.d.html</link>
+            <guid>2163694</guid>
+            <pubDate>Sun, 09 May 2021 19:40:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列方面表示，火箭弹袭击未造成人员伤亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmxzfmm1477131.d.html</link>
+            <guid>2163693</guid>
+            <pubDate>Sun, 09 May 2021 19:35:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列方面表示，拦截了从加沙方向发射的2枚火箭弹中的1枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmyaawc4338497.d.html</link>
+            <guid>2163691</guid>
+            <pubDate>Sun, 09 May 2021 19:35:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登将任命西娅·李为交通部国际事务部门主管。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmyaawc4337933.d.html</link>
+            <guid>2163639</guid>
+            <pubDate>Sun, 09 May 2021 19:22:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：福特召回了近61.7万辆探索者越野车。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmyaawc4337038.d.html</link>
@@ -195,48 +225,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1444122.d.html</link>
             <guid>2162611</guid>
             <pubDate>Sun, 09 May 2021 12:21:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【赢时胜：参与金融机构的数字货币DCEP相关项目落地创新实践】赢时胜(300377)在日前的业绩说明会上介绍，公司目前正在与各大金融机构合作，实现金融科技赋能，并参与各大银行等金融机构的数字货币DCEP相关项目落地创新实践，公司在此领域具有多年技术积累，无论是广度和深度发展态势良好。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4300711.d.html</link>
-            <guid>2162584</guid>
-            <pubDate>Sun, 09 May 2021 11:42:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国开放式基金规模跃居亚太榜首】日前美国投资公司协会ICI 公布的最新一期数据显示，截至去年底，我国公募开放式公募基金规模达2.81万亿美元，同比大增近4成，并首次跃居亚太地区榜首。尽管在亚太地区排名靠前，我国公募基金总规模仅占全球受监管的开放式基金总规模的4.5%，不及美国的十分之一。另外我国长期限基金规模占GDP比例仅为75%左右，仍有长足发展空间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4300111.d.html</link>
-            <guid>2162580</guid>
-            <pubDate>Sun, 09 May 2021 11:37:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上市券商一季报业绩持续分化，自营业务成分水岭】上市券商一季报悉数披露，龙头、中小券商前三个月营收、净利等财务指标、主营业务经营情况都浮出水面。整体来看，今年一季度，多家券商业绩保持稳健。有可比数据的40家上市券商一季度实现营业收入1368亿元，同比上涨28%，归母净利润422亿元，同比上涨27%。表现佼佼者有：中信证券、海通证券、国泰君安等几家龙头券商在营收、归母净利润上均处于领先地位；中原证券、东方财富上述两项指标的同比增速排名居前。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4298894.d.html</link>
-            <guid>2162558</guid>
-            <pubDate>Sun, 09 May 2021 11:23:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【保利地产：1-4月签约金额同比增长61.57%】保利地产公告，4月，公司实现签约面积330.91万平方米，同比增加35.62%；实现签约金额512.02亿元，同比增加36.22%。2021年1-4月，公司实现签约面积1049.16万平方米，同比增加42.89%；实现签约金额1754.84亿元，同比增加61.57%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1435345.d.html</link>
-            <guid>2162538</guid>
-            <pubDate>Sun, 09 May 2021 10:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【ST山水：公司股票撤销其他风险警示】ST山水公告，公司涉及其他风险警示的情形已消除，公司也不触及其他退市风险警示的情形。公司认为，目前业务规模得到扩大，盈利能力增强，已具备可持续发展能力，符合申请撤销其他风险警示的条件。经公司董事会同意，公司已于4月27日向上海证券交易所提出了撤销对公司股票实施其他风险警示的申请。5月7日，上海证券交易所同意撤销对公司股票实施其他风险警示的申请。5月10日公司股票停牌1天。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1435114.d.html</link>
-            <guid>2162537</guid>
-            <pubDate>Sun, 09 May 2021 10:55:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【日辰股份：拟与呷哺呷哺在天津市共同投资成立公司】日辰股份公告，与呷哺呷哺拟在天津市共同投资成立有限责任公司，生产经营调味料、火锅底料及即食和冷冻调理品等。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1435082.d.html</link>
-            <guid>2162536</guid>
-            <pubDate>Sun, 09 May 2021 10:54:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【ST国重装：公司股票撤销其他风险警示 明日停牌1天】ST国重装公告，2020年度，公司实现营业收入88.24亿元，实现归属于上市公司股东的净利润为3.37亿元。公司主营业务为国内外重大技术装备制造及重大工程建设，主营业务突出，有明确的战略规划和经营计划，公司股票已符合申请撤销其他风险警示的条件。经公司申请，上海证券交易所于2021年5月7日同意公司股票撤销其他风险警示。公司股票将于2021年5月10日停牌1天。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1434370.d.html</link>
-            <guid>2162533</guid>
-            <pubDate>Sun, 09 May 2021 10:47:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
