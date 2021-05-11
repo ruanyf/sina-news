@@ -4,11 +4,166 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 11 May 2021 19:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 May 2021 20:27:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[fuboTV(FUBO.N)盘后涨幅扩大至15%，此前公布的财报显示Q1营收超出预期，达到创纪录的1.197亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmxzfmm1898549.d.html</link>
+            <guid>2167448</guid>
+            <pubDate>Tue, 11 May 2021 20:23:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[公布财报后，QuantumScape Corp(QS.N)盘后涨超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmyaawc4760322.d.html</link>
+            <guid>2167445</guid>
+            <pubDate>Tue, 11 May 2021 20:19:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[QuantumScape Corp(QS.N)：第一季度每股亏损0.2美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmyaawc4760263.d.html</link>
+            <guid>2167444</guid>
+            <pubDate>Tue, 11 May 2021 20:18:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opendoor(OPEN.O)：第一季度每股亏损0.48美元，市场预期亏损0.48美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmyaawc4759960.d.html</link>
+            <guid>2167439</guid>
+            <pubDate>Tue, 11 May 2021 20:09:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  fuboTV(FUBO.N)：第一季度每股亏损0.59美元，市场预期亏损0.57美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmxzfmm1898002.d.html</link>
+            <guid>2167438</guid>
+            <pubDate>Tue, 11 May 2021 20:08:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  fuboTV(FUBO.N)：第一季度平均每用户每月收入同比增长28%，达到69.09美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmyaawc4759882.d.html</link>
+            <guid>2167437</guid>
+            <pubDate>Tue, 11 May 2021 20:08:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[公布财报后，Opendoor(OPEN.O)盘后涨超5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmxzfmm1897971.d.html</link>
+            <guid>2167436</guid>
+            <pubDate>Tue, 11 May 2021 20:07:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Opendoor(OPEN.O)：第一季度营收7.47亿美元，市场预期6.2亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmxzfmm1897965.d.html</link>
+            <guid>2167435</guid>
+            <pubDate>Tue, 11 May 2021 20:07:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[公布财报后，fuboTV(FUBO.N)盘后涨超11%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmxzfmm1897960.d.html</link>
+            <guid>2167434</guid>
+            <pubDate>Tue, 11 May 2021 20:07:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  fuboTV(FUBO.N)：第一季度营收1.197亿美元，市场预期1.04亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmxzfmm1897952.d.html</link>
+            <guid>2167433</guid>
+            <pubDate>Tue, 11 May 2021 20:07:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[公布财报后，Unity Software(U.N)盘后涨1.14%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmyaawc4759826.d.html</link>
+            <guid>2167432</guid>
+            <pubDate>Tue, 11 May 2021 20:07:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Unity Software(U.N)：第一季度每股亏损0.39美元，市场预期亏损0.31美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmxzfmm1897931.d.html</link>
+            <guid>2167431</guid>
+            <pubDate>Tue, 11 May 2021 20:07:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Unity Software(U.N)：第一季度营收2.35亿美元，市场预期2.17亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmyaawc4759821.d.html</link>
+            <guid>2167430</guid>
+            <pubDate>Tue, 11 May 2021 20:06:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南非将兴建100MW的太阳能聚光塔发电站】据南非媒体当地时间5月11日报道，该国将在北开普省Postmasburg以东约30公里处建设太阳能聚光塔项目（CSP）。该项目斥资116亿兰特（约53亿人民币），将是南非最大的可再生能源项目之一。南非ABSA银行被任命为此太阳能聚光塔项目（CSP）的牵头人和贷款方，沙特阿拉伯的ACWA Power为承建商，该项目是南非可再生能源独立发电商采购计划（REIPPPP）的一部分。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmxzfmm1897803.d.html</link>
+            <guid>2167429</guid>
+            <pubDate>Tue, 11 May 2021 20:04:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中概股跑赢美股大盘，中概互联网指数ETF涨1.7%；雾芯科技涨9%，富途、斗鱼涨6%，虎牙、拼多多、百度、哔哩哔哩涨超3%。]]></title>
+            <guid>2167428</guid>
+            <pubDate>Tue, 11 May 2021 20:03:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股科技股涨跌各异，Zoom涨超4%，奈飞、亚马逊涨超1%，特斯拉跌1.88% 特斯拉远程办公。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmxzfmm1897740.d.html</link>
+            <guid>2167427</guid>
+            <pubDate>Tue, 11 May 2021 20:02:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[公布财报后，电子艺界(EA.O)盘后跌1.14%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmyaawc4759606.d.html</link>
+            <guid>2167426</guid>
+            <pubDate>Tue, 11 May 2021 20:02:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  电子艺界(EA.O)：2021财年第四财季营收13.5亿美元，市场预期13.89亿美元，去年同期12.13亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmxzfmm1897716.d.html</link>
+            <guid>2167424</guid>
+            <pubDate>Tue, 11 May 2021 20:01:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列机场管理局发言人：以色列机场恢复正常。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmyaawc4759496.d.html</link>
+            <guid>2167419</guid>
+            <pubDate>Tue, 11 May 2021 19:59:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列国防部长：加沙地带的建筑将继续“倒塌”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmxzfmm1897605.d.html</link>
+            <guid>2167418</guid>
+            <pubDate>Tue, 11 May 2021 19:58:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科威特方面表示，Mina Al-Ahmadi炼油厂的一些单位暂停工作，出口没有受到影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmxzfmm1897461.d.html</link>
+            <guid>2167417</guid>
+            <pubDate>Tue, 11 May 2021 19:53:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[嘉年华邮轮(CCL.N)小幅上扬，跌幅缩窄至0.68%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmxzfmm1897057.d.html</link>
+            <guid>2167415</guid>
+            <pubDate>Tue, 11 May 2021 19:47:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：嘉年华邮轮(CCL.N)计划可能于7月在美国重启部分邮轮。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmyaawc4758910.d.html</link>
+            <guid>2167414</guid>
+            <pubDate>Tue, 11 May 2021 19:46:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国联邦通信委员会就芯片短缺如何影响通信寻求评论。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmxzfmm1896891.d.html</link>
+            <guid>2167413</guid>
+            <pubDate>Tue, 11 May 2021 19:41:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美能源部长：燃油管道系统需要数天完全恢复 将打击油价欺诈行为】美国能源部长詹妮弗·格兰霍姆表示，美国主要燃油、燃气管道运营商科洛尼尔管道运输公司（Colonial Pipeline）的一条主要运输管道已在人工控制下暂时恢复运营，将需要数天时间完全恢复其运输系统。格兰霍姆指出，美国东南部等地区出现了汽油供给短缺现象，美国环境保护署（EPA）于今日豁免了受影响州的混合燃料使用权，此外美国交通部正在与铁路运营商合作，以争取为有需要的地区运输燃料。格兰霍姆呼吁加油站运营者遵守规则，联邦政府将严查燃油价格欺诈行为。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmyaawc4758735.d.html</link>
+            <guid>2167412</guid>
+            <pubDate>Tue, 11 May 2021 19:41:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：法官取消了美国步枪协会(NRA)的破产保护。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmyaawc4758526.d.html</link>
+            <guid>2167410</guid>
+            <pubDate>Tue, 11 May 2021 19:35:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[西部数据(WDC.O)现跌0.79%，报68.08美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmyaawc4757325.d.html</link>
@@ -121,66 +276,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmxzfmm1892354.d.html</link>
             <guid>2167349</guid>
             <pubDate>Tue, 11 May 2021 18:12:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：在以色列袭击加沙后，加沙伊斯兰圣战武装组织的领导人承诺在格林尼治时间19：00点向特拉维夫进行火箭攻击。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmxzfmm1891563.d.html</link>
-            <guid>2167336</guid>
-            <pubDate>Tue, 11 May 2021 17:59:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ARK基金创始人凯瑟琳·伍德：油价不会因为电动汽车而“暴涨”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmyaawc4752419.d.html</link>
-            <guid>2167331</guid>
-            <pubDate>Tue, 11 May 2021 17:44:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股NFT概念股涨幅居前，Roblox涨超16%，淘屏涨超5.47%，Dolphin Entertainment涨超4%，大公文化涨3.78%，中环球船务涨2.37%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmyaawc4752228.d.html</link>
-            <guid>2167325</guid>
-            <pubDate>Tue, 11 May 2021 17:41:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国科洛尼尔管道运输公司：力争周末恢复管道运行】近日，美国燃油管道运营商——科洛尼尔管道运输公司遭遇严重网络攻击，已被迫暂时关闭系统数日。美国政府在9日宣布，美国17个州和华盛顿特区进入紧急状态。科洛尼尔管道运输公司10日说，力争“到本周末”恢复大部分管道运行。市场分析师认为，这意味着遭“黑”的输油管道还要停运数天，可能导致部分地区燃油短缺、油价上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmxzfmm1889697.d.html</link>
-            <guid>2167320</guid>
-            <pubDate>Tue, 11 May 2021 17:33:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国“脱欧”谈判首席代表弗罗斯特：我们致力于与欧盟紧急、真诚地解决问题，希望他们将采取一种基于常识、基于风险的方法。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmyaawc4750958.d.html</link>
-            <guid>2167318</guid>
-            <pubDate>Tue, 11 May 2021 17:26:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国“脱欧”谈判首席代表弗罗斯特：在北爱尔兰会见了一些企业和社区代表后，呼吁欧盟在协议问题上表现出实务实态度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmyaawc4750950.d.html</link>
-            <guid>2167317</guid>
-            <pubDate>Tue, 11 May 2021 17:26:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际原子能机构报告：4月22日在伊朗纳坦兹地上工厂采集的样品显示，伊朗铀浓缩丰度达63%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmxzfmm1889130.d.html</link>
-            <guid>2167316</guid>
-            <pubDate>Tue, 11 May 2021 17:26:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：西方石油(OXY.N)担心联邦石油租赁的暂停。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmyaawc4750933.d.html</link>
-            <guid>2167315</guid>
-            <pubDate>Tue, 11 May 2021 17:26:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：委内瑞拉反对派领袖提议逐步解除对美国的制裁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmxzfmm1888701.d.html</link>
-            <guid>2167310</guid>
-            <pubDate>Tue, 11 May 2021 17:21:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际原子能机构报告：4月17日在纳坦兹地上工厂采集的样本丰度与伊朗声明的59.6%铀浓缩丰度相一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmxzfmm1888610.d.html</link>
-            <guid>2167308</guid>
-            <pubDate>Tue, 11 May 2021 17:20:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
