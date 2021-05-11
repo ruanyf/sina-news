@@ -4,11 +4,148 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 11 May 2021 15:30:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 May 2021 16:47:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国联合航空(UAL.O)CEO：航空公司正在向四个机场运送燃油；到目前为止，管道问题的影响相对较小。]]></title>
+            <guid>2167291</guid>
+            <pubDate>Tue, 11 May 2021 16:44:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[根据ICE欧洲期货交易所的数据，7月交割的布伦特原油期货合约相对8月合约的溢价日渐收窄。上一次布油近月与远月期货合约价差大幅收窄时，油价随即出现了好几美元的跌幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmyaawc4745248.d.html</link>
+            <guid>2167269</guid>
+            <pubDate>Tue, 11 May 2021 16:23:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  eBay(EBAY.O)：NFT存货将由值得信赖的卖家提供，将为区块链驱动的收藏品添加功能。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmyaawc4744507.d.html</link>
+            <guid>2167253</guid>
+            <pubDate>Tue, 11 May 2021 16:16:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：TikTok开始在欧洲测试APP内购物。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmxzfmm1882592.d.html</link>
+            <guid>2167250</guid>
+            <pubDate>Tue, 11 May 2021 16:15:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【Coinbase在苹果美国应用商店免费应用榜排名升至第一】Coinbase应用程序在苹果美国应用商店免费应用榜的排名已升至第一位。根据The Block Research收集的数据，Coinbase于4月中旬进入了前10，然后在4月14日升至第二名。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmyaawc4743940.d.html</link>
+            <guid>2167246</guid>
+            <pubDate>Tue, 11 May 2021 16:10:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[大和证券将捷佳伟创评级下调至持有，目标价为100元人民币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmyaawc4743788.d.html</link>
+            <guid>2167245</guid>
+            <pubDate>Tue, 11 May 2021 16:09:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  EIA短期能源展望报告：预计2021年美国原油需求增速为-139万桶/日，此前为132万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmxzfmm1881738.d.html</link>
+            <guid>2167244</guid>
+            <pubDate>Tue, 11 May 2021 16:07:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  EIA短期能源展望报告：预计2021年天然气价格为3.17美元/千立方英尺，此前预期为3.15美元/千立方英尺。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmyaawc4743455.d.html</link>
+            <guid>2167243</guid>
+            <pubDate>Tue, 11 May 2021 16:06:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  EIA短期能源展望报告：预计2022年美国原油产量将增长82万桶/日，此前预计为增加82万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmyaawc4743443.d.html</link>
+            <guid>2167242</guid>
+            <pubDate>Tue, 11 May 2021 16:06:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  EIA短期能源展望报告：预计2021年美国原油产量将减少29万桶/日，此前预计为减少27万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmyaawc4743431.d.html</link>
+            <guid>2167241</guid>
+            <pubDate>Tue, 11 May 2021 16:06:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  EIA短期能源展望报告：预计2022年布伦特原油价格为60.74美元/桶，此前预期为60.49美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmxzfmm1881605.d.html</link>
+            <guid>2167240</guid>
+            <pubDate>Tue, 11 May 2021 16:06:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Workhorse(WKHS.O)直线拉涨至11%，为4月中旬以来最大涨幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmyaawc4743415.d.html</link>
+            <guid>2167239</guid>
+            <pubDate>Tue, 11 May 2021 16:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  EIA短期能源展望报告：2022年全球原油需求增速预期为365万桶/日，此前预计为365万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmyaawc4742994.d.html</link>
+            <guid>2167234</guid>
+            <pubDate>Tue, 11 May 2021 16:02:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  EIA短期能源展望报告：2021年全球原油需求增速预期为550万桶/日，此前预计为550万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmxzfmm1881180.d.html</link>
+            <guid>2167232</guid>
+            <pubDate>Tue, 11 May 2021 16:02:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【4月全国机场货邮吞吐量排名出炉，深圳机场稳居第三】日前，全国各机场相继发布4月货邮吞吐量数据，上海浦东机场依旧排名第一，以37.3万吨货邮吞吐量遥遥领先于第二名的广州机场（17.3万吨），深圳机场则以13.5万吨稳居第三，北京首都机场11.6万吨位列第四。昨日从深圳机场获悉，其4月货邮吞吐总量13.5万吨，同比增长25.9%。其中，国际航线货邮吞吐量增势较猛，达5万吨，同比增长59.2%。截至4月底，深圳机场2021年货邮吞吐量累计达50.7万吨，较去年同期增长36.3%。值得一提的是，今年第一季度，深圳机场货邮吞吐量在全球机场排名中跃升至第16位，而去年为第20位。（深圳发布）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1880751.d.html</link>
+            <guid>2167226</guid>
+            <pubDate>Tue, 11 May 2021 15:56:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞士信贷：将维珍银河目标价下调至33美元 维持跑赢大市评级】瑞士信贷分析师Robert Spingarn将维珍银河(SPCE.N)目标价从42美元下调至33美元，并维持该股的跑赢大市评级。这位分析师指出，维珍银河公布的第一季度自由现金流为5000万美元，并表示该公司还在重新评估其首次动力试飞的时间，试飞时间已经从2月推迟到5月。Spingarn补充说，在解决了之前发现的EMI问题后，维珍银河发现VMS Eve飞船存在疲劳问题，这可能需要将原定于10月份进行的维护提前。他指出，维珍银河正在完成对疲劳数据的分析，预计将在下周就维修时间和测试飞行计划的任何相关更改做出决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmyaawc4742008.d.html</link>
+            <guid>2167222</guid>
+            <pubDate>Tue, 11 May 2021 15:48:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国和墨西哥贸易部长将在本月进行线上会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmyaawc4741541.d.html</link>
+            <guid>2167219</guid>
+            <pubDate>Tue, 11 May 2021 15:42:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国方面称，阿富汗撤军已经完成了6％-12％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmyaawc4741295.d.html</link>
+            <guid>2167218</guid>
+            <pubDate>Tue, 11 May 2021 15:39:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国佐治亚州总检察长办公室发出警告，要求不要在输油管道关闭期间哄抬价格。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1879456.d.html</link>
+            <guid>2167217</guid>
+            <pubDate>Tue, 11 May 2021 15:39:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  eBay(EBAY.O)：预计将看到程序、政策和工具支持购买和销售类别更丰富的NFTs。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmyaawc4741254.d.html</link>
+            <guid>2167216</guid>
+            <pubDate>Tue, 11 May 2021 15:39:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[eBay(EBAY.O)：在短期内，平台信任的卖家将提供跨类别的NFTs商品，涉及交易卡、音乐、娱乐和艺术。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1879350.d.html</link>
+            <guid>2167215</guid>
+            <pubDate>Tue, 11 May 2021 15:38:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  eBay(EBAY.O)：更新平台政策，允许销售NFTs商品。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1879200.d.html</link>
+            <guid>2167212</guid>
+            <pubDate>Tue, 11 May 2021 15:36:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲STOXX 600指数初步收跌2.30%，报435.14点。 德国DAX 30指数初步收跌2.24%，报15054.30点。 法国股指初步收跌2.36%，英国股指初步收跌2.79%，意大利股指初步收跌1.87%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmyaawc4740824.d.html</link>
+            <guid>2167210</guid>
+            <pubDate>Tue, 11 May 2021 15:33:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[创新ETF-ARK（ARKK）转涨，目前涨1.5%，该ETF本月迄今累跌12%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmyaawc4740580.d.html</link>
@@ -50,284 +187,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmyaawc4738731.d.html</link>
             <guid>2167194</guid>
             <pubDate>Tue, 11 May 2021 15:07:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股航空股持续走低，美国联合航空跌4.5%，美国航空集团跌4%，西南航空跌3.7%，达美航空跌3.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1876557.d.html</link>
-            <guid>2167191</guid>
-            <pubDate>Tue, 11 May 2021 15:03:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据中亿基业招股书：截至2021年3月31日，我们应占的物业开发项目总建筑面积为6,516,722平方米，包括已竣工项目的可供出售建筑面积、可出租建筑面积182,839平方米；开发中物业的规划建筑面积4,704,514平方米；及持作未来开发的物业的估计建筑面积1,629,369平方米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1876468.d.html</link>
-            <guid>2167190</guid>
-            <pubDate>Tue, 11 May 2021 15:02:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据港交所文件：中亿基业控股有限公司向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmyaawc4738318.d.html</link>
-            <guid>2167189</guid>
-            <pubDate>Tue, 11 May 2021 15:02:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  波音公司（BA）4月份获得25架飞机总订单，同期被取消17架。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmyaawc4738295.d.html</link>
-            <guid>2167188</guid>
-            <pubDate>Tue, 11 May 2021 15:01:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王毅就当前阿富汗局势阐明中方立场】王毅表示，当前阿富汗局势演变引发国际社会高度关注。中方认为，外国驻军应当有序、负责任地撤出阿富汗，防止仓促行事，给阿国内和平和解进程带来负面影响和严重干扰。乌兹别克斯坦、塔吉克斯坦等阿富汗邻国有必要及时协调立场，发出一致声音，全力支持阿国内和平进程克服困难继续向前推进。（外交部）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1875570.d.html</link>
-            <guid>2167184</guid>
-            <pubDate>Tue, 11 May 2021 14:50:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国房价创纪录飙升 因买家争抢稀缺房源】根据美国全国地产经纪商协会的数据，美国单户住宅价格中值在第一季度创下纪录最大涨幅，因买家争抢稀缺的房源。该协会表示，房价较上年同期上涨16.2%至319200美元的历史新高，涨幅超出去年第四季度的14.8%，这是自1989年有数据以来的最高值。该协会的首席经济学家Lawrence Yun表示：“创纪录的高房价几乎出现在所有市场上，无论规模大小，甚至在早些年被许多购房者无视的都市圈。”]]></title>
-            <guid>2167179</guid>
-            <pubDate>Tue, 11 May 2021 14:46:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波罗的海指数随着巴拿马和超巴拿马利率上升而小幅走高】波罗的海干散货运价指数周二涨14点或0.4%，报3254点。海岬型船运价指数跌41点或0.8%，报5068点；日均获利减少399美元至42031美元。巴拿马型船运价指数涨68点或2.3%，报3082点；日均获利增加614美元至27740美元。超灵便型船运价指数涨29点，报2245点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmyaawc4736756.d.html</link>
-            <guid>2167176</guid>
-            <pubDate>Tue, 11 May 2021 14:44:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苹果跌穿200日均线，为一年多以来首次】 苹果（AAPL）下跌超过3.2%，刷新4月1日以来盘中低点至122.77美元，跌穿200日均线（上日收报122.807美元），为2020年4月份以来首次。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmyaawc4736578.d.html</link>
-            <guid>2167175</guid>
-            <pubDate>Tue, 11 May 2021 14:41:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【《中欧班列长安号跨境电商全国集结中心发展三年行动计划》发布】 11日，第五届丝绸之路国际博览会暨中国东西部合作与投资贸易洽谈会2021“丝路电商”合作（西安）圆桌会在西安举办，会上发布了《中欧班列长安号跨境电商全国集结中心发展三年行动计划》。为促进中欧班列+跨境电商在“丝路电商”伙伴国和其他“一带一路”沿线国家和地区的融合发展，陕西省将依托西安国际港务区，开展中欧班列长安号跨境电商全国集结中心建设。据介绍，陕西省将通过三年左右时间，打造“丝路电商”国际合作示范，加快形成“亚欧”跨境电商服务资源新优势，构建国际市场分工合作的开放型经济体系。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmyaawc4736237.d.html</link>
-            <guid>2167172</guid>
-            <pubDate>Tue, 11 May 2021 14:39:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国二手奢侈品寄售网站TheRealReal(REAL.O)跌超23%，第一季度每股亏损略超预期，该公司CFO计划辞职。此外，BTIG将该公司评级从买入下调至中性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1874298.d.html</link>
-            <guid>2167170</guid>
-            <pubDate>Tue, 11 May 2021 14:37:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道指和标普500指数跌幅扩大至1.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1873839.d.html</link>
-            <guid>2167164</guid>
-            <pubDate>Tue, 11 May 2021 14:32:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全美房地产经纪人协会（NAR）数据显示：美国一季度独栋住房售价中位数同比上涨16.2%，连续两个季度创历史（1989年有数据记录以来的）最大单季涨幅，至319200美元，之前一个季度上涨14.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmyaawc4734937.d.html</link>
-            <guid>2167163</guid>
-            <pubDate>Tue, 11 May 2021 14:25:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[报告显示，亚马逊是名符其实的“赚钱机器”，每分钟产生的收入超过80万美元。其他GAFAM公司则稍显落后：苹果公司每分钟收入近70万美元位列第二，谷歌母公司Alphabet每分钟收入约42万美元，而微软的收入只有每分钟逾32万美元。Facebook是GAFAM公司中收入最少的，每分钟逾20万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1873054.d.html</link>
-            <guid>2167161</guid>
-            <pubDate>Tue, 11 May 2021 14:24:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Roblox(RBLX.N)涨超10%，股价重回70美元上方，第一季度营收同比大增138%，平均日活用户数(MAU)同比增79%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmyaawc4734257.d.html</link>
-            <guid>2167159</guid>
-            <pubDate>Tue, 11 May 2021 14:21:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股钢铁板块涨幅扩大，美国钢铁(X.N)涨近5%，克里夫斯天然资源公司(CLF.N)涨超4%，纽柯钢铁(NUE.N)涨近2%。]]></title>
-            <guid>2167151</guid>
-            <pubDate>Tue, 11 May 2021 14:07:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国3月JOLTs职位空缺(万人)公布 812.3，前值 736.7，预期 750。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1870078.d.html</link>
-            <guid>2167148</guid>
-            <pubDate>Tue, 11 May 2021 14:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美、布两油期货转涨，此前跌幅超过1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmyaawc4731699.d.html</link>
-            <guid>2167147</guid>
-            <pubDate>Tue, 11 May 2021 13:59:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国外交部：如果伊朗在最初的协议结束前不恢复遵守协定的相关措施，国际原子能机构和伊朗将需要就延长双边技术协议进行谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmyaawc4731684.d.html</link>
-            <guid>2167146</guid>
-            <pubDate>Tue, 11 May 2021 13:59:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  5月18日，华为将在上海举办 “HarmonyOS connect伙伴峰会”，与各场景合作伙伴共同探讨鸿蒙系统全新生态带来的商业价值和未来趋势，前期已经加入鸿蒙生态的华为各场景合作伙伴，也将携创新产品或解决方案在峰会亮相。（上证报）]]></title>
-            <guid>2167145</guid>
-            <pubDate>Tue, 11 May 2021 13:58:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国主要航空公司的首席执行官们呼吁与美国和英国举行峰会，以加快重新开放跨大西洋旅行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1869641.d.html</link>
-            <guid>2167144</guid>
-            <pubDate>Tue, 11 May 2021 13:56:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  部门热门中概股走强，富途控股(FUTU.O)涨超6%，雾芯科技(RLX.N)涨超5%，哔哩哔哩(BILI.O)涨近2%，京东(JD.O)涨1.6%，拼多多(PDD.O)涨1.3%。]]></title>
-            <guid>2167143</guid>
-            <pubDate>Tue, 11 May 2021 13:55:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[经纪商AJ Bell投资总监Russ Mould：在通胀和利率不断上升的环境下，以科技股为主的成长型上市公司更难证明其估值的合理性，因此纳指大跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1869396.d.html</link>
-            <guid>2167139</guid>
-            <pubDate>Tue, 11 May 2021 13:53:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油期货再度转涨，现报64.91美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmyaawc4731034.d.html</link>
-            <guid>2167137</guid>
-            <pubDate>Tue, 11 May 2021 13:52:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  维珍银河(SPCE.N)恢复交易后跌幅收窄至6.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmyaawc4730581.d.html</link>
-            <guid>2167119</guid>
-            <pubDate>Tue, 11 May 2021 13:49:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股区块链板块普跌，Marathon Patent跌超9%，亿邦国际、Riot Blockchain、迅雷跌超5%，第九城市、Bit Digital跌超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmyaawc4730525.d.html</link>
-            <guid>2167116</guid>
-            <pubDate>Tue, 11 May 2021 13:49:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际能源署：2020年全球新增可再生能源装机容量创新高】 总部位于法国巴黎的国际能源署11日发布《2021年可再生能源市场报告》。报告说，2020年全球新增可再生能源装机容量比前一年增长45%以上，创下自1999年以来的最大年度增量。这份报告说，2020年全球可再生能源部署加快，新增可再生能源装机容量近280吉瓦，预计今明两年将继续保持这样的增长速度，可再生能源增量预计将占全球电力总增量的90%。（新华国际）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmyaawc4730197.d.html</link>
-            <guid>2167097</guid>
-            <pubDate>Tue, 11 May 2021 13:46:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蔚来转涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1868282.d.html</link>
-            <guid>2167087</guid>
-            <pubDate>Tue, 11 May 2021 13:44:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恐慌指数VIX涨超10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmyaawc4729806.d.html</link>
-            <guid>2167075</guid>
-            <pubDate>Tue, 11 May 2021 13:43:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉(TSLA.O)跌幅收窄至3%以内。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1867907.d.html</link>
-            <guid>2167066</guid>
-            <pubDate>Tue, 11 May 2021 13:41:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  3D系统(DDD.N)涨超18%，公司第一季度营收与净利润表现均超出市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1867872.d.html</link>
-            <guid>2167065</guid>
-            <pubDate>Tue, 11 May 2021 13:41:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500能源指数下跌约2.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1867417.d.html</link>
-            <guid>2167045</guid>
-            <pubDate>Tue, 11 May 2021 13:38:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果(AAPL.O)跌2.2%，公司本周在伦敦遭到集体诉讼，可能面临超过15亿英镑的赔偿。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1867096.d.html</link>
-            <guid>2167027</guid>
-            <pubDate>Tue, 11 May 2021 13:36:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CBOT大豆主力合约涨至逾16美元/蒲式耳，为2012年9月首次。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1867052.d.html</link>
-            <guid>2167022</guid>
-            <pubDate>Tue, 11 May 2021 13:36:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国十年期国债收益率上升5个基点，现报0.84%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmyaawc4728585.d.html</link>
-            <guid>2167010</guid>
-            <pubDate>Tue, 11 May 2021 13:34:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Affirm Holdings(AFRM.O)跌超16%，2021财年第三季度净亏损差于市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1866630.d.html</link>
-            <guid>2167000</guid>
-            <pubDate>Tue, 11 May 2021 13:32:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Roblox(RBLX.N)涨3.13%，第一季度营收同比大增138%，平均日活用户数(MAU)同比增79%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1866577.d.html</link>
-            <guid>2166994</guid>
-            <pubDate>Tue, 11 May 2021 13:32:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Palantir(PLTR.N)跌2.4%，第一季度净亏损同比扩大约126%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1866469.d.html</link>
-            <guid>2166982</guid>
-            <pubDate>Tue, 11 May 2021 13:31:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  维珍银河(SPCE.N)跌超20%，公司表示仍在评估下一次发射任务日期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1866424.d.html</link>
-            <guid>2166981</guid>
-            <pubDate>Tue, 11 May 2021 13:31:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国环境环保署：燃油豁免规定将持续到5月18日，并适用于在华盛顿特区、马里兰州、宾夕法尼亚州和弗吉尼亚州出售的燃料。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1865401.d.html</link>
-            <guid>2166925</guid>
-            <pubDate>Tue, 11 May 2021 13:22:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[内塔尼亚胡表示，以色列将加大对加沙地带的袭击力度和频率。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmyaawc4726527.d.html</link>
-            <guid>2166898</guid>
-            <pubDate>Tue, 11 May 2021 13:18:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  三环集团：拟定增募资不超过75亿元，用于高容量系列多层片式陶瓷电容器扩产项目、智能通信终端用新型陶瓷封装基座扩产技术改造项目、电子与电力器件用新型氧化铝陶瓷基片扩产项目和深圳三环研发基地建设项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1864505.d.html</link>
-            <guid>2166875</guid>
-            <pubDate>Tue, 11 May 2021 13:15:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  浑水公司：医疗成像公司Nano-X Imaging(NNOX.O)预期其无法达成此前宣布的在2022年第一季度前交付1000份多源Nanox units的里程碑式目标，并表示，如果多源Nanox ARC得到了FDA或其他监管机构的授权，公司将在2022年年内实现这一目标甚至超出目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1864489.d.html</link>
-            <guid>2166872</guid>
-            <pubDate>Tue, 11 May 2021 13:14:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  医疗成像公司Nano-X Imaging(NNOX.O)盘前跌近20%，此前浑水表示该公司是一个骗局。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmyaawc4725443.d.html</link>
-            <guid>2166833</guid>
-            <pubDate>Tue, 11 May 2021 13:09:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟碳排放权期货上涨1.3%，现报52.88欧元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmyaawc4724941.d.html</link>
-            <guid>2166800</guid>
-            <pubDate>Tue, 11 May 2021 13:05:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【以色列准备对美国社交媒体“脸书”处以高额罚款】以色列竞争管理局表示，他们正在准备对美国社交媒体“脸书”（Facebook）及其以色列相关公司“以色列脸书”（Facebook Israel），处以600万新谢克尔（约合1200万元人民币）的罚款，原因是“脸书”未经以色列竞争管理局批准而擅自购买了两家以色列公司。以色列竞争管理局表示，这项罚款有待听证，“脸书”有权在60天内将其证据提交给以色列竞争管理局局长米哈尔·哈尔佩林（Michal Halperin）。据报道，“脸书”于2018年收购了以色列RedKix Inc，2019年收购了以色列Service Friend Ltd-。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1863225.d.html</link>
-            <guid>2166799</guid>
-            <pubDate>Tue, 11 May 2021 13:05:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国10年期国债收益率涨5个基点至-0.16%，为去年3月以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1862495.d.html</link>
-            <guid>2166775</guid>
-            <pubDate>Tue, 11 May 2021 13:00:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【茅台集团与习水县委县政府座谈】5月11日，茅台集团与习水县委县政府在茅台会议中心举行座谈，双方就加速推进习酒1.9万吨酱香酒技改项目、习水县酒糟综合循环利用项目和201厂新建厂房投产等相关事宜作沟通交流。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-11/detail-ikmxzfmm1862206.d.html</link>
-            <guid>2166773</guid>
-            <pubDate>Tue, 11 May 2021 12:57:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
