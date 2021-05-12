@@ -4,11 +4,71 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 12 May 2021 17:51:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 May 2021 18:43:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[部分热门中概股跌幅扩大，富途控股跌超15%，高途跌超10%，新东方跌超6%，中通快递跌5.18%，百度跌3.67%，华住酒店跌3.28%，京东跌2.54%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2101135.d.html</link>
+            <guid>2169007</guid>
+            <pubDate>Wed, 12 May 2021 18:28:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  杰富瑞：将金蝶国际(00268.HK)评级上调至买进，目标价29.06港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc4962903.d.html</link>
+            <guid>2168992</guid>
+            <pubDate>Wed, 12 May 2021 18:20:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国4月通胀率为2.0% 达到两年来最高值】根据德国联邦统计局当地时间12日发布的最新初步数据，德国4月通胀率为2.0%，连续第四个月正增长，达到2019年4月以来的最高值。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc4962803.d.html</link>
+            <guid>2168987</guid>
+            <pubDate>Wed, 12 May 2021 18:18:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国演员Dax Randall Shepard的播客将在Spotify(SPOT.N)独家播出。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc4962131.d.html</link>
+            <guid>2168967</guid>
+            <pubDate>Wed, 12 May 2021 18:07:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士：施罗德投资据悉为英国资产管理公司M&G投资研究与合伙人拆分交易，但最近在几个月的努力后放弃了这个想法。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2099738.d.html</link>
+            <guid>2168966</guid>
+            <pubDate>Wed, 12 May 2021 18:07:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际奥委会：仍在全力以赴准备一届完整的东京奥运会。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc4961984.d.html</link>
+            <guid>2168962</guid>
+            <pubDate>Wed, 12 May 2021 18:05:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国当前财年头七个月联邦政府预算累计达到1.93万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc4961963.d.html</link>
+            <guid>2168961</guid>
+            <pubDate>Wed, 12 May 2021 18:04:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[秘鲁南部发生5.6级地震，暂无人员伤亡报告。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2099255.d.html</link>
+            <guid>2168953</guid>
+            <pubDate>Wed, 12 May 2021 17:59:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股外卖概念股跌幅居前，GrubHub(GRUB.N)跌9.51%，DoorDash(DASH.N)跌超9%，Uber(UBER.N)跌近5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2099210.d.html</link>
+            <guid>2168949</guid>
+            <pubDate>Wed, 12 May 2021 17:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法院文件显示，摩根大通(JPM.N)可能为美国得州最大电力合作公司Brazos提供破产贷款。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2098957.d.html</link>
+            <guid>2168943</guid>
+            <pubDate>Wed, 12 May 2021 17:54:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[俄罗斯外长拉夫罗夫：迫切需要就巴以冲突问题举行国际四方会议。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2098033.d.html</link>
@@ -168,84 +228,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc4954912.d.html</link>
             <guid>2168758</guid>
             <pubDate>Wed, 12 May 2021 16:23:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟：碳排放总体流通许可为15.79亿。 2021-2022年将储备3.79亿碳许可。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2092367.d.html</link>
-            <guid>2168757</guid>
-            <pubDate>Wed, 12 May 2021 16:21:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫经济顾问Bernstein：没有明确证据表明失业救济金对就业增长造成了伤害。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc4954488.d.html</link>
-            <guid>2168755</guid>
-            <pubDate>Wed, 12 May 2021 16:19:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞银七个季度以来首次减持跟谁学，卖出8740万美元该股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2092023.d.html</link>
-            <guid>2168754</guid>
-            <pubDate>Wed, 12 May 2021 16:17:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫经济顾问Bernstein：核心通胀趋势更接近2.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2091579.d.html</link>
-            <guid>2168749</guid>
-            <pubDate>Wed, 12 May 2021 16:13:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫经济顾问Bernstein：CPI报告反映了美国经济的重新开放。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2091555.d.html</link>
-            <guid>2168748</guid>
-            <pubDate>Wed, 12 May 2021 16:13:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽元兑美元跌幅扩大到1.58%，刷新近一周低点至0.7160，创3月23日以来最大跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc4953852.d.html</link>
-            <guid>2168746</guid>
-            <pubDate>Wed, 12 May 2021 16:12:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯政府表示，俄罗斯外长拉夫罗夫同意在5月20日的北极峰会上与美国国务卿布林肯会面。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc4953835.d.html</link>
-            <guid>2168745</guid>
-            <pubDate>Wed, 12 May 2021 16:12:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[维珍银河(SPCE.N)盘中跌超10%，公司此前宣布正在评估下一次太空飞行测试的目标日期，此前计划于本月进行太空飞行测试。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc4953354.d.html</link>
-            <guid>2168741</guid>
-            <pubDate>Wed, 12 May 2021 16:08:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：秘鲁中部海岸附近发生5.5级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2090603.d.html</link>
-            <guid>2168739</guid>
-            <pubDate>Wed, 12 May 2021 16:04:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bumble(BMBL.O)盘中跌近10%，报45.8美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc4952927.d.html</link>
-            <guid>2168738</guid>
-            <pubDate>Wed, 12 May 2021 16:04:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 【中国结算终止为长城影视提供证券交易所市场A股登记服务】中国结算：因长城影视股份有限公司A股已在深圳证券交易所终止上市，我公司自2021年5月11日起终止为其提供证券交易所市场的A股登记服务，我公司与该公司之间的涉及证券交易所市场的A股证券登记关系自同日起终止。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2090459.d.html</link>
-            <guid>2168736</guid>
-            <pubDate>Wed, 12 May 2021 16:03:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IFR：京东物流计划通过香港IPO筹资31亿至35亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc4952516.d.html</link>
-            <guid>2168734</guid>
-            <pubDate>Wed, 12 May 2021 16:00:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  以色列跨境电子商务平台提供商Global-E Online(GLBE.O)登陆纳斯达克交易所，上市首日破发，开盘价24.25美元，发行价为25美元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-12/detail-ikmxzfmm2090037.d.html</link>
-            <guid>2168732</guid>
-            <pubDate>Wed, 12 May 2021 15:59:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
