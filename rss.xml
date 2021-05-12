@@ -4,11 +4,46 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 12 May 2021 20:28:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 May 2021 21:25:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Colonial Pipeline管道公司：部分公司管道服务的市场在重启期间可能经历或继续经历间歇性的服务中断。]]></title>
+            <guid>2169118</guid>
+            <pubDate>Wed, 12 May 2021 21:25:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫：拜登总统与以色列总理内塔尼亚胡进行了通话，谴责了哈马斯的火箭弹袭击行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc4970996.d.html</link>
+            <guid>2169113</guid>
+            <pubDate>Wed, 12 May 2021 21:14:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[媒体消息：以色列总理内塔尼亚胡誓言要在致命的冲突中恢复以色列城市的秩序。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2108312.d.html</link>
+            <guid>2169112</guid>
+            <pubDate>Wed, 12 May 2021 21:08:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【A股年内新增回购计划同比增超100%】截至5月12日，今年以来，A股207家公司发布了210单回购计划，同比增118.75%。从回购计划实施角度来看，今年以来，截至5月12日，326家上市公司已耗资445.12亿元实施回购。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc4969611.d.html</link>
+            <guid>2169101</guid>
+            <pubDate>Wed, 12 May 2021 20:40:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛集团发言人：常务董事兼新兴市场伦敦销售主管Aziz McMahon已经离职，但我对其是否在投资狗狗币上赚取至少数百万美元一事并不知情。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2106584.d.html</link>
+            <guid>2169098</guid>
+            <pubDate>Wed, 12 May 2021 20:30:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：预计在基建法案上有妥协的余地。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc4969049.d.html</link>
+            <guid>2169096</guid>
+            <pubDate>Wed, 12 May 2021 20:28:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国总统拜登：已经取消了对运输燃料的限制。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc4968916.d.html</link>
@@ -200,59 +235,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2099255.d.html</link>
             <guid>2168953</guid>
             <pubDate>Wed, 12 May 2021 17:59:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股外卖概念股跌幅居前，GrubHub(GRUB.N)跌9.51%，DoorDash(DASH.N)跌超9%，Uber(UBER.N)跌近5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2099210.d.html</link>
-            <guid>2168949</guid>
-            <pubDate>Wed, 12 May 2021 17:58:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法院文件显示，摩根大通(JPM.N)可能为美国得州最大电力合作公司Brazos提供破产贷款。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2098957.d.html</link>
-            <guid>2168943</guid>
-            <pubDate>Wed, 12 May 2021 17:54:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯外长拉夫罗夫：迫切需要就巴以冲突问题举行国际四方会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2098033.d.html</link>
-            <guid>2168909</guid>
-            <pubDate>Wed, 12 May 2021 17:37:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国新泽西州州长：Colonial Pipeline的管道问题并没有导致这里出现供应问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc4960355.d.html</link>
-            <guid>2168905</guid>
-            <pubDate>Wed, 12 May 2021 17:36:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书珍·普萨基：在白宫的会议中，两党领导人都一致认为有必要进行基建投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2097793.d.html</link>
-            <guid>2168895</guid>
-            <pubDate>Wed, 12 May 2021 17:33:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书珍·普萨基：拜登与两党议员花了近两个小时的时间来确定他们可以合作的领域，特别是在基础设施方面。]]></title>
-            <guid>2168894</guid>
-            <pubDate>Wed, 12 May 2021 17:33:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书珍·普萨基：拜登与两党议员花了近两个小时的时间来确定他们可以合作的领域，特别是在基础设施方面。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2097673.d.html</link>
-            <guid>2168892</guid>
-            <pubDate>Wed, 12 May 2021 17:31:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国的航空公司已经取消了飞往以色列的航班。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc4959199.d.html</link>
-            <guid>2168874</guid>
-            <pubDate>Wed, 12 May 2021 17:18:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国国务卿布林肯就以色列问题与以色列总理内塔尼亚胡通了电话。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2096731.d.html</link>
-            <guid>2168871</guid>
-            <pubDate>Wed, 12 May 2021 17:17:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
