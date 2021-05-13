@@ -4,11 +4,77 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 13 May 2021 16:49:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 May 2021 17:52:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国总统拜登：与共和党的基础设施会谈“是真诚的”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2306304.d.html</link>
+            <guid>2170578</guid>
+            <pubDate>Thu, 13 May 2021 17:48:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[热门中概股持续走低，高途跌超17%，新东方跌超15%，网易有道跌10%，金山云跌8.41%，拼多多跌7.77%，唯品会、达达集团、富途控股、逸仙电商均跌超7%，阿里巴巴跌6.91%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2305440.d.html</link>
+            <guid>2170571</guid>
+            <pubDate>Thu, 13 May 2021 17:37:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：05月14日01时25分在四川广元市青川县发生2.9级地震，震源深度9千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5168068.d.html</link>
+            <guid>2170567</guid>
+            <pubDate>Thu, 13 May 2021 17:34:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[教育科技公司Coursera(COUR.N)首次跌破33美元的发行价，现跌6.84%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2304892.d.html</link>
+            <guid>2170557</guid>
+            <pubDate>Thu, 13 May 2021 17:29:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Poshmark(POSH.O)跌超20%，第一季度净亏损差于市场预期，绩后遭投行瑞杰下调目标价至58美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5167639.d.html</link>
+            <guid>2170550</guid>
+            <pubDate>Thu, 13 May 2021 17:27:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：美国非常重视通货膨胀，拜登提议的影响是暂时的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2304339.d.html</link>
+            <guid>2170542</guid>
+            <pubDate>Thu, 13 May 2021 17:21:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫新闻秘书珍·普萨基：即使俄罗斯政府没有参与对管道的袭击，他们也要承担一定责任。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2304039.d.html</link>
+            <guid>2170537</guid>
+            <pubDate>Thu, 13 May 2021 17:17:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  环球时报：特斯拉(TSLA.O)上海工厂所在地没有出现停止开发的情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5166324.d.html</link>
+            <guid>2170528</guid>
+            <pubDate>Thu, 13 May 2021 17:09:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：美国政府的立场仍然是，支付赎金不符合各公司的利益。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2302635.d.html</link>
+            <guid>2170518</guid>
+            <pubDate>Thu, 13 May 2021 16:59:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：千岛群岛发生5.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5165385.d.html</link>
+            <guid>2170515</guid>
+            <pubDate>Thu, 13 May 2021 16:57:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士信贷：予阿里健康(00241.HK)跑赢大盘的初始评级，目标价30港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2301943.d.html</link>
+            <guid>2170508</guid>
+            <pubDate>Thu, 13 May 2021 16:50:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：交易平台币安将接受美国司法部和国税局的调查。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5164351.d.html</link>
@@ -170,101 +236,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5160319.d.html</link>
             <guid>2170450</guid>
             <pubDate>Thu, 13 May 2021 16:00:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国最大汽油管道开始重启】在网络攻击导致美国最大的汽油管道关停5天之后，运营商Colonial Pipeline表示，将于美东时间周三下午5点左右开始重启管道。这条管道正常情况下每天运送的燃油相当于德国全国的消耗量。尽管开始恢复运行，但对美国东部和南部广大地区造成的影响仍在继续，加油站依然供应短缺，可能要好几天才能恢复正常。加皇资本市场分析师Michael Tran表示，恢复管道运行是第一步，下一步是合理分配补充加油站的油库；Colonial管道重启只是这场危机开始结束，不意味着危机不会再来。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2296889.d.html</link>
-            <guid>2170448</guid>
-            <pubDate>Thu, 13 May 2021 15:51:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：AMC院线(AMC.N)通过新增股本筹资4.28亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc5159673.d.html</link>
-            <guid>2170447</guid>
-            <pubDate>Thu, 13 May 2021 15:49:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMC院线(AMC.N)现涨近17%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2296694.d.html</link>
-            <guid>2170445</guid>
-            <pubDate>Thu, 13 May 2021 15:48:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[部分中概股盘中跌幅扩大，高途跌近10%，新东方跌超7%，阿里巴巴、哔哩哔哩均跌超5%，小鹏汽车、拼多多跌约4.5%，蔚来汽车、爱奇艺、理想汽车跌约4%。]]></title>
-            <guid>2170439</guid>
-            <pubDate>Thu, 13 May 2021 15:39:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：新加坡将收紧对越南的边境管制措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2296041.d.html</link>
-            <guid>2170438</guid>
-            <pubDate>Thu, 13 May 2021 15:38:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国贸易代表戴琦：将于下周与墨西哥和加拿大的贸易代表会面，就美加墨贸易协定的实施展开讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2296032.d.html</link>
-            <guid>2170437</guid>
-            <pubDate>Thu, 13 May 2021 15:37:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌云：将同时提供基础设施和分析能力，以支持Paypal的发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc5158807.d.html</link>
-            <guid>2170435</guid>
-            <pubDate>Thu, 13 May 2021 15:35:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：葡萄牙方面表示，尚未就取消英国的旅游限制作决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc5158612.d.html</link>
-            <guid>2170429</guid>
-            <pubDate>Thu, 13 May 2021 15:32:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国贸易代表戴琦：与英国的贸易协定谈判仍是需要我们继续付出努力的重要议题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc5158371.d.html</link>
-            <guid>2170427</guid>
-            <pubDate>Thu, 13 May 2021 15:28:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国贸易代表戴琦：非常认真地希望在四个月的关税休战期内解决欧盟飞机争端。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2295426.d.html</link>
-            <guid>2170426</guid>
-            <pubDate>Thu, 13 May 2021 15:28:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【因海岬型和巴拿马型船需求下降，波罗的海干散货指数下跌】波罗的海干散货运价指数周四下降至约两周来最低水平，因海岬型船和巴拿马型船运费下跌。波罗的海整体干散货运价指数下滑2%至3077点，为自4月30日以来的最低水平。海岬型船运价指数下滑3.4%至4549点，为自4月27日以来的最低水平。海岬型船日均获利下降1331美元至37724美元。巴拿马型船运价指数下跌1.6%至3017点。巴拿马型船日均获利减少452美元至27154美元。超灵便型船运价指数上涨14点至2283点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc5158249.d.html</link>
-            <guid>2170425</guid>
-            <pubDate>Thu, 13 May 2021 15:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际金融协会：发达国家市场（尤其是金融市场）下跌，导致全球债务水平下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc5158116.d.html</link>
-            <guid>2170424</guid>
-            <pubDate>Thu, 13 May 2021 15:23:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际金融协会：全球债务占GDP的比例略高于360%，但预计今年将随着经济复苏而下降，债券发行量也将下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2295105.d.html</link>
-            <guid>2170421</guid>
-            <pubDate>Thu, 13 May 2021 15:23:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国贸易代表戴琦：拜登政府完全支持在2021年重新授权普惠制度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2294683.d.html</link>
-            <guid>2170419</guid>
-            <pubDate>Thu, 13 May 2021 15:18:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  西南航空(LUV.N)：将从6月开始提供夏威夷航班服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc5157511.d.html</link>
-            <guid>2170417</guid>
-            <pubDate>Thu, 13 May 2021 15:15:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国贸易代表戴琦：寻求以跨党派的方式支持美国国会通过贸易促进授权（TPA）法案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc5157333.d.html</link>
-            <guid>2170410</guid>
-            <pubDate>Thu, 13 May 2021 15:12:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
