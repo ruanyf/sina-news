@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 14 May 2021 21:26:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 May 2021 22:32:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国疾控中心（CDC）、运输安全局（TSA）、交通部（DOT）强调人们出行时仍需佩戴口罩。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2528133.d.html</link>
+            <guid>2172439</guid>
+            <pubDate>Fri, 14 May 2021 22:27:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【精选层再融资新规出炉，首单项目或下半年落地】中国证监会14日公布《非上市公众公司监管指引第X号——精选层挂牌公司股票发行特别规定（试行）》，向社会公开征求意见。全国股转公司将在证监会的指导下同步推进精选层再融资配套自律监管规则的制定工作。业内人士预计，首单精选层再融资项目有望在下半年落地。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2527247.d.html</link>
+            <guid>2172438</guid>
+            <pubDate>Fri, 14 May 2021 22:14:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【迎接升浪还是逢高减仓？机构分歧有点大】券商股一向被市场视为“牛市风向标”，昨日久违的集体大涨，是否代表市场已经吹响了反弹冲锋号？从近期发布的策略报告来看，对于下一阶段行情，各券商的预判似乎出现了明显分歧，迎接“第二波主升浪行情”还是“逢高减仓”，多空双方争议不断。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2526958.d.html</link>
+            <guid>2172436</guid>
+            <pubDate>Fri, 14 May 2021 22:09:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【证券时报头版评论：财富管理转型，券商大有可为】金融机构财富管理转型喊得震天响，但实际效果各异。日前，中国基金业协会首次披露了销售机构公募基金销售保有规模。从数据看，银行虽仍为市场最强渠道，但家数上并不占优势；一直被看作“弱势”渠道的券商，表现非常亮眼。不难看出，在金融越来越开放的当下，在国家前所未有地重视资本市场的背景下，在让全民分享中国经济高速发展成果的政策指引下，在中国未来财富管理大市场中，证券公司依然大有可为。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5388496.d.html</link>
+            <guid>2172432</guid>
+            <pubDate>Fri, 14 May 2021 21:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国能源部长格兰霍姆：周日晚些时候汽油泵可能会恢复正常。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5388471.d.html</link>
+            <guid>2172431</guid>
+            <pubDate>Fri, 14 May 2021 21:53:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列军队摧毁哈马斯银行大楼】巴勒斯坦伊斯兰抵抗运动（哈马斯）14日晚说，以色列军队当晚发动空袭行动，摧毁哈马斯在加沙地带的一座银行大楼。哈马斯内政部门在一份新闻公告中说，以军战机当晚向哈马斯位于加沙市西部的“生产银行”大楼发射3枚导弹，这座5层楼房被夷为平地。这是以军10日空袭加沙地带以来摧毁的第三座银行大楼。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5387210.d.html</link>
+            <guid>2172422</guid>
+            <pubDate>Fri, 14 May 2021 21:27:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国交通部：民众仍需在使用公共交通时按要求佩戴口罩。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5386862.d.html</link>
@@ -128,24 +164,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5376046.d.html</link>
             <guid>2172358</guid>
             <pubDate>Fri, 14 May 2021 17:22:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝克休斯油服：美国石油公司连续第三周增加石油和天然气钻井。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5374876.d.html</link>
-            <guid>2172338</guid>
-            <pubDate>Fri, 14 May 2021 17:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  E-Home Household Service美国IPO首日开盘上涨268.89%，报16.60美元，此前给出的IPO发行价为每股4.50美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2511854.d.html</link>
-            <guid>2172334</guid>
-            <pubDate>Fri, 14 May 2021 16:56:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当地时间5月14日，缅甸的仰光、东枝、密支那和曼德勒等地共发生数十起爆炸，造成数人受伤。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2511160.d.html</link>
-            <guid>2172331</guid>
-            <pubDate>Fri, 14 May 2021 16:49:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
