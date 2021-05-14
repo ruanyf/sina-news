@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 14 May 2021 18:44:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 May 2021 19:29:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：加拿大政府开始有关与美国进行边境重启计划的谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2519599.d.html</link>
+            <guid>2172382</guid>
+            <pubDate>Fri, 14 May 2021 19:04:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  e家家居服务公司(EJH.O)上市首日盘中一度飙涨738%，现涨641.81%，报40.8美元，其IPO发行价为4.5美元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5381948.d.html</link>
+            <guid>2172381</guid>
+            <pubDate>Fri, 14 May 2021 19:04:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列国防军：3枚火箭弹从叙利亚射向了以色列。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2519148.d.html</link>
+            <guid>2172378</guid>
+            <pubDate>Fri, 14 May 2021 18:57:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：因对变种病毒的担忧，巴西将限制从印度飞往巴西的航班。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5381038.d.html</link>
+            <guid>2172377</guid>
+            <pubDate>Fri, 14 May 2021 18:48:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  马拉松原油(MPC.N)短线下挫，涨幅缩窄至1.34%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5381030.d.html</link>
+            <guid>2172376</guid>
+            <pubDate>Fri, 14 May 2021 18:48:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：俄罗斯将从5月25日起重启与冰岛、马耳他、墨西哥、葡萄牙和沙特阿拉伯之间的航空旅行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2518454.d.html</link>
+            <guid>2172375</guid>
+            <pubDate>Fri, 14 May 2021 18:44:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[哔哩哔哩盘中涨幅扩大至10%，报96.3美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2516217.d.html</link>
@@ -116,18 +152,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5365343.d.html</link>
             <guid>2172285</guid>
             <pubDate>Fri, 14 May 2021 15:10:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2021数据中心高质量发展大会隆重发布《超融合数据中心网络白皮书》】2021年5月13日，由中国信息通信研究院云计算与大数据研究所发起、ODCC（开放数据中心委员会）组织起草、中国电信、中国移动、百度、美团、腾讯、京东、华为、中国科学技术大学、南京大学等多家企事业单位联合撰写的《超融合数据中心网络白皮书》在“2021数据中心高质量发展大会”上正式发布。《超融合数据中心网络白皮书》分析了当前数据中心网络以太化的发展趋势，提出下一代数据中心网络正在向超融合架构演进，具备全无损以太网络，全生命周期自动管理，全场景服务化能力三大特征。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2501947.d.html</link>
-            <guid>2172278</guid>
-            <pubDate>Fri, 14 May 2021 14:59:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[数据显示，美国人对商品成本的上涨愈发担忧，对明年的通胀预期升至4.6％，为十年来最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5363492.d.html</link>
-            <guid>2172274</guid>
-            <pubDate>Fri, 14 May 2021 14:49:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
