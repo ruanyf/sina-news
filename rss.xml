@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 14 May 2021 16:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 May 2021 16:50:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[当地时间5月14日，缅甸的仰光、东枝、密支那和曼德勒等地共发生数十起爆炸，造成数人受伤。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2511160.d.html</link>
+            <guid>2172331</guid>
+            <pubDate>Fri, 14 May 2021 16:49:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【香港赛马会与广州市政府签署框架合作协议】香港赛马会14日宣布，与广州市政府签署框架合作协议，为推进粤港澳大湾区的马产业发展共同做出努力。广州市政府与赛马会在协议中订立了双方合作的主要目标、范畴及细节。协议为双方的合作奠定稳固基础，以落实农业农村部及国家体育总局去年发布的《全国马产业发展规划（2020-2025年）》。（新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2506280.d.html</link>
@@ -251,48 +257,6 @@
             <title><![CDATA[  美股邮轮概念股普涨，嘉年华邮轮(CCL.N)涨超4%，挪威邮轮(NCLH.N)、皇家加勒比邮轮(RCL.N)涨约3.8%。]]></title>
             <guid>2172231</guid>
             <pubDate>Fri, 14 May 2021 13:53:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  蒙特利尔银行：将纽柯钢铁(NUE.N)目标价从86美元上调至110美元，维持与大市持平评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5356152.d.html</link>
-            <guid>2172225</guid>
-            <pubDate>Fri, 14 May 2021 13:46:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国银行：将爱彼迎(ABNB.O)目标价从190美元下调至180美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2493669.d.html</link>
-            <guid>2172224</guid>
-            <pubDate>Fri, 14 May 2021 13:43:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑巴西雷亚尔USD/BRL日内涨1.01%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5355257.d.html</link>
-            <guid>2172221</guid>
-            <pubDate>Fri, 14 May 2021 13:39:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黎巴嫩示威民众在黎以边境地带点燃大火】以色列《耶路撒冷邮报》援引巴勒斯坦一家通讯社的消息称，当地时间5月14日下午，黎巴嫩示威民众“突破边境围栏”，并在靠近黎巴嫩边境的以色列城市梅图拉附近点燃大火。示威民众随后被以色列国防军坦克驱离国境，返回黎巴嫩。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2492918.d.html</link>
-            <guid>2172220</guid>
-            <pubDate>Fri, 14 May 2021 13:38:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Blink Charging(BLNK.O)涨4.5%，第一季度营收好于市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5354582.d.html</link>
-            <guid>2172216</guid>
-            <pubDate>Fri, 14 May 2021 13:33:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  爱彼迎(ABNB.O)涨2.1%，第一季度营同比增长5%，预定总额同比增长52%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2492385.d.html</link>
-            <guid>2172215</guid>
-            <pubDate>Fri, 14 May 2021 13:33:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息，欧盟方面表示，正在密切关注欧洲碳市场形势。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5354511.d.html</link>
-            <guid>2172212</guid>
-            <pubDate>Fri, 14 May 2021 13:33:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
