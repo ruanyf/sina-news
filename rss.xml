@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 15 May 2021 08:31:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 May 2021 09:29:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[印度总理莫迪：确保农村地区有适当的氧气分配。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2633200.d.html</link>
+            <guid>2173068</guid>
+            <pubDate>Sat, 15 May 2021 09:29:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【镁佳科技完成1亿美元融资】汽车智能化软硬件基础设施公司镁佳科技今日宣布，已完成超1亿美元的融资。本轮融资由Transcendence Capital领投，大湾区共同家园发展基金、以及包括南山资本、红点中国、山行资本在内的老股东跟投。泰合资本担任独家财务顾问。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2631466.d.html</link>
+            <guid>2173062</guid>
+            <pubDate>Sat, 15 May 2021 09:13:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【景林资产大幅减持拼多多 第一重仓股退位】一季报显示，景林资产在美股的重仓股中，一季度减持拼多多近378万股至261.8万股，季末持有市值3.5亿美元，拼多多也从景林资产的第一重仓股掉落至第二重仓股。而在2月中旬后，拼多多股价在一个多月的时间下跌超30%。 (中国基金报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2628368.d.html</link>
+            <guid>2173057</guid>
+            <pubDate>Sat, 15 May 2021 08:45:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[大连市卫生健康委：安徽病例李某某排除在大连被感染的可能。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5491015.d.html</link>
+            <guid>2173056</guid>
+            <pubDate>Sat, 15 May 2021 08:43:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【激增近160% 今年清盘基金已达85只】据统计，截至5月14日，今年以来，已有85只基金（A/C份额分开计算，下同）发布清算公告，远超去年同期33只，同比增长157.58%。其中债券型基金有39只，占比近46%，权益类基金（混合型+股票型）有44只，占比近52%。多位业内人士向记者表示，同在今年股债市场行情切换下，未来债基的清盘压力或趋于缓解，而权益类基金清盘数量可能会逐渐增多。（中国基金报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5489866.d.html</link>
+            <guid>2173054</guid>
+            <pubDate>Sat, 15 May 2021 08:33:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[波兰执政党领袖卡钦斯基在会议上发表讲话，波兰执政党将增加医疗保健系统的支出，波兰计划将免税额度提高到3万兹罗提。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2626641.d.html</link>
@@ -26,12 +56,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5487520.d.html</link>
             <guid>2173049</guid>
             <pubDate>Sat, 15 May 2021 08:11:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[万科5月15日表示，公司目前无重大资产收购计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5486988.d.html</link>
-            <guid>2173047</guid>
-            <pubDate>Sat, 15 May 2021 08:07:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【微信：5月20日后不再提供小程序打开App服务 遭大量用户投诉】微信开放社区发布通知，宣布2021年5月20日之后不再提供“小程序打开App技术服务”。微信方面表示，近期收到大量用户投诉，在小程序使用过程中，正常使用流程被阻断、被引导跳转至app情况，此类情况严重影响了小程序用户体验。]]></title>
@@ -343,41 +367,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5415613.d.html</link>
             <guid>2172500</guid>
             <pubDate>Sat, 15 May 2021 01:12:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[石家庄：5月底前完成重点人群接种任务，覆盖全市18周岁以上人口的首针接种。（河北日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5413655.d.html</link>
-            <guid>2172488</guid>
-            <pubDate>Sat, 15 May 2021 01:04:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国首次火星探测任务着陆火星取得圆满成功】国家航天局消息，科研团队根据“祝融号”火星车发回遥测信号确认，5月15日，天问一号着陆巡视器成功着陆于火星乌托邦平原南部预选着陆区，我国首次火星探测任务着陆火星取得圆满成功。 凌晨1时许，天问一号探测器在停泊轨道实施降轨，机动至火星进入轨道。4时许，着陆巡视器与环绕器分离，历经约3小时飞行后，进入火星大气，经过约9分钟的减速、悬停避障和缓冲，成功软着陆于预选着陆区。两器分离约30分钟后，环绕器进行升轨，返回停泊轨道，为着陆巡视器提供中继通信。后续，“祝融号”火星车将依次开展对着陆点全局成像、自检、驶离着陆平台并开展巡视探测。 （央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2550032.d.html</link>
-            <guid>2172485</guid>
-            <pubDate>Sat, 15 May 2021 00:57:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯政府批准“不友好国家”名单 其中包括美国和捷克】当地时间15日，据俄新社报道，俄罗斯联邦政府批准了对俄罗斯采取不友好行为的国家名单，其中包括美国和捷克。据介绍，针对名单上的相关国家，俄罗斯政府可以根据总统普京发布的“关于针对外国不友好行为采取相关反制措施”的总统令采取措施。此外，俄罗斯政府还确认了相关国家在俄境内的外交及其他领事机构可雇佣为其工作的俄罗斯公民人数，其中捷克为19人，而美国则为0。该文件中强调，相关规定不涉及商业领域的雇佣关系。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5410696.d.html</link>
-            <guid>2172475</guid>
-            <pubDate>Sat, 15 May 2021 00:47:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[冷冻鱼外包装检出阳性，海关总署暂停俄罗斯1艘加工渔船进口申报。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2546764.d.html</link>
-            <guid>2172474</guid>
-            <pubDate>Sat, 15 May 2021 00:38:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河南：支持各地出台促进汽车消费政策 落实全面取消二手车限迁政策】近日，河南省人民政府办公厅发布关于进一步扩大消费的若干意见，其中提出，支持各地出台促进汽车消费政策，落实全面取消二手车限迁政策，按照规定对二手车经销企业减按销售额的0.5%征收增值税。促进家电家具更新消费，支持各地出台家电家具消费、智能手机以旧换新、家电下乡等补贴政策，提高淘汰旧家电家具并购买“绿色”智能家电、环保家具的补贴标准，鼓励生产销售企业及电商平台等开展以旧换新、优惠让利活动，推进废旧家电回收处理体系建设试点工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2546287.d.html</link>
-            <guid>2172473</guid>
-            <pubDate>Sat, 15 May 2021 00:36:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家卫健委：昨日新增无症状感染者25例，其中境外输入15例，本土10例（安徽7例，辽宁3例）；当日无转为确诊病例；当日解除医学观察12例（境外输入11例）；尚在医学观察的无症状感染者341例（境外输入326例）。]]></title>
-            <guid>2172469</guid>
-            <pubDate>Sat, 15 May 2021 00:21:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
