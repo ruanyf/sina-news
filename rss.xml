@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 15 May 2021 19:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 May 2021 20:27:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[以色列总理内塔尼亚胡：以色列继续全力在加沙地区采取行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2682920.d.html</link>
+            <guid>2173978</guid>
+            <pubDate>Sat, 15 May 2021 20:06:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟：强烈反对俄罗斯拟定的不友好国家名单以及据此采取的措施】欧盟对外行动署15日发表声明称，强烈反对俄罗斯拟定的不友好国家名单以及据此采取的措施。欧盟认为，俄方所称的“不友好行为”没有根据。声明称，欧盟呼吁俄罗斯重新考虑其决定，避免让本已紧张的双边关系进一步恶化，欧盟将继续与其伙伴协调立场。声明还指出，欧盟与捷克和美国保持团结一致。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2682917.d.html</link>
+            <guid>2173977</guid>
+            <pubDate>Sat, 15 May 2021 20:06:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“伊斯兰国”极端组织声称对阿富汗首都喀布尔周五的清真寺袭击事件负责。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmyaawc5545369.d.html</link>
+            <guid>2173917</guid>
+            <pubDate>Sat, 15 May 2021 19:51:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【停火协议仍在酝酿中 巴以交火或将持续数日】15日，《以色列时报》援引以色列电视12频道新闻报道称，巴以双方停火条件正在酝酿中，但目前以色列还不想在加沙地带停火。据报道，以色列领导人希望袭击能够持续几日，完成以色列国防军的作战计划。一名以色列高级官员也表示，目前“还不是停火的时候，我们还将继续发起进攻”。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmyaawc5543013.d.html</link>
@@ -298,30 +316,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5487520.d.html</link>
             <guid>2173049</guid>
             <pubDate>Sat, 15 May 2021 08:11:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【微信：5月20日后不再提供小程序打开App服务 遭大量用户投诉】微信开放社区发布通知，宣布2021年5月20日之后不再提供“小程序打开App技术服务”。微信方面表示，近期收到大量用户投诉，在小程序使用过程中，正常使用流程被阻断、被引导跳转至app情况，此类情况严重影响了小程序用户体验。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5485614.d.html</link>
-            <guid>2173045</guid>
-            <pubDate>Sat, 15 May 2021 07:56:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海试点孤独症早期干预模式 主动筛查18-24月龄儿童】从上海市卫健委、市计划生育协会获悉，作为试点区的徐汇区，携手复旦大学附属儿科医院搭建医联体平台，推进儿保领域适宜技术下基层，在全市率先将孤独症筛查技术引入区妇幼保健所及全区所有社区卫生服务中心，把孤独症早期筛查纳入社区常规儿童体检服务，并为筛查发现的阳性儿童提供就诊快速绿色通道。徐汇区卫健委透露，截至2020年底，全区已主动筛查18-24月龄儿童 43301名，筛查发现阳性儿童336名，确诊孤独症96名。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2620939.d.html</link>
-            <guid>2173043</guid>
-            <pubDate>Sat, 15 May 2021 07:42:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【甄崇礼：中国氢能行业将产生大量千亿规模企业】澳大利亚技术科学与工程院院士、新南威尔士大学中国尖端技术产业研究院院长甄崇礼表示，随着终端产品应用场景愈加丰富，未来，中国氢能及燃料电池行业可带动33万亿元的产业链，催生大量千亿规模的企业，甚至部分万亿企业。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2619274.d.html</link>
-            <guid>2173040</guid>
-            <pubDate>Sat, 15 May 2021 07:29:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【陕西省与中国光大集团将围绕综合金融、科技创新等领域深化合作】陕西省与中国光大集团战略合作框架协议签约仪式14日在西安举行。根据协议，双方将在“十四五”时期围绕综合金融、科技创新、基础设施建设、教育、医疗健康、“一带一路”建设、碳达峰碳中和等领域深化合作，推动陕西高质量发展。会上，西安市、省工信厅等单位分别与中国光大集团及下属企业签署有关协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5482087.d.html</link>
-            <guid>2173039</guid>
-            <pubDate>Sat, 15 May 2021 07:28:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
