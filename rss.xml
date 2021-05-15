@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 15 May 2021 16:48:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 May 2021 17:50:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[巴勒斯坦总统阿巴斯发言人：阿巴斯总统与美国总统拜登通话的内容有关地区发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2674845.d.html</link>
+            <guid>2173470</guid>
+            <pubDate>Sat, 15 May 2021 17:11:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴勒斯坦总统阿巴斯发言人：阿巴斯总统在周六接到了美国总统拜登的“重要”电话。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmyaawc5537025.d.html</link>
+            <guid>2173468</guid>
+            <pubDate>Sat, 15 May 2021 17:03:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[以色列总理内塔尼亚胡发表声明称，他在与美国总统拜登通电话时表示，以色列正在尽一切努力避免伤害平民。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2672435.d.html</link>
@@ -316,18 +328,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2612678.d.html</link>
             <guid>2173027</guid>
             <pubDate>Sat, 15 May 2021 06:42:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  马来西亚5月1日至15日棕榈油出口量685114吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5473749.d.html</link>
-            <guid>2173024</guid>
-            <pubDate>Sat, 15 May 2021 06:33:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国副助理国务卿抵达以色列】当地时间14日晚间，美国驻以色列使馆在社交媒体发布消息，称负责巴以事务的美国副助理国务卿哈迪·阿姆尔（Hady Amr）抵达以色列特拉维夫。消息提到，其此行旨在承认以色列“自卫权”的同时，努力促成巴以实现可持续的平静。消息同时提到，“以色列人和巴勒斯坦人应享有平等的自由、安全、尊严和繁荣。”（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2608024.d.html</link>
-            <guid>2173020</guid>
-            <pubDate>Sat, 15 May 2021 06:15:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
