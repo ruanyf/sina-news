@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 15 May 2021 22:32:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 May 2021 23:28:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：1、火星你好，天问来访！2、天问着陆火星，刻下中国印迹（人民论坛）；3、中国东盟经贸合作展现强劲韧性；4、王毅就当前巴以冲突阐明中方立场；5、王毅同巴基斯坦外长库雷希通电话；6、汲取智慧力量 勇于实干担当（奋斗百年路 启航新征程·学党史 悟思想 办实事 开新局）；7、扎实推进南水北调后续工程高质量发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmyaawc5555415.d.html</link>
+            <guid>2174051</guid>
+            <pubDate>Sat, 15 May 2021 23:19:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哈马斯领导人在加沙的住宅遭以色列军队轰炸】据巴勒斯坦媒体报道，哈马斯领导人叶海亚·辛瓦尔（Yahya al-Sinwar）在加沙的住宅遭以色列军队轰炸，不过目前还没有人员伤亡的报道。辛瓦尔现年59岁，于2017年当选为哈马斯领导人，被以色列列入定点清除的黑名单。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmyaawc5553121.d.html</link>
+            <guid>2174047</guid>
+            <pubDate>Sat, 15 May 2021 22:58:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【驻以色列外国记者协会对外国记者安全保障表示担忧】在以色列摧毁了加沙地带一座国际媒体办公楼后，驻以色列的外国记者协会15日发表声明，对在加沙地带工作的外国记者的安全保障表示担忧。声明说，公开摧毁驻有国际知名媒体办公楼的行为让我们对以色列进一步干涉新闻媒体自由深感忧虑。在加沙的其他新闻机构安全性也令人担忧。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2688128.d.html</link>
@@ -316,12 +328,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2633200.d.html</link>
             <guid>2173068</guid>
             <pubDate>Sat, 15 May 2021 09:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【镁佳科技完成1亿美元融资】汽车智能化软硬件基础设施公司镁佳科技今日宣布，已完成超1亿美元的融资。本轮融资由Transcendence Capital领投，大湾区共同家园发展基金、以及包括南山资本、红点中国、山行资本在内的老股东跟投。泰合资本担任独家财务顾问。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2631466.d.html</link>
-            <guid>2173062</guid>
-            <pubDate>Sat, 15 May 2021 09:13:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
