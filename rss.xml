@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 16 May 2021 19:28:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 May 2021 20:27:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【摩洛哥第二批援巴物资抵达约旦】摩洛哥向巴勒斯坦提供的第二批人道主义援助物资16日抵达约旦的安曼机场。本批援助物资共计40吨，主要为食品、毯子和药品。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-17/detail-ikmyaawc5702584.d.html</link>
+            <guid>2174524</guid>
+            <pubDate>Sun, 16 May 2021 20:11:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国驻联合国大使琳达•托马斯-格林菲尔德：美国正在努力结束冲突。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-17/detail-ikmyaawc5694964.d.html</link>
@@ -241,18 +247,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2787009.d.html</link>
             <guid>2174241</guid>
             <pubDate>Sun, 16 May 2021 09:51:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【下周两只主板新股具有“肉签”潜质】根据新股发行安排，下周（5月17日至5月21日）A股将有7只新股申购，包括沪市主板5只、科创板1只、创业板1只。其中，沪市主板新股神农集团和东鹏饮料，都具有“肉签”潜质，单签收益达到5万元分别只需要4个涨停板和5个涨停板。此外，科创板主板新股和辉光电，有望成为今年最容易中签的科创板新股之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2786413.d.html</link>
-            <guid>2174239</guid>
-            <pubDate>Sun, 16 May 2021 09:45:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列警方：逮捕了2名从约旦入境的持刀者。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmyaawc5649202.d.html</link>
-            <guid>2174238</guid>
-            <pubDate>Sun, 16 May 2021 09:43:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
