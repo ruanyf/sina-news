@@ -4,11 +4,76 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 16 May 2021 01:28:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 May 2021 02:58:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：加沙北部和东部地区遭以色列炮击。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2726798.d.html</link>
+            <guid>2174109</guid>
+            <pubDate>Sun, 16 May 2021 02:51:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据韩国产业通商资源部16日公布的《4月汽车产业动向》显示，在芯片短缺的大背景下，韩国4月汽车产量和出口仍保持两位数增速，同比分别增长11.8%和52.8%。（韩联社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmyaawc5589021.d.html</link>
+            <guid>2174107</guid>
+            <pubDate>Sun, 16 May 2021 02:46:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄罗斯卫星网：英国伦敦警察厅称，在伦敦举行的针对以色列和加沙之间暴力冲突的游行抗议导致9名警察受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2725178.d.html</link>
+            <guid>2174106</guid>
+            <pubDate>Sun, 16 May 2021 02:42:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国联邦航空管理局要求波音公司对旗下143架飞机进行检查】据美国福克斯商业频道报道，美国联邦航空管理局于当地时间5月14日要求波音公司对所有波音旧机型包括波音737-300/400/500，共143架飞机进行检查。据悉，此次调查是为了进一步了解1月份印尼坠机事故中，波音飞机可能存在的导线故障问题。受影响飞机的自动油门系统在运行中可能无法检测到此类故障，并造成安全隐患。波音公司于14日晚间回应称，将对旗下所有飞机的安全性能进行提升。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2721658.d.html</link>
+            <guid>2174102</guid>
+            <pubDate>Sun, 16 May 2021 02:24:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[有网友针对特斯拉CEO埃隆·马斯克稍早的推文提问称，“为什么不从头开始创建一种加密货币，可以满足你所有技术需求，并获得大量开发支持”，对此马斯克回应称，除非狗狗币实现不了。再创建一种（加密货币）是件很麻烦的事。]]></title>
+            <guid>2174098</guid>
+            <pubDate>Sun, 16 May 2021 02:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特斯拉回应杭州地下车库事故：未发现车辆制动系统异常】特斯拉发文称，关于5月14日杭州某地下车库发生的事故，其在获知该事故信息后，立即与车主取得了联系。事故发生后，对车辆制动系统进行了全面检查，未发现任何异常。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2718343.d.html</link>
+            <guid>2174097</guid>
+            <pubDate>Sun, 16 May 2021 02:06:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列国防军和加沙地带卫生部门15日发布的数据显示，10日以来以色列与加沙地带武装爆发的严重冲突已致以方10人死亡、114人受伤，巴方139人死亡、1000人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmyaawc5579858.d.html</link>
+            <guid>2174094</guid>
+            <pubDate>Sun, 16 May 2021 01:59:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间15日下午，以色列军方空袭加沙地带一栋大楼，楼内有多家国际新闻媒体的分支机构，大楼在空袭中被彻底摧毁。总台特约报道员探访被炸媒体大楼，大楼业主否认楼内有哈马斯“军事资产”。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmyaawc5579535.d.html</link>
+            <guid>2174093</guid>
+            <pubDate>Sun, 16 May 2021 01:56:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴以暴力冲突未见缓和 拜登与双方领导人分别通话】巴以暴力冲突已进入第七日，局势未见缓和迹象。当地时间15日，以军空袭了加沙地带的一栋多层建筑，楼内有多家新闻媒体的分支机构。美国总统拜登当天分别与巴以领导人通话，讨论地区局势。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmyaawc5578343.d.html</link>
+            <guid>2174091</guid>
+            <pubDate>Sun, 16 May 2021 01:49:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄罗斯卫星网：消息人士透露，由于以色列对加沙地带的空袭，加沙市的电力供应被切断。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmyaawc5575798.d.html</link>
+            <guid>2174088</guid>
+            <pubDate>Sun, 16 May 2021 01:34:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[王毅就当前巴以冲突阐明中方立场：当务之急是停火止暴，美国采取的立场站在了国际正义的对立面。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2712803.d.html</link>
+            <guid>2174087</guid>
+            <pubDate>Sun, 16 May 2021 01:33:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据俄罗斯卫星网：联合国秘书长古特雷斯表示，对以色列的空袭 “深感不安”，并对越来越多的平民遭受伤亡感到“担忧”。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2711512.d.html</link>
@@ -205,95 +270,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5531963.d.html</link>
             <guid>2173459</guid>
             <pubDate>Sat, 15 May 2021 15:53:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【第五届丝博会签约72个项目投资超1500亿元】为期5天的第五届丝绸之路国际博览会暨中国东西部合作与投资贸易洽谈会5月15日在西安落幕。会议期间举办的三场集中签约仪式上，共签订重点合作项目72个，总投资达1583亿元，涉及教育、现代农业、高技术产业等多个领域。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5528227.d.html</link>
-            <guid>2173429</guid>
-            <pubDate>Sat, 15 May 2021 15:00:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华茅酒官宣将不再新增经销商】华茅酒消息，因受限于产能、基酒、包材等因素，北京华夏国酒销售有限公司董事长张武宣布华茅酒将于5月25日全线停止华茅的招商工作。下一步，华茅的主要精力在于品牌打造、消费者培育、文化弘扬、优商扶商、公益慈善等方面。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5526403.d.html</link>
-            <guid>2173330</guid>
-            <pubDate>Sat, 15 May 2021 14:36:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山东开展非煤矿山、危化品领域安全生产专项普法百日行动】记者从山东应急管理部门了解到，5月至8月，山东将在全省范围内开展非煤矿山、危化品行业领域安全生产专项普法百日行动。据了解，之前山东省已经开展了安全生产专项整治三年行动、安全生产大排查大整治行动和安全生产驻点监管行动。此次，山东省将在非煤矿山、危化品行业领域深入细致开展安全生产法律法规宣传普及，加强以案释法警示教育，进一步增强生产经营单位从业人员法律意识和法律素养，强化企业安全生产主体责任落实，坚决遏制重特大生产安全事故发生。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2662006.d.html</link>
-            <guid>2173265</guid>
-            <pubDate>Sat, 15 May 2021 14:16:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川省2745个交通项目集中开工，总建设里程5854公里】5月15日，四川省乡村振兴暨两项改革“后半篇”文章交通项目集中开工仪式在峨眉山市符溪镇举行。当日进行集中开工的项目共2745个、5854公里，覆盖全省21个市（州）和114个县（市、区）。据了解，四川将通过实施撤并建制村畅通工程，五年新改建项目9000个、2.65万公里，实现撤并建制村之间直连道路100%硬化或油化，路面宽度达4.5米以上，方便群众出行办事。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2660278.d.html</link>
-            <guid>2173230</guid>
-            <pubDate>Sat, 15 May 2021 13:57:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中泰证券：建议关注券商、军工和TMT超跌反弹机会】中泰证券认为，国内资本市场短期表现可能更多受资金面扰动影响。全球市场在三季度风险要大于二季度，而A股权重股提前调整变向提供指数安全垫，行业配置方面，建议关注券商、军工和TMT超跌反弹机会，而前期过热的周期股可能会向海外定价端倾斜。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5522290.d.html</link>
-            <guid>2173212</guid>
-            <pubDate>Sat, 15 May 2021 13:47:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳十年人口增加超713万】5月15日，广东省统计局网站公布2020年11月1日零时该省21个地级以上市的常住人口有关数据。与2010年第六次全国人口普查相比，广东省21个市中，有15个市人口增加。人口增长较多的5个市依次为：深圳市、广州市、佛山市、东莞市、惠州市，分别增加7136531人、5975805人、2304552人、2246388人、1445850人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5521956.d.html</link>
-            <guid>2173195</guid>
-            <pubDate>Sat, 15 May 2021 13:44:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[汽油价格跟踪机构GasBuddy：周六上午，华盛顿特区约81%的加油站仍然没有燃料供应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2659028.d.html</link>
-            <guid>2173194</guid>
-            <pubDate>Sat, 15 May 2021 13:43:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【晨光生物：辣椒原料市场供应情况较去年有所改善】晨光生物(300138)5月15日在互动平台上表示，印度新一季高辣度辣椒原料已上市，市场供应情况较去年有所改善，但仍处于供需紧张局面。公司已通过边采购边生产积极保障市场需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2656938.d.html</link>
-            <guid>2173139</guid>
-            <pubDate>Sat, 15 May 2021 13:22:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[安徽六安通报7例无症状感染者详情，均为摄影公司员工。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5518544.d.html</link>
-            <guid>2173127</guid>
-            <pubDate>Sat, 15 May 2021 13:11:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列军方发言人证实对位于加沙地带的媒体大楼进行了袭击，称大楼内存在“巴勒斯坦伊斯兰抵抗运动（哈马斯）”的军事情报机构。]]></title>
-            <guid>2173121</guid>
-            <pubDate>Sat, 15 May 2021 13:06:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沈阳新增1例本土确诊病例详情公布：曾于5月3日与家人共计12人一起自驾去鲅鱼圈旅游，入住鲅鱼圈华君温泉度假酒店， 5月5日自驾返沈。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2654036.d.html</link>
-            <guid>2173111</guid>
-            <pubDate>Sat, 15 May 2021 12:53:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国资委：加快发展数字经济、智能制造、生命健康、新材料等战略性新兴产业】国资委党委召开会议，要求坚决完成全年国企改革三年行动目标任务，科学编制实施“十四五”规划，持续调整优化国有资本产业布局、空间布局，加快发展数字经济、智能制造、生命健康、新材料等战略性新兴产业，加大关键核心技术攻关力度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2653344.d.html</link>
-            <guid>2173108</guid>
-            <pubDate>Sat, 15 May 2021 12:46:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据法新社：以色列向加沙地带美联社、半岛电视台等国际媒体所在的大楼发动袭击。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2653157.d.html</link>
-            <guid>2173107</guid>
-            <pubDate>Sat, 15 May 2021 12:44:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚美尼亚国防部就亚阿边境局势发表声明】当地时间5月15日，亚美尼亚国防部就亚阿边境局势发表声明，指出5月12日至13日阿塞拜疆军队非法越过两国边境进入亚美尼亚境内导致局势紧张升级，目前仍有部分阿军队停留在亚美尼亚境内。声明中强调，亚美尼亚军队已在边境地区行动，受亚方压力，阿塞拜疆军队自13日以来并未继续行动，部分军队已经撤回阿境内。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2653062.d.html</link>
-            <guid>2173106</guid>
-            <pubDate>Sat, 15 May 2021 12:43:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[半岛电视台位于加沙地带的办公室遭遇空袭，现被摧毁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2652231.d.html</link>
-            <guid>2173105</guid>
-            <pubDate>Sat, 15 May 2021 12:35:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
