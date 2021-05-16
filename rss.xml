@@ -4,7 +4,7 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 16 May 2021 18:43:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 May 2021 19:28:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -253,24 +253,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmyaawc5649202.d.html</link>
             <guid>2174238</guid>
             <pubDate>Sun, 16 May 2021 09:43:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特外长：呼吁国际社会采取行动阻止以色列的行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmyaawc5645862.d.html</link>
-            <guid>2174233</guid>
-            <pubDate>Sun, 16 May 2021 09:11:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特外长谴责以色列方面侵犯巴勒斯坦人的权利。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmyaawc5645848.d.html</link>
-            <guid>2174232</guid>
-            <pubDate>Sun, 16 May 2021 09:11:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【瑞泰科技：修改完善方案 继续推进重大资产重组】瑞泰科技公告，决定修改完善方案，充分信息披露，继续推进本次重大资产重组。关于本次重组，公司于5月10日收到证监会核发的《关于不予核准瑞泰科技股份有限公司发行股份购买资产并募集配套资金申请的决定》。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmyaawc5644482.d.html</link>
-            <guid>2174228</guid>
-            <pubDate>Sun, 16 May 2021 09:01:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
