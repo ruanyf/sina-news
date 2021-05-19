@@ -4,11 +4,59 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 19 May 2021 18:44:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 May 2021 19:29:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国参议员Shaheen：美国没有对北溪二号管道公司实施制裁，但针对与该项目有关的8个实体实施制裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmxzfmm3491536.d.html</link>
+            <guid>2178760</guid>
+            <pubDate>Wed, 19 May 2021 19:22:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议员Shaheen：对针对北溪二号项目的制裁措施不足感到失望。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmyaawc6353280.d.html</link>
+            <guid>2178759</guid>
+            <pubDate>Wed, 19 May 2021 19:19:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[媒体消息：图森未来周三表示，其自动驾驶卡车将通常24小时的工作的运行时间缩短了10个小时。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmyaawc6353122.d.html</link>
+            <guid>2178755</guid>
+            <pubDate>Wed, 19 May 2021 19:15:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联合航空(UAL.O)发言人表示，公司已完成了对因电气接地问题停飞的17架波音737 Max飞机的修复工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmxzfmm3490844.d.html</link>
+            <guid>2178751</guid>
+            <pubDate>Wed, 19 May 2021 19:07:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国航空航天局（NASA）和SpaceX计划于6月3日向空间站运送货物。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmxzfmm3490824.d.html</link>
+            <guid>2178750</guid>
+            <pubDate>Wed, 19 May 2021 19:06:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国在线网站创建和托管领域独角兽Squarespace(SQSP.N)上市首日破发，开盘价报48.46美元，直接上市参考价为50美元/股，现跌12.61%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmyaawc6352239.d.html</link>
+            <guid>2178744</guid>
+            <pubDate>Wed, 19 May 2021 18:59:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  苹果CEO库克将于本周五就《堡垒之夜》发行商Epic Games提起的反垄断诉讼出庭作证。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmyaawc6352123.d.html</link>
+            <guid>2178743</guid>
+            <pubDate>Wed, 19 May 2021 18:56:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  伴随着大宗商品集体下跌，美股金属与采矿股集体下跌，美国铝业、世纪铝业跌超10%，泰克资源跌近10%，南方铜业跌超7%，巴西国家黑色冶金跌超6%，铂族金属、美国钢铁跌超5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmxzfmm3490048.d.html</link>
+            <guid>2178740</guid>
+            <pubDate>Wed, 19 May 2021 18:53:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美股半导体板块多数走高，正一科技现涨37.73%，微芯科技涨3.03%，赛灵思涨2.55%，AMD现涨2.14%，恩智浦半导体涨1.36%，美光科技、台积电涨近1%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmxzfmm3489322.d.html</link>
@@ -41,95 +89,6 @@
             <title><![CDATA[  美国驻联合国代表团就法国推动联合国通过中东问题决议一事表示，不会支持“我们认为会破坏缓和局势努力”的行动。]]></title>
             <guid>2178672</guid>
             <pubDate>Wed, 19 May 2021 17:59:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【特斯拉自1月以来的暴跌导致其市值蒸发3000亿美元】特斯拉股票周三受到双重打击，首先是销售疲软，然后又遭遇科技股和加密货币资产急跌的影响。特斯拉股价一度下跌5.4%至546.98美元，恐创下去年11月以来的最低收盘价。自1月底以来这家电动汽车制造商的市值已经蒸发了超过3000亿美元，当时其曾短暂超越社交媒体巨头Facebook的市值。即便特斯拉的狂热多头Cathie Wood旗下Ark Investment Management本周增持股份也未能提振市场情绪。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmyaawc6348418.d.html</link>
-            <guid>2178662</guid>
-            <pubDate>Wed, 19 May 2021 17:49:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  福特汽车(F.N)：芝加哥装配厂将在5月31日那周停工，并将在6月7日那周按减少的效率运行。]]></title>
-            <guid>2178661</guid>
-            <pubDate>Wed, 19 May 2021 17:49:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福特汽车(F.N)：芝加哥装配厂将在5月31日那周停工，并将在6月7日那周按减少的效率运行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmxzfmm3485929.d.html</link>
-            <guid>2178660</guid>
-            <pubDate>Wed, 19 May 2021 17:42:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：必和必拓旗下智利Escondida铜矿矿场工会正准备罢工，劳资双方计划未来谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmyaawc6347863.d.html</link>
-            <guid>2178658</guid>
-            <pubDate>Wed, 19 May 2021 17:39:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【罗马尼亚总理：6月1日起进一步放宽防疫政策】当地时间5月19日，罗马尼亚总理克楚在政府会议后宣布，无论能否到达500万人的接种数量，6月1日起都将放宽防疫政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmyaawc6347830.d.html</link>
-            <guid>2178657</guid>
-            <pubDate>Wed, 19 May 2021 17:39:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列国防军：过去10天，加沙地区向以色列发射了4000枚火箭弹。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmxzfmm3485412.d.html</link>
-            <guid>2178656</guid>
-            <pubDate>Wed, 19 May 2021 17:34:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果公司员工出席美国国会山听证会并确认：苹果APP Store通过游戏开发商Epic Games的“堡垒之夜”（Fortnite）产品捞取到超过1亿美元营收。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmxzfmm3485210.d.html</link>
-            <guid>2178655</guid>
-            <pubDate>Wed, 19 May 2021 17:31:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Squarespace美国直接上市开盘破发，报48美元，纽交所此前给出的参考价为每股50美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmyaawc6346836.d.html</link>
-            <guid>2178653</guid>
-            <pubDate>Wed, 19 May 2021 17:27:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[爱尔兰外长：我们继续取得进展，现在的处境比几个月前要好得多。我们有理由对伊朗核谈判持乐观态度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmyaawc6346617.d.html</link>
-            <guid>2178652</guid>
-            <pubDate>Wed, 19 May 2021 17:25:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗副外长：总的来说，我可以说我们取得了良好的进展。我们还不能说工作已经完成，但已经取得了很好的进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmyaawc6346563.d.html</link>
-            <guid>2178651</guid>
-            <pubDate>Wed, 19 May 2021 17:24:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗副外长：我们希望下周重启谈判时，各方代表团将做出达成核协议的决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmyaawc6346555.d.html</link>
-            <guid>2178650</guid>
-            <pubDate>Wed, 19 May 2021 17:24:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：德国汉莎航空将暂停支付2015年混合债券的息票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmyaawc6346543.d.html</link>
-            <guid>2178649</guid>
-            <pubDate>Wed, 19 May 2021 17:24:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智利埃斯康迪达矿的工会表示，目前正在起草合同草案，将提交给会员。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmxzfmm3484397.d.html</link>
-            <guid>2178646</guid>
-            <pubDate>Wed, 19 May 2021 17:22:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智利埃斯康迪达矿的工会表示，如果必和必拓继续保持过去那种“糟糕”的态度，他们将准备进行长期罢工。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmyaawc6346382.d.html</link>
-            <guid>2178645</guid>
-            <pubDate>Wed, 19 May 2021 17:22:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天舟二号货运飞船发射将推迟实施】据中国载人航天工程办公室消息，天舟二号货运飞船发射任务，因技术原因推迟实施，发射时间另行确定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmxzfmm3483795.d.html</link>
-            <guid>2178639</guid>
-            <pubDate>Wed, 19 May 2021 17:13:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
