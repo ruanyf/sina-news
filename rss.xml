@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 20 May 2021 20:26:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 May 2021 21:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[以色列国防部：以色列将继续与美国政府合作，以稳定该地区局势。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmyaawc6568382.d.html</link>
+            <guid>2180102</guid>
+            <pubDate>Thu, 20 May 2021 21:01:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 加州空气资源委员会：推出美国首个共享出行服务行业的监管规则，要求类似于优步（Uber）和Lyft等公司到2030年实现90%的车辆为电动汽车 将届时的车队排放目标设在零。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmyaawc6568268.d.html</link>
+            <guid>2180101</guid>
+            <pubDate>Thu, 20 May 2021 20:58:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质勘探局：智利卡拉马东北方向41千米处发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmyaawc6568181.d.html</link>
+            <guid>2180099</guid>
+            <pubDate>Thu, 20 May 2021 20:56:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登将于当地时间今日下午5:45（北京时间凌晨5:45）就中东问题发表讲话。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmxzfmm3706301.d.html</link>
+            <guid>2180098</guid>
+            <pubDate>Thu, 20 May 2021 20:50:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国证交会主席根斯勒：美国证交会必须更新有关通过经纪商应用进行营销的规定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmyaawc6566965.d.html</link>
+            <guid>2180092</guid>
+            <pubDate>Thu, 20 May 2021 20:28:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  应用材料第二财季净销售55.8亿美元，预期54.1亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmyaawc6565662.d.html</link>
@@ -151,54 +181,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmyaawc6555936.d.html</link>
             <guid>2180015</guid>
             <pubDate>Thu, 20 May 2021 17:06:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据AXIOS网站：拜登可能会挑选托马斯·奈德斯担任美国驻以色列大使。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmxzfmm3693771.d.html</link>
-            <guid>2180009</guid>
-            <pubDate>Thu, 20 May 2021 16:59:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  一份内部文件显示：OPEC认为，如果部分投资者也效仿国际能源署（IEA）关于结束新增石油天然气项目开支的建议，可能会造成原油市场不稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmyaawc6555231.d.html</link>
-            <guid>2180008</guid>
-            <pubDate>Thu, 20 May 2021 16:59:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国埃菲尔铁塔运营商：埃菲尔铁塔将于7月16日重新开放。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmyaawc6555190.d.html</link>
-            <guid>2180006</guid>
-            <pubDate>Thu, 20 May 2021 16:58:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据硅谷商业期刊：甲骨文以1.55亿美元的价格出售加州圣何塞的建筑。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmyaawc6554797.d.html</link>
-            <guid>2180002</guid>
-            <pubDate>Thu, 20 May 2021 16:53:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安徽六安20日新增1例无症状感染者】2021年5月20日，六安市新增1例无症状感染者。截至20日24时，六安市累计报告本地确诊病例5例和无症状感染者12例，其中4例确诊病例和11例无症状感染者在六安市定点医院集中隔离救治或观察，另外1例确诊病例出院、1例无症状感染者解除隔离。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmyaawc6554609.d.html</link>
-            <guid>2180001</guid>
-            <pubDate>Thu, 20 May 2021 16:51:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家海洋和大气管理局：预测2021年将出现高于通常数量的大西洋飓风。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmyaawc6553764.d.html</link>
-            <guid>2179997</guid>
-            <pubDate>Thu, 20 May 2021 16:41:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  世界移动通信大会将在6月28日至7月1日在西班牙巴塞罗那举行。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmxzfmm3691965.d.html</link>
-            <guid>2179994</guid>
-            <pubDate>Thu, 20 May 2021 16:37:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家海洋和大气管理局：预计2021年大西洋将形成13-20个被命名的风暴。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmxzfmm3691824.d.html</link>
-            <guid>2179993</guid>
-            <pubDate>Thu, 20 May 2021 16:36:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
