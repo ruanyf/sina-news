@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 20 May 2021 17:59:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 May 2021 18:46:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：美国贷款基金本周流入6.85亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmxzfmm3700310.d.html</link>
+            <guid>2180057</guid>
+            <pubDate>Thu, 20 May 2021 18:37:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：投资级基金本周录得资金流入16.8亿美元；高收益基金本周录得资金流出17亿美元；市政债券基金本周录得资金流入7.25亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmyaawc6561510.d.html</link>
+            <guid>2180051</guid>
+            <pubDate>Thu, 20 May 2021 18:30:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：拜登和埃及总统塞西讨论了努力实现停火，以结束以色列和加沙地带的敌对状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmxzfmm3699461.d.html</link>
+            <guid>2180048</guid>
+            <pubDate>Thu, 20 May 2021 18:18:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中国驻欧盟使团发言人：中方始终抱有诚意促进双方合作 希望欧方相向而行】针对欧洲议会全会通过有关中欧投资协定的决议，中国驻欧盟使团发言人5月20日表示，中欧投资协定是一份平衡、互利共赢的协定，不是谁对谁的恩赐。中方实施反制措施，是对欧盟搞单边制裁对抗做出的正当回应。当天，欧洲议会全会通过决议称，在中方解除对欧洲议会议员等实施的反制裁前，将“冻结”关于批准中欧投资协定的有关讨论。中国驻欧盟使团发言人表示，中方始终抱有诚意促进双方合作，希望欧方与我们相向而行。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmxzfmm3697909.d.html</link>
@@ -176,24 +194,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmyaawc6548885.d.html</link>
             <guid>2179959</guid>
             <pubDate>Thu, 20 May 2021 15:39:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据半岛电视台：消息人士称以色列向埃及表示，计划结束军事行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmxzfmm3686699.d.html</link>
-            <guid>2179951</guid>
-            <pubDate>Thu, 20 May 2021 15:29:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳多家银行上调房贷利率，未来或进一步趋紧】据了解，目前工、农、中、交四大行深圳分行均已调整房贷利率，首套房贷利率上调15BP（基点）至5.1%（LPR+45BP），二套房贷利率上调35BP至5.6%（LPR+95BP）。招行深圳分行等部分股份行也跟进调整。深圳由此成为广州之后，第二个房贷全面涨价的一线城市。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmxzfmm3686629.d.html</link>
-            <guid>2179950</guid>
-            <pubDate>Thu, 20 May 2021 15:27:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  思科(CSCO.O)盘中一路走高，抹去早盘超4%的跌幅，现报52.6美元，成交额超12亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmxzfmm3686569.d.html</link>
-            <guid>2179948</guid>
-            <pubDate>Thu, 20 May 2021 15:26:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
