@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 20 May 2021 19:31:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 May 2021 20:26:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  应用材料第二财季净销售55.8亿美元，预期54.1亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmyaawc6565662.d.html</link>
+            <guid>2180081</guid>
+            <pubDate>Thu, 20 May 2021 20:03:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Luminar(LAZR.O)尾盘直线拉涨超10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmxzfmm3703873.d.html</link>
+            <guid>2180077</guid>
+            <pubDate>Thu, 20 May 2021 19:59:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列国防军：以色列南部响起警报声。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmyaawc6565198.d.html</link>
+            <guid>2180075</guid>
+            <pubDate>Thu, 20 May 2021 19:47:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列总理办公室：以色列安全内阁批准在加沙地带停火。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmyaawc6565006.d.html</link>
+            <guid>2180073</guid>
+            <pubDate>Thu, 20 May 2021 19:43:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列内阁声明：以色列内阁确认有关在加沙地带停火的决定，但尚未就停火时间达成一致。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmxzfmm3703225.d.html</link>
+            <guid>2180072</guid>
+            <pubDate>Thu, 20 May 2021 19:41:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多方消息称巴以双方有望24小时内停火】20日，据多方消息预计，以色列和哈马斯之间的交火有望在24小时之内（21日）停止。哈马斯一高级官员奥萨马·哈姆丹（Osama Hamdan）告诉媒体，哈马斯有望在一天内与以色列实现停火，但哈马斯“并不缺少火箭弹”。据消息人士称，当地时间20日晚以色列内阁召开高级别安全会议，会对在24小时内单边停火的议题进行投票。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmyaawc6564721.d.html</link>
+            <guid>2180071</guid>
+            <pubDate>Thu, 20 May 2021 19:37:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务卿布林肯：无法证实有关以色列在加沙地带停火的媒体报道。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmyaawc6564576.d.html</link>
+            <guid>2180069</guid>
+            <pubDate>Thu, 20 May 2021 19:33:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：一名哈马斯官员证实，将于当地时间周五凌晨2点开始与以色列之间“共同且同时”的停火。]]></title>
             <guid>2180066</guid>
@@ -157,48 +199,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmxzfmm3691824.d.html</link>
             <guid>2179993</guid>
             <pubDate>Thu, 20 May 2021 16:36:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股Coinbase涨幅收窄至2.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmyaawc6550514.d.html</link>
-            <guid>2179981</guid>
-            <pubDate>Thu, 20 May 2021 16:04:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国税局对隐性收入的估计是指除工资、薪金外的收入。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmxzfmm3688898.d.html</link>
-            <guid>2179980</guid>
-            <pubDate>Thu, 20 May 2021 16:03:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据以色列《国土报》：以色列总理内塔尼亚胡可能会向内阁提出停火提议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmxzfmm3688568.d.html</link>
-            <guid>2179977</guid>
-            <pubDate>Thu, 20 May 2021 16:00:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲议会暂停中欧投资协定】欧洲议会星期四以压倒性的票数通过了冻结中欧投资协定的议案，该议案虽然决定不了中欧投资协定的最终命运，但它意味着欧洲议会将停止相关审议，这是该协定走向生效需要经过的中间一环。（环球时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmyaawc6549727.d.html</link>
-            <guid>2179974</guid>
-            <pubDate>Thu, 20 May 2021 15:53:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫经济顾问委员会主席劳斯：现在还不是撤回财政支持的时候。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmyaawc6549502.d.html</link>
-            <guid>2179972</guid>
-            <pubDate>Thu, 20 May 2021 15:49:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  加州建筑云SaaS供应商Procore(PCOR.N)首日上市涨超20%，最高报84.5美元，发行价为67美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmyaawc6549469.d.html</link>
-            <guid>2179971</guid>
-            <pubDate>Thu, 20 May 2021 15:48:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫经济顾问委员会主席劳斯：到年底，美国就业市场将保持良好态势。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-20/detail-ikmyaawc6549432.d.html</link>
-            <guid>2179970</guid>
-            <pubDate>Thu, 20 May 2021 15:48:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
