@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 21 May 2021 16:51:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 May 2021 17:55:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：05月22日01时38分在四川宜宾市兴文县附近发生3.4级左右地震，最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmxzfmm3907734.d.html</link>
+            <guid>2181163</guid>
+            <pubDate>Fri, 21 May 2021 17:44:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【云南省减灾委启动二级应急响应】据云南省应急管理厅通报，5月21日晚漾濞地震发生后，云南省减灾委已启动二级应急响应，相关部门组成的省政府工作组已赶赴地震灾区，相关应急救援力量正赶赴震中开展抗震救灾工作。目前，县城所在地的2.1万名群众已有序撤离到指定的3个应急避难点。云南省应急管理厅等省抗震救灾指挥部成员单位已启动相应级别响应行动，及时开展抗震救灾工作。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmxzfmm3906388.d.html</link>
+            <guid>2181157</guid>
+            <pubDate>Fri, 21 May 2021 17:24:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据华盛顿邮报：拜登的预算提案将剔除一些医疗保健方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmyaawc6767741.d.html</link>
+            <guid>2181156</guid>
+            <pubDate>Fri, 21 May 2021 17:22:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[贝克休斯：美国钻井公司连续第四周增加石油和天然气钻井平台。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmxzfmm3904437.d.html</link>
+            <guid>2181152</guid>
+            <pubDate>Fri, 21 May 2021 17:02:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据漾濞县人民政府消息，地震发生后，县城所在地群众已有序撤离到指定的3个应急避难点，撤离2.1万人。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmxzfmm3903584.d.html</link>
+            <guid>2181147</guid>
+            <pubDate>Fri, 21 May 2021 16:53:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【专家研判：云南漾濞震区需注意5级地震的发生】在云南省地震局5月21日晚举行的漾濞6.4级地震新闻发布会上，云南地震台付虹研究员表示，经过和中国地震局联合会商，根据历史地震的类比和地震序列特征的分析，漾濞震区后续还需注意5级地震的发生。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmyaawc6764236.d.html</link>
@@ -169,48 +199,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmxzfmm3894079.d.html</link>
             <guid>2181059</guid>
             <pubDate>Fri, 21 May 2021 15:08:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[数据显示，供应短缺导致德国4月制造业生产者价格进一步飙升，以1996年有调查开始以来最快的速度上涨。分析指出，通胀压力亦在迅速蔓延到德国服务业，推动投入成本和产出价格双双升至创纪录高位。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmxzfmm3893247.d.html</link>
-            <guid>2181055</guid>
-            <pubDate>Fri, 21 May 2021 15:00:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑加元USD/CAD短线走低23点，现报1.2055。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmyaawc6753929.d.html</link>
-            <guid>2181053</guid>
-            <pubDate>Fri, 21 May 2021 14:53:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：Spotify(SPOT.N)在苹果(AAPL.O)Apple Watch上推出离线下载音乐功能。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmxzfmm3892394.d.html</link>
-            <guid>2181051</guid>
-            <pubDate>Fri, 21 May 2021 14:51:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  火币科技(01611.HK)：2021财年上半年每股盈利0.15港元，去年同期亏损0.0989港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmyaawc6753261.d.html</link>
-            <guid>2181045</guid>
-            <pubDate>Fri, 21 May 2021 14:45:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【云南漾濞发生5.6级和6.4级地震 当地震感强烈】“震感比较强烈，家里的灯和桌上的杯子在明显晃动。”5.6级地震发生后，漾濞县城居民郭先生表示。据了解，当地已启动应急预案，组织相关部门参与抢险工作，受灾情况正在进一步统计中。据云南省地震局介绍，地震造成大理、保山、楚雄等地震感强烈，昆明和四川攀枝花等地亦有明显震感。另据云南省消防救援总队消息，地震发生后，漾濞消防大队已组织力量赶赴震中，云南省消防救援总队已启动地震救援预案，大理支队全勤指挥部已在集结出动。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmxzfmm3891790.d.html</link>
-            <guid>2181044</guid>
-            <pubDate>Fri, 21 May 2021 14:45:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：欧洲媒体巨头Axel Springer正在谈判收购美国新闻网站Axios。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmyaawc6753076.d.html</link>
-            <guid>2181042</guid>
-            <pubDate>Fri, 21 May 2021 14:44:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纳指转跌，此前最高涨0.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-21/detail-ikmyaawc6752540.d.html</link>
-            <guid>2181039</guid>
-            <pubDate>Fri, 21 May 2021 14:40:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
