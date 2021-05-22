@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 22 May 2021 19:32:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 May 2021 20:27:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【甘肃景泰一马拉松百公里越野赛已发现16人遇难】记者从黄河石林山地马拉松百公里越野赛失联救援指挥部获悉，22日上午在甘肃省白银市景泰县黄河石林景区举行的黄河石林山地马拉松百公里越野赛遭遇极端天气，截至23日3时，已发现16人遇难，还有5人失联正在救援中。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmxzfmm4079008.d.html</link>
+            <guid>2182684</guid>
+            <pubDate>Sat, 22 May 2021 20:11:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中央气象台继续发布暴雨蓝色预警】中央气象台5月22日18时继续发布暴雨蓝色预警：预计22日20时至23日20时，贵州东部、广西北部、重庆东南部、湖南北部、湖北东南部、江西北部、安徽南部、浙江西部及西藏东南部等地部分地区有大到暴雨，其中，贵州东部、江西东北部等地局地有大暴雨。上述部分地区伴有短时强降水，局地有雷暴大风或冰雹等强对流天气。相关地区发生山洪、地质灾害的风险加大，需注意做好实时监测、防汛预警和转移避险等防范工作。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmyaawc6937000.d.html</link>
@@ -300,23 +306,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmyaawc6890429.d.html</link>
             <guid>2181499</guid>
             <pubDate>Sat, 22 May 2021 09:09:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【肖钢：新基建存在突出问题 市场化投融资模式尚不健全】清华大学五道口金融学院不动产金融中心理事长、全国政协委员，中国证券监督管理委员会原主席肖钢表示，十三五以来新基建建设提速，我国初步建成最大规模5G网络。但是，当前新基建存在着突出问题，建设资金需求量巨大，而社会资本投入还没有形成政府引导、企业为主、市场运作的投融资格局，制约了发展。]]></title>
-            <guid>2181496</guid>
-            <pubDate>Sat, 22 May 2021 09:01:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国证券业协会：中国证券业协会第七次会员大会5月22日在北京举行。中国证监会主席易会满出席会议，并作了题为《坚持稳中求进 优化发展生态 推动证券行业高质量发展新进步》的讲话。中国证监会副主席李超出席会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmxzfmm4028057.d.html</link>
-            <guid>2181494</guid>
-            <pubDate>Sat, 22 May 2021 08:57:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：亚热带风暴安娜位于百慕大东北方向约200英里处，最大持续风速为每小时45英里。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmyaawc6888179.d.html</link>
-            <guid>2181493</guid>
-            <pubDate>Sat, 22 May 2021 08:49:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
