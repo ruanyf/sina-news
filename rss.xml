@@ -4,7 +4,7 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 22 May 2021 18:46:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 May 2021 19:32:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -317,12 +317,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmyaawc6888179.d.html</link>
             <guid>2181493</guid>
             <pubDate>Sat, 22 May 2021 08:49:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心： 热带风暴安娜在大西洋形成。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmyaawc6887843.d.html</link>
-            <guid>2181491</guid>
-            <pubDate>Sat, 22 May 2021 08:45:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
