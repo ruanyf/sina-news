@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 22 May 2021 16:48:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 May 2021 17:52:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：有火山学家称，刚果民主共和国东部戈马城外的尼拉贡戈活火山突然喷发。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmyaawc6933372.d.html</link>
+            <guid>2181780</guid>
+            <pubDate>Sat, 22 May 2021 17:32:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据卡塔尔国家通讯社：卡塔尔埃米尔致电巴勒斯坦总统阿巴斯，同意继续阻止以色列对巴勒斯坦人的暴力行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmxzfmm4069820.d.html</link>
+            <guid>2181733</guid>
+            <pubDate>Sat, 22 May 2021 16:52:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[国际原子能机构（IAEA）：总干事预计将于当地时间周日下午举行新闻发布会，具体时间将稍后确定。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmyaawc6928851.d.html</link>
@@ -317,36 +329,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmxzfmm4022969.d.html</link>
             <guid>2181483</guid>
             <pubDate>Sat, 22 May 2021 08:11:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白云山：旗下王老吉200万元教育基金落地汕大】记者获悉，白云山(600332)子公司王老吉捐赠200万元，在汕头大学分别设立“未来菁英教育基金”和“刺柠吉奖学金”，用于支持汕头大学优秀学子及贫困学子创新能力培养和综合素质全方位发展，实现第一课堂与第二课堂协同发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmxzfmm4019368.d.html</link>
-            <guid>2181478</guid>
-            <pubDate>Sat, 22 May 2021 07:44:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【肖远企：金融中介多样化背景下，须厘清金融业务边界】银保监会副主席肖远企在5月22日举行的“2021清华五道口全球金融论坛”上表示，“在过去三十多年里，从事金融业务的主体已经成倍增加，但对于究竟什么是金融业务，好像变得比较模糊。但是，由于金融业的特殊性，这个问题又必须要厘清，不允许有模糊。”肖远企表示，金融中介多样化背景下的金融业务定义和范畴，值得深入思考。（财新）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmyaawc6880116.d.html</link>
-            <guid>2181477</guid>
-            <pubDate>Sat, 22 May 2021 07:43:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中美省州经贸合作研讨会在第12届中博会期间举行】商务部副部长兼国际贸易谈判副代表王受文表示，中美建交以来两国经贸合作的快速发展表明，中美经贸合作的本质是互利共赢。省州经贸合作拓宽了双方合作领域，促进了投资项目落地，形成了一些广受两国企业欢迎的品牌活动，已成为两国经贸合作中的亮点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmxzfmm4018452.d.html</link>
-            <guid>2181476</guid>
-            <pubDate>Sat, 22 May 2021 07:38:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新加坡高等法院批准冻结新加坡石油贸易公司Hin Leong高达35亿美元的资产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmyaawc6878142.d.html</link>
-            <guid>2181474</guid>
-            <pubDate>Sat, 22 May 2021 07:29:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国肝胆外科之父吴孟超病逝，享年99岁】中国共产党优秀党员，中国科学院院士，国家最高科学技术奖获得者，原第二军医大学副校长吴孟超同志，因病医治无效，于2021年5月22日13时02分在上海逝世，享年99岁。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmyaawc6878096.d.html</link>
-            <guid>2181473</guid>
-            <pubDate>Sat, 22 May 2021 07:28:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
