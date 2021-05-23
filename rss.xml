@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 23 May 2021 10:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 May 2021 11:22:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【火币全球站回应谣言：平台运营一切正常，将追究造谣者法律责任】近期，有自媒体及个人发布“Huobi Global即将关闭充提”“火币全球站即将停止业务运营”相关消息， 对此Huobi Global有关负责人回复称：平台运营一切正常，用户资产安全得到充分保障。针对个别人士及做空团体的刻意抹黑，火币全球站已诉诸法律手段追究造谣者责任，请用户不要信谣传谣，以官方发布的公告为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmxzfmm4192619.d.html</link>
+            <guid>2183287</guid>
+            <pubDate>Sun, 23 May 2021 11:19:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：字节跳动终止了在阿里巴巴云上存储数据的交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmyaawc7053475.d.html</link>
+            <guid>2183285</guid>
+            <pubDate>Sun, 23 May 2021 11:10:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【长江流域全面入汛 中下游干流水位快速上涨】记者22日从水利部长江水利委员会获悉，当前长江流域已全面进入汛期，长江中下游干流及两湖控制站水位快速上涨，部分支流可能发生超警洪水。据水文监测数据，当前长江中下游干流及洞庭湖、鄱阳湖两湖控制站水位快速上涨，22日11时汉口、湖口、大通站水位分别为23.64米、16.83米、11.46米，较30年同期均值和去年同期均偏高不少。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmyaawc7052187.d.html</link>
+            <guid>2183283</guid>
+            <pubDate>Sun, 23 May 2021 11:01:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：伊朗可能将与国际原子能机构（IAEA）签署的临时核查协议延长1个月。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmyaawc7050242.d.html</link>
+            <guid>2183278</guid>
+            <pubDate>Sun, 23 May 2021 10:40:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据伊朗迈赫尔通讯社援引当地急救部门消息称，伊朗中部伊斯法罕省一家化工厂发生爆炸，造成至少9人受伤。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmxzfmm4187454.d.html</link>
@@ -265,18 +289,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmyaawc7012535.d.html</link>
             <guid>2183169</guid>
             <pubDate>Sun, 23 May 2021 05:21:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广东省民营企业家座谈会暨“十四五”期间民营制造业项目签约仪式举行】广东省民营企业家座谈会暨“十四五”期间民营制造业项目签约仪式20日在广州举行。会上，珠海格力电器股份有限公司董事长兼总裁董明珠、广州小鹏汽车科技有限公司董事长兼CEO何小鹏等民营企业家代表作交流发言。据悉，此次民营制造业项目签约，共有广州华星超高清新型显示等32个投资规模大、技术含量高、市场前景好的项目落户广东，涵盖信息技术、装备制造、新材料、生物医药和家电等轻工业，投资总额1441亿元。（e公司）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmxzfmm4147747.d.html</link>
-            <guid>2183162</guid>
-            <pubDate>Sun, 23 May 2021 04:59:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印尼一航空公司飞机在巴厘岛国际机场发生轻微碰撞事故】据印尼媒体报道，5月22日上午，印尼巴迪克航空公司一架编号为ID6506的飞机在巴厘岛国际机场停靠时与塔台通道发生碰撞事故，造成左侧的引擎破裂，所幸没有人员伤亡。这架飞机从雅加达飞往巴厘岛，上午9时22分抵达巴厘岛国际机场，9时30分发生事故。目前这架飞机已经被移动到巴厘岛机场的安全地带，事故的原因还在调查当中。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmxzfmm4147088.d.html</link>
-            <guid>2183161</guid>
-            <pubDate>Sun, 23 May 2021 04:54:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
