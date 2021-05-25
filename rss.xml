@@ -4,11 +4,125 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 25 May 2021 19:39:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 May 2021 20:31:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[电子艺界(EA.O)：首席执行官Andrew Wilson将担任董事长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmyaawc7521524.d.html</link>
+            <guid>2186487</guid>
+            <pubDate>Tue, 25 May 2021 20:24:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[明晟公司（MSCI）：将于6月10日发布全球全球市场可及性审查的结果，于6月24日发布年度市场分类审查结果。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmxzfmm4659688.d.html</link>
+            <guid>2186486</guid>
+            <pubDate>Tue, 25 May 2021 20:23:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：电子艺界(EA.O)董事长Larry Probst将辞职。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmyaawc7521431.d.html</link>
+            <guid>2186485</guid>
+            <pubDate>Tue, 25 May 2021 20:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉CEO埃隆·马斯克：狗狗币没有正式的组织，也没有人向我汇报，所以我采取行动的能力有限。（网友称马斯克为“狗狗币CEO”）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmyaawc7521231.d.html</link>
+            <guid>2186482</guid>
+            <pubDate>Tue, 25 May 2021 20:18:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根士丹利：将海底捞(06862.HK)评级上调至超配，目标价55港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmyaawc7520905.d.html</link>
+            <guid>2186481</guid>
+            <pubDate>Tue, 25 May 2021 20:12:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[公布财报后，诺德斯特龙(JWN.N)盘后跌超5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmyaawc7520895.d.html</link>
+            <guid>2186480</guid>
+            <pubDate>Tue, 25 May 2021 20:12:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[诺德斯特龙(JWN.N)：Q1每股亏损1.05美元，市场预期0.54美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmxzfmm4659106.d.html</link>
+            <guid>2186479</guid>
+            <pubDate>Tue, 25 May 2021 20:12:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[诺德斯特龙(JWN.N)：Q1净销售额为29.2亿美元，去年同期为20.3亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmyaawc7520877.d.html</link>
+            <guid>2186478</guid>
+            <pubDate>Tue, 25 May 2021 20:12:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[热门中概股则普遍上涨，德银嘉实沪深300指数ETF涨3.7%，中国科技指数ETF涨2.4%。中概教育股领涨，新东方涨超20%，好未来涨超18%。券商股大涨，老虎证券涨超15%，富途证券涨超8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmyaawc7520259.d.html</link>
+            <guid>2186473</guid>
+            <pubDate>Tue, 25 May 2021 20:02:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMC院线(AMC.N)收涨20%，创1月27日以来的最高收盘涨幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmyaawc7520239.d.html</link>
+            <guid>2186472</guid>
+            <pubDate>Tue, 25 May 2021 20:01:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[共和党计划向拜登提出约1万亿美元的基础设施提议，双方差距仍然巨大。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmyaawc7520077.d.html</link>
+            <guid>2186464</guid>
+            <pubDate>Tue, 25 May 2021 19:57:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【4家公司官宣退市 3家进入整理期1家直接摘牌】昨日，A股退市公司再增四家，其中沪市3家，深市1家。本次3家公司股票在退市新规发布前均已被暂停上市，退市指标和程序均适用旧规。其中，*ST鹏起、*ST富控将于6月2日进入退市整理期，退市整理期为30个交易日。*ST信威根据公司股东大会决议不进入退市整理期交易，预计将于6月1日前完成摘牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmxzfmm4658142.d.html</link>
+            <guid>2186463</guid>
+            <pubDate>Tue, 25 May 2021 19:54:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普500指数尾盘跌至盘中低位，跌幅0.35%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmyaawc7519884.d.html</link>
+            <guid>2186462</guid>
+            <pubDate>Tue, 25 May 2021 19:54:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国10年期国债收益率持续走低至1.559%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmyaawc7519866.d.html</link>
+            <guid>2186461</guid>
+            <pubDate>Tue, 25 May 2021 19:54:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：执法部门需要问责和信任。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmxzfmm4657993.d.html</link>
+            <guid>2186459</guid>
+            <pubDate>Tue, 25 May 2021 19:50:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【月涨超5% 券商板块业绩与估值明显背离】昨日，证券板块再度领涨两市。截至当日收盘，板块内个股全面上扬，中信建投、中金公司、哈投股份、湘财股份涨停，兴业证券、华创阳安、东方财富等7家券商涨超5%。自5月下旬以来，证券板块反弹效应显著。同花顺数据显示，截至25日，证券板块5日、10日涨幅已分别达到了6%、13%。今年以来，券商板块表现并不突出，截至5月24日，申万三级证券行业指数在年内大跌11.35%。业内人士表示，春节以来A股市场震荡带来的交易端因素成为券商板块此前表现低迷的重要原因，目前券商业绩与估值已明显背离，而近期市场流动性充沛和大宗商品价格下行均在策略角度利好券商股，短期股价有望磨底反弹的上行趋势，而长期来看，券商板块向上的“催化剂”因素依然存在。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmxzfmm4657982.d.html</link>
+            <guid>2186458</guid>
+            <pubDate>Tue, 25 May 2021 19:50:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【个人征信报告现侮辱字眼，晋商消金深夜致歉】5月25日深夜，晋商消金发布声明，就房女士个人信用报告中的不当表述及对其所造成的影响致歉；同时，晋商消金表示欢迎消费者和广大媒体对该公司进行监督。晋商消金称，因该公司在采集房女士信用报告相关信息时，审核把关不严，给房女士带来诸多困扰，为此郑重致歉。此外，对于房女士的相关诉求，晋商消金表示一直与其保持积极沟通，并责成专人妥善解决。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmyaawc7519508.d.html</link>
+            <guid>2186457</guid>
+            <pubDate>Tue, 25 May 2021 19:46:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日媒：日本考虑延长紧急事态宣言的期限及对应措施】日本放送协会NHK报道，日本已有10个都道府县发布紧急事态宣言，其中广岛和福冈在25日要求延长紧急事态宣言，而大阪也决定将其延长。考虑到期限的延长，日本政府计划在26日听取专家意见时研究延期的时间和必要的措施。目前10个都道府县中，有9个的紧急事态宣言将于31日失效。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmxzfmm4657720.d.html</link>
+            <guid>2186456</guid>
+            <pubDate>Tue, 25 May 2021 19:45:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[媒体消息：英国财政大臣苏纳克将提出希望获得授权，阻止部分企业在伦敦上市。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmyaawc7519214.d.html</link>
+            <guid>2186453</guid>
+            <pubDate>Tue, 25 May 2021 19:41:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国华盛顿特区总检察长对亚马逊提起反垄断诉讼】当地时间5月25日，美国华盛顿特区总检察长卡尔·拉辛以违反反垄断法为由对美国电子商务巨头亚马逊公司提起诉讼。诉讼称，该公司以非法使用价格协议的手段消除竞争并抬高物价。该诉讼已被提交至华盛顿特区高级法院。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmyaawc7519045.d.html</link>
@@ -162,102 +276,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmxzfmm4650751.d.html</link>
             <guid>2186388</guid>
             <pubDate>Tue, 25 May 2021 17:41:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯总统普京同杨洁篪通电话】俄罗斯总统普京25日在索契同正在莫斯科出席中俄第十六轮战略安全磋商的中共中央政治局委员、中央外事工作委员会办公室主任杨洁篪通电话。普京请杨洁篪转达致习近平主席的亲切问候。他表示，俄中关系处于历史最好时期，两国元首保持密切交流至关重要。俄方坚定致力于推动俄中全面战略协作伙伴关系高水平发展，愿进一步同中方密切战略协调与配合，捍卫多边主义，为维护全球战略稳定作出贡献。杨洁篪转达习近平主席致普京总统的诚挚问候和口信。杨洁篪表示，在两国元首的亲自擘画和战略引领下，新时代中俄全面战略协作伙伴关系始终保持强劲发展势头。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmxzfmm4650659.d.html</link>
-            <guid>2186386</guid>
-            <pubDate>Tue, 25 May 2021 17:40:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务卿布林肯：美国仍然不知道伊朗是否愿意并且能够做出决定，重新完全遵守核协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmyaawc7511708.d.html</link>
-            <guid>2186380</guid>
-            <pubDate>Tue, 25 May 2021 17:31:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书珍·普萨基：拜登政府对基建方案无所作为不予接受。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmyaawc7511462.d.html</link>
-            <guid>2186379</guid>
-            <pubDate>Tue, 25 May 2021 17:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  谷歌云：被选择为以色列国提供云服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmxzfmm4649672.d.html</link>
-            <guid>2186377</guid>
-            <pubDate>Tue, 25 May 2021 17:24:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫新闻秘书珍·普萨基：美国总统拜登意识到需要更多的住房供应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmyaawc7511258.d.html</link>
-            <guid>2186376</guid>
-            <pubDate>Tue, 25 May 2021 17:24:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  加密数字货币交易所Coinbase涨超7%，刷新5月18日以来盘中高位至241.18美元，摩根大通给予该公司超配的初始评级，称该公司在加密数字货币市场具备增长潜质，其股票值得投资者买入。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmxzfmm4648993.d.html</link>
-            <guid>2186371</guid>
-            <pubDate>Tue, 25 May 2021 17:14:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书珍·普萨基：美国支持东京奥运会的立场并没有改变。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmxzfmm4648925.d.html</link>
-            <guid>2186370</guid>
-            <pubDate>Tue, 25 May 2021 17:13:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：美国总统拜登和俄罗斯总统普京会晤没有先决条件。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmxzfmm4648907.d.html</link>
-            <guid>2186369</guid>
-            <pubDate>Tue, 25 May 2021 17:13:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国联合航空(UAL.O)CEO：美国疾病控制与预防中心(CDC)对口罩要求的改变将导致更多的商业活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmxzfmm4648623.d.html</link>
-            <guid>2186368</guid>
-            <pubDate>Tue, 25 May 2021 17:09:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国联合航空(UAL.O)CEO：预计9月份商务旅行将“大幅增加”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmxzfmm4648409.d.html</link>
-            <guid>2186367</guid>
-            <pubDate>Tue, 25 May 2021 17:06:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书珍·普萨基：希望共和党在本周提供基建方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmyaawc7509989.d.html</link>
-            <guid>2186366</guid>
-            <pubDate>Tue, 25 May 2021 17:06:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：不相信俄罗斯在白俄罗斯事件中发挥了作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmyaawc7509603.d.html</link>
-            <guid>2186365</guid>
-            <pubDate>Tue, 25 May 2021 17:02:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书珍·普萨基：美国总统拜登和俄罗斯总统普京会晤将讨论乌克兰战略稳定问题，同样也会讨论白俄罗斯的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmxzfmm4647634.d.html</link>
-            <guid>2186362</guid>
-            <pubDate>Tue, 25 May 2021 16:57:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【经参：民间投资空间加快扩容】据了解，近日北京、四川等多地民间投资项目批量出炉，不少地方投资额达千亿左右。基础设施补短板以及高技术制造业、商务服务业、信息服务业等成为吸引民资的重点领域。业内专家表示，随着一揽子改革举措的加快推进以及惠企政策的落地见效，民营企业投资空间将加快扩容，为稳投资稳增长注入更多动力和活力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmxzfmm4647614.d.html</link>
-            <guid>2186361</guid>
-            <pubDate>Tue, 25 May 2021 16:56:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[媒体消息：英国禁止白俄罗斯航空公司飞机进入其领空。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmxzfmm4647575.d.html</link>
-            <guid>2186359</guid>
-            <pubDate>Tue, 25 May 2021 16:56:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：05月26日00时48分在台湾花莲县附近发生4.0级左右地震，最终结果以正式速报为准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-26/detail-ikmxzfmm4647201.d.html</link>
-            <guid>2186357</guid>
-            <pubDate>Tue, 25 May 2021 16:51:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
