@@ -4,11 +4,76 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 26 May 2021 20:40:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 May 2021 21:31:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  ORGANOGENESIS(ORGO.O)盘后涨近10%，卡骆驰(CROX.O)盘后跌超3%。]]></title>
+            <guid>2188737</guid>
+            <pubDate>Wed, 26 May 2021 21:20:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普道琼斯指数公司：卡骆驰(CROX.O)将加入标普中盘400指数，ORGANOGENESIS(ORGO.O)将加入标普小盘600指数。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7738085.d.html</link>
+            <guid>2188735</guid>
+            <pubDate>Wed, 26 May 2021 21:20:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据美国证券交易委员会文件：空白支票公司TRADEUP 88 CORP提交IPO申请，拟筹资达8800万美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7738026.d.html</link>
+            <guid>2188733</guid>
+            <pubDate>Wed, 26 May 2021 21:18:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：日本本州东海岸附近发生5.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4876635.d.html</link>
+            <guid>2188732</guid>
+            <pubDate>Wed, 26 May 2021 21:18:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国众议员Moore：儿童保育是基建方案的一部分。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7738015.d.html</link>
+            <guid>2188731</guid>
+            <pubDate>Wed, 26 May 2021 21:18:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉：全球Powerwall安装量超过20万。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7737336.d.html</link>
+            <guid>2188730</guid>
+            <pubDate>Wed, 26 May 2021 21:08:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达CFO：下半年供应将受到限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7737291.d.html</link>
+            <guid>2188729</guid>
+            <pubDate>Wed, 26 May 2021 21:07:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登敦促国会对枪支暴力立即采取行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4875941.d.html</link>
+            <guid>2188728</guid>
+            <pubDate>Wed, 26 May 2021 21:07:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vertex Energy(VTNR.O)盘后涨幅扩大至26%，将收购壳牌阿拉巴马州的一家炼油厂和相关物流资产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4875664.d.html</link>
+            <guid>2188726</guid>
+            <pubDate>Wed, 26 May 2021 21:02:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Vertex Energy(VTNR.O)盘后涨近18%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7736198.d.html</link>
+            <guid>2188723</guid>
+            <pubDate>Wed, 26 May 2021 20:45:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  荷兰皇家壳牌(RDS.B.N)将阿拉巴马州的炼油厂以7500万美元现金出售给顶点能源Vertex Energy(VTNR.O)。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4874804.d.html</link>
+            <guid>2188722</guid>
+            <pubDate>Wed, 26 May 2021 20:45:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  英伟达(NVDA.O)：第一财季数据中心营收20.5亿美元，同比增长79%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4874542.d.html</link>
@@ -169,67 +234,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7730545.d.html</link>
             <guid>2188640</guid>
             <pubDate>Wed, 26 May 2021 18:58:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据监测网络状况的网站DownDetector：用户报告显示Instagram出现问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7730103.d.html</link>
-            <guid>2188638</guid>
-            <pubDate>Wed, 26 May 2021 18:50:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国亿万富翁CarlIcahn：正在研究如何“大规模”进入加密市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7729922.d.html</link>
-            <guid>2188636</guid>
-            <pubDate>Wed, 26 May 2021 18:47:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中概教育股今日回调走低，好未来(TAL.N)、高途(GOTU.N)跌6.3%，新东方(EDU.N)跌3.42%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4867683.d.html</link>
-            <guid>2188633</guid>
-            <pubDate>Wed, 26 May 2021 18:34:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[荔枝(LIZI.O)涨幅扩大至50%，公司将于美东时间6月1日美股盘后公布2021年第一季度业绩。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4866714.d.html</link>
-            <guid>2188631</guid>
-            <pubDate>Wed, 26 May 2021 18:19:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国当局提醒美国人不要前往白俄罗斯旅行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7728219.d.html</link>
-            <guid>2188630</guid>
-            <pubDate>Wed, 26 May 2021 18:16:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[
-美国白宫表示：美国相信日本为举办一届安全的奥运会所作的承诺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7728120.d.html</link>
-            <guid>2188629</guid>
-            <pubDate>Wed, 26 May 2021 18:15:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蔚来汽车涨超5%，小鹏汽车现涨8.3%，理想汽车现涨15.88%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4866419.d.html</link>
-            <guid>2188628</guid>
-            <pubDate>Wed, 26 May 2021 18:14:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蔚来汽车(NIO.N)涨超5%，小鹏汽车(XPEV.N)现涨8.3%，理想汽车(LI.O)现涨15.88%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4866412.d.html</link>
-            <guid>2188627</guid>
-            <pubDate>Wed, 26 May 2021 18:14:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：大众汽车将向德国汽车经销商投资2亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7728070.d.html</link>
-            <guid>2188626</guid>
-            <pubDate>Wed, 26 May 2021 18:14:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据CoinDesk消息，Paypal(PYPL.O)的区块链负责人周三说，它将允许用户向第三方钱包提取加密货币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7726921.d.html</link>
-            <guid>2188625</guid>
-            <pubDate>Wed, 26 May 2021 18:00:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
