@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 28 May 2021 21:35:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 May 2021 22:38:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据沙特国家电视台：沙特领导的联盟拦截并摧毁了也门胡塞武装向沙特海米斯穆谢特发射的装满炸药的无人机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5286316.d.html</link>
+            <guid>2191930</guid>
+            <pubDate>Fri, 28 May 2021 22:11:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国企业债息差创十四年来最窄水平】美国高评级债券（投资级企业债）与美国国债息差收窄至84个基点，为2007年以来最窄水平。美国经济加速复苏提振了今年的企业盈利预期，投资者的通胀预期缓和，看好重新开放后的经济表现。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5285148.d.html</link>
+            <guid>2191927</guid>
+            <pubDate>Fri, 28 May 2021 21:51:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：空白支票公司Colombier提交IPO申请。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8147846.d.html</link>
+            <guid>2191926</guid>
+            <pubDate>Fri, 28 May 2021 21:51:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  据美国证券交易委员会文件：企业社群科技公司Sprinklr提交IPO申请，拟筹资达1亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5283624.d.html</link>
@@ -356,24 +374,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5272414.d.html</link>
             <guid>2191834</guid>
             <pubDate>Fri, 28 May 2021 17:31:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：瑞士信贷的对冲基金RenTech拒绝部分客户提款。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8134138.d.html</link>
-            <guid>2191827</guid>
-            <pubDate>Fri, 28 May 2021 17:11:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：凯雷集团（Carlyle Group）据悉开始筹备Nouryon的IPO，估值为30亿美元。（Nouryon前身为阿克苏诺贝尔专业化学品业务部，被凯雷集团收购）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8133660.d.html</link>
-            <guid>2191825</guid>
-            <pubDate>Fri, 28 May 2021 17:04:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至5月28日当周石油钻井总数录得359口，实现连续五周上升，创去年4月以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8133459.d.html</link>
-            <guid>2191824</guid>
-            <pubDate>Fri, 28 May 2021 17:01:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
