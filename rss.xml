@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 29 May 2021 20:50:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 May 2021 21:38:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【天舟二号与天和核心舱对接】据中国载人航天工程办公室消息，天舟二号货运飞船入轨后顺利完成入轨状态设置，采用自主快速交会对接模式精准对接于天和核心舱后向端口！（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-30/detail-ikmxzfmm5441610.d.html</link>
+            <guid>2192233</guid>
+            <pubDate>Sat, 29 May 2021 21:06:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[加密货币交易所Coinbase：正在调查导致Paypal的加元、英镑和欧元等货币提款延迟的问题。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-30/detail-ikmyaawc8300448.d.html</link>
@@ -258,18 +264,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8249692.d.html</link>
             <guid>2192117</guid>
             <pubDate>Sat, 29 May 2021 08:58:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苏伊士运河管理局代表律师：埃及将重新计算有关长赐号的赔偿金要求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5386929.d.html</link>
-            <guid>2192115</guid>
-            <pubDate>Sat, 29 May 2021 08:52:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海石化2号乙烯老区裂解炉区域管线发生闪爆事故 14人烧伤送医】中国石化上海石油化工股份有限公司官方发布，5月29日8时26分，上海石化烯烃部2号乙烯老区在检修开车准备过程中，裂解炉区域原料管线发生闪爆，导致14人烧伤，伤者已第一时间送往医院治疗。11时05分，经现场指挥部确认，事故应急响应结束。经现场检测，未对周边环境造成影响，事故原因正在调查中。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5385972.d.html</link>
-            <guid>2192113</guid>
-            <pubDate>Sat, 29 May 2021 08:43:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
