@@ -4,11 +4,22 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 29 May 2021 21:38:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 May 2021 22:41:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【从预售订单看五大消费趋势：国货商品强势爆发】据经济日报携手京东发布的数据，5月24日至25日，在京东平台“预售”的搜索量超150万次，预售订单额整体同比增长高达640%，参与预售的品牌数量同比增长达126%，参与预售的商品数量同比增长达437%。大量中国老字号和新晋国潮品牌迅速崛起，国货商品强势爆发；随着农特产品“触网”，传统农业正加速融入全国大市场；“商品+服务”的一体化消费正成为经济增长与结构升级的新动能。与此同时，消费者个性化需求得到满足，创新产品正推动整个消费市场高质量发展。（经济日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-30/detail-ikmyaawc8307456.d.html</link>
+            <guid>2192239</guid>
+            <pubDate>Sat, 29 May 2021 22:21:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：05月30日05时37分在新疆巴音郭楞州库尔勒市（北纬42.12度，东经85.42度）发生3.3级地震，震源深度15千米。]]></title>
+            <guid>2192236</guid>
+            <pubDate>Sat, 29 May 2021 21:46:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【天舟二号与天和核心舱对接】据中国载人航天工程办公室消息，天舟二号货运飞船入轨后顺利完成入轨状态设置，采用自主快速交会对接模式精准对接于天和核心舱后向端口！（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-30/detail-ikmxzfmm5441610.d.html</link>
@@ -240,30 +251,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8253606.d.html</link>
             <guid>2192124</guid>
             <pubDate>Sat, 29 May 2021 09:33:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京自动驾驶路测安全行驶里程突破300万公里】截至5月底，北京自动驾驶车辆道路测试安全行驶总里程突破300万公里，相当于绕地球赤道约75圈。北京已向百度、小马智行、滴滴、美团、北汽新能源等15家企业的99辆车发放自动驾驶道路测试用临时号牌，其中百度、小马智行两家企业获得载人测试资格。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5389810.d.html</link>
-            <guid>2192122</guid>
-            <pubDate>Sat, 29 May 2021 09:18:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当地时间5月29日，缅甸少数民族地方武装钦民族阵线正式宣布加入缅甸人民国防军，这也是缅甸首个加入该组织的少数民族地方武装。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5388011.d.html</link>
-            <guid>2192120</guid>
-            <pubDate>Sat, 29 May 2021 09:03:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿富汗国防部称打死210名塔利班武装人员】阿富汗国防部29日发表声明说，在过去24小时内，阿政府军在多个省展开行动，共打死210名塔利班武装人员。美国和北约军队5月1日开始正式撤离阿富汗，计划在9月11日前全部撤出。近期，阿富汗国内袭击事件不断，安全形势日趋恶化。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8249839.d.html</link>
-            <guid>2192118</guid>
-            <pubDate>Sat, 29 May 2021 09:00:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【海南省首家特殊医学用途配方食品企业获批投产】近日，海南首家特殊医学用途配方食品企业获批投产，这填补了海南特殊医学用途配方食品行业的空白。据了解，企业投产后可年产特医碳水化合物组件产品2000万瓶，产值达5亿元以上。新的生产线建成投产后年产量可达5000万瓶，产值达10亿元以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8249692.d.html</link>
-            <guid>2192117</guid>
-            <pubDate>Sat, 29 May 2021 08:58:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
