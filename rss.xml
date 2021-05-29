@@ -4,11 +4,59 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 29 May 2021 15:39:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 May 2021 17:31:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[阿富汗帕尔万省一校车遭爆炸袭击，致4人死亡11人受伤。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-30/detail-ikmxzfmm5430810.d.html</link>
+            <guid>2192213</guid>
+            <pubDate>Sat, 29 May 2021 17:29:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[广州市越秀区防控办：越秀区定于5月30日至6月1日对全区常住人员开展全员核酸检测。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-30/detail-ikmxzfmm5430061.d.html</link>
+            <guid>2192212</guid>
+            <pubDate>Sat, 29 May 2021 17:16:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南京警方通报男子驾车撞人事件】南京警方：犯罪嫌疑人已被抓获。经初步调查，犯罪嫌疑人因感情纠纷行凶，犯罪嫌疑人、其前妻，以及其他6名受伤群众已送医治疗，暂无生命危险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-30/detail-ikmxzfmm5428099.d.html</link>
+            <guid>2192208</guid>
+            <pubDate>Sat, 29 May 2021 16:46:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[广州市海珠区定于5月30日至6月1日对全区户籍人口、来穗人员分街道分社区就地开展全员核酸检测工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-30/detail-ikmyaawc8289682.d.html</link>
+            <guid>2192206</guid>
+            <pubDate>Sat, 29 May 2021 16:32:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国有线电视新闻网当地时间5月29日报道称，28日将近午夜时间，美国佛罗里达州迈阿密发生一起枪击案，造成至少7人受伤。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-30/detail-ikmyaawc8289345.d.html</link>
+            <guid>2192205</guid>
+            <pubDate>Sat, 29 May 2021 16:28:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫发言人佩斯科夫：白俄罗斯总统卢卡申科未向普京总统提出更多经济援助请求。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-30/detail-ikmxzfmm5425696.d.html</link>
+            <guid>2192204</guid>
+            <pubDate>Sat, 29 May 2021 16:12:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫发言人佩斯科夫：俄罗斯与白俄罗斯同意增加航空服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-30/detail-ikmxzfmm5425683.d.html</link>
+            <guid>2192203</guid>
+            <pubDate>Sat, 29 May 2021 16:12:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫发言人佩斯科夫：俄罗斯同意向白俄罗斯提供第二批5亿美元的贷款。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-30/detail-ikmyaawc8288187.d.html</link>
+            <guid>2192202</guid>
+            <pubDate>Sat, 29 May 2021 16:11:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[沈阳卫健委：从2021年5月29日23时起，将和平区文艺路艺园小区调整为低风险区，其他地区风险等级不变。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5422964.d.html</link>
@@ -282,30 +330,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5380230.d.html</link>
             <guid>2192093</guid>
             <pubDate>Sat, 29 May 2021 07:52:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度方面表示，目前瑞德西韦供过于求，有充足药品。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5378634.d.html</link>
-            <guid>2192089</guid>
-            <pubDate>Sat, 29 May 2021 07:37:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新加坡新增10例输入性确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8240356.d.html</link>
-            <guid>2192088</guid>
-            <pubDate>Sat, 29 May 2021 07:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳前4月规上工业增加值增长17.9%】1-4月，深圳全市规模以上工业增加值同比增长17.9%，两年平均增长3.3%。行业增长面扩大，全市37个工业大类行业中，35个行业增加值同比增长，增长面94.6%；26个行业两年平均增速实现正增长。前4个月，深圳一般贸易进出口占总体的49.8%，对全市外贸增长贡献率为51.5%；加工贸易自去年底恢复增长后，已连续6个月保持增势，前4个月进出口2802.5亿元，增长32.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5376594.d.html</link>
-            <guid>2192084</guid>
-            <pubDate>Sat, 29 May 2021 07:20:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据“南沙客运港”微信公众号消息，接船务公司通知，5月29日起南沙客运港往返深圳机场码头航线暂停服务，具体复航时间另行通知。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8238834.d.html</link>
-            <guid>2192083</guid>
-            <pubDate>Sat, 29 May 2021 07:19:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
