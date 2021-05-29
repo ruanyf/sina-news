@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 29 May 2021 19:29:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 May 2021 20:50:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[加密货币交易所Coinbase：正在调查导致Paypal的加元、英镑和欧元等货币提款延迟的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-30/detail-ikmyaawc8300448.d.html</link>
+            <guid>2192226</guid>
+            <pubDate>Sat, 29 May 2021 19:49:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【五角大楼称海基导弹防御系统试验失败】美国导弹防御局与美国海军部队5月29日进行了宙斯盾系统的飞行测试，这些测试“旨在通过两个标准-6 Dual II型导弹”的齐射来发现、跟踪、打击和拦截中程弹道导弹。通稿中称：“目标没有被拦截。“]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-30/detail-ikmyaawc8299535.d.html</link>
@@ -264,36 +270,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5385972.d.html</link>
             <guid>2192113</guid>
             <pubDate>Sat, 29 May 2021 08:43:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：世界银行批准向巴勒斯坦改革项目提供3000万美元的赠款。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5385552.d.html</link>
-            <guid>2192112</guid>
-            <pubDate>Sat, 29 May 2021 08:39:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【全球首座十万吨级深水半潜式生产储油平台完成安装、投产在即】中国海洋石油集团有限公司5月29日对外宣布，全球首座十万吨级深水半潜式生产储油平台——“深海一号”能源站已顺利完成全部设备安装工作，此举意味着该能源站水下和水面生产设施完成连接，整套生产装置已具备投产条件。“深海一号”大气田预计于今年6月底正式投产，高峰年产气量超过30亿立方米，通过环绕海南岛，联通粤港两地海底管线向粤港澳大湾区和海南自贸港源源不断地输送来自深海的清洁能源，可满足大湾区四分之一的民生用气需求，成为南海新的能源供给中心。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8247793.d.html</link>
-            <guid>2192111</guid>
-            <pubDate>Sat, 29 May 2021 08:39:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南首批QDLP试点申请将于6月18日截止】自《海南省开展合格境内有限合伙人（QDLP）境外投资试点工作暂行办法》今年4月印发以来，该局便开始受理海南省首批QDLP试点申请，首批试点申请将于6月18日17时30分截止，有意向的企业可提交材料进行申请。《QDLP暂行办法》的出台，是海南自贸港又一金融创新举动的落地，意味着海南省试点跨境投资双向高速公路正式通车，对投资者来说是一个全新的机遇。（海南日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5384252.d.html</link>
-            <guid>2192108</guid>
-            <pubDate>Sat, 29 May 2021 08:27:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【河南8500多万亩小麦将迎来大规模机收】连日来，作为冬小麦主产区，河南各地陆续进入小麦收获期。从河南省农业农村厅获悉，预计5月30日起，河南8500多万亩小麦将迎来大规模机收。据悉，今年，河南全省小麦种植面积继续稳定在8510万亩以上，较上年略增，一、二类苗比例超过90%，丰收基础较好。其中，优质专用小麦发展到1533万亩，较上年增加183万亩。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5384055.d.html</link>
-            <guid>2192106</guid>
-            <pubDate>Sat, 29 May 2021 08:25:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据韩联社：韩国今日成立了一个总统委员会，该委员会将成为推动实现碳中和的管理中心。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8245632.d.html</link>
-            <guid>2192104</guid>
-            <pubDate>Sat, 29 May 2021 08:19:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
