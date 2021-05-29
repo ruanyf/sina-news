@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 29 May 2021 11:49:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 May 2021 13:06:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【远兴能源：目前公司纯碱、尿素等出厂价相比上月有所上涨】远兴能源(000683)在互动平台表示，目前公司纯碱、尿素、小苏打、煤炭、甲醇出厂价相比上月有所上涨。公司主要生产装置运行正常。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8272235.d.html</link>
+            <guid>2192172</guid>
+            <pubDate>Sat, 29 May 2021 12:48:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深化土地出让改革，海南三亚首宗“先租后让”土地挂牌】5月28日，三亚市自然资源和规划局发布2021年第16号土地出让公告，将采取“先租后让”方式供应位于凤凰海岸单元南边海片区控规NBH02-01-07地块——“先租后让”的租赁年限为5年，后续出让年期为35年；挂牌出让起始价为56462万元。据悉，这是三亚首宗“先租后让”地块，标志着三亚市土地市场改革创新迈出了重要的步伐。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8271321.d.html</link>
+            <guid>2192171</guid>
+            <pubDate>Sat, 29 May 2021 12:38:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿里云全面兼容多种芯片结构】5月28日，阿里云宣布云计算操作系统飞天全面兼容多种芯片架构，实现芯片硬件的多样化。据了解，过去企业多以芯片为中心建设IT生态，云计算的出现改变了这一模式。通过云操作系统的优化，无论底层芯片是X86、ARM、RISC-V还是硬件加速，可将服务器芯片、专用芯片等硬件封装成标准形态的算力。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5405333.d.html</link>
+            <guid>2192162</guid>
+            <pubDate>Sat, 29 May 2021 12:00:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[埃及法院宣布苏伊士运河管理局诉长赐号船东一案休庭至6月20日，为谈判留出时间。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5404185.d.html</link>
@@ -283,24 +301,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8219312.d.html</link>
             <guid>2192047</guid>
             <pubDate>Sat, 29 May 2021 05:02:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“十三五”时期国开行累计向西部地区发放贷款3.8万亿元】国家开发银行行长欧阳卫民29日在西安举行的中国金融四十人曲江论坛上透露，“十三五”时期该行累计向西部地区发放贷款3.8万亿元，截至2020年末，贷款余额3.7万亿元，占全行贷款余额的31%。他提到，国开行将围绕增强内生增长动力，加大对西部地区关键核心技术攻关、科技创新研发的投融资支持力度，推动加快培育战略性新兴产业和先进制造业，促进现代服务业和现代农业融合发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5354104.d.html</link>
-            <guid>2192045</guid>
-            <pubDate>Sat, 29 May 2021 04:46:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白俄罗斯国家航空公司取消飞往匈牙利、塞尔维亚等国多个航班】白俄罗斯国家航空公司28日发布公告称，由于欧盟和乌克兰的禁飞令，白俄罗斯国家航空公司不得不取消从5月29日至6月30日飞往塞浦路斯拉纳卡、塞尔维亚贝尔格莱德、匈牙利布达佩斯和摩尔多瓦基希讷乌的航班。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8214800.d.html</link>
-            <guid>2192043</guid>
-            <pubDate>Sat, 29 May 2021 04:37:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[越南卫生部部长：越南本土发现来自印度与英国的混合变种毒株，该毒株可经过空气迅速传播。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5348711.d.html</link>
-            <guid>2192036</guid>
-            <pubDate>Sat, 29 May 2021 04:16:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
