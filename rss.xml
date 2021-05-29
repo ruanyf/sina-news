@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 29 May 2021 14:42:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 May 2021 15:39:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[沈阳卫健委：从2021年5月29日23时起，将和平区文艺路艺园小区调整为低风险区，其他地区风险等级不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5422964.d.html</link>
+            <guid>2192197</guid>
+            <pubDate>Sat, 29 May 2021 15:27:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印尼释放曾于今年1月24日扣押的伊朗油轮。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5420415.d.html</link>
+            <guid>2192194</guid>
+            <pubDate>Sat, 29 May 2021 14:51:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【神舟十二号载人飞船计划6月升空，3名航天员将“入住”天和核心舱】 神舟十二号载人飞船计划6月份升空。3名航天员将在轨驻留3个月，开展舱外维修维护、设备更换、科学应用载荷等操作。杨利伟说16名航天员正全程训练做备份：“其中也包括我。一旦有需要，具备飞行能力的航天员就能顶上去。”（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8282264.d.html</link>
@@ -294,23 +306,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8238834.d.html</link>
             <guid>2192083</guid>
             <pubDate>Sat, 29 May 2021 07:19:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2021中外知名企业四川行集中签约 总投资6475.57亿元】5月29日，2021中外知名企业四川行投资推介会暨项目合作协议签署仪式在成都举行。本次活动四川与国内外投资者签约项目647个、签约总额6475.57亿元。本次活动共吸引700余家境内外知名企业、商协会和机构近千名嘉宾。活动现场，四川选取了26个具有代表性的项目集中签约，投资总额1244亿元，涉及电子信息、装备制造、新材料、新能源、养老健康、文体旅游等多个领域。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8235745.d.html</link>
-            <guid>2192074</guid>
-            <pubDate>Sat, 29 May 2021 06:52:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【万物新生（爱回收）递交赴美上市招股书】5月29日，中国最大的二手消费电子产品交易和服务平台万物新生集团（爱回收）正式向美国证券交易委员会（SEC）递交IPO招股书，拟于纽交所上市，股票代码为RERE。此次IPO承销商为高盛、美银证券、华兴资本、国泰君安（国际）、中信证券、老虎证券。（中证网）]]></title>
-            <guid>2192070</guid>
-            <pubDate>Sat, 29 May 2021 06:33:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白鹤滩水电站大坝表孔具备过流条件 预计7月前发电】世界在建规模最大的水电站——白鹤滩水电站，大坝最后一仓溢流面混凝土今天（29日）浇筑完成，这标志着大坝表孔已具备过流条件。白鹤滩水电站位于云南巧家县和四川宁南县交界处的金沙江干流之上，总装机容量1600万千瓦。预计今年7月1日前首批机组发电，2022年7月实现全部机组发电。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5369437.d.html</link>
-            <guid>2192068</guid>
-            <pubDate>Sat, 29 May 2021 06:23:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
