@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 30 May 2021 17:28:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 May 2021 19:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[以色列右翼政客纳夫塔利·本内特（Naftali Bennett）宣布加入反内塔尼亚胡阵营，反对党接近就组建联合政府达成协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-31/detail-ikmyaawc8452194.d.html</link>
+            <guid>2192531</guid>
+            <pubDate>Sun, 30 May 2021 17:55:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[埃及内阁：将于6月1日起解除部分抗疫限制措施。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-31/detail-ikmxzfmm5588317.d.html</link>
@@ -252,36 +258,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-30/detail-ikmyaawc8416822.d.html</link>
             <guid>2192431</guid>
             <pubDate>Sun, 30 May 2021 10:56:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上交所向上海电气下发监管函，督促公司妥善处置风险事项、合规履行信披义务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-30/detail-ikmyaawc8414367.d.html</link>
-            <guid>2192425</guid>
-            <pubDate>Sun, 30 May 2021 10:29:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马来西亚方面称，允许部分生产制造行业在全面封锁期间继续运营，包括电气和电子、石油和天然气(包括石化和石化产品)以及化学产品等。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-30/detail-ikmxzfmm5549952.d.html</link>
-            <guid>2192419</guid>
-            <pubDate>Sun, 30 May 2021 10:07:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【川金诺：控股股东及部分股东减持股份的价格为不低于16元/股】川金诺(300505)5月30日晚间披露控股股东及部分股东减持股份预披露的修正公告，更正后的减持价格为不低于16元/股，更正前为：根据减持时的市场价格确定。根据公司5月28日披露的减持公告，公司控股股东及部分股东拟合计减持不超过公司总股本1.9766%的股份。公司最新股价报13.92元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-30/detail-ikmxzfmm5548307.d.html</link>
-            <guid>2192414</guid>
-            <pubDate>Sun, 30 May 2021 09:52:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【白鹤滩水电站首批机组正式进入有水调试阶段】在白鹤滩水电站大坝即将全线浇筑到顶的同时，左右岸地下电站的四台百万千瓦发电机组也正式进入有水调试阶段。这也标志着白鹤滩水电站首批机组投产发电进入倒计时。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-30/detail-ikmxzfmm5547425.d.html</link>
-            <guid>2192412</guid>
-            <pubDate>Sun, 30 May 2021 09:44:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【惠伦晶体：股东拟减持公司不超0.38%股份】惠伦晶体(300460)5月30日晚间公告，股东陈俊岭计划以大宗交易方式或者集中竞价方式减持不超过公司股份105万股，占公司总股本比例0.3804%。公司发起人股东香港通盈投资有限公司与发起人股东广东通盈创业投资有限公司为一致行动人；陈俊岭为广东通盈创业投资有限公司的主要股东、执行董事。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-30/detail-ikmyaawc8409361.d.html</link>
-            <guid>2192411</guid>
-            <pubDate>Sun, 30 May 2021 09:42:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
