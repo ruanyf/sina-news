@@ -6,6 +6,117 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 2199004,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9186080.d.html",
+            "title": "【华尔街银行限制对冲基金做空MEME股票】华尔街的顶级经纪商正在悄悄地收紧针对谁可以做空散户最热门的MEME股票的规定。知情人士表示，目前包括美国银行、花旗集团和杰富瑞金融集团在内的机构已经调整了经纪业务的风险控制。银行正试图保护自己免受股市极端涨跌的影响，例如AMC院线和游戏驿站近期的大幅波动。上述知情人士表示，这些变化意味着一些对冲基金和其他机构投资者现在面临更高的抵押品要求，或被限制做空某些股票。杰富瑞高级经纪服务公司在给客户的备忘录中表示，在得到进一步通知之前，将不再对游戏驿站、AMC院线和MicroVision的无担保期权提供托管。",
+            "date_modified": "2021-06-04T19:49:51.000Z"
+        },
+        {
+            "id": 2199003,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9185710.d.html",
+            "title": "美国商品期货交易委员会（CFTC） 数据显示，投机者最近一周将美元净空头押注削减至173.8亿美元。",
+            "date_modified": "2021-06-04T19:41:06.000Z"
+        },
+        {
+            "id": 2199002,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9185699.d.html",
+            "title": "美国商品期货交易委员会（CFTC）：至6月1日当周，美国投机者将标普500指数CME净空头持仓增加1086手至22777手，股票基金经理将标普500指数CME净多头持仓增加2693手至172162手。",
+            "date_modified": "2021-06-04T19:40:57.000Z"
+        },
+        {
+            "id": 2199001,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9185533.d.html",
+            "title": "美国商品期货交易委员会(CFTC)：截至6月1日当周，投机者将CBOT美国2年期国债期货净空头持仓减少58816手至83061手，美国5年期国债期货净空头持仓增加6987手至122702手，美国10年期国债期货净多头持仓减少49554手至54844手，超长期国债期货净空头持仓增加8597手至258231手。",
+            "date_modified": "2021-06-04T19:36:46.000Z"
+        },
+        {
+            "id": 2199000,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9185447.d.html",
+            "title": "美国商品期货交易委员会（CFTC）：截至6月1日当周，WTI原油期货投机性净多头头寸增加21101手至396527手。",
+            "date_modified": "2021-06-04T19:34:15.000Z"
+        },
+        {
+            "id": 2198999,
+            "content_html": "",
+            "title": "市场消息：伊朗胡泽斯坦省Shahid Tondgooyan石化公司（STPC）发生火灾。",
+            "date_modified": "2021-06-04T19:33:53.000Z"
+        },
+        {
+            "id": 2198998,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7785702.d.html",
+            "title": "美国商品期货交易委员会（CFTC）：截至6月1日当周，COMEX铜期货投机性净多头头寸减少6316手至27615手。",
+            "date_modified": "2021-06-04T19:33:39.000Z"
+        },
+        {
+            "id": 2198997,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7785697.d.html",
+            "title": "美国商品期货交易委员会（CFTC）：截至6月1日当周，COMEX白银期货投机性净多头头寸减少2766手至42529手。",
+            "date_modified": "2021-06-04T19:33:27.000Z"
+        },
+        {
+            "id": 2198996,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9185352.d.html",
+            "title": "美国商品期货交易委员会（CFTC）：截至6月1日当周，COMEX黄金期货投机性净多头头寸增加2944手至129846手。",
+            "date_modified": "2021-06-04T19:32:26.000Z"
+        },
+        {
+            "id": 2198989,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7784257.d.html",
+            "title": "俄罗斯经济部长Reshetnikov：俄罗斯4月份GDP年化增长率为10.7%。",
+            "date_modified": "2021-06-04T18:55:58.000Z"
+        },
+        {
+            "id": 2198987,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7783946.d.html",
+            "title": "【美国人力物力严重短缺 恐令拜登的基建计划落得一场空】美国总统拜登提出的以数十年来规模最大的基建计划，为美国经济注入活力的愿景，所面临的最大威胁可能不是获得国会通过的坎坷前路，而是工人、水泥厂等各种人力物力资源都严重短缺的局面。虽然立法需要经过数周或数月的谈判，但两党均一致支持在未来几年向基础设施投入数千亿美元的新支出。然而，经济学家和业内人士却表示，有赖其修路搭桥、铺设水管、组装火车的公司，却尚未计划满足这些需求。这些公司面临着钢铁、水泥、劳动力供应等各类资源迫切短缺的窘境。",
+            "date_modified": "2021-06-04T18:48:12.000Z"
+        },
+        {
+            "id": 2198984,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9182658.d.html",
+            "title": "  白宫新闻秘书珍·普萨基：基础设施谈判还剩下一部分，将继续保持沟通顺畅。",
+            "date_modified": "2021-06-04T18:25:40.000Z"
+        },
+        {
+            "id": 2198983,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9182645.d.html",
+            "title": "  白宫新闻秘书珍·普萨基：总统拜登认为勒索软件成为日益严重的国家安全问题。",
+            "date_modified": "2021-06-04T18:25:31.000Z"
+        },
+        {
+            "id": 2198982,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7782835.d.html",
+            "title": "  白宫新闻秘书珍·普萨基：拜登仍然认为全球最低企业税可能提高。",
+            "date_modified": "2021-06-04T18:21:43.000Z"
+        },
+        {
+            "id": 2198980,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7782629.d.html",
+            "title": "白宫新闻秘书珍·普萨基：总统拜登不会解雇国家过敏症和传染病研究所所长福奇。",
+            "date_modified": "2021-06-04T18:17:19.000Z"
+        },
+        {
+            "id": 2198976,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9181679.d.html",
+            "title": "  白宫：（当地时间）今天下午将提供有关基础设施谈判的情况报告。",
+            "date_modified": "2021-06-04T18:04:22.000Z"
+        },
+        {
             "id": 2198974,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7781699.d.html",
@@ -111,6 +222,13 @@
             "date_modified": "2021-06-04T16:24:35.000Z"
         },
         {
+            "id": 2198942,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7775431.d.html",
+            "title": "【外交部：王毅同俄罗斯外长拉夫罗夫通电话】2021年6月4日，国务委员兼外长王毅在贵阳同俄罗斯外长拉夫罗夫通电话。王毅表示，元首引领是中俄关系行稳致远、永葆活力的根本保障。中俄新时代全面战略协作伙伴关系是全方位的，中俄新时代全面战略协作伙伴关系也是全天候的。双方还就共同关心的一系列国际和地区问题深入交换意见，协调立场，达成广泛共识。",
+            "date_modified": "2021-06-04T16:23:46.000Z"
+        },
+        {
             "id": 2198940,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7774908.d.html",
@@ -123,6 +241,13 @@
             "url": "https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7774421.d.html",
             "title": "  T-Mobile US(TMUS.O)技术主管：我们有最大的网络，11万个蜂窝基站。",
             "date_modified": "2021-06-04T16:10:26.000Z"
+        },
+        {
+            "id": 2198937,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7774310.d.html",
+            "title": "美国国务卿布林肯：美国方面将向阿富汗提供2.66亿美元的额外援助。",
+            "date_modified": "2021-06-04T16:08:54.000Z"
         },
         {
             "id": 2198935,
@@ -235,110 +360,6 @@
             "url": "https://finance.sina.cn/7x24/2021-06-04/detail-ikqciyzi7769476.d.html",
             "title": "据Electrek：特斯拉已正式申请在柏林超级工厂生产电池，预计将成为首批生产新型4680电池的工厂之一。",
             "date_modified": "2021-06-04T15:01:37.000Z"
-        },
-        {
-            "id": 2198900,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-04/detail-ikqcfnaz9168675.d.html",
-            "title": "【田湾核电站6号机组此前触发停堆，界定为0级事件无环境污染】6月3日，国家核安全局官网公布一则事件报告称，田湾核电站6号机组汽轮机高压调阀异常开启，导致蒸汽发生器高高液位叠加核功率大于10%FP，触发机组停机停堆运行。营运单位排查发现，故障高压调阀的比例阀阀位反馈航空插头内部2根导线绝缘层破损，导线接触引发阀位反馈信号失真，导致高压调阀异常开启。营运单位已更换故障部件，并按计划开展后续工作。事件过程中，反应堆保护系统响应正常，三道安全屏障保持完整，未产生放射性后果、无人员照射、无环境污染。（澎湃）",
-            "date_modified": "2021-06-04T14:57:40.000Z"
-        },
-        {
-            "id": 2198894,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-04/detail-ikqcfnaz9168319.d.html",
-            "title": "美国5月非农报告显示，失业少于5周的人数减少了391000人至200万人，长期失业人数（失业27周或以上）减少431000人至380万人，但仍较2020年2月高出260万人，这些长期失业人员占5月份失业总人数的40.9%。工资方面，5月份平均时薪从0.4%的增幅上升至2.0%，超出预期的1.6%。",
-            "date_modified": "2021-06-04T14:53:07.000Z"
-        },
-        {
-            "id": 2198893,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-04/detail-ikqcfnaz9168283.d.html",
-            "title": "美国共和党众议员Brady批评拜登有关设定15%最低企业税率的想法。",
-            "date_modified": "2021-06-04T14:52:37.000Z"
-        },
-        {
-            "id": 2198892,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-04/detail-ikqcfnaz9168261.d.html",
-            "title": "美国共和党众议员Brady：拜登政府的税收方案将扭转特朗普的减税政策。",
-            "date_modified": "2021-06-04T14:52:24.000Z"
-        },
-        {
-            "id": 2198891,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-04/detail-ikqcfnaz9168224.d.html",
-            "title": "标准普尔500信息技术指数触及1个月高位，现上涨1.6%。",
-            "date_modified": "2021-06-04T14:52:11.000Z"
-        },
-        {
-            "id": 2198890,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-04/detail-ikqcfnaz9168211.d.html",
-            "title": "美国总统拜登：对美国国家过敏症和传染病研究所所长福奇很有信心。",
-            "date_modified": "2021-06-04T14:52:03.000Z"
-        },
-        {
-            "id": 2198889,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-04/detail-ikqcfnaz9167834.d.html",
-            "title": "美国总统拜登：美国经济复苏的道路上将会遇到坎坷。",
-            "date_modified": "2021-06-04T14:47:57.000Z"
-        },
-        {
-            "id": 2198888,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-04/detail-ikqciyzi7768280.d.html",
-            "title": "美国总统拜登：美国政府将在未来几周就供应链问题采取措施。",
-            "date_modified": "2021-06-04T14:47:30.000Z"
-        },
-        {
-            "id": 2198887,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-04/detail-ikqciyzi7768220.d.html",
-            "title": "美国4月工厂订单环比下降0.6%，为2020年4月以来首次下降。与此同时，通胀意外指数与工业部门意外指数走势差距进一步拉大，滞胀信号飙升。",
-            "date_modified": "2021-06-04T14:46:52.000Z"
-        },
-        {
-            "id": 2198883,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-04/detail-ikqciyzi7767781.d.html",
-            "title": "【百济神州公布PD-1最新进展，系首个食管鳞癌全球三期数据】据百济神州官方微信公众号消息，6月4日，该公司在今年全球肿瘤界的年度盛会——美国临床肿瘤学会（ASCO）年会公布了PD-1抗肿瘤药替雷利珠单抗（商品名：百泽安）的最新临床试验结果与最新进展，其中包括来自RATIONALE 302研究的数据。RATIONALE 302研究是消化道肿瘤领域首个由中国研究者担任Leading PI（主要研究者）的全球3期研究，也是首个食管鳞癌全球3期研究。",
-            "date_modified": "2021-06-04T14:41:47.000Z"
-        },
-        {
-            "id": 2198881,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-04/detail-ikqciyzi7767719.d.html",
-            "title": "【茅台集团：年处理酿酒废弃物70万吨项目启动】据贵州茅台官微消息，6月3日，茅台集团习水循环园酿酒废弃物资源化利用项目启动仪式在习水县经开区举行。项目占地面积837.18亩，设计产能为年处理酿酒废弃物70万吨。据介绍，项目建成后，通过对酒糟、窖泥、稻草的多层级利用和多路径循环，进而生产有机肥和发酵饲料，在实现酿造资源循环利用的同时，将直接助力全省牛羊产业。",
-            "date_modified": "2021-06-04T14:41:21.000Z"
-        },
-        {
-            "id": 2198878,
-            "content_html": "",
-            "title": "  荔枝涨5%，盘初一度涨超10%；该公司与中国新能源汽车企业理想汽车达成车载音频方向合作，相关车载音频产品将在今年第三季度上线理想汽车车载系统。",
-            "date_modified": "2021-06-04T14:38:03.000Z"
-        },
-        {
-            "id": 2198877,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-04/detail-ikqciyzi7767301.d.html",
-            "title": "市场消息：俄罗斯6月离线炼油产能将比此前计划的增加12.6%，增至356万吨。",
-            "date_modified": "2021-06-04T14:37:13.000Z"
-        },
-        {
-            "id": 2198876,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-04/detail-ikqciyzi7767274.d.html",
-            "title": "市场消息：俄罗斯7月离线炼油产能将比6月下降19.5%，降至286.6万吨。",
-            "date_modified": "2021-06-04T14:36:56.000Z"
-        },
-        {
-            "id": 2198872,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-06-04/detail-ikqcfnaz9166029.d.html",
-            "title": "俄罗斯副总理诺瓦克：距离北溪2号第二条线路的完工还差不到100公里。",
-            "date_modified": "2021-06-04T14:29:42.000Z"
         }
     ]
 }
