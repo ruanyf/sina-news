@@ -4,11 +4,44 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 05 Jun 2021 19:07:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Jun 2021 20:37:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  法国总统马克龙重申完全支持伊拉克总理卡迪米。]]></title>
+            <guid>2199372</guid>
+            <pubDate>Sat, 05 Jun 2021 20:10:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国医疗用品公司梅得朗（Medline）已签署最终协议，将接受黑石集团、凯雷投资集团、私募股权公司Hellman & Friedman的投资。交易完成后，梅得朗仍将是私人控股的家族主导公司，米尔斯家族仍将是最大的单一股东。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi7943656.d.html</link>
+            <guid>2199369</guid>
+            <pubDate>Sat, 05 Jun 2021 19:50:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国务院：美国特别代表扎勒迈·哈利勒扎德将前往卡塔尔和阿富汗讨论阿富汗和平进程。]]></title>
+            <guid>2199368</guid>
+            <pubDate>Sat, 05 Jun 2021 19:45:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士：包括黑石集团的企业集团接近达成协议，计划以超300亿美元收购美国大型医疗用品公司梅得朗 （Medline）。]]></title>
+            <guid>2199367</guid>
+            <pubDate>Sat, 05 Jun 2021 19:35:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：也门马里卜市加油站附近发生爆炸，造成至少12人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi7942876.d.html</link>
+            <guid>2199366</guid>
+            <pubDate>Sat, 05 Jun 2021 19:26:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[缅甸国防军与反对派支持者发生冲突，至少3人死亡。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqcfnaz9342219.d.html</link>
+            <guid>2199365</guid>
+            <pubDate>Sat, 05 Jun 2021 19:17:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国国务院：美国特别代表扎勒迈·哈利勒扎德将前往卡塔尔和阿富汗讨论阿富汗和平进程。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi7941987.d.html</link>
@@ -286,17 +319,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7909458.d.html</link>
             <guid>2199268</guid>
             <pubDate>Sat, 05 Jun 2021 11:52:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【奥妥珠单抗获国家药监局正式批准】日前，中国国家药品监督管理局网站显示：首个经糖基化工程结构改造的人源化II型抗CD20单抗佳罗华®（奥妥珠单抗）获得中国国家药品监督管理局正式批准。“一线治疗是制定整体治疗策略及提高患者整体生存获益的重要基础。”哈尔滨血液病肿瘤研究所所长、教授马军说，“目前，奥妥珠单抗已被纳入包括CSCO和NCCN指南在内全球多个权威指南的一线推荐。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9308331.d.html</link>
-            <guid>2199263</guid>
-            <pubDate>Sat, 05 Jun 2021 11:43:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[多名日本政府消息人士透露，关于韩国总统文在寅将作为嘉宾出席的七国集团（G7）峰会，日本政府基本决定不事先安排举行日韩首脑会谈。（日本共同网）]]></title>
-            <guid>2199257</guid>
-            <pubDate>Sat, 05 Jun 2021 11:27:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
