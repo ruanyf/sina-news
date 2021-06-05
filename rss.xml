@@ -4,11 +4,45 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 05 Jun 2021 17:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Jun 2021 19:07:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国国务院：美国特别代表扎勒迈·哈利勒扎德将前往卡塔尔和阿富汗讨论阿富汗和平进程。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi7941987.d.html</link>
+            <guid>2199364</guid>
+            <pubDate>Sat, 05 Jun 2021 19:03:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥一矿井发生塌方事故，被困7人中1人确认死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqcfnaz9341461.d.html</link>
+            <guid>2199363</guid>
+            <pubDate>Sat, 05 Jun 2021 18:59:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国总统马克龙重申完全支持伊拉克总理卡迪米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi7940976.d.html</link>
+            <guid>2199361</guid>
+            <pubDate>Sat, 05 Jun 2021 18:38:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士：收购协议可能在本周末敲定，梅得朗（Medline）收购案有望成为金融危机以来规模最大的收购案之一。]]></title>
+            <guid>2199360</guid>
+            <pubDate>Sat, 05 Jun 2021 18:25:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：包括黑石集团的企业集团接近达成协议，计划以超300亿美元收购美国大型医疗用品公司梅得朗（Medline）。]]></title>
+            <guid>2199359</guid>
+            <pubDate>Sat, 05 Jun 2021 18:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质勘探局：美国加州卡利帕特里亚西北偏西8公里处发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi7939209.d.html</link>
+            <guid>2199357</guid>
+            <pubDate>Sat, 05 Jun 2021 17:58:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[白俄罗斯总理：如果制裁进一步扩大，白俄罗斯将远离西方的商品和技术。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi7935982.d.html</link>
@@ -96,6 +130,12 @@
             <title><![CDATA[经合组织新任秘书长Cormann：G7集团达成的税收共识是“里程碑式的一步”。要达成全球协议还有很多工作要做。]]></title>
             <guid>2199315</guid>
             <pubDate>Sat, 05 Jun 2021 14:41:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【王勇在江西福建调研检查防汛度汛工作】国务委员、国家防总总指挥王勇近日在江西、福建调研检查防汛度汛工作。他指出，当前正值主汛期，各地强降雨和局地极端天气频繁，防汛形势日趋严峻，务必采取更加有力举措，毫不松懈做好防汛减灾和抢险救灾各项工作，全力确保安全度汛。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9325114.d.html</link>
+            <guid>2199313</guid>
+            <pubDate>Sat, 05 Jun 2021 14:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[  【两部门联合调研小麦市场情况】近日，国家发展改革委、市场监管总局派出联合调研组，赴河南省小麦主产市县开展实地调研，了解小麦收购和粮食市场情况。调研组重点调研了部分粮食贸易企业和加工企业，详细了解小麦收购数量和价格、企业仓容和库存、收购资金来源等情况，分析研判后期市场形势和价格走势。下一步，国家发展改革委、市场监管总局将会同相关部门，继续密切关注粮食市场动态，坚决打击囤积居奇、哄抬价格、捏造散布涨价信息等行为，维护粮食市场秩序和价格稳定。]]></title>
@@ -257,36 +297,6 @@
             <title><![CDATA[多名日本政府消息人士透露，关于韩国总统文在寅将作为嘉宾出席的七国集团（G7）峰会，日本政府基本决定不事先安排举行日韩首脑会谈。（日本共同网）]]></title>
             <guid>2199257</guid>
             <pubDate>Sat, 05 Jun 2021 11:27:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普京发出警告：美国可能后悔使用美元作为制裁武器】俄罗斯总统普京表示，俄罗斯不想停止使用美元，他指责美国利用美元的主导地位进行制裁，并警告称华盛顿可能自食其果。普京周五晚在圣彼得堡与国际媒体组织代表举行的视频会议上表示，俄罗斯必须采用其他支付方式，因为美国“使用本国货币进行各种制裁”。“我们不是故意这样做，而是被迫而为之。”普京表示，与其他国家在国防销售等领域以各国货币结算以及减少以美元持有的外汇储备，最终将损害美国，因为美元的主导地位将下降。“美国政治当局为什么要这样做？他们正在自掘坟墓”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9306336.d.html</link>
-            <guid>2199253</guid>
-            <pubDate>Sat, 05 Jun 2021 11:22:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州南沙区为何管控？省疾控回应：排查出一位初筛阳性的病例，需要先暂时封闭管控】记者致电广东省疾控中心，工作人员称，“这个不是病例多不多的问题。现在南沙区排查出来一位核酸检测初筛为阳性的病例，因为还是初步检测为阳性，还需要再做第二次核酸检测，在确定其是确诊病例前，需要先暂时封闭管控。此外，还在追踪这个人到底去过哪里，密切接触者有谁，这些都必须要搞清楚。这个涉及到广州市的每个区的安全。”“为了广州全市人民的安全，需要暂时先对南沙区封闭管控，进行核酸排查。”（健康时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7906589.d.html</link>
-            <guid>2199252</guid>
-            <pubDate>Sat, 05 Jun 2021 11:21:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[布基纳法索政府称，武装袭击者在布基纳法索北部村庄杀害了约100名平民。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7906023.d.html</link>
-            <guid>2199251</guid>
-            <pubDate>Sat, 05 Jun 2021 11:15:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣苏纳克：税收协议将为所有公司创造公平的竞争环境。一旦有了一个全球性的解决方案，对国家数字服务税的需求就会减少。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9304899.d.html</link>
-            <guid>2199249</guid>
-            <pubDate>Sat, 05 Jun 2021 11:06:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣苏纳克：这只是第一步，需要在20国集团取得更多进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7904984.d.html</link>
-            <guid>2199248</guid>
-            <pubDate>Sat, 05 Jun 2021 11:04:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
