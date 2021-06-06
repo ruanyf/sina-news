@@ -1,0 +1,14 @@
+name: Vercel-cron
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '*/30 * * * *'
+jobs:
+  cron:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call Vercel deploy webhook
+        run: |
+          curl -X POST ${{ secrets.VERCEL_HOOKS }}
