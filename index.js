@@ -96,8 +96,13 @@ async function main() {
     });
     console.log(`successfully generating new feed.`);
 
-    await fs.rmdir('./dist', { recursive: true });
-    console.log(`successfully deleted ./dist`);
+    try {
+      await fs.access('./dist', fs.constants.R_OK | fs.constants.W_OK);
+      await fs.rm('./dist', { recursive: true });
+      console.log(`successfully deleted ./dist`);
+    } catch {
+      // ...
+    }
 
     await fs.mkdir('./dist');
     console.log(`successfully create ./dist`);
